@@ -1,0 +1,81 @@
+---
+import Base from '../../layouts/Base.astro';
+import TextCard from '../../components/TextCard.astro';
+import { getCollection } from 'astro:content';
+import {
+  CATEGORY_LABELS,
+  CATEGORY_ORDER,
+  ENTRY_ROLE_ORDER,
+} from '../../lib/categories';
+
+const all = await getCollection('textes', ({ data }) => !data.draft);
+
+// Trois textes d'entrée, triés par rôle (reconnaissance, déplacement, mécanisme).
+const entries = all
+  .filter((t) => t.data.entry)
+  .sort(
+    (a, b) =>
+      ENTRY_ROLE_ORDER.indexOf(a.data.entryRole ?? 'reconnaissance') -
+      ENTRY_ROLE_ORDER.indexOf(b.data.entryRole ?? 'reconnaissance')
+  );
+
+// Les autres textes, regroupés par catégorie (les textes d'entrée ne sont
+// pas répétés ici, ils figurent déjà dans « Trois textes pour entrer »).
+const byCategory = CATEGORY_ORDER.map((cat) => ({
+  category: cat,
+  label: CATEGORY_LABELS[cat],
+  items: all
+    .filter((t) => t.data.category === cat && !t.data.entry)
+    .sort((a, b) => a.data.order - b.data.order),
+})).filter((g) => g.items.length > 0);
+---
+
+<Base
+  title="Textes"
+  description="Fragments sur l’amour, le désir, la peur, le corps et les endroits où l’on se perd."
+>
+  <section class="lecture">
+    <h1>Textes</h1>
+    <p class="lede">
+      Fragments sur l’amour, le désir, la peur, le corps et les endroits où
+      l’on se perd.
+    </p>
+  </section>
+
+  {
+    entries.length > 0 && (
+      <section class="lecture">
+        <h2>Trois textes pour entrer</h2>
+        <div class="text-list">
+          {entries.map((t) => (
+            <TextCard
+              title={t.data.title}
+              excerpt={t.data.excerpt}
+              slug={t.id}
+              featured={true}
+            />
+          ))}
+        </div>
+      </section>
+    )
+  }
+
+  <section class="lecture">
+    {
+      byCategory.map((group) => (
+        <div class="cat-group">
+          <h2>{group.label}</h2>
+          <div class="text-list">
+            {group.items.map((t) => (
+              <TextCard
+                title={t.data.title}
+                excerpt={t.data.excerpt}
+                slug={t.id}
+              />
+            ))}
+          </div>
+        </div>
+      ))
+    }
+  </section>
+</Base>

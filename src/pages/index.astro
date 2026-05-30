@@ -1,0 +1,54 @@
+---
+import Base from '../layouts/Base.astro';
+import Button from '../components/Button.astro';
+import { url } from '../lib/url';
+---
+
+<Base
+  description="Quand votre manière d’aimer vous éloigne de vous-même. Un accompagnement relationnel privé, qui part des textes."
+>
+  <section class="hero">
+    <h1>Aimer sans se quitter</h1>
+    <p class="hero-lede">
+      Quand votre manière d’aimer vous éloigne de vous-même.
+    </p>
+    <div class="btn-group">
+      <Button href="/textes" variant="principal">Commencer par un texte</Button>
+      <Button href="/accompagnement" variant="secondaire"
+        >Découvrir l’accompagnement</Button
+      >
+    </div>
+  </section>
+
+  <section class="lecture">
+    <p>
+      La rupture n’est pas le sujet. Elle est un révélateur : elle montre,
+      soudain et sans ménagement, l’endroit exact où vous cessez de vous
+      appartenir pour garder le lien.
+    </p>
+    <p>
+      Ce qui se passe ici ne cherche pas à réparer une histoire, mais à
+      regarder ce qu’elle rend visible dans votre manière d’aimer.
+    </p>
+  </section>
+
+  <section class="lecture">
+    <p>
+      Vous pouvez commencer par lire. Ou, si quelque chose est déjà clair pour
+      vous, demander une <a href={url('/conversation-exploratoire')}
+        >conversation exploratoire</a
+      >.
+    </p>
+  </section>
+
+  <section class="lecture">
+    <h2>Commencer ici</h2>
+    <ol class="steps">
+      <li><a href={url('/textes')}>Commencer par un texte</a></li>
+      <li><a href={url('/accompagnement')}>Comprendre l’accompagnement</a></li>
+      <li>
+        <a href={url('/conversation-exploratoire')}>Demander une conversation</a>
+      </li>
+    </ol>
+  </section>
+</Base>

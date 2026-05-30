@@ -1,0 +1,19 @@
+---
+import { url } from '../lib/url';
+
+const year = new Date().getFullYear();
+---
+
+<footer class="site-footer">
+  <div class="footer-inner">
+    <p class="footer-name">Aimer sans se quitter</p>
+    <nav class="footer-nav" aria-label="Navigation du pied de page">
+      <a href={url('/textes')}>Textes</a>
+      <a href={url('/a-propos')}>À propos</a>
+      <a href={url('/accompagnement')}>Accompagnement</a>
+      <a href={url('/conversation-exploratoire')}>Conversation exploratoire</a>
+      <a href={url('/mentions-legales')}>Mentions légales</a>
+    </nav>
+    <p class="footer-fine">© {year} — Tous droits réservés.</p>
+  </div>
+</footer>

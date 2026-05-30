@@ -1,0 +1,26 @@
+---
+import Base from '../../layouts/Base.astro';
+import Pont from '../../components/Pont.astro';
+import { getCollection, render } from 'astro:content';
+
+export async function getStaticPaths() {
+  const textes = await getCollection('textes', ({ data }) => !data.draft);
+  return textes.map((entry) => ({
+    params: { slug: entry.id },
+    props: { entry },
+  }));
+}
+
+const { entry } = Astro.props;
+const { Content } = await render(entry);
+---
+
+<Base title={entry.data.title} description={entry.data.excerpt}>
+  <article class="lecture">
+    <h1 class="article-title">{entry.data.title}</h1>
+    <div class="prose">
+      <Content />
+    </div>
+    <Pont />
+  </article>
+</Base>

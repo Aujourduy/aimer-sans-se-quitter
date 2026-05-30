@@ -1,0 +1,53 @@
+---
+import Base from '../layouts/Base.astro';
+import { url } from '../lib/url';
+---
+
+<Base
+  title="À propos"
+  description="Ma pratique consiste à voir, avec une femme, là où elle commence à se quitter dans la relation."
+>
+  <article class="lecture">
+    {/* Portrait — remplacer ce placeholder par une vraie photo (lumière
+        naturelle, sobre). Voir le README, section « Ajouter le portrait ». */}
+    <div class="portrait"><span>[ Portrait à remplacer ]</span></div>
+
+    <h1 class="article-title">
+      Ma pratique consiste à voir, avec une femme, là où elle commence à se
+      quitter dans la relation.<br /><br />Aimer sans se quitter soi-même.
+    </h1>
+
+    {/* [BROUILLON — bio à écrire] : texte de lancement, à affiner par l'auteur. */}
+    <div class="prose">
+      <p>
+        Je ne travaille pas avec des techniques de séduction ni des stratégies
+        pour garder quelqu’un. Je regarde un mouvement plus discret : celui par
+        lequel une femme, pour préserver un lien, commence doucement à se
+        quitter elle-même.
+      </p>
+      <p>
+        C’est souvent invisible de l’intérieur. On appelle ça aimer, s’adapter,
+        comprendre l’autre. Et c’est vrai. Mais il y a un seuil où comprendre
+        l’autre devient ne plus s’entendre soi-même — et c’est exactement là
+        que je travaille.
+      </p>
+      <p>
+        Mon chemin ne tient pas dans une liste de diplômes. Il tient dans des
+        années passées à observer, écrire et accompagner des femmes lucides,
+        capables de tout analyser de leur histoire, sauf ce qui se déclenche au
+        moment précis où elles aiment.
+      </p>
+      <p>
+        Ma manière de travailler est lente, concrète et sans complaisance.
+        Nous partons de situations réelles plutôt que de grands principes : un
+        message, un silence, une peur qui revient. Et nous regardons, ensemble,
+        le geste exact de l’éloignement.
+      </p>
+      <p>
+        Si cette manière de voir vous parle, le plus simple est encore de
+        commencer par <a href={url('/textes')}>lire quelques textes</a>. Ils
+        disent, mieux qu’une présentation, d’où je regarde.
+      </p>
+    </div>
+  </article>
+</Base>

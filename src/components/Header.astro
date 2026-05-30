@@ -1,0 +1,33 @@
+---
+import { url } from '../lib/url';
+
+const nav = [
+  { label: 'Accueil', href: '/' },
+  { label: 'Textes', href: '/textes' },
+  { label: 'À propos', href: '/a-propos' },
+  { label: 'Accompagnement', href: '/accompagnement' },
+  { label: 'Conversation exploratoire', href: '/conversation-exploratoire' },
+];
+
+// Chemin courant (sans le base) pour marquer le lien actif.
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+const current = Astro.url.pathname.replace(base, '').replace(/\/$/, '') || '/';
+---
+
+<header class="site-header">
+  <div class="header-inner">
+    <a class="wordmark" href={url('/')}>Aimer sans se quitter</a>
+    <nav aria-label="Navigation principale">
+      {
+        nav.map((item) => (
+          <a
+            href={url(item.href)}
+            aria-current={current === item.href ? 'page' : undefined}
+          >
+            {item.label}
+          </a>
+        ))
+      }
+    </nav>
+  </div>
+</header>

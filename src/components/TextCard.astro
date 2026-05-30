@@ -1,0 +1,20 @@
+---
+import { url } from '../lib/url';
+
+interface Props {
+  title: string;
+  excerpt: string;
+  slug: string;
+  featured?: boolean;
+}
+
+const { title, excerpt, slug, featured = false } = Astro.props;
+---
+
+<article class={`text-card ${featured ? 'text-card--featured' : ''}`}>
+  <a class="text-card-link" href={url(`/textes/${slug}`)}>
+    <h3 class="text-card-title">{title}</h3>
+    <p class="text-card-excerpt">{excerpt}</p>
+    <span class="text-card-more">Lire</span>
+  </a>
+</article>

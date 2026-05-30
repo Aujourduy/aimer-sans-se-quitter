@@ -1,0 +1,18 @@
+---
+import { url } from '../lib/url';
+
+interface Props {
+  href: string;
+  variant?: 'principal' | 'secondaire';
+  external?: boolean;
+}
+
+const { href, variant = 'principal', external = false } = Astro.props;
+const finalHref = external ? href : url(href);
+const rel = external ? 'noopener noreferrer' : undefined;
+const target = external ? '_blank' : undefined;
+---
+
+<a class={`btn btn-${variant}`} href={finalHref} rel={rel} target={target}>
+  <slot />
+</a>

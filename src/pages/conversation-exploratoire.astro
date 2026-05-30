@@ -1,0 +1,43 @@
+---
+import Base from '../layouts/Base.astro';
+import Button from '../components/Button.astro';
+
+// Lien de réservation Calendly. À remplacer par votre vraie URL.
+// (Les questions posées au moment de la réservation se configurent dans
+// Calendly — voir le README, section « Calendly ».)
+const CALENDLY_URL = 'https://calendly.com/REMPLACER';
+---
+
+<Base
+  title="Conversation exploratoire"
+  description="Une conversation pour sentir, ensemble, si ce travail est juste pour vous."
+>
+  <article class="lecture">
+    <div class="portrait portrait--petit"><span>[ Portrait ]</span></div>
+
+    <h1 class="article-title">La conversation exploratoire</h1>
+
+    <div class="prose">
+      <p>
+        Ce n’est pas un appel de vente. C’est un moment pour regarder, sans
+        engagement, ce qui vous amène — et sentir, de part et d’autre, si ce
+        travail est juste pour vous, maintenant.
+      </p>
+      <p>
+        On n’y cherche pas à vous convaincre. On y vérifie une chose simple :
+        est-ce le bon cadre, au bon moment.
+      </p>
+
+      <div class="btn-group">
+        <Button href={CALENDLY_URL} variant="principal" external={true}
+          >Réserver la conversation</Button
+        >
+      </div>
+
+      <p class="note">
+        Quelques questions vous seront posées au moment de la réservation, pour
+        que nous arrivions tous les deux préparés.
+      </p>
+    </div>
+  </article>
+</Base>
