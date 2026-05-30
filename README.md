@@ -4,6 +4,8 @@ Site d'auteur sobre construit avec [Astro](https://astro.build), contenu en
 markdown, sortie 100 % statique. L'auteur ajoute ses textes en déposant un
 fichier `.md` dans `src/content/textes/` — sans toucher à la mise en page.
 
+**Site en ligne :** https://aujourduy.github.io/aimer-sans-se-quitter/
+
 ## Développer en local
 
 ```bash
