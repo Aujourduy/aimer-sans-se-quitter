@@ -63,6 +63,43 @@ lance de la même manière.
 > vont toutes sur `main`, faites toujours `git pull` avant d'éditer, et évitez
 > de modifier le **même fichier** au même moment, pour ne pas créer de conflit.
 
+## Réglages rapides (variables CSS)
+
+Les principaux réglages visuels sont centralisés en **variables** dans le bloc
+`:root`, en haut de `src/styles/global.css`. Changer une variable se répercute
+partout où elle est utilisée — un seul endroit à modifier.
+
+| Variable | Rôle | Exemples de valeurs |
+| --- | --- | --- |
+| `--echelle-texte` | Taille du corps de texte (pas les titres) | `1` = normal · `1.2` = +20 % · `0.9` = −10 % |
+| `--creme` | Fond (jamais blanc pur) | `#F4EFE6` |
+| `--encre` | Couleur du texte | `#1F1B17` |
+| `--bleu` | Couleur signature (titres, boutons, filets) | `#1A2D4A` |
+| `--sepia` | Texte secondaire (sous-titres, légendes) | `#6B6258` |
+| `--filet` | Couleur des bordures fines | `#CFC3B4` |
+| `--filet-court-largeur` | Longueur des traits de séparation centrés | `30%` |
+| `--filet-court-epaisseur` | Épaisseur de ces traits | `1px` |
+| `--filet-court-couleur` | Couleur de ces traits | `var(--filet)` |
+| `--lecture` | Largeur de la colonne de texte | `680px` |
+
+### Régler la taille du texte
+
+Dans `:root` (`src/styles/global.css`) :
+
+```css
+--echelle-texte: 1.2;   /* 1 = normal · 1.2 = +20 % · 0.9 = -10 % */
+```
+
+Ce seul nombre ajuste le corps de texte **sur ordinateur et sur mobile** en même
+temps. Les titres (`h1`/`h2`/`h3`) gardent leur taille propre.
+
+### Traits de séparation (.separateur)
+
+Le trait court centré entre les cartes de textes — et la classe réutilisable
+`.separateur` (utilisable n'importe où via `<hr class="separateur" />`) — sont
+pilotés par les trois variables `--filet-court-*`. Les modifier change **tous**
+les traits d'un coup.
+
 ## Ajouter un texte
 
 Créez un fichier `.md` dans `src/content/textes/`. Le nom du fichier devient
