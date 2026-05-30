@@ -206,11 +206,21 @@ hr {
 
 /* Corps d'article / prose */
 .article-title { margin-bottom: 2.5rem; }
-.prose a { color: var(--bleu); text-underline-offset: 2px; }
+/* `:not(.btn)` : on ne reteinte pas les boutons, qui gardent leur couleur
+   propre (texte clair sur fond bleu pour le CTA principal). */
+.prose a:not(.btn) { color: var(--bleu); text-underline-offset: 2px; }
 .prose h2 { margin-top: 2.5rem; }
 .prose ul { padding-left: 1.2rem; }
 .prose li { margin-bottom: 0.5rem; }
 .prose blockquote { margin-left: 0; }
+
+/* Boutons : la couleur du texte prime, même à l'intérieur d'un bloc .prose. */
+.btn-principal,
+.prose a.btn-principal { color: var(--creme); }
+.btn-secondaire,
+.prose a.btn-secondaire { color: var(--bleu); }
+.btn-secondaire:hover,
+.prose a.btn-secondaire:hover { color: var(--creme); }
 
 /* Portrait (placeholder crème — à remplacer par une vraie photo) */
 .portrait {
