@@ -80,9 +80,17 @@
   #dbg-bubble .dbg-sel {
     display: block;
     color: #8ecbff;
-    margin-bottom: 6px;
+    margin-bottom: 4px;
     word-break: break-all;
   }
+  #dbg-bubble .dbg-classes {
+    display: block;
+    color: #b9f6c8;
+    margin-bottom: 6px;
+    word-break: break-all;
+    user-select: all;
+  }
+  #dbg-bubble .dbg-muted { color: #6b7280; }
   #dbg-bubble dl {
     display: grid;
     grid-template-columns: auto 1fr;
@@ -134,7 +142,6 @@
       ['interligne', 'line-height'],
       ['marge', 'margin'],
       ['padding', 'padding'],
-      ['bordure', 'border'],
     ];
 
     const isColor = (v) => /^(rgb|hsl|#)/.test(v);
@@ -157,20 +164,56 @@
       return selectorOf(el) + '  (bloc sans id)';
     };
 
+    const swatch = (c) => `<span class="dbg-swatch" style="background:${c}"></span>`;
+    const row = (label, value, color) =>
+      `<dt>${label}</dt><dd>${color ? swatch(color) : ''}${shorten(value)}</dd>`;
+
+    // Bordures : la forme courte « border » n'est calculée par le navigateur
+    // que si les 4 côtés sont identiques. On lit donc chaque côté pour toujours
+    // afficher ce qui existe (ex. une seule border-bottom).
+    const borderRows = (cs) => {
+      const sides = [['haut', 'top'], ['bas', 'bottom'], ['gauche', 'left'], ['droite', 'right']];
+      const present = sides
+        .map(([fr, en]) => ({
+          fr,
+          w: cs.getPropertyValue(`border-${en}-width`).trim(),
+          s: cs.getPropertyValue(`border-${en}-style`).trim(),
+          c: cs.getPropertyValue(`border-${en}-color`).trim(),
+        }))
+        .filter((b) => b.w !== '0px' && b.s !== 'none');
+      if (!present.length) return row('bordure', 'aucune');
+      const same =
+        present.length === 4 &&
+        present.every((b) => b.w === present[0].w && b.s === present[0].s && b.c === present[0].c);
+      if (same) {
+        const b = present[0];
+        return row('bordure', `${b.w} ${b.s} ${b.c}`, b.c);
+      }
+      return present.map((b) => row(`bord. ${b.fr}`, `${b.w} ${b.s} ${b.c}`, b.c)).join('');
+    };
+
     const describe = (el) => {
       const cs = getComputedStyle(el);
       let rows = '';
       for (const [label, prop] of PROPS) {
-        let v = cs.getPropertyValue(prop).trim();
-        if (!v || v === 'normal' && prop === 'line-height') continue;
-        // Bordure : inutile de l'afficher quand il n'y en a pas.
-        if (prop === 'border' && cs.borderTopWidth === '0px' && cs.borderBottomWidth === '0px' && cs.borderLeftWidth === '0px' && cs.borderRightWidth === '0px') continue;
-        const sw = isColor(v) ? `<span class="dbg-swatch" style="background:${v}"></span>` : '';
-        rows += `<dt>${label}</dt><dd>${sw}${shorten(v)}</dd>`;
+        const v = cs.getPropertyValue(prop).trim();
+        if (!v || (prop === 'line-height' && v === 'normal')) continue;
+        rows += row(label, v, isColor(v) ? v : '');
       }
+      rows += borderRows(cs);
+
+      const classes =
+        typeof el.className === 'string' && el.className.trim()
+          ? el.className.trim().split(/\s+/)
+          : [];
+      const classLine = classes.length
+        ? `<div class="dbg-classes">${classes.map((c) => '.' + c).join(' ')}</div>`
+        : `<div class="dbg-classes dbg-muted">(aucune classe)</div>`;
+
       return (
         `<span class="dbg-id">${idFor(el)}</span>` +
-        `<span class="dbg-sel">&lt;${selectorOf(el)}&gt;</span>` +
+        `<span class="dbg-sel">&lt;${el.tagName.toLowerCase()}&gt;</span>` +
+        classLine +
         `<dl>${rows}</dl>`
       );
     };
