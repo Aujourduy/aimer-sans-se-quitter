@@ -24,8 +24,24 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Install dependencies
+        # `npm install` ne dépend pas d'un package-lock.json (contrairement à
+        # `npm ci`), ce qui rend le déploiement robuste.
+        run: npm install
+
       - name: Build with Astro
-        uses: withastro/action@v3
+        run: npm run build
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./dist
 
   deploy:
     needs: build
