@@ -7,12 +7,12 @@ import { url } from '../lib/url';
 <Base
   description="Quand votre manière d’aimer vous éloigne de vous-même. Un accompagnement relationnel privé, qui part des textes."
 >
-  <section class="hero">
-    <h1>Aimer sans se quitter</h1>
-    <p class="hero-lede">
+  <section class="hero" data-dbg="accueil__hero">
+    <h1 data-dbg="accueil__hero-titre">Aimer sans se quitter</h1>
+    <p class="hero-lede" data-dbg="accueil__hero-accroche">
       Quand votre manière d’aimer vous éloigne de vous-même.
     </p>
-    <div class="btn-group">
+    <div class="btn-group" data-dbg="accueil__hero-actions">
       <Button href="/textes" variant="principal">Commencer par un texte</Button>
       <Button href="/accompagnement" variant="secondaire"
         >Découvrir l’accompagnement</Button
@@ -20,7 +20,7 @@ import { url } from '../lib/url';
     </div>
   </section>
 
-  <section class="lecture">
+  <section class="lecture" data-dbg="accueil__intro">
     <p>
       La rupture n’est pas le sujet. Elle est un révélateur : elle montre,
       soudain et sans ménagement, l’endroit exact où vous cessez de vous
@@ -32,7 +32,7 @@ import { url } from '../lib/url';
     </p>
   </section>
 
-  <section class="lecture">
+  <section class="lecture" data-dbg="accueil__invitation">
     <p>
       Vous pouvez commencer par lire. Ou, si quelque chose est déjà clair pour
       vous, demander une <a href={url('/conversation-exploratoire')}
@@ -41,7 +41,7 @@ import { url } from '../lib/url';
     </p>
   </section>
 
-  <section class="lecture">
+  <section class="lecture" data-dbg="accueil__commencer">
     <h2>Commencer ici</h2>
     <ol class="steps">
       <li><a href={url('/textes')}>Commencer par un texte</a></li>

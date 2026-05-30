@@ -1,0 +1,257 @@
+---
+// Mode debug — un bouton « $ » discret + une bulle d'inspection.
+//
+// Monté une seule fois dans Base.astro, il est donc présent sur toutes les
+// pages, mais reste totalement invisible et inerte tant qu'on ne l'active pas
+// (aucun impact pour les visiteurs).
+//
+// Une fois activé (tap sur « $ », ou touche « $ » au clavier) :
+//   • au survol (souris) ou au tap (mobile) d'un élément, une bulle affiche
+//     son identifiant stable (data-dbg) et ses propriétés CSS utiles ;
+//   • l'élément est surligné ;
+//   • la navigation est suspendue tant que le mode est actif, pour pouvoir
+//     inspecter les liens sans changer de page.
+//
+// Les identifiants lisibles viennent des attributs `data-dbg="page__bloc"`
+// posés sur les blocs des pages. Pour un élément sans `data-dbg`, la bulle
+// affiche « idDuBlocParent ▸ balise.classe », ce qui suffit à le désigner
+// sans ambiguïté.
+---
+
+<div id="dbg-ui" aria-hidden="true">
+  <button id="dbg-toggle" type="button" title="Mode debug (touche $)" aria-pressed="false">$</button>
+  <div id="dbg-bubble" hidden></div>
+  <div id="dbg-highlight" hidden></div>
+</div>
+
+<style is:global>
+  #dbg-toggle {
+    position: fixed;
+    right: 16px;
+    bottom: 16px;
+    z-index: 2147483600;
+    width: 42px;
+    height: 42px;
+    border-radius: 50%;
+    border: 1px solid rgba(31, 27, 23, 0.25);
+    background: rgba(244, 239, 230, 0.82);
+    color: #1a2d4a;
+    font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+    font-size: 21px;
+    font-weight: 700;
+    line-height: 1;
+    cursor: pointer;
+    opacity: 0.45;
+    transition: opacity 0.2s ease, background-color 0.2s ease, color 0.2s ease;
+    -webkit-backdrop-filter: blur(4px);
+    backdrop-filter: blur(4px);
+  }
+  #dbg-toggle:hover { opacity: 1; }
+  body.dbg-on #dbg-toggle {
+    opacity: 1;
+    background: #1a2d4a;
+    color: #f4efe6;
+    border-color: #1a2d4a;
+  }
+
+  #dbg-bubble {
+    position: fixed;
+    z-index: 2147483601;
+    max-width: 340px;
+    padding: 10px 12px;
+    border-radius: 6px;
+    background: rgba(18, 22, 28, 0.96);
+    color: #f4efe6;
+    font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+    font-size: 12px;
+    line-height: 1.5;
+    pointer-events: none;
+    box-shadow: 0 6px 24px rgba(0, 0, 0, 0.35);
+  }
+  #dbg-bubble .dbg-id {
+    display: block;
+    font-size: 13px;
+    font-weight: 700;
+    color: #ffd479;
+    margin-bottom: 5px;
+    word-break: break-all;
+    user-select: all;
+  }
+  #dbg-bubble .dbg-sel {
+    display: block;
+    color: #8ecbff;
+    margin-bottom: 6px;
+    word-break: break-all;
+  }
+  #dbg-bubble dl {
+    display: grid;
+    grid-template-columns: auto 1fr;
+    gap: 1px 10px;
+    margin: 0;
+  }
+  #dbg-bubble dt { color: #9aa4b2; }
+  #dbg-bubble dd { margin: 0; word-break: break-all; }
+  #dbg-bubble .dbg-swatch {
+    display: inline-block;
+    width: 9px;
+    height: 9px;
+    border: 1px solid rgba(255, 255, 255, 0.4);
+    margin-right: 4px;
+    vertical-align: middle;
+  }
+
+  #dbg-highlight {
+    position: fixed;
+    z-index: 2147483599;
+    pointer-events: none;
+    background: rgba(26, 45, 74, 0.14);
+    outline: 1px solid rgba(26, 45, 74, 0.9);
+    outline-offset: -1px;
+  }
+
+  body.dbg-on,
+  body.dbg-on * { cursor: crosshair !important; }
+  body.dbg-on #dbg-toggle { cursor: pointer !important; }
+</style>
+
+<script>
+  (() => {
+    const KEY = 'asq-debug';
+    const ui = document.getElementById('dbg-ui');
+    const toggle = document.getElementById('dbg-toggle');
+    const bubble = document.getElementById('dbg-bubble');
+    const hl = document.getElementById('dbg-highlight');
+    if (!ui || !toggle || !bubble || !hl) return;
+
+    let on = false;
+
+    // [libellé affiché, propriété CSS calculée]
+    const PROPS = [
+      ['couleur', 'color'],
+      ['fond', 'background-color'],
+      ['police', 'font-family'],
+      ['taille', 'font-size'],
+      ['interligne', 'line-height'],
+      ['marge', 'margin'],
+      ['padding', 'padding'],
+      ['bordure', 'border'],
+    ];
+
+    const isColor = (v) => /^(rgb|hsl|#)/.test(v);
+    const shorten = (v, n = 46) => (v.length > n ? v.slice(0, n - 1) + '…' : v);
+
+    const selectorOf = (el) => {
+      const tag = el.tagName.toLowerCase();
+      const cls =
+        typeof el.className === 'string' && el.className.trim()
+          ? '.' + el.className.trim().split(/\s+/).join('.')
+          : '';
+      return tag + cls;
+    };
+
+    // Identifiant à afficher : data-dbg si présent, sinon « blocParent ▸ sélecteur ».
+    const idFor = (el) => {
+      if (el.dataset && el.dataset.dbg) return el.dataset.dbg;
+      const host = el.closest('[data-dbg]');
+      if (host && host !== el) return host.dataset.dbg + ' ▸ ' + selectorOf(el);
+      return selectorOf(el) + '  (bloc sans id)';
+    };
+
+    const describe = (el) => {
+      const cs = getComputedStyle(el);
+      let rows = '';
+      for (const [label, prop] of PROPS) {
+        let v = cs.getPropertyValue(prop).trim();
+        if (!v || v === 'normal' && prop === 'line-height') continue;
+        // Bordure : inutile de l'afficher quand il n'y en a pas.
+        if (prop === 'border' && cs.borderTopWidth === '0px' && cs.borderBottomWidth === '0px' && cs.borderLeftWidth === '0px' && cs.borderRightWidth === '0px') continue;
+        const sw = isColor(v) ? `<span class="dbg-swatch" style="background:${v}"></span>` : '';
+        rows += `<dt>${label}</dt><dd>${sw}${shorten(v)}</dd>`;
+      }
+      return (
+        `<span class="dbg-id">${idFor(el)}</span>` +
+        `<span class="dbg-sel">&lt;${selectorOf(el)}&gt;</span>` +
+        `<dl>${rows}</dl>`
+      );
+    };
+
+    const placeBubble = (x, y) => {
+      bubble.hidden = false;
+      const bw = bubble.offsetWidth;
+      const bh = bubble.offsetHeight;
+      let bx = x + 14;
+      let by = y + 14;
+      if (bx + bw > innerWidth - 8) bx = x - bw - 14;
+      if (by + bh > innerHeight - 8) by = y - bh - 14;
+      bubble.style.left = Math.max(8, bx) + 'px';
+      bubble.style.top = Math.max(8, by) + 'px';
+    };
+
+    const highlight = (el) => {
+      const r = el.getBoundingClientRect();
+      hl.hidden = false;
+      hl.style.left = r.left + 'px';
+      hl.style.top = r.top + 'px';
+      hl.style.width = r.width + 'px';
+      hl.style.height = r.height + 'px';
+    };
+
+    const inspect = (el, x, y) => {
+      if (!el || ui.contains(el)) return;
+      bubble.innerHTML = describe(el);
+      highlight(el);
+      placeBubble(x, y);
+    };
+
+    const hide = () => {
+      bubble.hidden = true;
+      hl.hidden = true;
+    };
+
+    const setOn = (v) => {
+      on = v;
+      document.body.classList.toggle('dbg-on', on);
+      toggle.setAttribute('aria-pressed', String(on));
+      try { localStorage.setItem(KEY, on ? '1' : '0'); } catch {}
+      if (!on) hide();
+    };
+
+    toggle.addEventListener('click', (e) => {
+      e.preventDefault();
+      e.stopPropagation();
+      setOn(!on);
+    });
+
+    // Souris : aperçu en direct au survol.
+    document.addEventListener('pointermove', (e) => {
+      if (!on || e.pointerType !== 'mouse' || ui.contains(e.target)) return;
+      inspect(e.target, e.clientX, e.clientY);
+    });
+
+    // Clic / tap : inspecte et suspend la navigation tant que le debug est actif.
+    document.addEventListener(
+      'click',
+      (e) => {
+        if (!on || ui.contains(e.target)) return;
+        e.preventDefault();
+        e.stopPropagation();
+        inspect(e.target, e.clientX, e.clientY);
+      },
+      true
+    );
+
+    // Bascule aussi à la touche « $ » (en plus du bouton).
+    document.addEventListener('keydown', (e) => {
+      if (e.key !== '$' || e.metaKey || e.ctrlKey || e.altKey) return;
+      const t = e.target;
+      if (t && (t.tagName === 'INPUT' || t.tagName === 'TEXTAREA' || t.isContentEditable)) return;
+      e.preventDefault();
+      setOn(!on);
+    });
+
+    addEventListener('scroll', () => { if (on) hide(); }, { passive: true });
+
+    // Restaure l'état mémorisé d'une page à l'autre.
+    try { if (localStorage.getItem(KEY) === '1') setOn(true); } catch {}
+  })();
+</script>

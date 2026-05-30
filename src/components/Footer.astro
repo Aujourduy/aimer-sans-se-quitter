@@ -4,10 +4,10 @@ import { url } from '../lib/url';
 const year = new Date().getFullYear();
 ---
 
-<footer class="site-footer">
+<footer class="site-footer" data-dbg="pied">
   <div class="footer-inner">
     <p class="footer-name">Aimer sans se quitter</p>
-    <nav class="footer-nav" aria-label="Navigation du pied de page">
+    <nav class="footer-nav" aria-label="Navigation du pied de page" data-dbg="pied__nav">
       <a href={url('/textes')}>Textes</a>
       <a href={url('/a-propos')}>À propos</a>
       <a href={url('/accompagnement')}>Accompagnement</a>

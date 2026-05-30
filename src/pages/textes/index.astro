@@ -34,8 +34,8 @@ const byCategory = CATEGORY_ORDER.map((cat) => ({
   title="Textes"
   description="Fragments sur l’amour, le désir, la peur, le corps et les endroits où l’on se perd."
 >
-  <section class="lecture">
-    <h1>Textes</h1>
+  <section class="lecture" data-dbg="textes__entete">
+    <h1 data-dbg="textes__titre">Textes</h1>
     <p class="lede">
       Fragments sur l’amour, le désir, la peur, le corps et les endroits où
       l’on se perd.
@@ -44,7 +44,7 @@ const byCategory = CATEGORY_ORDER.map((cat) => ({
 
   {
     entries.length > 0 && (
-      <section class="lecture">
+      <section class="lecture" data-dbg="textes__entrees">
         <h2>Trois textes pour entrer</h2>
         <div class="text-list">
           {entries.map((t) => (
@@ -60,10 +60,10 @@ const byCategory = CATEGORY_ORDER.map((cat) => ({
     )
   }
 
-  <section class="lecture">
+  <section class="lecture" data-dbg="textes__categories">
     {
       byCategory.map((group) => (
-        <div class="cat-group">
+        <div class="cat-group" data-dbg={`textes__cat-${group.category}`}>
           <h2>{group.label}</h2>
           <div class="text-list">
             {group.items.map((t) => (

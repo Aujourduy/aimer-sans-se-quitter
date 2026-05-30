@@ -7,10 +7,10 @@ import Button from '../components/Button.astro';
   title="Accompagnement"
   description="Un cadre de quatre mois pour regarder ce qu’une rupture rend visible dans votre manière d’aimer."
 >
-  <article class="lecture">
-    <h1 class="article-title">L’accompagnement</h1>
+  <article class="lecture" data-dbg="accompagnement">
+    <h1 class="article-title" data-dbg="accompagnement__titre">L’accompagnement</h1>
 
-    <div class="prose">
+    <div class="prose" data-dbg="accompagnement__corps">
       <h2>Ce que nous regardons</h2>
       <ul class="liste-aeree">
         <li>Le moment précis où vous commencez à attendre.</li>
@@ -94,7 +94,7 @@ import Button from '../components/Button.astro';
 
       <hr />
 
-      <div class="btn-group">
+      <div class="btn-group" data-dbg="accompagnement__cta">
         <Button href="/conversation-exploratoire" variant="principal"
           >Demander une conversation exploratoire</Button
         >

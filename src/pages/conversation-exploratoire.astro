@@ -12,12 +12,12 @@ const CALENDLY_URL = 'https://calendly.com/REMPLACER';
   title="Conversation exploratoire"
   description="Une conversation pour sentir, ensemble, si ce travail est juste pour vous."
 >
-  <article class="lecture">
-    <div class="portrait portrait--petit"><span>[ Portrait ]</span></div>
+  <article class="lecture" data-dbg="conversation">
+    <div class="portrait portrait--petit" data-dbg="conversation__portrait"><span>[ Portrait ]</span></div>
 
-    <h1 class="article-title">La conversation exploratoire</h1>
+    <h1 class="article-title" data-dbg="conversation__titre">La conversation exploratoire</h1>
 
-    <div class="prose">
+    <div class="prose" data-dbg="conversation__corps">
       <p>
         Ce n’est pas un appel de vente. C’est un moment pour regarder, sans
         engagement, ce qui vous amène — et sentir, de part et d’autre, si ce
@@ -28,7 +28,7 @@ const CALENDLY_URL = 'https://calendly.com/REMPLACER';
         est-ce le bon cadre, au bon moment.
       </p>
 
-      <div class="btn-group">
+      <div class="btn-group" data-dbg="conversation__cta">
         <Button href={CALENDLY_URL} variant="principal" external={true}
           >Réserver la conversation</Button
         >

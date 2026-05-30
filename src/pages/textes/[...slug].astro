@@ -16,9 +16,9 @@ const { Content } = await render(entry);
 ---
 
 <Base title={entry.data.title} description={entry.data.excerpt}>
-  <article class="lecture">
-    <h1 class="article-title">{entry.data.title}</h1>
-    <div class="prose">
+  <article class="lecture" data-dbg="texte">
+    <h1 class="article-title" data-dbg="texte__titre">{entry.data.title}</h1>
+    <div class="prose" data-dbg="texte__corps">
       <Content />
     </div>
     <Pont />
