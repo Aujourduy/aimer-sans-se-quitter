@@ -5,6 +5,12 @@
   --sepia:      #6B6258; /* secondaire : sous-titres, légendes, métadonnées */
   --filet:      #CFC3B4; /* bordures fines */
 
+  /* Séparateurs courts centrés (.separateur + filets entre cartes).
+     Modifier ces trois variables change TOUS les traits d'un coup. */
+  --filet-court-largeur:   30%;
+  --filet-court-epaisseur: 1px;
+  --filet-court-couleur:   var(--filet);
+
   --serif: "EB Garamond", Georgia, serif;
   --sans:  "Inter", system-ui, sans-serif;
 
@@ -169,9 +175,23 @@ hr {
   .hero-lede { font-size: 1.2rem; }
 }
 
+/* Séparateur : trait court centré, réutilisable partout (ex. <hr class="separateur" />).
+   Ses dimensions viennent des variables --filet-court-* : les modifier change ce
+   séparateur ET les filets entre les cartes d'un seul coup.
+   Pas de trait après la dernière carte d'une liste. */
+.separateur,
+.text-card:not(:last-child)::after {
+  display: block;
+  width: var(--filet-court-largeur);
+  height: var(--filet-court-epaisseur);
+  margin-inline: auto;
+  border: 0;
+  background: var(--filet-court-couleur);
+}
+.text-card:not(:last-child)::after { content: ""; }
+
 /* Cartes de texte */
 .text-list { max-width: var(--lecture); }
-.text-card { border-bottom: 1px solid var(--filet); }
 .text-card-link { display: block; padding: 28px 0; text-decoration: none; color: inherit; }
 .text-card-title { color: var(--bleu); margin-bottom: 0.4rem; font-weight: 600; }
 .text-card-excerpt { color: var(--sepia); margin-bottom: 0.4rem; }
