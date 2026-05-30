@@ -11,6 +11,10 @@
   --filet-court-epaisseur: 1px;
   --filet-court-couleur:   var(--filet);
 
+  /* Échelle de la taille du corps de texte. 1 = normal · 1.2 = +20 % · 0.9 = -10 %.
+     N'affecte que le texte du body (les titres ont leur propre taille). */
+  --echelle-texte: 1;
+
   --serif: "EB Garamond", Georgia, serif;
   --sans:  "Inter", system-ui, sans-serif;
 
@@ -28,7 +32,7 @@ body {
   background: var(--creme);
   color: var(--encre);
   font-family: var(--serif);
-  font-size: 1.19rem;
+  font-size: calc(1.19rem * var(--echelle-texte));
   line-height: 1.6;
   font-feature-settings: "liga" 1, "dlig" 1, "onum" 1, "kern" 1;
   -webkit-font-smoothing: antialiased;
@@ -36,7 +40,7 @@ body {
 }
 
 @media (max-width: 640px) {
-  body { font-size: 1.1rem; }
+  body { font-size: calc(1.1rem * var(--echelle-texte)); }
 }
 
 p { margin: 0 0 1.5rem; orphans: 3; widows: 3; }
