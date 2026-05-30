@@ -15,6 +15,54 @@ npm run build    # construit dans dist/
 npm run preview  # prévisualise le build
 ```
 
+## Modifier le site soi-même
+
+Le site est hébergé **automatiquement par GitHub Pages**. À chaque `push` sur
+`main`, GitHub reconstruit et republie le site (voir « Déploiement » plus bas).
+Il n'y a donc **aucun serveur à administrer** : on modifie le code source, on
+pousse, et la mise en ligne se fait seule en 1 à 2 minutes.
+
+> ⚠️ On édite **toujours** les fichiers de `src/`, **jamais** `dist/`
+> (le site construit, régénéré automatiquement par GitHub et ignoré par git).
+
+### Depuis son ordinateur (VS Code)
+
+```bash
+git pull origin main      # 1. récupérer la dernière version AVANT d'éditer
+npm install               #    (la première fois seulement)
+npm run dev               # 2. aperçu en direct sur http://localhost:4321
+                          # 3. modifier les fichiers dans src/ avec VS Code
+git add -A                # 4. publier
+git commit -m "Ma modification"
+git push origin main
+```
+
+Le déploiement se suit dans l'onglet **Actions** du dépôt (vert = en ligne).
+
+### Depuis github.com (sans rien installer, pratique sur mobile)
+
+Ouvrir le fichier sur GitHub (ex. `src/styles/global.css`), cliquer sur le
+crayon ✏️, modifier, puis « Commit changes » sur `main`. Le déploiement se
+lance de la même manière.
+
+### Où modifier quoi
+
+| Pour changer… | Fichier |
+| --- | --- |
+| Les couleurs, polices, largeurs (réglages globaux) | `src/styles/global.css` → bloc `:root` |
+| Un style précis (boutons, cartes, séparateurs…) | `src/styles/global.css` → la classe concernée |
+| Le texte d'une page | `src/pages/…` (ex. `accompagnement.astro`) |
+| Ajouter un texte | un fichier `.md` dans `src/content/textes/` (voir ci-dessous) |
+
+> 💡 **Repérer quoi modifier — le mode debug.** Sur le site, le bouton « $ »
+> (en bas à droite) active une bulle qui, au survol/tap d'un élément, affiche
+> son identifiant de bloc (`data-dbg`), ses **classes** et ses propriétés CSS.
+> Pratique pour savoir exactement quelle classe ou quelle variable changer.
+
+> ⚠️ **Coordination.** Comme les modifications de l'assistant et les vôtres
+> vont toutes sur `main`, faites toujours `git pull` avant d'éditer, et évitez
+> de modifier le **même fichier** au même moment, pour ne pas créer de conflit.
+
 ## Ajouter un texte
 
 Créez un fichier `.md` dans `src/content/textes/`. Le nom du fichier devient
