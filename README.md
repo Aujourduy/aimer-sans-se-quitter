@@ -123,24 +123,44 @@ Le trait court centré entre les cartes de textes — et la classe réutilisable
 pilotés par les trois variables `--filet-court-*`. Les modifier change **tous**
 les traits d'un coup.
 
-## Ajouter un texte
+## Modifier le contenu du site
 
-Créez un fichier `.md` dans `src/content/textes/`. Le nom du fichier devient
-l'adresse de la page. Exemple :
+Le contenu se range en deux familles : **les textes** (collection markdown qui
+alimente la page « Textes ») et **les pages fixes** (accueil, accompagnement, à
+propos…), qui sont des fichiers `.astro`.
+
+### Les textes (page « Textes »)
+
+Chaque texte est un fichier `.md` dans `src/content/textes/`. Le **nom du
+fichier** devient l'adresse de la page (`mon-texte.md` → `/textes/mon-texte`).
+
+En-tête (« frontmatter ») de chaque fichier, suivi du corps en markdown :
 
 ```md
 ---
-title: "Le titre du texte"
-excerpt: "Une ligne, affichée sur la carte."
-category: "amour-presence"   # ou desir-verite, peur-masque, fables-paradoxes
-order: 2
-# entry: true                  # (optionnel) met le texte en avant
-# entryRole: "reconnaissance"  # si entry: true → reconnaissance|deplacement|mecanisme
-# draft: true                  # (optionnel) masque le texte en production
+title: "Le titre du texte"          # titre affiché
+excerpt: "Une ligne, sur la carte." # résumé affiché dans la liste
+category: "amour-presence"          # voir le tableau plus bas
+order: 2                            # ordre dans la catégorie (petit = en premier)
+# entry: true                       # (optionnel) met le texte en avant
+# entryRole: "reconnaissance"       # si entry: true → reconnaissance | deplacement | mecanisme
+# draft: true                       # (optionnel) masque le texte (non publié)
 ---
 
-Le corps du texte, en markdown.
+Le corps du texte, en **markdown**.
 ```
+
+- **Mettre à jour un texte** → ouvrir le `.md` et modifier le corps (sous le
+  second `---`) et/ou les champs de l'en-tête.
+  _(Les textes actuels contiennent un corps `[À REMPLACER]` à remplacer par le vrai contenu.)_
+- **Ajouter un texte** → créer un nouveau `.md` (le plus simple : copier un
+  existant), avec un nom de fichier court (il devient l'URL).
+- **Supprimer** → supprimer le fichier `.md` (ou mettre `draft: true` pour le
+  cacher sans l'effacer).
+- **Mettre en avant** → `entry: true` + un `entryRole` : le texte apparaît dans
+  « Trois textes pour entrer », en haut de la page Textes.
+
+Catégories disponibles :
 
 | `category`         | Affiché             |
 | ------------------ | ------------------- |
@@ -149,12 +169,41 @@ Le corps du texte, en markdown.
 | `peur-masque`      | Peur et masque      |
 | `fables-paradoxes` | Fables et paradoxes |
 
-## Ajouter le portrait
+> Pour créer une **nouvelle** catégorie, il faut aussi la déclarer dans
+> `src/content.config.ts` (liste `category`) **et** `src/lib/categories.ts`
+> (libellé + ordre d'affichage). En cas de doute, demandez à l'assistant.
 
-Les pages « À propos » et « Conversation exploratoire » affichent un
-placeholder crème. Pour une vraie photo : placez l'image dans
-`src/assets/portrait.jpg`, puis dans `src/pages/a-propos.astro` remplacez le
-bloc `<div class="portrait">…</div>` par un composant `<Image>` d'Astro.
+### Les autres pages (fixes)
+
+Ce sont des fichiers `.astro` dans `src/pages/`. Le texte se modifie
+directement dans la balise correspondante (entre les `>` et `<`).
+
+| Page | Adresse | Fichier |
+| --- | --- | --- |
+| Accueil | `/` | `src/pages/index.astro` |
+| Textes (liste) | `/textes` | `src/pages/textes/index.astro` |
+| Gabarit d'un texte | `/textes/…` | `src/pages/textes/[...slug].astro` |
+| À propos | `/a-propos` | `src/pages/a-propos.astro` |
+| Accompagnement | `/accompagnement` | `src/pages/accompagnement.astro` |
+| Conversation exploratoire | `/conversation-exploratoire` | `src/pages/conversation-exploratoire.astro` |
+| Mentions légales | `/mentions-legales` | `src/pages/mentions-legales.astro` |
+| En-tête / pied (toutes pages) | — | `src/components/Header.astro` / `Footer.astro` |
+
+> 💡 Le **mode debug** (bouton « $ », en bas à droite du site) affiche
+> l'identifiant de chaque bloc (ex. `accompagnement__cta`) : pratique pour
+> repérer quel fichier et quel bloc éditer.
+
+## Portrait (photo)
+
+La photo de la page « À propos » est dans `src/assets/portrait.jpg`, affichée
+via le composant `<Image>` d'Astro (optimisation + versions responsive
+automatiques). Pour **la remplacer** : déposez une nouvelle image à cet
+emplacement (même nom de fichier), ou changez l'`import` en haut de
+`src/pages/a-propos.astro`. Le **cadrage** se règle avec `object-position` sur
+`.portrait img` dans `global.css`.
+
+La page « Conversation exploratoire » conserve un petit placeholder carré
+(`portrait--petit`) ; même principe pour y poser une photo.
 
 ## Calendly
 
