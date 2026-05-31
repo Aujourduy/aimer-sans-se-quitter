@@ -1,5 +1,7 @@
 ---
 import Base from '../layouts/Base.astro';
+import { Image } from 'astro:assets';
+import portrait from '../assets/portrait.jpg';
 import { url } from '../lib/url';
 ---
 
@@ -8,9 +10,14 @@ import { url } from '../lib/url';
   description="Ma pratique consiste à voir, avec une femme, là où elle commence à se quitter dans la relation."
 >
   <article class="lecture" data-dbg="a-propos">
-    {/* Portrait — remplacer ce placeholder par une vraie photo (lumière
-        naturelle, sobre). Voir le README, section « Ajouter le portrait ». */}
-    <div class="portrait" data-dbg="a-propos__portrait"><span>[ Portrait à remplacer ]</span></div>
+    <div class="portrait" data-dbg="a-propos__portrait">
+      <Image
+        src={portrait}
+        alt="Portrait de l’auteur, au bord d’un plan d’eau en automne."
+        widths={[400, 640, 900]}
+        sizes="(max-width: 760px) 90vw, 640px"
+      />
+    </div>
 
     <h1 class="article-title" data-dbg="a-propos__titre">
       Ma pratique consiste à voir, avec une femme, là où elle commence à se
