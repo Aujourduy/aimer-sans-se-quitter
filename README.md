@@ -82,6 +82,29 @@ partout où elle est utilisée — un seul endroit à modifier.
 | `--filet-court-couleur` | Couleur de ces traits | `var(--filet)` |
 | `--lecture` | Largeur de la colonne de texte | `680px` |
 
+### Tailles selon l'écran (responsive)
+
+Les **variables** ci-dessus sont identiques sur ordinateur et sur mobile. En
+revanche, certaines **tailles** ont une valeur réduite en dessous de **640 px**
+de large (`@media (max-width: 640px)` dans `global.css`) — l'adaptation mobile
+est donc automatique :
+
+| Élément | Ordinateur | Mobile (< 640 px) |
+| --- | --- | --- |
+| Corps de texte (`body`) | `1.19rem` | `1.1rem` |
+| Titre `h1` | `2.8rem` | `2.1rem` |
+| Titre `h2` | `1.6rem` | `1.4rem` |
+| Titre `h3` | `1.2rem` | `1.1rem` |
+| Citation (`blockquote`) | `1.4rem` | `1.25rem` |
+| Marges latérales (`.lecture`, `.conteneur`) | `1.5rem` | `8 %` |
+| Hero — titre (`.hero h1`) | `3.4rem` | `2.3rem` |
+| Hero — accroche (`.hero-lede`) | `1.35rem` | `1.2rem` |
+| Carte mise en avant (`.text-card--featured`) | `1.45rem` | `1.25rem` |
+
+La variable `--echelle-texte` multiplie **les deux** colonnes : régler `1.2`
+agrandit le texte de 20 % sur ordinateur **et** sur mobile, tout en gardant le
+mobile un peu plus compact (ce qui est voulu, pour la lisibilité).
+
 ### Régler la taille du texte
 
 Dans `:root` (`src/styles/global.css`) :
