@@ -41,9 +41,15 @@ Le déploiement se suit dans l'onglet **Actions** du dépôt (vert = en ligne).
 
 ### Depuis github.com (sans rien installer, pratique sur mobile)
 
-Ouvrir le fichier sur GitHub (ex. `src/styles/global.css`), cliquer sur le
-crayon ✏️, modifier, puis « Commit changes » sur `main`. Le déploiement se
-lance de la même manière.
+Ouvrir le fichier sur GitHub, cliquer sur le crayon ✏️ (« Edit this file »),
+modifier, puis « Commit changes ». On peut aussi créer un fichier
+(« Add file → Create new file ») — utile pour ajouter un texte.
+
+> ⚠️ **Toujours committer sur la branche `main`.** Le site ne se déploie QUE
+> depuis `main`. Avant de cliquer « Commit changes », vérifiez que le sélecteur
+> de branche (en haut de la page du fichier) indique bien **`main`** — sinon la
+> modification ne partira pas en ligne. Le plus sûr est de définir `main` comme
+> branche par défaut du dépôt (Settings → Branches).
 
 ### Où modifier quoi
 
@@ -172,6 +178,57 @@ Catégories disponibles :
 > Pour créer une **nouvelle** catégorie, il faut aussi la déclarer dans
 > `src/content.config.ts` (liste `category`) **et** `src/lib/categories.ts`
 > (libellé + ordre d'affichage). En cas de doute, demandez à l'assistant.
+
+### La page « Textes » : thématiques et organisation
+
+La page qui présente les textes (titre, « Trois textes pour entrer », puis les
+**thématiques** avec leurs textes) est alimentée par **trois sources** selon ce
+que l'on veut changer :
+
+| Ce que vous voulez modifier | Fichier à éditer |
+| --- | --- |
+| Le **titre / texte d'intro** de la page (« Textes », la phrase dessous, « Trois textes pour entrer ») | `src/pages/textes/index.astro` |
+| Le **nom des thématiques** et leur **ordre d'affichage** | `src/lib/categories.ts` |
+| **Quel texte** va dans **quelle thématique** et son **ordre** | l'en-tête du `.md` du texte (`category`, `order`) |
+
+**Renommer ou réordonner les thématiques** — `src/lib/categories.ts` :
+
+```ts
+export const CATEGORY_LABELS = {
+  'amour-presence':  'Amour et présence',    // ← texte de droite = ce qui s'affiche
+  'desir-verite':    'Désir et vérité',
+  'peur-masque':     'Peur et masque',
+  'fables-paradoxes':'Fables et paradoxes',
+};
+
+export const CATEGORY_ORDER = [   // ← ordre des sections sur la page
+  'amour-presence',
+  'desir-verite',
+  'peur-masque',
+  'fables-paradoxes',
+];
+```
+
+- **Renommer** une thématique affichée → changer le libellé de droite
+  (ex. `'Amour et présence'` → `'Aimer et être présent'`). La clé de gauche
+  (`'amour-presence'`) ne change pas : c'est elle qui relie les textes.
+- **Réordonner** les thématiques → changer l'ordre dans `CATEGORY_ORDER`.
+
+**Déplacer un texte / changer son ordre dans une thématique** — l'en-tête du
+`.md` du texte :
+
+```md
+---
+category: "amour-presence"   # ← la thématique où le texte apparaît
+order: 4                     # ← sa position dans la thématique (petit = en premier)
+---
+```
+
+- **Déplacer** un texte vers une autre thématique → changer `category`.
+- **Réordonner** dans une thématique → changer `order`.
+
+> Une thématique n'apparaît sur la page que si elle contient **au moins un
+> texte** (hors textes mis en avant via `entry: true`).
 
 ### Les autres pages (fixes)
 
