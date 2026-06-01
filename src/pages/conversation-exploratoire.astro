@@ -1,6 +1,8 @@
 ---
 import Base from '../layouts/Base.astro';
 import Button from '../components/Button.astro';
+import { Image } from 'astro:assets';
+import portrait from '../assets/portrait.jpg';
 
 // Lien de réservation Calendly. À remplacer par votre vraie URL.
 // (Les questions posées au moment de la réservation se configurent dans
@@ -13,7 +15,14 @@ const CALENDLY_URL = 'https://calendly.com/REMPLACER';
   description="Une conversation pour sentir, ensemble, si ce travail est juste pour vous."
 >
   <article class="lecture" data-dbg="conversation">
-    <div class="portrait portrait--petit" data-dbg="conversation__portrait"><span>[ Portrait ]</span></div>
+    <div class="portrait portrait--petit" data-dbg="conversation__portrait">
+      <Image
+        src={portrait}
+        alt="Portrait de l’auteur, au bord d’un plan d’eau en automne."
+        widths={[220, 440]}
+        sizes="220px"
+      />
+    </div>
 
     <h1 class="article-title" data-dbg="conversation__titre">La conversation exploratoire</h1>
 
