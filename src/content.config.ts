@@ -18,6 +18,7 @@ const textes = defineCollection({
       'desir-verite',
       'peur-masque',
       'fables-paradoxes',
+      'desir-intimite',
     ]),
     entry: z.boolean().default(false), // true = texte d'entrée mis en avant
     entryRole: z

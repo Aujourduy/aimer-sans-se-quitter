@@ -1,0 +1,41 @@
+---
+import Base from '../../layouts/Base.astro';
+import TextCard from '../../components/TextCard.astro';
+import { getCollection } from 'astro:content';
+import { CATEGORY_LABELS, CATEGORY_ORDER } from '../../lib/categories';
+
+// Une page par catégorie (cinq au total), générée depuis la collection.
+// Destination des titres de catégorie de la page Textes (§5.2bis du brief).
+export async function getStaticPaths() {
+  const all = await getCollection('textes', ({ data }) => !data.draft);
+  return CATEGORY_ORDER.map((cat) => ({
+    params: { category: cat },
+    props: {
+      category: cat,
+      items: all
+        .filter((t) => t.data.category === cat && !t.data.entry)
+        .sort((a, b) => a.data.order - b.data.order),
+    },
+  }));
+}
+
+const { category, items } = Astro.props;
+const label = CATEGORY_LABELS[category];
+---
+
+<Base title={label} description={`Textes de la thématique « ${label} ».`}>
+  <section class="lecture" data-dbg={`theme__${category}`}>
+    <h1 data-dbg="theme__titre">{label}</h1>
+    {
+      items.length > 0 ? (
+        <div class="text-list">
+          {items.map((t) => (
+            <TextCard title={t.data.title} excerpt={t.data.excerpt} slug={t.id} />
+          ))}
+        </div>
+      ) : (
+        <p class="lede">Aucun texte publié dans cette thématique pour le moment.</p>
+      )
+    }
+  </section>
+</Base>

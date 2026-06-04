@@ -207,6 +207,8 @@ hr {
 /* Groupes par catégorie */
 .cat-group { margin-top: 4rem; }
 .cat-group > h2 { color: var(--encre); }
+.cat-link { text-decoration: none; color: inherit; }
+.cat-link:hover { color: var(--bleu); text-decoration: underline; text-underline-offset: 3px; }
 
 /* Parcours numéroté */
 .steps { list-style: none; padding: 0; margin: 1.5rem 0 0; counter-reset: step; max-width: var(--lecture); }

@@ -2,6 +2,7 @@
 import Base from '../../layouts/Base.astro';
 import TextCard from '../../components/TextCard.astro';
 import { getCollection } from 'astro:content';
+import { url } from '../../lib/url';
 import {
   CATEGORY_LABELS,
   CATEGORY_ORDER,
@@ -64,7 +65,11 @@ const byCategory = CATEGORY_ORDER.map((cat) => ({
     {
       byCategory.map((group) => (
         <div class="cat-group" data-dbg={`textes__cat-${group.category}`}>
-          <h2>{group.label}</h2>
+          <h2>
+            <a class="cat-link" href={url(`/textes/${group.category}`)}>
+              {group.label}
+            </a>
+          </h2>
           <div class="text-list">
             {group.items.map((t) => (
               <TextCard
