@@ -1,0 +1,116 @@
+---
+import { getCollection } from 'astro:content';
+import { url } from '../lib/url';
+import { CATEGORY_LABELS, CATEGORY_ORDER } from '../lib/categories';
+import type { Category } from '../lib/categories';
+
+interface Props {
+  slug: string;
+  category: Category;
+  order: number;
+}
+
+const { slug, category, order } = Astro.props;
+
+// On ne circule qu'entre les textes publiés (cohérent avec ce que voit la
+// lectrice : aucun lien ne mène vers une page masquée en production).
+const published = await getCollection('textes', ({ data }) => !data.draft);
+
+// Catégories qui ont au moins un texte publié, dans l'ordre de l'anneau.
+// Les thèmes vides sont sautés (un bord ne renvoie jamais vers une page vide).
+const ring = CATEGORY_ORDER.filter((cat) =>
+  published.some((t) => t.data.category === cat)
+);
+
+// Textes de la catégorie courante, triés par `order`.
+const inCat = published
+  .filter((t) => t.data.category === category)
+  .sort((a, b) => a.data.order - b.data.order);
+
+const idx = inCat.findIndex((t) => t.id === slug);
+
+// Voisin dans l'anneau (catégorie précédente / suivante non vide), bouclé.
+function neighborCategory(dir: -1 | 1): Category | null {
+  const pos = ring.indexOf(category);
+  if (pos === -1 || ring.length === 0) return null;
+  const next = (pos + dir + ring.length) % ring.length;
+  // Si une seule catégorie publiée, pas de bord à proposer.
+  if (ring[next] === category) return null;
+  return ring[next];
+}
+
+// « précédent » : texte voisin dans la catégorie, sinon page du thème précédent.
+let prev: { href: string; label: string; theme: boolean } | null = null;
+if (idx > 0) {
+  const t = inCat[idx - 1];
+  prev = { href: url(`/textes/${t.id}`), label: 'Précédent', theme: false };
+} else {
+  const cat = neighborCategory(-1);
+  if (cat)
+    prev = {
+      href: url(`/textes/${cat}`),
+      label: CATEGORY_LABELS[cat],
+      theme: true,
+    };
+}
+
+// « suivant » : texte voisin dans la catégorie, sinon page du thème suivant.
+let next: { href: string; label: string; theme: boolean } | null = null;
+if (idx !== -1 && idx < inCat.length - 1) {
+  const t = inCat[idx + 1];
+  next = { href: url(`/textes/${t.id}`), label: 'Suivant', theme: false };
+} else {
+  const cat = neighborCategory(1);
+  if (cat)
+    next = {
+      href: url(`/textes/${cat}`),
+      label: CATEGORY_LABELS[cat],
+      theme: true,
+    };
+}
+---
+
+<nav class="navtexte" data-dbg="navtexte" aria-label="Navigation entre les textes">
+  <span class="navtexte-cell navtexte-prev">
+    {
+      prev && (
+        <a href={prev.href}>
+          {prev.theme ? `← ${prev.label}` : '‹ Précédent'}
+        </a>
+      )
+    }
+  </span>
+  <span class="navtexte-cell navtexte-copy">
+    <button type="button" class="navtexte-copylink" data-copy>Copier le lien</button>
+  </span>
+  <span class="navtexte-cell navtexte-next">
+    {
+      next && (
+        <a href={next.href}>
+          {next.theme ? `${next.label} →` : 'Suivant ›'}
+        </a>
+      )
+    }
+  </span>
+</nav>
+
+<script>
+  const btn = document.querySelector<HTMLButtonElement>('[data-copy]');
+  if (btn) {
+    const initial = btn.textContent;
+    btn.addEventListener('click', async () => {
+      try {
+        await navigator.clipboard.writeText(window.location.href);
+        btn.textContent = 'Lien copié';
+        setTimeout(() => {
+          btn.textContent = initial;
+        }, 2000);
+      } catch {
+        btn.textContent = 'Lien copié'; // best-effort, même message
+        setTimeout(() => {
+          btn.textContent = initial;
+        }, 2000);
+      }
+    });
+  }
+</script>

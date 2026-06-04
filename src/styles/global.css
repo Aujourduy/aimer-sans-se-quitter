@@ -281,3 +281,32 @@ hr {
 .faits strong { font-weight: 600; }
 
 .note { font-family: var(--sans); font-size: 0.9rem; color: var(--sepia); margin-top: 1rem; }
+
+/* Navigation entre les textes (fin de texte) : une ligne sobre, filet fin au-dessus */
+.navtexte {
+  display: grid;
+  grid-template-columns: 1fr auto 1fr;
+  align-items: baseline;
+  gap: 1rem;
+  max-width: var(--lecture);
+  margin-top: 3rem;
+  padding-top: 1.25rem;
+  border-top: 1px solid var(--filet);
+  font-family: var(--sans);
+  font-size: 0.9rem;
+  color: var(--sepia);
+}
+.navtexte-prev { text-align: left; }
+.navtexte-copy { text-align: center; }
+.navtexte-next { text-align: right; }
+.navtexte a { color: var(--sepia); text-decoration: none; }
+.navtexte a:hover { color: var(--bleu); text-decoration: underline; text-underline-offset: 3px; }
+.navtexte-copylink {
+  font: inherit;
+  color: var(--sepia);
+  background: none;
+  border: none;
+  padding: 0;
+  cursor: pointer;
+}
+.navtexte-copylink:hover { color: var(--bleu); text-decoration: underline; text-underline-offset: 3px; }

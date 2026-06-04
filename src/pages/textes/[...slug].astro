@@ -1,6 +1,7 @@
 ---
 import Base from '../../layouts/Base.astro';
 import Pont from '../../components/Pont.astro';
+import NavTexte from '../../components/NavTexte.astro';
 import { getCollection, render } from 'astro:content';
 
 export async function getStaticPaths() {
@@ -22,5 +23,10 @@ const { Content } = await render(entry);
       <Content />
     </div>
     <Pont />
+    <NavTexte
+      slug={entry.id}
+      category={entry.data.category}
+      order={entry.data.order}
+    />
   </article>
 </Base>
