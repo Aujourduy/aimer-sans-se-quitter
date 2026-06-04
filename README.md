@@ -262,12 +262,12 @@ emplacement (même nom de fichier), ou changez l'`import` en haut de
 La page « Conversation exploratoire » conserve un petit placeholder carré
 (`portrait--petit`) ; même principe pour y poser une photo.
 
-## Calendly
+## Réservation (TidyCal)
 
-La page « Conversation exploratoire » renvoie vers Calendly via la constante
-`CALENDLY_URL`, en haut de `src/pages/conversation-exploratoire.astro`.
-Remplacez `https://calendly.com/REMPLACER` par votre vrai lien. Configurez les
-questions d'invité dans Calendly (pas de formulaire sur le site) :
+La page « Conversation exploratoire » renvoie vers TidyCal via la constante
+`RESERVATION_URL`, en haut de `src/pages/conversation-exploratoire.astro`
+(actuellement `https://tidycal.com/duy-dang/conversation-exploratoire`).
+Configurez les questions d'invité dans TidyCal (pas de formulaire sur le site) :
 
 - Qu'est-ce qui vous amène ?
 - Qu'avez-vous déjà compris ou essayé ?

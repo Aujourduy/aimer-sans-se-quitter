@@ -4,10 +4,10 @@ import Button from '../components/Button.astro';
 import { Image } from 'astro:assets';
 import portrait from '../assets/portrait.jpg';
 
-// Lien de réservation Calendly. À remplacer par votre vraie URL.
-// (Les questions posées au moment de la réservation se configurent dans
-// Calendly — voir le README, section « Calendly ».)
-const CALENDLY_URL = 'https://calendly.com/REMPLACER';
+// Lien de réservation TidyCal. (Les questions posées au moment de la
+// réservation se configurent dans TidyCal — voir le README, section
+// « Réservation ».)
+const RESERVATION_URL = 'https://tidycal.com/duy-dang/conversation-exploratoire';
 ---
 
 <Base
@@ -38,7 +38,7 @@ const CALENDLY_URL = 'https://calendly.com/REMPLACER';
       </p>
 
       <div class="btn-group" data-dbg="conversation__cta">
-        <Button href={CALENDLY_URL} variant="principal" external={true}
+        <Button href={RESERVATION_URL} variant="principal" external={true}
           >Réserver la conversation</Button
         >
       </div>
