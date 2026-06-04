@@ -41,7 +41,7 @@ Elle : “ Je me rappelle d’une fois. C’était très douloureux. Mais il y 
 
 Là je la regarde et on se marre !!!
 
-Elle est sidérée, décontenancée et perdue. Ha ha!
+Elle est sidérée, décontenancée et perdue. Ha ha !
 
 Je reprends les éléments un par un et je lui démontre comment ce qu’elle voyait de sa vie l’image qu’elle avait d’elle-même était erroné. Je le fais avec joie, avec un petit côté taquin en me moquant gentiment de ce décalage. Je sais comment cela peut être à la fois une immense joie et complètement déstabilisant de voir qu’on a été dans une illusion si négative de soi-même. Merci à toutes mes chéries.
 

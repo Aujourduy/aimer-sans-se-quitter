@@ -23,6 +23,6 @@ Toutes les directions sont importantes. Il n’y a nulle part d’autre où vous
 
 Une expérience qui marquera définitivement la ligne du temps.
 
-Deux êtres se sont donnés totalement l’un à l’autre dans ce moment qui est un bout d’éternité. Peu importe la durée future de la relation, comment elle évoluera; à cet instant, votre partenaire et vous avez gravé de votre sceau le monde par la rencontre véritable de vos corps, de vos sexes, de vos êtres.
+Deux êtres se sont donnés totalement l’un à l’autre dans ce moment qui est un bout d’éternité. Peu importe la durée future de la relation, comment elle évoluera ; à cet instant, votre partenaire et vous avez gravé de votre sceau le monde par la rencontre véritable de vos corps, de vos sexes, de vos êtres.
 
 Vous  serez à jamais différent … l’Univers aussi.
