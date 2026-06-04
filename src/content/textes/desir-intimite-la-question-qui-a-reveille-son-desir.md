@@ -7,7 +7,7 @@ draft: true
 draftReason: "texte intime explicite, non surfacé pour l’instant"
 ---
 
-Nous étions dans la chambre, envie tous les deux prêt pour un partage sexuel. Elle avait envie d’avoir envie mais n’avait pas envie. Son esprit, son cœur voulait mais son corps ne réagissait pas. Je lui ai alors demandé calmement : “Est-ce qu’il y a quelque chose que tu n’arrives pas à me dire ?”. Elle réfléchit, ne voit rien de précis. Elle répète sa peur par rapport à notre relation. Et là, un déclic ! Elle avait aussi peur que nous reproduisions la relation de ses parents. Elle a peur pour moi, peur que je souffre comme son père. Elle pleure, s’effondre en larmes.
+Nous étions dans la chambre, tous les deux prêts pour un partage sexuel. Elle avait envie d’avoir envie mais n’avait pas envie. Son esprit, son cœur voulait mais son corps ne réagissait pas. Je lui ai alors demandé calmement : “Est-ce qu’il y a quelque chose que tu n’arrives pas à me dire ?”. Elle réfléchit, ne voit rien de précis. Elle répète sa peur par rapport à notre relation. Et là, un déclic ! Elle avait aussi peur que nous reproduisions la relation de ses parents. Elle a peur pour moi, peur que je souffre comme son père. Elle pleure, s’effondre en larmes.
 
 Chose étrange, elle n’y avait jamais pensé avant clairement. Avant la question, cette peur n’était pas consciente, disponible. Quelques minutes après, elle sent le feu monter … et voilà. C’était très très très bien. Je ne vais pas tout raconter non plus !
 
