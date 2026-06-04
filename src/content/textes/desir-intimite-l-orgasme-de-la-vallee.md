@@ -3,8 +3,6 @@ title: "L'orgasme de la vallée"
 excerpt: "Deux corps immobiles, et l'amour qui passe par un fil de lumière."
 category: "desir-intimite"
 order: 1
-draft: true
-draftReason: "registre intime, tenu en retenue"
 ---
 
 L’orgasme de la vallée.

@@ -2,7 +2,12 @@
 import Base from '../../layouts/Base.astro';
 import TextCard from '../../components/TextCard.astro';
 import { getCollection } from 'astro:content';
-import { CATEGORY_LABELS, CATEGORY_ORDER } from '../../lib/categories';
+import {
+  CATEGORY_LABELS,
+  CATEGORY_DESCRIPTIONS,
+  CATEGORY_ORDER,
+  DESIR_INTIMITE_INTRO,
+} from '../../lib/categories';
 
 // Une page par catégorie (cinq au total), générée depuis la collection.
 // Destination des titres de catégorie de la page Textes (§5.2bis du brief).
@@ -21,11 +26,18 @@ export async function getStaticPaths() {
 
 const { category, items } = Astro.props;
 const label = CATEGORY_LABELS[category];
+const description = CATEGORY_DESCRIPTIONS[category];
 ---
 
 <Base title={label} description={`Textes de la thématique « ${label} ».`}>
   <section class="lecture" data-dbg={`theme__${category}`}>
     <h1 data-dbg="theme__titre">{label}</h1>
+    <p class="lede">{description}</p>
+    {
+      category === 'desir-intimite' && (
+        <p class="intime-intro">{DESIR_INTIMITE_INTRO}</p>
+      )
+    }
     {
       items.length > 0 ? (
         <div class="text-list">

@@ -3,8 +3,6 @@ title: "Les caresses avant les caresses"
 excerpt: "Ce n'était pas la caresse, mais l'atmosphère, qui a suscité le désir."
 category: "desir-intimite"
 order: 2
-draft: true
-draftReason: "registre intime, tenu en retenue"
 ---
 
 Il y a quelques années, ma chérie me disait être étonnée de l’effet que lui faisait une simple de mes caresses sur l’épaule. C’est là que j’ai réalisé le principe des caresses avant les caresses.

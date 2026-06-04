@@ -9,6 +9,24 @@ export const CATEGORY_LABELS = {
 
 export type Category = keyof typeof CATEGORY_LABELS;
 
+// Descriptions affichées (reprises de la sélection v10). En italique sépia sur
+// les cartes du sommaire et en sous-titre des pages de thème.
+export const CATEGORY_DESCRIPTIONS: Record<Category, string> = {
+  'amour-presence':
+    'Présence, relation à soi, l’amour déjà là, le manque, l’après-rupture.',
+  'desir-verite':
+    'Vérité, non-dits, se montrer, clarté, don vs investissement, dire ses peurs.',
+  'peur-masque': 'Le masque, la peur, le trauma du passé, les reproches.',
+  'fables-paradoxes': 'Catégorie-signature.',
+  'desir-intimite':
+    'Le registre intime, en bas de page — un seuil qu’on franchit volontairement.',
+};
+
+// Texte d’accueil du registre intime, affiché sous la carte « Désir et
+// intimité » du sommaire et en haut de la page de thème correspondante.
+export const DESIR_INTIMITE_INTRO =
+  'Plus bas, des textes plus intimes. Ils ne sont pas là pour raconter, mais pour montrer qu’une autre façon d’aimer et de désirer existe — non pas en théorie, mais vécue. Pour que la part de toi qui le pressentait sache qu’elle ne se trompait pas.';
+
 export const CATEGORY_ORDER: Category[] = [
   'amour-presence',
   'desir-verite',

@@ -204,11 +204,30 @@ hr {
 .text-card--featured .text-card-title { font-size: 1.45rem; }
 @media (max-width: 640px) { .text-card--featured .text-card-title { font-size: 1.25rem; } }
 
-/* Groupes par catégorie */
-.cat-group { margin-top: 4rem; }
-.cat-group > h2 { color: var(--encre); }
-.cat-link { text-decoration: none; color: inherit; }
-.cat-link:hover { color: var(--bleu); text-decoration: underline; text-underline-offset: 3px; }
+/* Sommaire : cartes de catégorie */
+.cat-card {
+  max-width: var(--lecture);
+  padding: 2rem 0;
+  border-bottom: 1px solid var(--filet);
+}
+.cat-card-title { color: var(--encre); margin-bottom: 0.4rem; }
+.cat-card-desc { font-style: italic; color: var(--sepia); margin-bottom: 1rem; }
+.cat-card-link {
+  font-family: var(--sans);
+  font-size: 0.9rem;
+  color: var(--bleu);
+  text-decoration: none;
+  letter-spacing: 0.02em;
+}
+.cat-card-link:hover { text-decoration: underline; text-underline-offset: 3px; }
+
+/* Texte d'accueil du registre intime (sous la carte et en haut du thème) */
+.intime-intro {
+  font-style: italic;
+  color: var(--sepia);
+  max-width: var(--lecture);
+  margin: 1rem 0 1.5rem;
+}
 
 /* Parcours numéroté */
 .steps { list-style: none; padding: 0; margin: 1.5rem 0 0; counter-reset: step; max-width: var(--lecture); }
