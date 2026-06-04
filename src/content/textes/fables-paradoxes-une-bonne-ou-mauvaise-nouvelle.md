@@ -1,6 +1,6 @@
 ---
 title: "Une bonne ou mauvaise nouvelle"
-excerpt: "Notre esprit juge vite ; mais qui peut savoir si une chose est vraiment bonne ou mauvaise ?"
+excerpt: "Notre esprit juge vite ; mais qui peut savoir si une chose est vraiment bonne ou mauvaise ?"
 category: "fables-paradoxes"
 order: 5
 ---
@@ -23,6 +23,6 @@ Notre esprit est prompt à juger les événements. C’est une bonne nouvelle. C
 
 Notre esprit est aussi prompt à juger les gens. Il m’a fait du mal. Elle m’a fait du bien. Alors qu’à bien regarder, les choses sont beaucoup plus complexes que cela et la notion de bien et de mal est relative, restreint à une période donnée, suivant des critères donnés. Mais la vie est tellement plus vaste.
 
-Mon partenaire qui m’a quitté, comme la jument qui est partie, ça m’a fait mal. Mais est-ce que cela ne m’a pas apporté un cadeau plus grand comme de la liberté et des opportunités de grandir ? Ma partenaire qui me comble, comme la venue de l’étalon, ça fait du bien. Mais est-ce que ça n’a pas aussi des inconvénients, comme une peur encore plus grande de perdre ou d’être abandonné ?
+Mon partenaire qui m’a quitté, comme la jument qui est partie, ça m’a fait mal. Mais est-ce que cela ne m’a pas apporté un cadeau plus grand comme de la liberté et des opportunités de grandir ? Ma partenaire qui me comble, comme la venue de l’étalon, ça fait du bien. Mais est-ce que ça n’a pas aussi des inconvénients, comme une peur encore plus grande de perdre ou d’être abandonné ?
 
 Moins j’ai de jugement, mieux je peux profiter au maximum de ce qui m’est donné, et au plus je suis dans la gratitude du présent … surtout quand le cadeau est la présence d’un autre être par son esprit, par son corps, par son sexe.

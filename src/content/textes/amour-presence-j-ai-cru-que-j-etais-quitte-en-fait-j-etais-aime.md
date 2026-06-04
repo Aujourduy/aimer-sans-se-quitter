@@ -1,6 +1,6 @@
 ---
-title: "J'ai cru que j'étais quitté, en fait j'étais aimé"
-excerpt: "Toutes ces fois où je me suis dit que j'étais quitté, en fait j'étais aimé."
+title: "J’ai cru que j’étais quitté, en fait j’étais aimé"
+excerpt: "Toutes ces fois où je me suis dit que j’étais quitté, en fait j’étais aimé."
 category: "amour-presence"
 order: 5
 ---
@@ -17,9 +17,9 @@ Le cœur apaisé, je ressens maintenant tout l’amour qu’elle a pour moi et c
 
 Mon cœur s’ouvre à son amour.
 
-En écrivant ces mots, j’écoute en boucle "Hercule Poirot - Redemption (Murder on the Orient Express)" sur YouTube. Cette scène m’a toujours beaucoup ému. Tu peux la mettre pour lire la suite, nous serons plus connectés par cette musique commune.
+En écrivant ces mots, j’écoute en boucle « Hercule Poirot - Redemption (Murder on the Orient Express) » sur YouTube. Cette scène m’a toujours beaucoup ému. Tu peux la mettre pour lire la suite, nous serons plus connectés par cette musique commune.
 
-Hercule Poirot s’en va laissant derrière lui les meurtriers à la police. En tant que détective, il a fait ses devoirs en démasquant les meurtriers. Il fait ce qui était juste à faire. Mais en tant qu'homme, il compatit à la douleur des meurtriers qui se sont vengés de la mort de leur enfant. Les larmes ruissellent sur les joues et ses yeux se plissent de douleurs. En tant que croyant, il sort son chapelet et prie pour le salut de leurs âmes.
+Hercule Poirot s’en va laissant derrière lui les meurtriers à la police. En tant que détective, il a fait ses devoirs en démasquant les meurtriers. Il fait ce qui était juste à faire. Mais en tant qu’homme, il compatit à la douleur des meurtriers qui se sont vengés de la mort de leur enfant. Les larmes ruissellent sur les joues et ses yeux se plissent de douleurs. En tant que croyant, il sort son chapelet et prie pour le salut de leurs âmes.
 
 Parfois ça fait mal de faire ce qui est juste pour soi. On sait qu’on va créer de la douleur. On voudrait ne pas faire souffrir ceux qu’on aime. Mais il n’y a pas d’autre solution que de suivre l’appel de notre âme même si on entend notre cœur hurler de chagrin pour ceux qu’on chérit tant.
 
@@ -27,8 +27,8 @@ Une autre femme a arrêté notre relation pour aller en Australie. Elle y était
 
 Celle qui disait non, était celle qui avait peur d’être aimée. Parce que quand j’aime, c’est moi l’acteur. C’est moi qui contrôle. C’est moi qui dis “oui”, “non”, “je ne sais pas”. Quand je suis aimé, je suis vulnérable, impuissant. C’est un cadeau merveilleux et pourtant je ne peux rien faire pour contrôler, pour le garder, pour me sécuriser. Je ne peux rien faire pour que ça dure. Je peux donner plus pour qu’elle reste plus mais elle ne m’aimera pas plus. Elle m’appréciera plus mais ne m’aimera pas plus. Tout ce que je vais faire c’est manipuler pour être aimé mais alors ce n’est pas de l’amour.
 
-L’amour est gratuit. L’amour est libre. L’amour est sans raison. On aime puis on trouve les raisons après avec notre tête pour expliquer. C’est comme les achats compulsifs. J’achète d’abord puis j’explique à ma chérie pourquoi c'était une bonne affaire.
+L’amour est gratuit. L’amour est libre. L’amour est sans raison. On aime puis on trouve les raisons après avec notre tête pour expliquer. C’est comme les achats compulsifs. J’achète d’abord puis j’explique à ma chérie pourquoi c’était une bonne affaire.
 
 J’ai été quitté encore d’autres fois. Mais ce soir, j’ai compris que toutes ces fois où je me suis dit que j’étais quitté, en fait je n’étais pas quitté. J’étais aimé. Mais seulement d’un autre endroit du monde et un autre endroit dans leur cœur.
 
-Depuis des années, j'ai reçu tous ces amours, tout cet amour en cadeau. Je le savais avec ma tête. Mais pas avec le coeur. Je les ai gardés dans leurs boîtes d'origine sans les ouvrir. Aujourd'hui, j'ose les ouvrir. J'ose les regarder en face. J'ose les accueillir dans mon coeur. Il y en a trop. Ça se bouscule dans mon coeur comme les gens dans le métro en heure pointe. Ça fait mal. Je pleure de douleur physique. Mais contrairement au métro qui est rigide, mon coeur est élastique. Il s'agrandit. Petit à petit. Ce sont des douleurs de croissances.
+Depuis des années, j’ai reçu tous ces amours, tout cet amour en cadeau. Je le savais avec ma tête. Mais pas avec le coeur. Je les ai gardés dans leurs boîtes d’origine sans les ouvrir. Aujourd’hui, j’ose les ouvrir. J’ose les regarder en face. J’ose les accueillir dans mon coeur. Il y en a trop. Ça se bouscule dans mon coeur comme les gens dans le métro en heure pointe. Ça fait mal. Je pleure de douleur physique. Mais contrairement au métro qui est rigide, mon coeur est élastique. Il s’agrandit. Petit à petit. Ce sont des douleurs de croissances.

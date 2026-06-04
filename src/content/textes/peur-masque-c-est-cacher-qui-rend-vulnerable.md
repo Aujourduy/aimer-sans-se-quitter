@@ -1,15 +1,15 @@
 ---
-title: "C'est cacher qui rend vulnérable"
-excerpt: "Achille, Siegfried, et ce point faible qu'on protège : c'est en cachant sa vulnérabilité qu'on se rend vulnérable."
+title: "C’est cacher qui rend vulnérable"
+excerpt: "Achille, Siegfried, et ce point faible qu’on protège : c’est en cachant sa vulnérabilité qu’on se rend vulnérable."
 category: "peur-masque"
 order: 2
 ---
 
 Longtemps, j’ai cru que pour me protéger il fallait cacher ce qui était fragile en moi. Même à ma partenaire. En réalité c’est le fait de cacher quelque chose en moi qui me rend vulnérable.
 
-Achille n’était pas le héros grecque doté d’une adresse extraordinaire comme le raconte certains films. Dans la mythologie grecque, sa mère l’avait plongé dans le fleuve de la mort, le Styx. Au contact de l’eau, la peau d’Achille s’est renforcée telle une cuirasse infranchissable. Toute sa peau ? Non, car il restait un endroit qui n’a pas été touché par l’eau : les talons par lesquels sa mère le tenait en le trempant dans la rivière magique. Comme par hasard, c’est à cause de ses talons qu’Achille mourut, blessé par une flèche au seul endroit vulnérable de son corps.
+Achille n’était pas le héros grecque doté d’une adresse extraordinaire comme le raconte certains films. Dans la mythologie grecque, sa mère l’avait plongé dans le fleuve de la mort, le Styx. Au contact de l’eau, la peau d’Achille s’est renforcée telle une cuirasse infranchissable. Toute sa peau ? Non, car il restait un endroit qui n’a pas été touché par l’eau : les talons par lesquels sa mère le tenait en le trempant dans la rivière magique. Comme par hasard, c’est à cause de ses talons qu’Achille mourut, blessé par une flèche au seul endroit vulnérable de son corps.
 
-Siegfried est un héros de la mythologie germanique. Il avait réussi a tué un dragon. En se baignant dans le sang de l’animal, il recouvrit sa peau d’une armure impénétrable. Toute sa peau ? Non, car une feuille était tombée sur son épaule et s’y colla au moment où il plongea dans le sang de la bête. Bien sûr, c’est à l’épaule qu’il fut blessé à mort par une lance ennemie.
+Siegfried est un héros de la mythologie germanique. Il avait réussi a tué un dragon. En se baignant dans le sang de l’animal, il recouvrit sa peau d’une armure impénétrable. Toute sa peau ? Non, car une feuille était tombée sur son épaule et s’y colla au moment où il plongea dans le sang de la bête. Bien sûr, c’est à l’épaule qu’il fut blessé à mort par une lance ennemie.
 
 Personnellement, je crois au pouvoir de l’amour. J’ai l’expérience qu’il guérit des blessures, rend plus fort et plus solide. Comme l’eau du Styx. Comme le sang du dragon. Mais faut-il encore avoir le courage de montrer son talon, son épaule. Laisser l’autre voir ma vulnérabilité.
 

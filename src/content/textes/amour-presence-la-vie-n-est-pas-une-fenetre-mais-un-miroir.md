@@ -1,6 +1,6 @@
 ---
-title: "La vie n'est pas une fenêtre mais un miroir"
-excerpt: "Ce que je vois au-dehors n'est peut-être que le reflet de ce qui m'habite."
+title: "La vie n’est pas une fenêtre mais un miroir"
+excerpt: "Ce que je vois au-dehors n’est peut-être que le reflet de ce qui m’habite."
 category: "amour-presence"
 order: 11
 ---
@@ -13,4 +13,4 @@ Pour rencontrer des belles personnes authentiques, sensibles et précieuses, c�
 
 Et nous rencontrons des femmes ou des hommes décevants, et que cela nous affecte, c’est peut-être que nous nous décevons déjà nous-mêmes.
 
-Une grande partie du travail d'accompagnement est de nettoyer le miroir des participants pour qu’ils voient clairement toute la grandeur et la beauté qu’ils ont en eux, toute la magnificence qui est déjà là.
+Une grande partie du travail d’accompagnement est de nettoyer le miroir des participants pour qu’ils voient clairement toute la grandeur et la beauté qu’ils ont en eux, toute la magnificence qui est déjà là.

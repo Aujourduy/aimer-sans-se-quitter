@@ -9,7 +9,7 @@ Quand une personne se blesse gravement à la jambe, on va lui donner des béquil
 
 Au bout d’un certain temps, le médecin lui dit de faire des exercices et de marcher sans béquilles. Le blessé obéit, fait ses exercices et guérit.
 
-Maintenant, supposons que personne ne dit au blessé qu’il faut lâcher progressivement les béquilles, et qu’il est laissé à lui-même et qu’en plus il n’avait jamais entendu parler des exercices de rééducation que va-t'il se passer ? Le blessé a appris à marcher avec ses béquilles. Il se débrouille très bien. Puis, il y a des moments où il a envie d’aller plus vite et se rend compte que les béquilles le gênent. Il essaie alors de laisser de côté les béquilles et c’est là que c’est intéressant.
+Maintenant, supposons que personne ne dit au blessé qu’il faut lâcher progressivement les béquilles, et qu’il est laissé à lui-même et qu’en plus il n’avait jamais entendu parler des exercices de rééducation que va-t’il se passer ? Le blessé a appris à marcher avec ses béquilles. Il se débrouille très bien. Puis, il y a des moments où il a envie d’aller plus vite et se rend compte que les béquilles le gênent. Il essaie alors de laisser de côté les béquilles et c’est là que c’est intéressant.
 
 Quand il essaie de faire quelques pas sans béquilles, ça lui fait mal. Il réessaie, ça lui refait mal. Il fait une pause. Il recommence, et ça lui fait encore mal. Là, un esprit sain, et une personne non masochiste se dit qu’il faut arrêter d’essayer de marcher sans béquilles. Il faut absolument garder les béquilles … et courir avec.
 

@@ -1,6 +1,6 @@
 ---
-title: "Personne ne mérite d'être quitté"
-excerpt: "Je peux partir dans l'amour, le cœur ouvert, le ventre plein de gratitude."
+title: "Personne ne mérite d’être quitté"
+excerpt: "Je peux partir dans l’amour, le cœur ouvert, le ventre plein de gratitude."
 category: "amour-presence"
 order: 8
 ---
@@ -9,7 +9,7 @@ On entend les gens expliquer à quel point leur compagnon, compagne a de graves 
 
 La bonne personne c’est soi-même. Ce n’est pas contre l’autre mais pour moi. Quand je comprends ça, j’ai beaucoup moins de colère et beaucoup plus d’affection pour l’autre. Je peux partir dans l’amour, le cœur ouvert, le ventre plein de gratitude.
 
-La bonne raison, c’est que je me sens plus heureux sans la relation qu’avec la relation. Parce qu’une relation m’apporte toujours quelque chose : la sécurité, l’affection, la sexualité, le confort, des échanges, la reconnaissance ou autre, parfois j’oublie que cela peut me couter aussi : la légèreté, la liberté, l’authenticité, l’argent, le confort, l’affection, la sexualité, les échanges ou autre. La bonne raison, c’est quand la balance bénéfice/coût est déficitaire. Comme on appelle cela une relation amoureuse, il y a un réflexe qui veut préserver la relation parce qu’on veut préserver l’amour : Tant qu’il y a de l’amour, je dois continuer la relation.
+La bonne raison, c’est que je me sens plus heureux sans la relation qu’avec la relation. Parce qu’une relation m’apporte toujours quelque chose : la sécurité, l’affection, la sexualité, le confort, des échanges, la reconnaissance ou autre, parfois j’oublie que cela peut me couter aussi : la légèreté, la liberté, l’authenticité, l’argent, le confort, l’affection, la sexualité, les échanges ou autre. La bonne raison, c’est quand la balance bénéfice/coût est déficitaire. Comme on appelle cela une relation amoureuse, il y a un réflexe qui veut préserver la relation parce qu’on veut préserver l’amour : Tant qu’il y a de l’amour, je dois continuer la relation.
 
 Mais avec cette vision, on a tendance à rester dans une relation même quand elle est plus coûteuse que bénéfique. Le temps qu’on restera dans la relation va servir à trouver des accusations à charge pour son partenaire. Tout cela parce que je veux rester innocent. Tout cela parce que je veux garder une haute opinion de moi-même.
 

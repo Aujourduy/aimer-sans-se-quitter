@@ -1,6 +1,6 @@
 ---
 title: "De la clarté"
-excerpt: "Au lieu de chercher une solution, mieux vaut d'abord chercher à y voir plus clair."
+excerpt: "Au lieu de chercher une solution, mieux vaut d’abord chercher à y voir plus clair."
 category: "desir-verite"
 order: 3
 ---
@@ -13,7 +13,7 @@ Les décisions permettent de réussir les actions pénibles.
 
 Les actions pénibles mènent à des résultats importants. Ce n’est pas parce que les actions efficaces sont toujours pénibles mais souvent on a déjà essayé tout ce qui n’était pas pénible et qui donnait des résultats.
 
-Mon meilleur exemple personnel pour illustrer ce processus est les examens en école d’ingénieur. En fin de trimestre, j’avais toujours en grand nombre de matières à réviser pour les contrôles. Comme je n'étais pas un élève super studieux mais quand même un élève ambitieux, je me montais un plan pour tout réviser quelques jours avant dans l’espoir d’obtenir une bonne note.
+Mon meilleur exemple personnel pour illustrer ce processus est les examens en école d’ingénieur. En fin de trimestre, j’avais toujours en grand nombre de matières à réviser pour les contrôles. Comme je n’étais pas un élève super studieux mais quand même un élève ambitieux, je me montais un plan pour tout réviser quelques jours avant dans l’espoir d’obtenir une bonne note.
 
 Les premières heures de révision sont très difficiles parce qu’il y a tellement de choses à revoir et si peu de temps. C’est la période de déni de la réalité. Je me dis que je vais y arriver, qu’il suffit d’apprendre ceci, puis ça, et ça aussi. Alors je commence à regarder un chapitre, comme ça ne va pas assez vite, je change et j’attaque un autre chapitre. Mais comme là non plus, je ne retiens pas assez rapidement, je change encore. Je continue de sauter de solution en solution sans rien approfondir. Je fais beaucoup, je m’agite beaucoup mais je n’avance pas beaucoup.
 
@@ -21,9 +21,9 @@ Il y a bien une partie de moi qui sent le malaise, que tout ne pourra pas entrer
 
 C’est la confusion. C’est le conflit interne. C’est les tensions.
 
-Puis vient le désespoir et la clarté : “Ok, c’est foutu ! “, “Je ne pourrai pas tout faire”, “Je ne pourrai pas avoir une bonne note”, “Je ne pourrai pas tout prendre dans la voiture”. En même temps que c’est douloureux d’un côté, il y a un grand soulagement de l’autre parce que je me sens de retour dans la réalité. “
+Puis vient le désespoir et la clarté : “Ok, c’est foutu ! “, “Je ne pourrai pas tout faire”, “Je ne pourrai pas avoir une bonne note”, “Je ne pourrai pas tout prendre dans la voiture”. En même temps que c’est douloureux d’un côté, il y a un grand soulagement de l’autre parce que je me sens de retour dans la réalité. “
 
-C’est la prise de décision : “Ok, c’est impossible de tout réviser alors quels chapitres je vais sacrifier ?”, “Ok, il y a des sacs que je ne pourrais pas prendre dans la voiture. Lesquels cela me coutera le moins de ne pas avoir ? “ On décide puis on agit, on s’organise avec ce qu’on a réellement, on fait avec la réalité.
+C’est la prise de décision : “Ok, c’est impossible de tout réviser alors quels chapitres je vais sacrifier ?”, “Ok, il y a des sacs que je ne pourrais pas prendre dans la voiture. Lesquels cela me coutera le moins de ne pas avoir ? “ On décide puis on agit, on s’organise avec ce qu’on a réellement, on fait avec la réalité.
 
 Et c’est comme ça que j’ai limité les casses aux examens. Si j’étais resté dans ma confusion à vouloir l’impossible je n’aurai pas avancé dans les révisions et j’aurai tout loupé. Si j’étais resté dans la confusion, la voiture serait encore sur place avec les valises à côté.
 

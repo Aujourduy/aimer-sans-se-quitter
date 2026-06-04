@@ -1,6 +1,6 @@
 ---
 title: "Reproches & reproches & reproches"
-excerpt: "Moins il y a de reproches, et plus il y a de l'action."
+excerpt: "Moins il y a de reproches, et plus il y a de l’action."
 category: "peur-masque"
 order: 15
 draft: true
@@ -13,4 +13,4 @@ Je n’y arrive pas toujours mais j’y travaille. Bizarrement, chez moi, moins 
 
 Evidemment, ceci n’est pas vrai tout le temps, partout, et dans toutes les situations.
 
-Mais si ça te parle, fais-moi signe ;-)
+Mais si ça te parle, fais-moi signe ;-)

@@ -1,10 +1,10 @@
 ---
-title: "Faire l'amour sans sexe"
-excerpt: "Faire l'amour sans masque, entièrement exposé, ouvert à l'autre."
+title: "Faire l’amour sans sexe"
+excerpt: "Faire l’amour sans masque, entièrement exposé, ouvert à l’autre."
 category: "desir-intimite"
 order: 15
 draft: true
-draftReason: "texte intime explicite, non surfacé pour l’instant ; corps source incomplet, à rédiger"
+draftReason: "texte intime explicite, non surfacé pour l’instant ; corps source incomplet, à rédiger"
 ---
 
-<!-- À RÉDIGER : version source incomplète -->
+<!-- À RÉDIGER : version source incomplète -->

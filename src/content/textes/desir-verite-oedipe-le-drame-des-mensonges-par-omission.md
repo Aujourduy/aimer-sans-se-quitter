@@ -5,9 +5,9 @@ category: "desir-verite"
 order: 18
 ---
 
-La tragédie d’Oedipe a été relatée depuis Sophocle dans le théâtre antique grecque jusqu'à la psychanalyse de Freud comme illustration de la condition humaine et de la noirceur de l’inconscience. Les dieux se jouant des humains comme de simples marionnettes.
+La tragédie d’Oedipe a été relatée depuis Sophocle dans le théâtre antique grecque jusqu’à la psychanalyse de Freud comme illustration de la condition humaine et de la noirceur de l’inconscience. Les dieux se jouant des humains comme de simples marionnettes.
 
-Mon expérience des constellations familiales m’a appris la vertu de la vérité comme thérapie suprême. La vérité à tout prix, quelle qu'elle soit, aussi difficile qu’elle puisse être est libératrice de la souffrance. Regardons de plus près la succession des événements en nous détachant du côté mélodramatique de l’histoire.
+Mon expérience des constellations familiales m’a appris la vertu de la vérité comme thérapie suprême. La vérité à tout prix, quelle qu’elle soit, aussi difficile qu’elle puisse être est libératrice de la souffrance. Regardons de plus près la succession des événements en nous détachant du côté mélodramatique de l’histoire.
 
 Le premier événement déclencheur fut le moment où Laïos, le roi de Thèbes, alla consulter l’oracle de Delphes. L’oracle lui annonça que son fils le tuera et épousera sa femme, Jocaste.
 
@@ -15,7 +15,7 @@ Très troublé par cette annonce, Laïos décida de ne rien dire à sa femme pou
 
 Redoutant la procréation du fils parricide, Laïos évita tout contact intime avec son épouse. Ne supportant plus que son mari l’ignore sexuellement malgré des avances répétées, un soir Jocaste s’est mise à séduire son mari tout en l’enivrant. Oubliant l’oracle de Delphes, Laïos honora son épouse d’une nuit d’amour, elle tomba enceinte.
 
-Laïos raconta à sa femme l’oracle et ils décidèrent de faire tuer leur enfant. Ils ordonnèrent à un garde d’emmener le nourrisson dans la forêt pour l’exécuter. Le garde abandonne l’enfant en l’attachant par le pied à un arbre, d’où le nom Œdipe signifiant « pied enflé ». Un paysan recueille l’enfant et l'emmène à Polybe et Mérope qui l'adoptent.
+Laïos raconta à sa femme l’oracle et ils décidèrent de faire tuer leur enfant. Ils ordonnèrent à un garde d’emmener le nourrisson dans la forêt pour l’exécuter. Le garde abandonne l’enfant en l’attachant par le pied à un arbre, d’où le nom Œdipe signifiant « pied enflé ». Un paysan recueille l’enfant et l’emmène à Polybe et Mérope qui l’adoptent.
 
 Ils ne dirent jamais à Œdipe qu’il a été trouvé et adopté. Encore un mensonge par omission bien intentionné.
 
@@ -27,4 +27,4 @@ Depuis un certain temps, je m’observe pendant les moments intimes avec ma part
 
 Heureusement, nos mensonges par omission ne conduisent pas à de tels drames mais ils nous séparent quand même de nos aimés. La sexualité étant un moment de sensibilité et de vulnérabilité, chaque mensonge est une barrière que je dresse entre ma partenaire et moi. Quand je me rappelle d’Oedipe, je me rappelle qu’il est parfois difficile de dire la vérité mais il est encore plus difficile de vivre dans le mensonge.
 
-Chaque fois que je partage une vérité aussi petite qu'elle soit, je me rapproche de ma partenaire.
+Chaque fois que je partage une vérité aussi petite qu’elle soit, je me rapproche de ma partenaire.

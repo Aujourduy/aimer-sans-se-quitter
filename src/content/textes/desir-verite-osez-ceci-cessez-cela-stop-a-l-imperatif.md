@@ -1,6 +1,6 @@
 ---
-title: "Osez ceci, cessez cela : stop à l'impératif"
-excerpt: "Stop à l'impératif, aux injonctions, aux ordres ; ne rien forcer, ne rien retenir, juste s'écouter."
+title: "Osez ceci, cessez cela : stop à l’impératif"
+excerpt: "Stop à l’impératif, aux injonctions, aux ordres ; ne rien forcer, ne rien retenir, juste s’écouter."
 category: "desir-verite"
 order: 32
 draft: true

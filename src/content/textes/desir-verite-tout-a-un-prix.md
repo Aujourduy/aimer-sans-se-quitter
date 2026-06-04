@@ -1,6 +1,6 @@
 ---
 title: "Tout a un prix"
-excerpt: "Le prix le plus cher fut celui du dépassement de soi, vers l'authenticité."
+excerpt: "Le prix le plus cher fut celui du dépassement de soi, vers l’authenticité."
 category: "desir-verite"
 order: 35
 draft: true
@@ -13,4 +13,4 @@ Si vous croyez qu’il suffit de faire des stages, de lire des livres, vous vous
 
 Le moment de vérité, jolie expression, c’est quand vous allez exprimer votre vérité dans la sexualité. Là, il n’y a plus de protection, il n’y a plus de cadre ou au contraire. Le cadre, c’est le cadre le plus difficile qui soit. L’endroit où se concentrent les tabous, les pressions sociales, les blessures personnelles comme ancestrales et toutes les peurs qui sont liées de près ou de loin à la sexualité.
 
-C’est un moment de grande vulnérabilité. Il vaut mieux s'y être préparé psychologiquement et avec méthodologie pour que ce qui était perçu comme dangereux soit une opportunité de développement personnel.
+C’est un moment de grande vulnérabilité. Il vaut mieux s’y être préparé psychologiquement et avec méthodologie pour que ce qui était perçu comme dangereux soit une opportunité de développement personnel.

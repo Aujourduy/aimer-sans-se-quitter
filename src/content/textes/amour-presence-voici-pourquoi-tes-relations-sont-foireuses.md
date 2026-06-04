@@ -1,6 +1,6 @@
 ---
 title: "Voici pourquoi tes relations sont foireuses"
-excerpt: "Cesse de chercher l'homme bien : deviens d'abord la femme que cet homme cherche."
+excerpt: "Cesse de chercher l’homme bien : deviens d’abord la femme que cet homme cherche."
 category: "amour-presence"
 order: 23
 draft: true
@@ -15,11 +15,11 @@ D’un côté, on parle du principe de l’attraction. qui dit que si on pense f
 
 Certaines femmes, et certains hommes aussi bien sûr mais je ne répéterai à chaque pour pour ne pas alourdir le texte, utilisent ce principe pour trouver le partenaire qui répondra à leurs attentes. Elles pensent à toutes les qualités qu’elles recherchent chez un amant sensible et les écrivent sur une feuille. Elles font un tableau de visualisation en imaginant comment elles se sentiraient en étant en relation avec un tel homme.
 
-Tu vois le problème ? Elles mettent le focus sur l’homme, sur l’extérieur.
+Tu vois le problème ? Elles mettent le focus sur l’homme, sur l’extérieur.
 
 Elles désirent avoir alors qu’elles considèrent que l’important c’est être.
 
-Ce qui est vraiment efficace c’est désirer être. Donc leur question ne devrait pas “Où et comment trouver un amant sensible ?” mais “Comment devenir une amante sensible ?”
+Ce qui est vraiment efficace c’est désirer être. Donc leur question ne devrait pas “Où et comment trouver un amant sensible ?” mais “Comment devenir une amante sensible ?”
 
 Au lieu de désirer rencontrer un amant sensible, désirer devenir une amante sensible. Ce n’est pas parce qu’elles ont vécu une expérience de sexualité sensible qu’elles sont des amantes sensibles. Le fait de vivre une sexualité sensible montre qu’elles ont de la sensibilité et sont capables de la recevoir.
 
@@ -29,9 +29,9 @@ Dernièrement, j’ai contacté d’anciennes participantes pour avoir de leurs 
 
 Avant c’était des Princesses, et leurs relations dépendaient du Prince. Maintenant elles sont des Reines, la qualité de leur sexualité dépend uniquement d’elles.
 
-C’est rare que je donne des conseils, j’essaie plutôt de simplement mettre les choses en perspectives, mais après avoir discuté avec plus personnes, j’ai été tellement touché par leurs désespérances, leurs renoncements à vivre une belle sexualité nourrissante. Là c’est mon petit coup de gueule, bienveillant : “Arrête de chercher à un homme bien. Cherche d’abord à être la femme que cet homme cherche.”
+C’est rare que je donne des conseils, j’essaie plutôt de simplement mettre les choses en perspectives, mais après avoir discuté avec plus personnes, j’ai été tellement touché par leurs désespérances, leurs renoncements à vivre une belle sexualité nourrissante. Là c’est mon petit coup de gueule, bienveillant : “Arrête de chercher à un homme bien. Cherche d’abord à être la femme que cet homme cherche.”
 
-Attention, il ne s'agit pas du tout de chercher à plaire. Une personne,  femme ou homme, qui cherche à plaire n'est pas centrée, n'est pas Reine dans son royaume. Cela traduit plus ou moins un manque de confiance, la peur du manque, la peur de ne pas plaire et la dépendance affective. Si une femme veut un Roi, il faut qu'elle devienne Reine. Si un homme veut une Reine, il faut qu'il devient Roi d'abord.
+Attention, il ne s’agit pas du tout de chercher à plaire. Une personne,  femme ou homme, qui cherche à plaire n’est pas centrée, n’est pas Reine dans son royaume. Cela traduit plus ou moins un manque de confiance, la peur du manque, la peur de ne pas plaire et la dépendance affective. Si une femme veut un Roi, il faut qu’elle devienne Reine. Si un homme veut une Reine, il faut qu’il devient Roi d’abord.
 
 Deviens Reine, conquiers ton royaume, reconquiers ton royaume,
 
@@ -39,8 +39,8 @@ Si tu cherches à devenir riche, arrête de jouer au loto ou au casino. Tu vas t
 
 Pour devenir riche, apprends un métier lucratif ou comment investir efficacement.
 
-Pour revenir à la sexualité sensible, je répète mon conseil : “Arrête de chercher à un homme bien. Cherche d’abord à être la femme que cet homme cherche.”
+Pour revenir à la sexualité sensible, je répète mon conseil : “Arrête de chercher à un homme bien. Cherche d’abord à être la femme que cet homme cherche.”
 
 Pour devenir Reine ou Roi, contacte-moi.
 
-Peut-être que ce post n'est pas pour toi mais pour une bonne amie ou un bon ami qui en a besoin.
+Peut-être que ce post n’est pas pour toi mais pour une bonne amie ou un bon ami qui en a besoin.

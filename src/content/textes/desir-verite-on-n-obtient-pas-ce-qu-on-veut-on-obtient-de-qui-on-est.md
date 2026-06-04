@@ -1,6 +1,6 @@
 ---
-title: "On n'obtient pas ce qu'on veut, on obtient de qui on est"
-excerpt: "On n'obtient pas quelque chose parce qu'on le veut, mais parce que c'est l'expression de qui on est."
+title: "On n’obtient pas ce qu’on veut, on obtient de qui on est"
+excerpt: "On n’obtient pas quelque chose parce qu’on le veut, mais parce que c’est l’expression de qui on est."
 category: "desir-verite"
 order: 38
 draft: true
@@ -15,9 +15,9 @@ Si je reste chez moi à méditer sur la médaille d’or, ressentir le succès, 
 
 La sexualité authentique et sensible est possible pour tout le monde mais il ne suffit pas de le vouloir. Il ne suffit pas d’espérer. Il ne suffit pas de faire des rencontres. Faire des rencontres, c’est pareil que se placer sur la ligne de départ. Ce n’est pas ça qui va me faire finir le marathon. La sexualité sensible est un marathon, oui. Cela demande beaucoup d’efforts. Des efforts pour être honnête. Des efforts pour exprimer des choses qui nous rendent vulnérables. Des choses qui dévoilent nos peurs et nos blessures.
 
-Pour finir le marathon, il faut être un athlète : renoncer à une alimentation trop sucrée, grasse ou salée; avoir un entraînement pour une bonne musculature; développer des capacités respiratoires,.
+Pour finir le marathon, il faut être un athlète : renoncer à une alimentation trop sucrée, grasse ou salée; avoir un entraînement pour une bonne musculature; développer des capacités respiratoires,.
 
-Pour vivre une sexualité sensible, il faut être un amant sensible : renoncer aux contes de fées de princes et princesses charmants; avoir un entraînement pour être complètement authentique; développer des capacités à accueillir les émotions désagréables pour les sublimer; démontrer le courage de s’exposer.
+Pour vivre une sexualité sensible, il faut être un amant sensible : renoncer aux contes de fées de princes et princesses charmants; avoir un entraînement pour être complètement authentique; développer des capacités à accueillir les émotions désagréables pour les sublimer; démontrer le courage de s’exposer.
 
 On ne finit pas un marathon parce qu’on veut, même de toutes ses forces. On finit un marathon parce qu’on est marathonien, qu’on mange comme un marathonien, qu’on s’entraîne comme un marathonien.
 

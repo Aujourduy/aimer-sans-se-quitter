@@ -1,6 +1,6 @@
 ---
 title: "De la jalousie dans une simple soupe"
-excerpt: "La jalousie ne vient pas du curry, mais de l'imaginaire d'une autre vie que la mienne."
+excerpt: "La jalousie ne vient pas du curry, mais de l’imaginaire d’une autre vie que la mienne."
 category: "amour-presence"
 order: 19
 ---
@@ -13,7 +13,7 @@ Pendant que je mangeais, mon esprit faisait des allers-retours entre ma soupe et
 
 Ce jour-là, j’avais vraiment compris, intégré que la jalousie n’était pas dû au curry mais à mon imaginaire d’un curry qui aurait pu être dans ma bouche. La jalousie vient de l’imaginaire que je pourrai vivre autre chose que mon présent et être à la place de la personne dont je suis jaloux.
 
-Cette expérience de soupe était un excellent entraînement pour la jalousie amoureuse. Ma chérie voyait de temps en temps d’autres hommes et les premières fois ça me piquait beaucoup jusqu’à ce que je me rends compte que mon mental faisait la même chose qu’avec le curry. C’était mon imaginaire qui me faisait souffrir parce qu’en réalité, je ne sais pas réellement ce que ma partenaire a vécu avec ses amants. Des fois c’était bien, des fois c’était décevant. Mais quand j’y pensais, j’imaginais toujours qu’elle vivait un truc extra-ordinaire alors que moi, ce que j'étais en train de vivre était banal et ennuyeux. Mais ça, c’était parce que si je vivais un truc intéressant, je n’aurais pas le temps ni l’énergie pour penser à ma chérie.
+Cette expérience de soupe était un excellent entraînement pour la jalousie amoureuse. Ma chérie voyait de temps en temps d’autres hommes et les premières fois ça me piquait beaucoup jusqu’à ce que je me rends compte que mon mental faisait la même chose qu’avec le curry. C’était mon imaginaire qui me faisait souffrir parce qu’en réalité, je ne sais pas réellement ce que ma partenaire a vécu avec ses amants. Des fois c’était bien, des fois c’était décevant. Mais quand j’y pensais, j’imaginais toujours qu’elle vivait un truc extra-ordinaire alors que moi, ce que j’étais en train de vivre était banal et ennuyeux. Mais ça, c’était parce que si je vivais un truc intéressant, je n’aurais pas le temps ni l’énergie pour penser à ma chérie.
 
 Ça prend un certain temps pour mettre à distance mon imaginaire et revenir à la réalité.
 

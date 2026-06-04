@@ -1,6 +1,6 @@
 ---
 title: "La pyramide de Khéops et la tour Eiffel"
-excerpt: "Plutôt qu'éveiller quelques zones, développer la sensibilité de tout le corps, couche après couche."
+excerpt: "Plutôt qu’éveiller quelques zones, développer la sensibilité de tout le corps, couche après couche."
 category: "desir-intimite"
 order: 9
 draft: true
@@ -11,7 +11,7 @@ Il y eut un temps où j’étais très curieux sur l’anatomie féminin. Je vou
 
 Puis j’ai découvert l’écoute, la présence et surtout la globalité. Les livres que j’avais lus ne répondaient pas vraiment à ce que je voulais. Parce que j’avais mal posé la question.
 
-Mon erreur était de croire que le but était d'amener ma partenaire vers la plus grande excitation le plus rapidement possible en me focalisant sur quelques zones. Il y a une autre façon de faire, c’est de développer la sensibilité dans l’ensemble du corps.
+Mon erreur était de croire que le but était d’amener ma partenaire vers la plus grande excitation le plus rapidement possible en me focalisant sur quelques zones. Il y a une autre façon de faire, c’est de développer la sensibilité dans l’ensemble du corps.
 
 Pour imager ces propos sur l’excitation du corps, je vais utiliser une comparaison entre la tour Eiffel et la pyramide de Khéops.
 

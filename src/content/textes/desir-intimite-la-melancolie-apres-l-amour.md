@@ -1,13 +1,13 @@
 ---
-title: "La mélancolie après l'amour"
-excerpt: "Deux mélancolies après le sexe : celle des petits cailloux, celle des bulles."
+title: "La mélancolie après l’amour"
+excerpt: "Deux mélancolies après le sexe : celle des petits cailloux, celle des bulles."
 category: "desir-intimite"
 order: 20
 draft: true
 draftReason: "texte intime explicite, non surfacé pour l’instant"
 ---
 
-La dysphorie post-coïtale, le “sex-blues”, est un puissant sentiment de mélancolie, une irritabilité ou des sanglots et survient entre cinq minutes et deux heures après avoir fait l'amour. Cela arrive plus souvent chez les femmes mais aussi chez les hommes. Les scientifiques émettent des hypothèses physiologiques et psychologiques de manières statistiques : combien de personnes, combien de fois, quels profils psychologiques etc.
+La dysphorie post-coïtale, le “sex-blues”, est un puissant sentiment de mélancolie, une irritabilité ou des sanglots et survient entre cinq minutes et deux heures après avoir fait l’amour. Cela arrive plus souvent chez les femmes mais aussi chez les hommes. Les scientifiques émettent des hypothèses physiologiques et psychologiques de manières statistiques : combien de personnes, combien de fois, quels profils psychologiques etc.
 
 Pour moi, il faut regarder au niveau individuel, élémentaire au cas par cas. De ce que j’ai observé pour mes partenaires et moi, il y a deux types de mélancolies après le sexe. La mélancolie des petits cailloux et la mélancolie des petites bulles.
 

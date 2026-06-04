@@ -1,5 +1,5 @@
 ---
-title: "Il suffit de trouver la bonne personne ?"
+title: "Il suffit de trouver la bonne personne ?"
 excerpt: "Être heureux pour rencontrer, au lieu de rencontrer pour être heureux."
 category: "amour-presence"
 entry: true
@@ -7,7 +7,7 @@ entryRole: "deplacement"
 order: 2
 ---
 
-C’est pour certain le fantasme que les problèmes amoureux, les insatisfactions relationnelles et les frustrations sexuelles vont disparaître dès qu'on aura trouvé la bonne personne, le bon partenaire.
+C’est pour certain le fantasme que les problèmes amoureux, les insatisfactions relationnelles et les frustrations sexuelles vont disparaître dès qu’on aura trouvé la bonne personne, le bon partenaire.
 
 Quand j’aurai trouvé la bonne personne, je me sentirai aimé, désiré. J’aurai confiance en moi, de l’estime pour moi, etc. Je sentirai de la joie, de la légèreté.
 

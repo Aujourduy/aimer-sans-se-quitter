@@ -1,6 +1,6 @@
 ---
 title: "Comment faire pleurer une femme"
-excerpt: "Si peu de mots sur les larmes de joie, ce trop-plein qui vient quand la confiance s'ouvre."
+excerpt: "Si peu de mots sur les larmes de joie, ce trop-plein qui vient quand la confiance s’ouvre."
 category: "desir-intimite"
 order: 3
 ---
@@ -17,13 +17,13 @@ C’est une vague de sensations, de ressentis. Un mélange de gratitude, d’ém
 
 On ne voit pas ça dans les films. On en parle rarement, peu savent que cela existe et encore moins qui le vivent. Maintenant que vous savez que c’est possible, forcément votre esprit sera ouvert à cela. Vous n’avez pas besoin de le chercher. On n’a pas besoin d’aller vers, c’est simplement quelque chose qui vient quand on est dans une grande confiance, intimité et complicité.
 
-Alors comment faire pleurer une femme ?
+Alors comment faire pleurer une femme ?
 
 Je peux seulement donner quelques pistes. Pas forcément suffisantes mais nécessaires.
 
-Pas d’attente : ni de jouir, ni de plaisir. Juste rester présent à ce qui se passe. Cela laissera à votre partenaire toute la liberté d’explorer et d’accueillir ce qui arrive.
+Pas d’attente : ni de jouir, ni de plaisir. Juste rester présent à ce qui se passe. Cela laissera à votre partenaire toute la liberté d’explorer et d’accueillir ce qui arrive.
 
-Pas de fuite : restez présent, regardez et accueillez toutes les émotions qui viennent à vous. C’est ok d’avoir peur, c’est ok de sentir la tristesse monter, c’est ok de voir arriver la colère.
+Pas de fuite : restez présent, regardez et accueillez toutes les émotions qui viennent à vous. C’est ok d’avoir peur, c’est ok de sentir la tristesse monter, c’est ok de voir arriver la colère.
 
 Laissez pleurer votre amante, laissez la crier, vomir, hurler, se débattre. Vous pouvez la prendre dans vos bras, pour la soutenir mais non pour la calmer, non pour l’apaiser, non pour la réconforter. En cherchant à la calmer, à l’apaiser ou la réconforter, vous lui signifiez que l’expérience est négative. Vous la censurez dans l’expression de sa nature sauvage. Peut-être lui tenir fermement les mains, pour l’empêcher de se faire mal, oui mais sans intention de la calmer. Au contraire, je peux la tenir fermement pour lui montrer ma force, ma puissance, ma solidité face à ses émotions et lui prouver qu’elle peut tout faire, je serai plus fort qu’elle physiquement et émotionnellement.
 
