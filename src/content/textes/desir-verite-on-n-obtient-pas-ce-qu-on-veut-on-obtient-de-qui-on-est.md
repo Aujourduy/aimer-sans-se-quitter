@@ -15,7 +15,7 @@ Si je reste chez moi à méditer sur la médaille d’or, ressentir le succès, 
 
 La sexualité authentique et sensible est possible pour tout le monde mais il ne suffit pas de le vouloir. Il ne suffit pas d’espérer. Il ne suffit pas de faire des rencontres. Faire des rencontres, c’est pareil que se placer sur la ligne de départ. Ce n’est pas ça qui va me faire finir le marathon. La sexualité sensible est un marathon, oui. Cela demande beaucoup d’efforts. Des efforts pour être honnête. Des efforts pour exprimer des choses qui nous rendent vulnérables. Des choses qui dévoilent nos peurs et nos blessures.
 
-Pour finir le marathon, il faut être un athlète : renoncer à une alimentation trop sucrée, grasse ou salée; avoir un entraînement pour une bonne musculature; développer des capacités respiratoires,.
+Pour finir le marathon, il faut être un athlète : renoncer à une alimentation trop sucrée, grasse ou salée; avoir un entraînement pour une bonne musculature; développer des capacités respiratoires.
 
 Pour vivre une sexualité sensible, il faut être un amant sensible : renoncer aux contes de fées de princes et princesses charmants; avoir un entraînement pour être complètement authentique; développer des capacités à accueillir les émotions désagréables pour les sublimer; démontrer le courage de s’exposer.
 
@@ -23,7 +23,7 @@ On ne finit pas un marathon parce qu’on veut, même de toutes ses forces. On f
 
 Pour les femmes et les hommes qui veulent vivre une sexualité sensible, oui c’est possible, oui c’est sublime quand on le vit mais il y a un prix. Il y a des épreuves. Il y a un entraînement. À tout effet, il y a des causes. Vouloir séparer les effets des causes c’est courir vers la déception, la désillusion, la souffrance. Vouloir finir un marathon sans s’y préparer, c’est aller tout droit vers la blessure. Vouloir une sexualité sensible sans s’y préparer, c’est prendre aussi le risque de se blesser.
 
-Je vois des personnes déçues de leur sexualité, déçues de leurs partenaires mais qui continuent à se goinfrer d’illusions sucrées, de gourmandises romantiques et d’espoirs dans la rencontre d’un nouveau partenaire idéal. Elles vont de partenaire en partenaire comme le coureur qui s’inscrit dans des courses successives sans s’entraîner vraiment. Alors oui, chaque nouvelle relation la fera progresser, comme chaque course développera ses capacités physiques. Mais c’est tellement d’énergie et de temps gaspillés. Cela sera tellement plus efficient de suivre un entraînement dédié.
+Je vois des personnes déçues de leur sexualité, déçues de leurs partenaires mais qui continuent à se goinfrer d’illusions sucrées, de gourmandises romantiques et d’espoirs dans la rencontre d’un nouveau partenaire idéal. Elles vont de partenaire en partenaire comme le coureur qui s’inscrit dans des courses successives sans s’entraîner vraiment. Alors oui, chaque nouvelle relation les fera progresser, comme chaque course développera ses capacités physiques. Mais c’est tellement d’énergie et de temps gaspillés. Cela sera tellement plus efficient de suivre un entraînement dédié.
 
 Si quelqu’un sent vraiment le marathonien en lui, ce qu’il peut faire de mieux c’est de suivre un programme complet, efficace et adapté pour pouvoir exprimer le marathonien en lui. Cela lui permettrait d’atteindre ses objectifs de manière plus sûre et plus rapide.
 

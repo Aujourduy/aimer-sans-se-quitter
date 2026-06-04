@@ -21,7 +21,7 @@ Dans la relation amoureuse, plus j’ai une attente forte, un besoin fort, des p
 
 Le conseil que je donne à mes clients pour bien communiquer est d’abord de se préparer et d’anticiper le fait que la communication ne donne pas les résultats escomptés. Se préparer à ne pas être compris, accepté ou aimé par son interlocuteur. Ensuite, oui, chercher des techniques de communication adaptées.
 
-À ce moment-là, on est prêt pour une bonne communication. Parce que même si on n’est pas compris au début, on peut rester serein et chercher d’autres formulations, d’autres façons de s’exprimer et d’expliquer les choses jusqu’à arriver à un résultat satisfaisant ou abandonner pour revenir peut-être un autre moment. Mais pour cela, il faut être serein et lâcher prise sur ses attentes.
+À ce moment-là, on est prêt pour une bonne communication. Parce que même si on n’est pas compris au début, on peut rester serein et chercher d’autres formulations, d’autres façons de s’exprimer et d’expliquer les choses jusqu’à arriver à un résultat satisfaisant ou abandonner pour revenir peut-être à un autre moment. Mais pour cela, il faut être serein et lâcher prise sur ses attentes.
 
 Avant toute communication délicate, il faut dissoudre le plus possible les charges émotionnelles liées à la discussion. Cela ne signifie pas qu’il n’y a plus d’émotions, mais qu’on est arrivé à un niveau gérable de ses émotions.
 

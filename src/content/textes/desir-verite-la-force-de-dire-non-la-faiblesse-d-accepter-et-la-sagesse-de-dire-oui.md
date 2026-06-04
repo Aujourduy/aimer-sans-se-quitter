@@ -19,7 +19,7 @@ Il faut de la force pour dire non. Mais quand on n’a pas eu la force de le fai
 
 On ne peut pas transformer un ‘Oui’ du passé en un ‘Non’ du passé. Mais on peut le transformer en un ‘Oui’ du présent pour ce qui s’est passé. Ce qui s’est passé devait arriver comme ça. Je n’avais pas la force de dire non ? Et bien, ce n’est pas grave. Ce dont j’ai besoin aujourd’hui c’est la sagesse de dire ‘Oui’ à ce qui s’est passé. Accueillir l’expérience, les émotions, la colère peut-être, la tristesse peut-être, voire même le désespoir qui sait.
 
-La sagesse de voir et de reconnaître ma faiblesse dans le passé. La sagesse de reconnaître que la stratégie n’a pas marché. Je voulais sauver la relation à mon détriment mais une relation ne peut être belle quand on doit renoncer à soi-même. Parce que quand j’aurai renoncé à moi-même, que restera-t-il de la relation ? Une coquille creuse qu’on essaie de préserver parce qu’on y a trop investi ? C’est un effort qui va encore me couter de moi-même.
+La sagesse de voir et de reconnaître ma faiblesse dans le passé. La sagesse de reconnaître que la stratégie n’a pas marché. Je voulais sauver la relation à mon détriment mais une relation ne peut être belle quand on doit renoncer à soi-même. Parce que quand j’aurai renoncé à moi-même, que restera-t-il de la relation ? Une coquille creuse qu’on essaie de préserver parce qu’on y a trop investi ? C’est un effort qui va encore me coûter de moi-même.
 
 Définitivement, je ne peux pas être heureux dans une relation si je dois renoncer à moi-même. Reconnaître cette vérité, c’est cela qui m’a donné la force aujourd’hui de dire non à ce qui ne me convient pas.
 

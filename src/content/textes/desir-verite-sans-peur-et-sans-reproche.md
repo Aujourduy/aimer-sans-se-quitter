@@ -9,11 +9,11 @@ La plupart des conseils que je vois sur la sexualité, surtout de la part des pr
 
 Si vous avez un petit enfant qui vous a massé, qui vous a papouillé, vous comprenez ce que je veux dire. Il n’a aucune connaissance ni technique. Il est simplement dans la joie et la curiosité du contact.
 
-Ceux qui ne vous parlent que du faire sans parler de l’être, ce que je vois énormément même chez les formateurs de tantra, de sexualité sacrée, sont soit inconscients soit ignorants des difficultés réels des gens.
+Ceux qui ne vous parlent que du faire sans parler de l’être, ce que je vois énormément même chez les formateurs de tantra, de sexualité sacrée, sont soit inconscients soit ignorants des difficultés réelles des gens.
 
 Être sans peur : c’est lâcher les peurs de décevoir, de blesser, de ne pas jouir, de ne pas faire jouir, d’être quitté, de ne pas être à la hauteur, de ne pas mériter ce dont on a envie, de ne pas recevoir ce qu’on veut.
 
-Être sans reproche, mais vis-à-vis de l’autre. Ne rien lui reprocher. Ne rien demander. Ne rien reprocher ne signifie pas que je n’ai pas le droit d’être déçu. Bien sûr des fois je suis déçu mais c’est léger. Comme quand je suis déçu qu’il pleut mais je ne fais pas de reproches au ciel. Ne rien demander ne signifie pas que je n’ai pas le droit d’avoir des envies. Bien sûr, j’ai des envies. J’ai envie de telles caresses, de tels baisers, de telles positions, de faire telle expérience avec toi. Je les exprime, je les communique, parce que je suis sans peur. Si l’autre a vraiment ces envies, nous les partageons et explorons ensemble. Sinon, rien. Nous profitons seulement de ce qui nous plaît vraiment à tous les deux.
+Être sans reproche, mais vis-à-vis de l’autre. Ne rien lui reprocher. Ne rien demander. Ne rien reprocher ne signifie pas que je n’ai pas le droit d’être déçu. Bien sûr des fois je suis déçu mais c’est léger. Comme quand je suis déçu qu’il pleuve mais je ne fais pas de reproches au ciel. Ne rien demander ne signifie pas que je n’ai pas le droit d’avoir des envies. Bien sûr, j’ai des envies. J’ai envie de telles caresses, de tels baisers, de telles positions, de faire telle expérience avec toi. Je les exprime, je les communique, parce que je suis sans peur. Si l’autre a vraiment ces envies, nous les partageons et explorons ensemble. Sinon, rien. Nous profitons seulement de ce qui nous plaît vraiment à tous les deux.
 
 Une sexualité magnifique se résume à ça : Être sans peur et sans reproche.
 
@@ -29,7 +29,7 @@ Bon, ceci c’est mon expérience, mon analyse. Peut-être qu’il y a des situa
 
 Je ne dis pas que c’est inutile d’avoir des connaissances sur l’anatomie, sur des techniques et des pratiques … mais c’est très secondaire. C’est intéressant. En plus, ça rassure d’apprendre de nouvelles choses parce qu’on a l’impression d’avancer. Mais on avance en rond. On tourne en rond tenu par la laisse de sa peur, ses peurs profondes.
 
-SI j’avais qu’un seul conseil à vous donner pour vivre une sexualité sensible c’est :
+Si je n’avais qu’un seul conseil à vous donner pour vivre une sexualité sensible c’est :
 
 Ne cherchez pas à mieux faire mais cherchez à être sans peur et sans reproches.
 
@@ -39,4 +39,4 @@ Ne cherchez pas à mieux faire mais cherchez à être sans peur et sans reproche
 
 Il y a des personnes qui ont besoin d’entendre au moins trois fois une chose pour l’intégrer. Enfin, c’est ce que mon ex-femme disait souvent de moi … et bien plus que trois fois.
 
-La lumière existe, j’y ai cru, j’ai marché vers elle, je l’ai vu et j’y suis arrivée. C’est parce que j’ai marché vers elle que je l’ai vue et non le contraire.
+La lumière existe, j’y ai cru, j’ai marché vers elle, je l’ai vue et j’y suis arrivé. C’est parce que j’ai marché vers elle que je l’ai vue et non le contraire.
