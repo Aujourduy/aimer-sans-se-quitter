@@ -7,7 +7,7 @@ entryRole: "deplacement"
 order: 2
 ---
 
-C’est pour certain le fantasme que les problèmes amoureux, les insatisfactions relationnelles et les frustrations sexuelles vont disparaître dès qu’on aura trouvé la bonne personne, le bon partenaire.
+C’est pour certains le fantasme que les problèmes amoureux, les insatisfactions relationnelles et les frustrations sexuelles vont disparaître dès qu’on aura trouvé la bonne personne, le bon partenaire.
 
 Quand j’aurai trouvé la bonne personne, je me sentirai aimé, désiré. J’aurai confiance en moi, de l’estime pour moi, etc. Je sentirai de la joie, de la légèreté.
 
@@ -15,6 +15,6 @@ Peut-être que c’est le contraire. Peut-être que c’est le fait d’être en
 
 Au lieu d’attendre de rencontrer la bonne personne pour oser lui révéler qui je suis, je pourrais montrer ma vraie nature à chaque personne que je rencontre, montrer ma vraie lumière, montrer ma vulnérabilité.
 
-Et au lieu de chercher quelqu’un qui m’aime pour qui je suis, je commençais par m’aimer tel que je suis. Et si je commençais par être heureux avant la rencontre.
+Et au lieu de chercher quelqu’un qui m’aime pour qui je suis, je commencerais par m’aimer tel que je suis. Et si je commençais par être heureux avant la rencontre.
 
 Être heureux pour rencontrer au lieu de rencontrer pour être heureux.
