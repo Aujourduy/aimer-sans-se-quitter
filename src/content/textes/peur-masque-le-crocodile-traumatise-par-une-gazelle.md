@@ -13,7 +13,7 @@ Coco grandit. Il fait maintenant près de 6 m de long. Il est grand, il est fort
 
 Aujourd’hui cette partie de la rivière commence à manquer de poisson pour nourrir le clan de crocodiles. Un conseil se réunit et décide de remonter la rivière pour aller au pays des gazelles. Ils ont entendu des crocodiles dire en amont que les gazelles étaient une bonne nourriture.
 
-Coco est en panique ! Il a peur des gazelles même s’il n’en a pas vu depuis dix ans. Il a encore la marque de sa blessure. Une blessure qui fait le tiers de sa queue soit presque un mètre de long. Il explique aux autres crocodiles que les gazelles sont des être gigantesques, extrêmement dangereux, d’une taille phénoménale pour preuve la marque du sabot sur sa queue. Sa blessure de un mètre de long, la taille d’un sabot de gazelle, alors imaginer le reste de la bête est tout simplement monstrueux !
+Coco est en panique ! Il a peur des gazelles même s’il n’en a pas vu depuis dix ans. Il a encore la marque de sa blessure. Une blessure qui fait le tiers de sa queue soit presque un mètre de long. Il explique aux autres crocodiles que les gazelles sont des êtres gigantesques, extrêmement dangereux, d’une taille phénoménale pour preuve la marque du sabot sur sa queue. Sa blessure de un mètre de long, la taille d’un sabot de gazelle, alors imaginer le reste de la bête est tout simplement monstrueux !
 
 Coco ne veut pas aller à la rencontre des gazelles. Les autres crocodiles suivent les conseils de leurs cousins et partent au pays des gazelles. Coco, reste ici, perdu, malheureux et affamé.
 
@@ -23,10 +23,10 @@ Les mêmes causes produisent les mêmes effets oui ! Mais ce qui a blessé Coc
 
 Peut-être que toi aussi tu es un crocodile Coco. Que tu as été traumatisé, meurtri par quelqu’un ou quelque chose qui t’a profondément et affreusement blessé.
 
-Si j’avais Coco dans mon accompagnement je lui dirai ceci :
+Si j’avais Coco dans mon accompagnement je lui dirais ceci :
 
 Mais mon Coco, tu as grandi depuis. Aujourd’hui, Coco tu es cent fois plus grand que le bébé que tu étais. Tu as grandi avec tout ce chemin, tout ton parcours, les stages, les thérapies, les coachings et les expériences de vie.
 
-C’est normal d’avoir peur, Coco. Tu as grandi mais tu ne t’es pas vu grandir face à la gazelle, à ce qui t’a blessé. Tu as grandi et la cicatrice avec laquelle tu évalues le danger a grandi avec toi. Mais ce n’est pas un bon indicateur. Ce n’est pas réel. La gazelle gigantesque dans ton souvenir n’existe plus. Ouvre les yeux mon Coco. Confronte toi à la réalité et vas bouffer ces gazelles ! C’est ce dont tu as besoin pour vivre et maintenant.
+C’est normal d’avoir peur, Coco. Tu as grandi mais tu ne t’es pas vu grandir face à la gazelle, à ce qui t’a blessé. Tu as grandi et la cicatrice avec laquelle tu évalues le danger a grandi avec toi. Mais ce n’est pas un bon indicateur. Ce n’est pas réel. La gazelle gigantesque dans ton souvenir n’existe plus. Ouvre les yeux mon Coco. Confronte-toi à la réalité et va bouffer ces gazelles ! C’est ce dont tu as besoin pour vivre et maintenant.
 
 Voilà mon Coco ce que j’ai à te dire.

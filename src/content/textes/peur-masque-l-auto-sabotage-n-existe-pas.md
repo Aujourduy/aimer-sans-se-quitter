@@ -45,12 +45,12 @@ Il n’y a pas d’ennemi en nous. Il n’y a que des amis. Même si nous sommes
 
 Je me méfie des formateurs qui utilisent les mots “auto-sabotage” ou équivalents. Je me méfie des enseignants, des conférenciers qui voient une partie de soi-même comme quelque chose à combattre, à dépasser et non quelque chose à aimer et à faire grandir.
 
-Cela ne signifie absolument pas rester inactif. Mais au lieu d’essayer de ramasser tous les cailloux sur terre, au lieu d’entraîner mon pied à résister voire à dépasser la douleur, je lui donne de l’amour. Et l’amour peut prendre des formes très différentes. Par exemple, l’amour peut prendre la forme d’une chaussure ou d’une tongue. L’amour peut prendre la forme d’un désinfectant, d’un pansement voire des points de sutures.
+Cela ne signifie absolument pas rester inactif. Mais au lieu d’essayer de ramasser tous les cailloux sur terre, au lieu d’entraîner mon pied à résister voire à dépasser la douleur, je lui donne de l’amour. Et l’amour peut prendre des formes très différentes. Par exemple, l’amour peut prendre la forme d’une chaussure ou d’une tong. L’amour peut prendre la forme d’un désinfectant, d’un pansement voire des points de suture.
 
 Il n’y a pas à se battre contre soi-même. Il y a seulement à se donner plus d’amour à soi-même.
 
 Quand vous utilisez le concept d’auto-sabotage : vous vous voyez comme l’ennemi de vous-même alors que vous êtes déjà votre meilleur ami et c’est simplement que la situation est le 1/100 des cas où l’expression de cette affection n’est pas adaptée. Un ami qui vous a fait du tort une fois et vous a sauvé 99 fois. Traitez-le avec l’affection, le respect qu’il mérite.
 
-Dans la sexualité, si vous vivez vos blocages comme des ennemis à votre plaisir, à votre légèreté et à votre présence, vous rajoutez du chagrin à la difficulté. Vous surcharger la frustration avec de la colère. Cherchez simplement un moyen plus adapté pour exprimer l’amour et la liberté. Mon séminaire est un moyen parmi d’autres.
+Dans la sexualité, si vous vivez vos blocages comme des ennemis à votre plaisir, à votre légèreté et à votre présence, vous rajoutez du chagrin à la difficulté. Vous surchargez la frustration avec de la colère. Cherchez simplement un moyen plus adapté pour exprimer l’amour et la liberté. Mon séminaire est un moyen parmi d’autres.
 
-Ce que d’autres appellent auto-sabotage, je les vois comme des occasions précieuses de faire grandir la liberté, la clarté en moi. Je les accueillent comme un rappel pour me donner plus d’amour à moi-même. Je n’ai pas toujours la disponibilité et l’énergie pour le faire. Mais quand j’y arrive, je suis rempli de gratitude pour la vie.
+Ce que d’autres appellent auto-sabotage, je les vois comme des occasions précieuses de faire grandir la liberté, la clarté en moi. Je les accueille comme un rappel pour me donner plus d’amour à moi-même. Je n’ai pas toujours la disponibilité et l’énergie pour le faire. Mais quand j’y arrive, je suis rempli de gratitude pour la vie.

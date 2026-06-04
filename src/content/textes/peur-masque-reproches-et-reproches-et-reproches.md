@@ -11,6 +11,6 @@ Il y a 2 façons pour arrêter de se reprocher des choses. Changer ces choses ou
 
 Je n’y arrive pas toujours mais j’y travaille. Bizarrement, chez moi, moins il y a de reproches, et plus il y a de l’action.
 
-Evidemment, ceci n’est pas vrai tout le temps, partout, et dans toutes les situations.
+Évidemment, ceci n’est pas vrai tout le temps, partout, et dans toutes les situations.
 
 Mais si ça te parle, fais-moi signe ;-)
