@@ -1,8 +1,8 @@
 ---
 title: "Quand j'aurai, je serai"
-excerpt: "On rêve de l'Amour qui viendra plus tard, mais la Vérité est la condition d'aujourd'hui."
+excerpt: "L'Amour guérit, mais la Vérité est la condition nécessaire."
 category: "desir-verite"
-order: 7
+order: 8
 ---
 
 "Quand j’aurai trouvé une amoureuse, je serai heureux"
@@ -24,3 +24,5 @@ L’Amour est beau, l’Amour est grand, l’Amour guérit mais la Vérité est 
 Beaucoup de personnes cherchent l’Amour pour pouvoir se montrer dans leur Vérité. C’est une illusion. On nous vend cette promesse commerciale de où trouver l’Amour, comment trouver l’Amour, comment attirer le bon partenaire sans nous dire le prix réel à payer : dire la Vérité. Dire ma vérité dès la première rencontre. Dire ma vérité sur mes fantasmes. Dire ma vérité pendant la sexualité. Et là on comprend mieux pourquoi les gens sont prêts à dépenser des années et des années, des milliers et des milliers d’euros si quelqu’un leur promet l’Amour sans s’exposer.
 
 Pas besoin de connaître cent pratiques sexuelles énergétiques ou spirituelles, une ou deux suffisent. Au delà, pour beaucoup, moi le premier pendant des années, cette quête de connaissances, d’information n’est qu’une tentative d’atteindre l’Amour sans passer par la Vérité absolue.
+
+Tout mon coaching Vivre un Grand Amour au niveau du Coeur et de la Sexualité est basé sur l’efficience qui découle de ce principe : Oser sa Vérité, Déployer sa Liberté, Honorer sa Sexualité.

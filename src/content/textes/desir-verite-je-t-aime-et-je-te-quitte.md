@@ -1,6 +1,6 @@
 ---
 title: "Je t'aime et je te quitte"
-excerpt: "Aimer n'est pas une raison de rester ; on peut quitter quelqu'un qu'on aime encore."
+excerpt: "Aimer n'est pas une bonne raison de rester ; le bon critère, c'est d'être plus heureux."
 category: "desir-verite"
 order: 2
 ---

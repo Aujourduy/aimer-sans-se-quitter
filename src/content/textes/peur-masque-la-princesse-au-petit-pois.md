@@ -1,9 +1,10 @@
 ---
 title: "La princesse au petit pois"
-excerpt: "Sous la pile de matelas, le petit pois était mon masque."
+excerpt: "Le petit pois sous mes matelas, c'était le masque que je portais."
 category: "peur-masque"
-order: 10
+order: 11
 draft: true
+draftReason: "thème sexuel à recadrer vers le relationnel"
 ---
 
 C’est un conte d’Andersen pas très connu. Quand j’ai entendu l’histoire la première fois, j’ai trouvé sa morale lamentable. C’était l’apologie de la fragilité de cette princesse, faible, sans défense mais surtout douillette.

@@ -1,6 +1,6 @@
 ---
 title: "Il n'y avait personne dans la valise"
-excerpt: "Dans un train, une dispute m'apprend qu'on en veut à une valise, jamais à personne."
+excerpt: "Il n'y a personne dans la valise : seulement des blessures, des peurs, des traumatismes."
 category: "fables-paradoxes"
 order: 3
 ---

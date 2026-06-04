@@ -1,6 +1,6 @@
 ---
 title: "Le piège à guêpe"
-excerpt: "Parfois la sortie se cache là où la douleur est la plus intense."
+excerpt: "Parfois la solution est là où la douleur est la plus intense."
 category: "fables-paradoxes"
 order: 1
 ---

@@ -1,9 +1,10 @@
 ---
 title: "Des hommes fuyants, des femmes paranoïaques"
-excerpt: "Derrière la peur de l'autre se cache souvent la peur de n'être pas digne d'amour."
+excerpt: "Derrière la peur de ne pas être aimé, chacun projette sur l'autre son propre jugement emprunté."
 category: "peur-masque"
-order: 12
+order: 13
 draft: true
+draftReason: "titre à valider"
 ---
 
 Evidemment la plupart des hommes ne sont pas fuyants, et la majorité des femmes ne sont pas paranoïaques. Je décris ici quelques personnes que je connais dont ces comportements arrivent de temps en temps.
@@ -34,7 +35,7 @@ Ces pistes peuvent aider à mieux gérer la situation. Et il y a une ultra-solut
 
 Premièrement, tu n’es pas mieux que les autres. Pendant des siècles, les gens ont cru que la terre était plate. Ils en étaient convaincus, persuadés, c'était pour eux une vérité absolue et indiscutable. Ils s’étaient trompés. Donc, la prochaine fois que tu me dis que tu es persuadé de quelque chose à 100%, je te répondrai “Peut-être que tu te trompes comme ceux qui croyaient que la terre était plate”.
 
-Ensuite, tu crois ou tu es persuadé que tu n’es pas digne d’amour. Que telle que tu es il ne t’aime pas, tel que tu es elle ne te trouve pas à la hauteur. En fait, tu es en train de projeter tes propres pensées. C’est toi qui ne te trouve pas à la hauteur. C’est toi qui ne t’aime pas. Pour être plus exact, ce n’est pas toi mais le regard emprunté des autres sur toi. C’est le regard des autres, le jugement des autres sur toi qui trouvent que tu n’es pas assez bien, pas assez digne d’amour. Parce qu’au fond de toi-même, quand tu mets de côté ce que t’ont dit tes parents, la société, l’église, la morale, tu sais bien que tu es digne d’amour, digne d’être aimé. Tu sais bien que tu as fait de ton mieux à chaque instant de ta vie. Sans le jugement des autres, sans ton jugement emprunté aux autres, tu sais bien que tu as fait comme tu pouvais, avec ce qui était là. Avec un regard sincère sur toi-même, tu te prendrais dans le bras, dans le cœur et tu te dirais combien tu as été courageux malgré tout, combien tu es fier de ce que tu as réussi à traverser, combien ton cœur veut être grand ouvert.
+Ensuite, tu crois ou tu es persuadé que tu n’es pas digne d’amour. Que telle que tu es il ne t’aime pas, tel que tu es elle ne te trouve pas à la hauteur. En fait, tu es en train de projeter tes propres pensées. C’est toi qui ne te trouve pas à la hauteur. C’est toi qui ne t’aimes pas. Pour être plus exact, ce n’est pas toi mais le regard emprunté des autres sur toi. C’est le regard des autres, le jugement des autres sur toi qui trouvent que tu n’es pas assez bien, pas assez digne d’amour. Parce qu’au fond de toi-même, quand tu mets de côté ce que t’ont dit tes parents, la société, l’église, la morale, tu sais bien que tu es digne d’amour, digne d’être aimé. Tu sais bien que tu as fait de ton mieux à chaque instant de ta vie. Sans le jugement des autres, sans ton jugement emprunté aux autres, tu sais bien que tu as fait comme tu pouvais, avec ce qui était là. Avec un regard sincère sur toi-même, tu te prendrais dans le bras, dans le cœur et tu te dirais combien tu as été courageux malgré tout, combien tu es fier de ce que tu as réussi à traverser, combien ton cœur veut être grand ouvert.
 
 Les grecs de l’antiquité savaient que la terre n’était pas plate par cette seule observation. Quand on voyait un bateau à l’horizon, on voyait d'abord le haut du mât puis le reste du bateau. Si la terre était plate, on devrait voir apparaître tout le bateau en entier.
 

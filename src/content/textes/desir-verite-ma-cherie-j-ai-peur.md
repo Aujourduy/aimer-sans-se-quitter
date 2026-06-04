@@ -1,8 +1,8 @@
 ---
 title: "Ma chérie, j'ai peur"
-excerpt: "Dire ses peurs plutôt que ses je t'aime : la phrase qui rapproche vraiment."
+excerpt: "Avouer ses peurs, c'est partager sa réalité ; les taire élève un mur de solitude."
 category: "desir-verite"
-order: 6
+order: 7
 ---
 
 “Ma chérie, j’ai peur que …” : est une phrase qui est ultra puissante mais personne ne nous a conseillé de le dire. On nous a dit, a fait croire qu’il faut dire “Je t’aime”, “Tu es belle”. Des jolies phrases pour rassurer, des phrases pour faire plaisir.

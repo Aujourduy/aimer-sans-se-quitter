@@ -1,6 +1,6 @@
 ---
 title: "Il suffit de trouver la bonne personne ?"
-excerpt: "Et si l'on devenait heureux pour rencontrer, au lieu de rencontrer pour être heureux."
+excerpt: "Être heureux pour rencontrer, au lieu de rencontrer pour être heureux."
 category: "amour-presence"
 entry: true
 entryRole: "deplacement"

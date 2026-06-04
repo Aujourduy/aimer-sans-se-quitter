@@ -1,9 +1,10 @@
 ---
 title: "Une envie vs une demande"
-excerpt: "La demande comble un manque, l'envie offre un cadeau depuis un jardin déjà beau."
+excerpt: "Une demande part d'un manque ; une envie part du neutre vers le positif."
 category: "desir-verite"
-order: 22
+order: 28
 draft: true
+draftReason: "thème sexuel à recadrer vers le relationnel"
 ---
 
 Dans beaucoup d’articles sur la sexualité, on nous conseille de bien communiquer avec notre partenaire. A mon avis, ces auteurs ne savent pas de quoi il parle. Ils ont entendu qu’il fallait le faire alors il le répète sans l’avoir essayé. C’est comme si je conseillais à une personne en surpoids de mieux manger. Il faut approfondir le sujet sinon ça ne sert à rien.

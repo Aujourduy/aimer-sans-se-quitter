@@ -1,9 +1,10 @@
 ---
 title: "L'art est d'abord dans l'écoute"
-excerpt: "Avant la technique vient la perception : l'art naît de l'écoute, pas du faire."
+excerpt: "L'art ne s'apprend pas dans le faire mais dans l'écoute."
 category: "desir-verite"
-order: 16
+order: 22
 draft: true
+draftReason: "thème sexuel à recadrer vers le relationnel"
 ---
 
 Il y a quelque temps, j’ai retrouvé dans mes cartons des livres sur la sexualité avec un titre commençant par “L’art de …”. On nous “apprend” comment faire l’amour, comment caresser, comment embrasser, comment, comment et encore comment. Avec du recul, et un peu de maturité, je crois que la plupart de ces livres, comme des formations, qui ont pour titre “L’art de …” sont de mauvais enseignement. L’art ne s’apprend pas dans le faire mais dans l’écoute.

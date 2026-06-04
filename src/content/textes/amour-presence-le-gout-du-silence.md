@@ -1,9 +1,10 @@
 ---
 title: "Le goût du silence"
-excerpt: "Le silence après l'amour n'est pas vide, il est dense et nous comble."
+excerpt: "Le silence après une belle rencontre n'est pas vide : il est dense."
 category: "amour-presence"
-order: 16
+order: 17
 draft: true
+draftReason: "thème sexuel à recadrer vers le relationnel"
 ---
 
 La sexualité épanouie est un vaste sujet et je vois beaucoup de formateurs et coachs expliquer toutes les expériences magnifiques et intenses qu’on peut y vivre. Comment c’est génial et combien les orgasmes sont extraordinaires. C’est vrai que je me sens épanoui dans ma sexualité et les expériences sexuelles sont magnifiques, subtiles et puissantes mais le plus important dans ma transformation par rapport à la sexualité n’est pas ce qui est visible, c’est ce qui ne l’est plus : le manque, la frustration, la compulsion, l’agitation.

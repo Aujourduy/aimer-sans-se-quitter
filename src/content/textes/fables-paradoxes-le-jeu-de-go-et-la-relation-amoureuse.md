@@ -1,6 +1,6 @@
 ---
 title: "Le jeu de go et la relation amoureuse"
-excerpt: "Chercher la certitude de gagner plutôt que le potentiel d'un grand gain incertain."
+excerpt: "L'ordinateur n'a pas gagné en calculant plus vite, mais en se posant les bonnes questions."
 category: "fables-paradoxes"
 order: 10
 ---
@@ -28,3 +28,9 @@ l’humain va avoir tendance à choisir (a), subjugué par le potentiel de gain,
 L’ordinateur n’a pas simplement gagné parce qu’il calcule plus vite. Il a gagné surtout parce qu’il s’est posé les bonnes questions.
 
 Et les humains se posent souvent de mauvaises questions en général et sur les relations amoureuses en particuliers.
+
+NB : Je m'adresse tantôt aux femmes, tantôt aux hommes mais biens sûr que cela s'adresse aux deux genres mais je ne dédouble pas les accords de genre pour ne pas alourdir le texte. Il faut lire pour les femmes et les hommes et vice et versa 🙂
+Pour sortir de cette frustration et avancer réellement vers tes aspirations d'une relation authentique et d'une sexualité sensible, je t'invite à mon prochain webinaire.
+
+Duy,
+Révélateur d’Amants Sensibles

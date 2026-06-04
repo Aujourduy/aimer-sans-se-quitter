@@ -1,6 +1,6 @@
 ---
 title: "Le nez malade"
-excerpt: "Nasreddine soigne le nez du malade : la souffrance sexuelle naît de la perception, pas du désir."
+excerpt: "La souffrance ne vient pas de la sexualité, mais de la perception de la sexualité."
 category: "fables-paradoxes"
 order: 6
 ---
@@ -11,7 +11,7 @@ J’ai retrouvé une histoire de Nasreddine qui illustre très bien le principe 
 
 Le médecin prescrit au malade une pommade pour son nez en lui promettant la guérison sous quelques jours. Quand le malade s'offusqua :
 
-- Mais, Nasreddine, ne serais-tu pas en train de te moquer de moi ? Je te dis que j’ai mal au ventre et tu me donnes une pommade pour le nez !
+-  Mais, Nasreddine, ne serais-tu pas en train de te moquer de moi ? Je te dis que j’ai mal au ventre et tu me donnes une pommade pour le nez !
 
 - Je t’assure, cher patient, que si ton nez était en bonne santé, tu n’aurais jamais mangé cette viande, ni bu ce lait.
 

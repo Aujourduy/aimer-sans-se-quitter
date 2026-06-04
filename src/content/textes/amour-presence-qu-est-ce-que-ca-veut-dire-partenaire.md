@@ -1,9 +1,10 @@
 ---
 title: "Qu'est-ce que ça veut dire partenaire ?"
-excerpt: "Partenaire signifie allié : deux veilleurs unis contre leurs peurs vers l'écoute du silence."
+excerpt: "Partenaire signifie allié : non pas face à face, mais côte à côte vers la lumière."
 category: "amour-presence"
-order: 13
+order: 14
 draft: true
+draftReason: "thème sexuel à recadrer vers le relationnel"
 ---
 
 C’était il y a déjà quelque temps. J’étais avec une femme. Il y a avait les caresses, l’excitation, la danse de nos corps. Pas métaphoriquement, nous dansions littéralement ensemble dans une chorégraphie sensuelle et sexuelle. Le niveau du désir était bien haut, la respiration, les soupirs et les modifications physiologiques. Pourtant, elle s’est arrêtée et m'a dit : “Duy, je nous sentais plus dans l’écoute la dernière fois.” Et bam, un petit coup pour réveiller le gars qui vous écrit des posts et propose des séminaire sur la sexualité sensible.

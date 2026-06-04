@@ -1,6 +1,6 @@
 ---
 title: "Courir avec des béquilles"
-excerpt: "Ce qui nous a aidé un jour devient notre entrave si on ne sait pas le lâcher."
+excerpt: "Ce qui nous a aidé un jour devient notre entrave si on le garde toujours."
 category: "fables-paradoxes"
 order: 8
 ---

@@ -1,9 +1,10 @@
 ---
 title: "La morale cachée de Cendrillon"
-excerpt: "Inutile d'attendre un sauveur : enfile toi-même ta robe de lumière."
+excerpt: "Laisse tomber ton rôle de victime et enfile tes plus beaux habits de lumière."
 category: "peur-masque"
-order: 8
+order: 9
 draft: true
+draftReason: "thème sexuel à recadrer vers le relationnel"
 ---
 
 Quand j’étais gamin, je chantonnais régulièrement dans la rue. J’imaginais des fois que je croiserai par hasard un grand producteur qui serait charmé par ma voix exceptionnelle. Il m’engagerait, je deviendrai célèbre et riche. Plus tard, j'ai compris que c’était la morale de Cendrillon : moi, un être couvert de pauvre vêtements trouvé par un sauveur qui voit la beauté intrinsèque, voire cachée, de mon être exceptionnel.
@@ -14,7 +15,7 @@ Alors que tu sois une femme ou un homme, si tu ne sens pas exceptionnel, si tu n
 
 Thich Nhat Hanh disait “Le miracle n’est pas de marcher sur l’eau. Le miracle c’est de marcher sur la Terre”. Oui, pouvoir marcher sur la terre et contempler le ciel, les arbres, les montagnes, les immeubles, les poubelles, les nuages, c’est déjà un miracle. C’est déjà merveilleux et fantastique. Pas besoin d’autre chose.
 
-Pendant des années, j’étais coach formateur dans un cabinet international américain avec des bureaux dans le monde entier, dont la clause que j’ai signée m’interdit de donner le nom. C’était une super expérience parce que j’y ai appris à changer réellement le regard des participants sur eux-mêmes en douze semaines seulement. La plupart des gens étaient métamorphosés. Le secret, simplement rappeler aux gens combien ils sont supers. Il ne s’agit pas de parler en permanence de toi mais il s’agit de voir ta réalité dans ses plus beaux côtés. Toutes tes réussites, les épreuves traversées, les moments merveilleux de ta vie, tes plus belles réalisations font de toi une personne fantastique. Quand tu prends conscience à quel point tu es belle, précieuse, exceptionnelle, tu te respectes plus, tu exiges des partenaires de premier choix parce que … tu le vaux bien.
+Pendant des années, j’étais coach formateur dans un cabinet international américain avec des bureaux dans le monde entier, dont la clause que j’ai signée m’interdit de donner le nom. C’était une super expérience parce que j’y ai appris à changer réellement le regard des participants sur eux-mêmes en douze semaines seulement. La plupart des gens étaient métamorphosés. Le secret, simplement rappeler aux gens combien ils sont supers. Il ne s’agit pas de parler en permanence de toi mais il s’agit de voir ta réalité dans ses plus beaux côtés. Toutes tes  réussites, les épreuves traversées, les moments merveilleux de ta vie, tes plus belles réalisations font de toi une personne fantastique. Quand tu prends conscience à quel point tu es belle, précieuse, exceptionnelle, tu te respectes plus, tu exiges des partenaires de premier choix parce que … tu le vaux bien.
 
 Je ne sais pas si c’est vrai quand on dit que “Qui se ressemblent s’assemblent” mais une chose est sûre. Les qualités que tu cherches chez un partenaire font de lui une personne plutôt bien, plutôt précieuse voire exceptionnelle. Si c’est le cas, il n’y a aucune raison qu’il se contente d’une personne qui ne soit pas bien, pas précieuse ni exceptionnelle. Alors laisse tomber ton rôle de victime de la vie, de tes parents, de tes ex, du gouvernement et enfile tes plus beaux habits de lumière. Et pour que ta robe soit lumineuse, en réalité tu n’as pas besoin de tissus magiques fabriqués par une fée. Tu peux rendre ta robe lumineuse par la lumière de ton regard aimant, juste et honnête.
 

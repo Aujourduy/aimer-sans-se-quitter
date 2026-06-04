@@ -1,6 +1,6 @@
 ---
 title: "La poissonne rouge et le têtard"
-excerpt: "Un têtard et un poisson rouge s'aiment, mais chacun appartient à un monde différent."
+excerpt: "On ne peut pas demander à un têtard de grandir dans l'eau où il est né."
 category: "fables-paradoxes"
 order: 2
 ---
@@ -18,7 +18,7 @@ Ils se mirent en ménage. La vie de couple se passait bien. Contrairement aux au
 
 Romain avait de temps en temps envie de sortir de la mare. Il en parle à Julie. Celle-ci refuse de quitter sa maisonnette. Rien de grave qu'une différence de goût, comme d'autres différences qui devaient les enrichir mutuellement. Oui. Nous nous enrichissons de nos différences. C'est ce qui se dit dans la sagesse des têtards aussi.
 
-L'envie de Romain d'aller visiter le monde devenait de plus en plus forte. Il sentait que quelque chose bouillonnait en lui. Il essaya de convaincre sa petite Julie. Avec toute la diplomatie donnée par les méthodes de communication, il arriva à faire accepter à Julie l'idée de sortir de l'eau. Elle le fit par amour. Quelques instants seulement car très vite elle se sentit mal sur la berge. Elle regagna rapidement sa maison dans l'eau.
+L'envie de Romain d’aller visiter le monde devenait de plus en plus forte. Il sentait que quelque chose bouillonnait en lui. Il essaya de convaincre sa petite Julie. Avec toute la diplomatie donnée par les méthodes de communication, il arriva à faire accepter à Julie l'idée de sortir de l'eau. Elle le fit par amour. Quelques instants seulement car très vite elle se sentit mal sur la berge. Elle regagna rapidement sa maison dans l'eau.
 On assiste alors à leur première dispute.
 
 Il lui reprocha d'être peureuse. D'être trop timoré. De ne pas prendre de risque. Qu'on ne pouvait pas avancer dans la vie si on restait tout le temps dans son cocon.
@@ -28,13 +28,13 @@ Chaque fois que Julie sortait de l'eau pour Romain, elle s'essoufflait. Rapideme
 
 Chaque jour que Romain restait dans l'eau, il s'étouffait. Rapidement, il dépérissait.
 
-Chacun d'eux reprochait à l'autre de ne pas être comme lui. De mettre leur couple en péril.
+Chacun d'eux reprochait à l'autre de ne pas être comme lui. De mettre leur couple en péril. 
 
 Et que si ça continuait, ils allaient se séparer mais la faute viendrait de l'autre.
 Le temps passe et un beau jour Romain est devenu une grenouille. Une belle petite grenouille verte. Il chante, il fait des bonds sur les feuilles. Il explore la terre. Il se chauffe un peu au soleil. Il attrape les mouches. Et surtout, il adore se retrouver avec ses camarades grenouilles pour chanter pour faire venir la pluie.
 Il était heureux comme ça.
 
-Impossible pour lui de rester sous l'eau longtemps. Il devait vivre sur terre, sur l'eau et régulièrement aller sous l'eau mais pas avec des branchies, avec un poumon. De temps en temps, il croisait sa jolie poissonne.
+Impossible pour lui de rester sous l’eau longtemps. Il devait vivre sur terre, sur l’eau et régulièrement aller sous l’eau mais pas avec des branchies, avec un poumon. De temps en temps, il croisait sa jolie poissonne.
 
 Julie continue à nager dans la mare. Elle aimait explorer le fond boueux à la recherche des vers goûteux. Elle passait du temps à se faufiler entre les racines de nénuphars et jouer à cache-cache avec ses amis.
 
@@ -50,12 +50,12 @@ Et si la faute venait de nulle part ?
 Et si le destin d'un têtard était de quitter la mare pour vivre à l'air dit libre ? Sur la terre dite ferme.
 
 Et si le destin d'un poisson rouge était de rester dans la mare ? Dans l'eau natale.
-À qui la faute alors ? Peut-être à personne. Parce que ça devait se passer comme ça. On ne peut pas demander à un têtard de grandir dans l'eau où il est né. On ne peut pas demander à un poisson rouge de grandir ailleurs que dans l'eau de sa mare.
+À qui la faute alors? Peut-être à personne. Parce que ça devait se passer comme ça. On ne peut pas demander à un têtard de grandir dans l'eau où il est né. On ne peut pas demander à un poisson rouge de grandir ailleurs que dans l'eau de sa mare.
 Les donneurs de leçons diront qu'il fallait que Romain épouse un têtard et Julie un poisson rouge. Mais alors, ils n'auraient pas eu ce bonheur. Ce bonheur a duré le temps qu'il a duré, mais c'était un bonheur unique. De toute façon, aucune autre demoiselle de la mare ne plaisait à Romain comme aucun autre poisson ne trouvait grâce aux yeux de Julie.
 
 Certains diront que c'était une malédiction du destin que d'obliger deux êtres à se séparer.
 
 D'autres diront que c'était une bénédiction du destin que d'avoir permis à deux êtres de se réunir.
 
-« Oui, mais ça n'a pas duré », disent les premiers.
-« Oui, mais la vie ne dure pas éternellement non plus », répondent les seconds.
+" Oui, mais ça n'a pas duré ", disent les premiers. 
+" Oui, mais la vie ne dure pas éternellement non plus ", répondent les seconds.

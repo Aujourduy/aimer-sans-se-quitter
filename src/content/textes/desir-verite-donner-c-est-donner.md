@@ -1,8 +1,8 @@
 ---
 title: "Donner c'est donner ?"
-excerpt: "À la fin d'une relation, distinguer ce qu'on a vraiment donné de ce qu'on avait seulement investi."
+excerpt: "À la fin d'une relation, voir si j'ai vraiment donné, ou seulement investi dans l'espoir d'un retour."
 category: "desir-verite"
-order: 9
+order: 10
 ---
 
 La fin d’une relation est une magnifique expérience de vérité. C’est l’occasion de voir nos attentes, nos idéalisations, notre imaginaire sur la relation disparaître en poussière. Nos rêves, nos espoirs s'effondrent.
@@ -20,5 +20,7 @@ L’enseignement que j’en retire c’est une nouvelle question : “Est-ce que
 Une autre formulation est : “Est-ce que je donne pour ce que j’ai vécu avec elle dans le passé ?” Si c’est oui, alors c’est un don, c’est un remerciement. Si c’est non, alors c’est un investissement et c’est à mes risques et périls.
 
 Je ne dis pas de ne pas prendre de risque. La vie c’est du risque. Les relations c’est du risque. On ne peut pas se fier complètement à l’autre. On ne peut pas connaître l’autre de manière parfaite. Déjà qu’on se connaît mal soi-même alors croire qu’on peut connaître parfaitement l’autre est un manque de clarté.
+
+Si je peux me rendre que compte que je n'ai pas vraiment donné, je serai moins enclin au regret et à la colère parce que je réaliserai que j'ai simple joué et j'ai perdu. Quand je suis conscient du risque à mettre une pièce dans une machine à sou, quand je suis conscient que la probabilité que je gagne au loto est infime, il n'y a plus de quoi être en colère ou avoir des regrets de perdre. C'est simplement la vie.
 
 Alors, est-ce que j’ai vraiment donné ?

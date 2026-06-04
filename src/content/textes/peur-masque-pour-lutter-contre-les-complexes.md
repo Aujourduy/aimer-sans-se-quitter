@@ -1,8 +1,8 @@
 ---
 title: "Pour lutter contre les complexes"
-excerpt: "Plutôt que séduire toutes les femmes, plaire à une seule dissout les complexes."
+excerpt: "Plaire non au plus grand nombre, mais à une femme qui me plaît vraiment."
 category: "peur-masque"
-order: 9
+order: 10
 ---
 
 Plus jeune, je croyais pour trouver la partenaire idéale il fallait que j’ai le maximum de qualités du mâle alpha pour pouvoir plaire à une femme. Grand, beau, musclé, riche, avec une belle situation professionnelle. Personnellement, à 21 ans j’étais plutôt petit (ça n’a pas changé) et vraiment maigrelet. Pas doué du tout avec les filles. J’étais encore vierge et j’avais eu à peine 3 flirts qui ont duré en 3 jours et 3 semaines. Je croyais que de ce fait, je ne trouverai jamais de femme. Si si. Vraiment, on ne se moque pas s’il vous plaît.

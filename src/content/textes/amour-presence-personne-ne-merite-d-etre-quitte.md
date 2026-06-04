@@ -1,6 +1,6 @@
 ---
 title: "Personne ne mérite d'être quitté"
-excerpt: "Décider avec le cœur, organiser avec la tête, et partir dans la gratitude."
+excerpt: "Je peux partir dans l'amour, le cœur ouvert, le ventre plein de gratitude."
 category: "amour-presence"
 order: 8
 ---

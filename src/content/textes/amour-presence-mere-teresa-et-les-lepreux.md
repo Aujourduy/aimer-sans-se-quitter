@@ -1,9 +1,10 @@
 ---
 title: "Mère Teresa et les lépreux"
-excerpt: "Accueillir le dégoût pour rester présent, comme une preuve d'amour."
+excerpt: "Accepter le dégoût pour rester présent, privilégier le contact plutôt que de fuir le désagrément."
 category: "amour-presence"
-order: 15
+order: 16
 draft: true
+draftReason: "thème sexuel à recadrer vers le relationnel"
 ---
 
 Elle s’occupait des lépreux, les soignait, faisait leur toilette. Un jour quelqu’un lui a demandé comment elle faisait pour ne pas trouver cela répugnant. Elle répondit qu’elle aussi trouvait cela dégoûtant, mais elle acceptait de ressentir cette sensation de dégoût pour pouvoir s’occuper des malades.

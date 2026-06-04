@@ -1,10 +1,13 @@
 ---
 title: "L'orgasme de la vallée"
-excerpt: "Un orgasme sans montée ni explosion, fait d'attention, de lumière et de larmes de gratitude."
+excerpt: "Deux corps immobiles, et l'amour qui passe par un fil de lumière."
 category: "desir-intimite"
 order: 1
 draft: true
+draftReason: "registre intime, tenu en retenue"
 ---
+
+L’orgasme de la vallée.
 
 Si vous avez vu Avatar ou surtout Cocoon, vous avez peut-être été subjugués comme moi par la scène où un humain fait l’amour avec une extra-terrestre de manière … extra-terrestre.
 

@@ -1,6 +1,6 @@
 ---
 title: "La peur du papillon pour son envol"
-excerpt: "Sorti de sa chrysalide, le papillon prend le vol pour une chute."
+excerpt: "Le papillon ne voit pas son décollage, il sent le sol se dérober."
 category: "fables-paradoxes"
 order: 9
 ---

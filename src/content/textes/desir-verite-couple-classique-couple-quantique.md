@@ -1,8 +1,8 @@
 ---
 title: "Couple classique / couple quantique"
-excerpt: "Deux paradigmes du couple : le manque et la sécurité, ou l'abondance et la liberté."
+excerpt: "Deux paradigmes de la relation amoureuse : le manque ou l'abondance, le confort ou la vérité."
 category: "desir-verite"
-order: 28
+order: 37
 ---
 
 Après un an d’accompagnement vers la sexualité sensible, je me rends compte à quel point cela change la vie des gens et l’ampleur de la remise en question des fondamentaux dans la relation amoureuse.

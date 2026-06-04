@@ -1,8 +1,8 @@
 ---
 title: "Confort vs effort"
-excerpt: "L'effort crée une dette implicite ; le don vrai naît du confort et de la générosité."
+excerpt: "L'effort crée une dette implicite ; le confort, lui, laisse place au vrai don."
 category: "desir-verite"
-order: 10
+order: 11
 ---
 
 Un principe du yoga traditionnel est le non effort. L’effort vient quand il y a un but à atteindre, cela crée automatiquement une peur de ne pas réussir, ça amène une tension. Cela ne signifie pas ne pas se fatiguer, ne pas transpirer, ne pas avoir des courbatures. Le corps réagit comme il peut suivant son état, sa constitution, son entraînement mais mentalement l’esprit peut rester détendu, garder un sourire intérieur.

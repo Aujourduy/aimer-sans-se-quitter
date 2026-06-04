@@ -1,9 +1,10 @@
 ---
 title: "L'aphrodisiaque le plus méconnu"
-excerpt: "Le plus puissant éveil du désir n'est pas un aliment ni un jeu : c'est la vérité."
+excerpt: "Mon plus grand aphrodisiaque n'est ni un aliment ni une posture : c'est la vérité."
 category: "desir-verite"
-order: 21
+order: 27
 draft: true
+draftReason: "thème sexuel à recadrer vers le relationnel"
 ---
 
 Quand on entend le mot aphrodisiaque, on pense aux aliments, aux vêtements et lingeries, aux positions, aux situations, aux jeux de rôle ou à des pratiques. Mais vous n’avez probablement jamais entendu parler de mon plus grand aphrodisiaque : la vérité. Cet ingrédient a son pendant qui est la liberté d’être.

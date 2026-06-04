@@ -1,9 +1,10 @@
 ---
 title: "La jouissance et l'art du tir à l'arc"
-excerpt: "La flèche atteint le centre quand on cesse de vouloir l'y forcer."
+excerpt: "Atteindre la cible ne suffit pas : c'est enlever les entraves qui compte."
 category: "fables-paradoxes"
-order: 15
+order: 16
 draft: true
+draftReason: "thème sexuel à recadrer vers le relationnel"
 ---
 
 Comme je ne suis pas un trop mauvais amant, il m’est arrivé de faire jouir ma partenaire. Mais comme je ne suis pas un amant parfait, il est arrivé plusieurs fois qu’elle me dise “Tu m’as fait jouir trop tôt”. Expression qui est riche d’enseignement : la jouissance n’est pas ce qu’elle voulait. Nous avons atteint la cible mais ce n’était pas ça qu’elle voulait ? Mais quoi alors ?

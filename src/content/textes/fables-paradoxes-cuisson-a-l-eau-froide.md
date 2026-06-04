@@ -1,9 +1,10 @@
 ---
 title: "Cuisson à l'eau froide"
-excerpt: "Comme la graine germe dans l'eau froide, le désir éclôt par la seule présence."
+excerpt: "Donner le temps et l'espace pour que la sensualité s'exprime d'elle-même, sans forcer."
 category: "fables-paradoxes"
-order: 11
+order: 12
 draft: true
+draftReason: "thème sexuel à recadrer vers le relationnel"
 ---
 
 La première fois que j’ai fait germer des graines, j’ai étais surpris du fait qu’une graine dure comme le pois chiche, trempée longuement dans l’eau, devienne tout à fait mangeable. Même plus, une graine comme la lentille ou le soja devient même très tendre en germant. Ça a complètement chamboulé ma conception de la cuisson. Au lieu de cuire les graines avec de l’eau bouillante plusieurs minutes, je peux obtenir le même résultat avec l’eau froide en quelques jours. C’est presque pareil mais en beaucoup mieux. Premièrement, je ne dépense pas d’énergie pour chauffer la l’eau donc c’est plus écologique. Deuxièmement, toutes les vitamines, sels minéraux et autres nutriments sont préservés tandis que la chaleur a pour effet de les détruire ou au moins dégrader la plupart d’entre eux.

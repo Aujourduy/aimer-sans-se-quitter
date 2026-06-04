@@ -1,6 +1,6 @@
 ---
 title: "De la clarté"
-excerpt: "La clarté amène la certitude qui simplifie les décisions et nous remet face au réel."
+excerpt: "Au lieu de chercher une solution, mieux vaut d'abord chercher à y voir plus clair."
 category: "desir-verite"
 order: 3
 ---

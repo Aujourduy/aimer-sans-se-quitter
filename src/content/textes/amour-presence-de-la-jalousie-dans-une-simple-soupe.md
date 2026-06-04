@@ -1,8 +1,8 @@
 ---
 title: "De la jalousie dans une simple soupe"
-excerpt: "Devant un bol ordinaire et un curry voisin, il découvre que la jalousie naît de l'imaginaire."
+excerpt: "La jalousie ne vient pas du curry, mais de l'imaginaire d'une autre vie que la mienne."
 category: "amour-presence"
-order: 18
+order: 19
 ---
 
 Le moment du repas est un moment très solennel au village des pruniers, c’est un centre de retraite de Thich Nhat Hanh, décédé il y a une semaine. C’était durant mon deuxième séjour dans le centre, il y a plus de 10 ans, on était en début de soirée, j’étais allé de la soupe dans un bol. Me voilà assis dans le cercle en attendant le retour des autres personnes du groupe pour commencer à manger.

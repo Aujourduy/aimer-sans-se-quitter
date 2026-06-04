@@ -1,6 +1,6 @@
 ---
 title: "Une bonne ou mauvaise nouvelle"
-excerpt: "Un seigneur chinois refuse de juger les événements, car nul ne sait ce qui est vraiment bon ou mauvais."
+excerpt: "Notre esprit juge vite ; mais qui peut savoir si une chose est vraiment bonne ou mauvaise ?"
 category: "fables-paradoxes"
 order: 5
 ---

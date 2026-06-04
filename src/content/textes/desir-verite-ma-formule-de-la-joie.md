@@ -1,9 +1,10 @@
 ---
 title: "Ma formule de la joie"
-excerpt: "La joie naît de l'expérience vécue et d'assez de clarté pour voir la gratitude."
+excerpt: "Quelque soit l'expérience, pour peu qu'on met assez de clarté, on peut y trouver de la joie."
 category: "desir-verite"
-order: 23
+order: 29
 draft: true
+draftReason: "mention biographique intime à alléger"
 ---
 
 Les mathématiciens sont des paresseux nés. Ils ont élevé la paresse à un tel niveau que cela devienne de l’art. Ils passent leur temps, des fois des années, à inventer des trucs et astuces pour gagner du temps de calcul et de compréhension. Alors voici, ma formule du matin :

@@ -1,8 +1,8 @@
 ---
 title: "La vie n'est pas une fenêtre mais un miroir"
-excerpt: "Ce que nous voyons du monde n'est souvent que le reflet de ce qui nous habite."
+excerpt: "Ce que je vois au-dehors n'est peut-être que le reflet de ce qui m'habite."
 category: "amour-presence"
-order: 12
+order: 11
 ---
 
 On peut voir la vie comme si on regardait à travers une fenêtre. On voit un monde extérieur, avec des règles, des gens, des éléments propres qui sont différents de notre monde intérieur, nos émotions, nos expériences, nos valeurs.

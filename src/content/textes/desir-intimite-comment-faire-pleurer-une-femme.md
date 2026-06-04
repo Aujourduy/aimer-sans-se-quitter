@@ -1,9 +1,10 @@
 ---
 title: "Comment faire pleurer une femme"
-excerpt: "Au-delà de la jouissance, accompagner une femme jusqu'aux larmes de joie et d'abandon."
+excerpt: "Si peu de mots sur les larmes de joie, ce trop-plein qui vient quand la confiance s'ouvre."
 category: "desir-intimite"
-order: 6
+order: 3
 draft: true
+draftReason: "registre intime, tenu en retenue"
 ---
 
 Tellement de livres, d’articles, de posts sur comment faire jouir une femme si peu sur comment la faire pleurer. Faire pleurer de joie évidemment. Lui faire ressentir, ou plutôt l’accompagner dans l’exploration de ses ressentis, de son abandon à toutes les émotions.

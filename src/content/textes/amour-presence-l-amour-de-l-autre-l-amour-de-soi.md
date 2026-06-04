@@ -1,6 +1,6 @@
 ---
 title: "L'amour de l'autre, l'amour de soi"
-excerpt: "Avant de chercher la lune dans la nuit, faire briller d'abord son propre soleil."
+excerpt: "Chercher d'abord son propre soleil plutôt que la lune fantasmée d'une joie venue de l'extérieur."
 category: "amour-presence"
 order: 9
 ---
@@ -29,3 +29,5 @@ Le soleil, c’est ma propre joie intérieure. C’est une vie remplie de beaut�
 Beaucoup de personnes, moi le premier pendant des années, ont ce réflexe de chercher une lune dans la nuit au lieu de chercher à faire briller d’abord notre soleil. Et quand notre soleil brille, c’est là que nous devenons attirants, attractifs pour les autres.
 
 En premier lieu, devenir l’astre qui brille au lieu de le chercher.
+
+Belle et lumineuse journée,

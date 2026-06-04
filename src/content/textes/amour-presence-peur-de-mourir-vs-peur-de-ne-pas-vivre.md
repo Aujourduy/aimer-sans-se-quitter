@@ -1,8 +1,10 @@
 ---
 title: "Peur de mourir vs peur de ne pas vivre"
-excerpt: "Quand on a vécu l'essentiel, la peur de la mort se dissout d'elle-même."
+excerpt: "Ne pas lutter contre la peur de la mort, mais remplir la vie de ce qui compte."
 category: "amour-presence"
-order: 11
+order: 13
+draft: true
+draftReason: "mention biographique intime à alléger"
 ---
 
 Pendant des années, je croyais que c’était la même chose. Je croyais que mourir et ne pas vivre c’était blanc bonnet et bonnet blanc. En fait, non. C’est très différent.

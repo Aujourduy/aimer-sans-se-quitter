@@ -1,10 +1,12 @@
 ---
 title: "Comment l'histoire de sa vie se retourne en 10 minutes"
-excerpt: "Elle se croyait la femme qu'on quitte ; en un entretien, l'illusion tombe."
+excerpt: "Reprendre les éléments un par un, jusqu'à ce que l'illusion négative de soi cède."
 category: "amour-presence"
 entry: true
 entryRole: "mecanisme"
 order: 3
+draft: true
+draftReason: "accord + anonymat cliente requis"
 ---
 
 Hier, j’ai eu une cliente en coaching business. C’est une cheffe d’entre prise que j’avais accompagnée il y 5 ans. Même si j’ai arrêté le coaching perso et pro ces dernières années pour me concentrer sur mon activité de Révélateur d’Amants Sensibles, j’ai accepté de l’accompagner dans cette période de grande transition pour elle.

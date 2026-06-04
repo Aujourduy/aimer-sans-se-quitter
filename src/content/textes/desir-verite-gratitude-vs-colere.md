@@ -1,9 +1,10 @@
 ---
 title: "Gratitude vs colère"
-excerpt: "De l'exigence frustrée à la reconnaissance : comment la colère cède la place à la gratitude."
+excerpt: "La colère naît quand je crois qu'on me doit quelque chose ; voilà comment je suis passé de la colère à la gratitude."
 category: "desir-verite"
-order: 18
+order: 24
 draft: true
+draftReason: "thème sexuel à recadrer vers le relationnel"
 ---
 
 Dans la sexualité, la colère est une termite qui mine la relation au fil du temps. Pour expliquer le sujet, je vais commencer par donner un exemple sur un autre sujet que la sexualité pour avoir un thème plus neutre.

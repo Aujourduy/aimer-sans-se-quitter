@@ -1,15 +1,13 @@
 ---
 title: "Le crocodile traumatisé par une gazelle"
-excerpt: "Coco fuit la gazelle qui le blessa bébé, sans voir qu'il a grandi."
+excerpt: "Ce n'est pas la gazelle qui t'a blessé, mais la formule gazelle plus bébé Coco, qui n'existe plus."
 category: "peur-masque"
-order: 4
+order: 5
 ---
 
-Une métaphore personnelle pour aider mes participants à se libérer de la peur des situations passées extraits de “Contes zen de la vie moderne” qui sera peut-être publié un jour.
+Un bébé crocodile, Coco, fraîchement sorti de son œuf, se promenait sur le bord de la rivière. Il rencontra un bébé gazelle faisant 50 fois sa taille, qui venait de naître aussi, en train de boire. Quand la gazelle aperçut le crocodile, elle paniqua, le piétina  et le blessa gravement à la queue. Le crocodile se retrouva avec une énorme entaille sur un quart de sa queue.
 
-Un bébé crocodile, Coco, fraîchement sorti de son œuf, se promenait sur le bord de la rivière. Il rencontra un bébé gazelle faisant 50 fois sa taille, qui venait de naître aussi, en train de boire. Quand la gazelle aperçut le crocodile, elle paniqua, le piétina et le blessa gravement à la queue. Le crocodile se retrouva avec une énorme entaille sur un quart de sa queue.
-
-Coco, traumatisé, décida de quitter ce pays trop dangereux pour lui et descendit la rivière pour vivre avec un clan de crocodiles se nourrissant de poissons.
+Coco,  traumatisé, décida de quitter ce pays trop dangereux pour lui et descendit la rivière pour vivre avec un clan de crocodiles se nourrissant de poissons.
 
 Coco grandit. Il fait maintenant près de 6 m de long. Il est grand, il est fort, il est féroce comme tout crocodile qui se respecte.
 
@@ -21,7 +19,7 @@ Coco ne veut pas aller à la rencontre des gazelles. Les autres crocodiles suive
 
 Bon, au bout de plusieurs mois, complètement affamé, Coco décide de rejoindre les autres crocodiles au pays des gazelles. Il découvre, ô surprise, que les gazelles sont très petites et qu’en plus elles sont très délicieuses.
 
-Les mêmes causes produisent les mêmes effets oui ! Mais ce qui a blessé Coco ce n’était pas la gazelle. Et non ! La cause de cette blessure n’était pas la “Gazelle” mais la formule “Gazelle + Bébé Coco”. Et aujourd’hui, cette formule n’existe plus. “Bébé Coco” n’existe plus. Il n’y a plus que “Gazelle”, petite, succulente et nourrissante.
+Les mêmes causes produisent les mêmes effets oui ! Mais ce qui a blessé Coco ce n’était pas la gazelle. Et non !  La cause de cette blessure n’était pas la “Gazelle” mais la formule “Gazelle + Bébé Coco”. Et aujourd’hui, cette formule n’existe plus. “Bébé Coco” n’existe plus. Il n’y a plus que “Gazelle”, petite, succulente et nourrissante.
 
 Peut-être que toi aussi tu es un crocodile Coco. Que tu as été traumatisé, meurtri par quelqu’un ou quelque chose qui t’a profondément et affreusement blessé.
 

@@ -1,9 +1,10 @@
 ---
 title: "Le consentement : une mauvaise question"
-excerpt: "Demander le consentement, c'est éviter la vraie question : as-tu envie ?"
+excerpt: "Utiliser le mot consentement au lieu du mot désir, c'est déplacer le problème et éviter d'expliciter les choses."
 category: "desir-verite"
-order: 11
+order: 12
 draft: true
+draftReason: "thème sexuel à recadrer vers le relationnel"
 ---
 
 La question du consentement est souvent posée quand on parle des relations sexuelles et du respect des femmes. Personnellement, je n’ai jamais demandé et ne demanderai jamais à une femme si elle consent à faire l’amour avec moi.

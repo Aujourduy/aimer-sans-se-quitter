@@ -1,8 +1,8 @@
 ---
 title: "C'est un privilège de danser avec toi"
-excerpt: "Approcher une danse sans la regarder ni rien lui demander, et s'abandonner au seul présent."
+excerpt: "La danse devient une écoute silencieuse, sans demande, où deux présences se rencontrent et s'abandonnent."
 category: "amour-presence"
-order: 19
+order: 20
 ---
 
 La danse est un réel espace de pratique méditative pour moi. Écouter chaque partie de mon corps, les doigts, la hanche, la tête. Percevoir une tension, une gène, le début d’un mouvement. C’est un moment d’attention, solennel, précieux. Alors toutes les interactions avec les autres personnes le deviennent aussi : solennelles et précieuses.
@@ -42,3 +42,5 @@ Bien sûr, nous allons passer à autres choses. Tellement de choses autres. J’
 C’est juste que parfois j’ai l’esprit plus clair pour reconnaître une goutte d’eau dans un lac. Grâce à la méditation. Grâce à la danse. Grâce à toi.
 
 Ce fut un privilège de danser avec toi.
+
+Texte dédié à toutes les femmes qui ont partagé avec moi ces danses divines et aux hommes et femmes qui veulent les vivre.

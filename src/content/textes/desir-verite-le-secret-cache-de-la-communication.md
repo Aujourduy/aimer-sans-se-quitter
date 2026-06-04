@@ -1,6 +1,6 @@
 ---
 title: "Le secret caché de la communication"
-excerpt: "Aucune technique ne remplace la sérénité : bien communiquer, c'est d'abord savoir gérer ses émotions."
+excerpt: "L'essentiel n'est pas l'outil mais la main qui le tient."
 category: "desir-verite"
 order: 13
 ---

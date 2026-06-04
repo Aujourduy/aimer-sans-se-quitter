@@ -1,6 +1,6 @@
 ---
 title: "Trois directions de l'amour"
-excerpt: "Être aimé, aimer, s'aimer soi : trois directions, et le but qui les éclaire."
+excerpt: "Être aimé, aimer, s'aimer dans la relation : trois directions, et le but est la troisième."
 category: "amour-presence"
 order: 4
 ---
@@ -38,3 +38,9 @@ C’est la position du “sauvé”.
 Parfois, les gens ne regardent que les deux premiers points pour décider de rester ou non dans une relation. Pour certaines personnes, envisager le troisième point permet de mieux comprendre pourquoi la relation est problématique et de traiter spécifiquement ce point.
 
 Parce que le but c’est le (3), les deux premiers ne sont que des moyens pour essayer d’y arriver.
+
+J’ai conscience que la formulation de ce post n’est pas complètement aboutie et qu’elle mérite de s’élaborer encore. Alors je suis preneur de toute remarque et suggestion par rapport à cette analyse.
+
+Vouloir vivre une sexualité authentique et sensible quand on n’est que dans le (1) et le (2) me semble compliqué.
+
+Si tu veux réellement aller vers cette sexualité, je peux t’y accompagner pour te faire gagner du temps et de l’énergie bref éviter les nuits blanches et les mouchoirs.

@@ -1,9 +1,10 @@
 ---
 title: "Du fumier ou de l'or"
-excerpt: "Une tonne de fumier vaut plus qu'une tonne d'or : nos drames recèlent les graines de l'abondance."
+excerpt: "Le travail transforme le fumier en engrais pour voir fleurir des roses."
 category: "peur-masque"
-order: 6
+order: 7
 draft: true
+draftReason: "zone sensible à valider"
 ---
 
 Quand j’animais des constellations familiales, j’introduisais toujours le week-end en invitant au participant de partager “leur merde”. Il y a souvent des personnes bien intentionnées qui ne veulent pas partager, au sens propre du terme, leurs drames. Ils ne veulent pas apporter de la négativité. Je leur dis que le travail des constellations familiales transforme le fumier en engrais pour voir fleurir des roses.
@@ -14,7 +15,7 @@ Pour dédramatiser complètement le truc, j’explique aussi qu’en termes du V
 
 Depuis le début de cette année, depuis que je prends conscience de ma contribution, un petit ruisseau affluent du fleuve Amour (pour infos, c’est un fleuve qui existe vraiment en Sibérie), je remercie tous les jours dans une méditations “les drames” et les personnes qui ont contribué à “ces drames” qui m’ont amené jusqu’ici aujourd’hui. Parce que j’ai compris que ce que j’ai appelé “drames” étaient simplement le coût à payer pour les leçons que j’ai reçues.
 
-Ces leçons étaient quelques graines. Alors oui, le prix payé était trop élevé et j’ai appelé ça “drame”, “souffrance”, “trauma”. Depuis les graines ont été semées, j’ai récolté, puis j’ai semé ainsi de suite, encore et encore et aujourd’hui je suis devant un champ dont je partage l’abondance avec toi. Oui, les douleurs étaient trop chères payées pour quelques graines. Mais au final, traverser ces épreuves pour un recevoir champ entier c’était un vrai cadeau. Un cadeau de la vie dont je commence seulement à mesurer la valeur.
+Ces leçons étaient quelques graines. Alors oui, le prix payé était trop élevé et j’ai appelé ça “drame”, “souffrance”, “trauma”. Depuis les graines ont été semées, j’ai récolté, puis j’ai semé ainsi de suite, encore et encore et aujourd’hui je suis devant un champ dont je partage l’abondance avec toi. Mais au final, traverser ces épreuves pour un recevoir champ entier c’était un vrai cadeau. Un cadeau de la vie dont je commence seulement à mesurer la valeur.
 
 Aujourd’hui, je suis content que la vie m'ait forcé à prendre ce chemin. Je n’avais pas ni le courage ni la sagesse de le choisir délibérément, alors elle m’a poussé dans le grand bain. Là, j’ai paniqué, je me suis débattu pour ne pas me noyer et plus je me débattais et plus j’avalais de l’eau. Puis j’ai arrêté de me débattre. Pas parce que j’étais conscient qu’il fallait changer, j’ai arrêté de me débattre parce que j’étais épuisé et j’avais renoncé à me battre pour la vie que je voulais. Et là, la vie m’a montré la vie qu’elle avait choisi pour moi.
 
