@@ -15,7 +15,7 @@ Chaque homme est aussi généreux, courageux, dévoué, mûr, patient, doux et e
 
 La vraie question n’est pas “Comment avoir confiance en l’homme ?” mais “Comment avoir confiance dans ma capacité à choisir l’homme qui me convient ?”. Avec le sous-entendu que je me suis trompée avant, j’ai fait de mauvais choix. Comment puis-je m’assurer de ne pas refaire les mêmes erreurs ?
 
-Le feu est plus dangereux que l’homme. Mettre ta main au feu te fera plus mal que mettre la main sur un homme. Sauf exception et cas extrême bien sûr. C’est une métaphore. Mais pourquoi tu as moins peur du feu ? Parce que tu sais qui si tu sens le chaud du feu, le brûlant du feu tu vas retirer ta main. Alors que d’expérience, tu t’es vue restée dans une relation amoureuse avec un homme alors qu’elle était nocive.
+Le feu est plus dangereux que l’homme. Mettre ta main au feu te fera plus mal que mettre la main sur un homme. Sauf exception et cas extrême bien sûr. C’est une métaphore. Mais pourquoi tu as moins peur du feu ? Parce que tu sais que si tu sens le chaud du feu, le brûlant du feu tu vas retirer ta main. Alors que d’expérience, tu t’es vue rester dans une relation amoureuse avec un homme alors qu’elle était nocive.
 
 Donc la question n’est pas “Comment retrouver la confiance en l’homme ?” mais “Comment retrouver la confiance en toi face à un homme ?”
 

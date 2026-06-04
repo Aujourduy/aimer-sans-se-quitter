@@ -15,7 +15,7 @@ Une analyse qui s’élabore sur les directions de l’amour dans une relation e
 
 S’il n’y a que le (1)
 
-C’est le fameux “Il m’aime. Elle m’aime” qui est le saint graal pour certaines personnes. Cela nourrit l’envie d’être aimé. A tel point, que certaines personnes restent dans une relation néfaste parce qu’elles s’y sentent aimées, ou du moins considérées. C’est la question “Est-ce que tu m’aimes ? ”
+C’est le fameux “Il m’aime. Elle m’aime” qui est le saint graal pour certaines personnes. Cela nourrit l’envie d’être aimé. À tel point, que certaines personnes restent dans une relation néfaste parce qu’elles s’y sentent aimées, ou du moins considérées. C’est la question “Est-ce que tu m’aimes ? ”
 
 C’est la position de victime.
 
@@ -27,7 +27,7 @@ C’est la position du sauveur.
 
 Et pour finir le (3)
 
-Attention, il y a une différence entre le (1) où je me sens aimé par l’autre, l’autre me renvoie une image positive de moi et la (3) où je me vois mieux tel que je suis et j’aime qui je suis avec les prétendues qualités et les soi-disants défauts. L’amour de soi n’est pas la même chose que l’amour de l’image de soi.
+Attention, il y a une différence entre le (1) où je me sens aimé par l’autre, l’autre me renvoie une image positive de moi et la (3) où je me vois mieux tel que je suis et j’aime qui je suis avec les prétendues qualités et les soi-disant défauts. L’amour de soi n’est pas la même chose que l’amour de l’image de soi.
 
 Étonnamment, quand j’ai de l’amour pour moi-même tout va bien. Les choses sont légères. Je ne demande pas à être aimé. Je ne demande pas à être reconnu dans mon amour.
 

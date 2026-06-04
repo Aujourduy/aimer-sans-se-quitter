@@ -21,10 +21,10 @@ Avant de danser avec une femme (ou de faire l’amour), ou de danser avec un hom
 
 Ensuite, je laisse l’extérieur entrer. J’écoute l’extérieur. Les autres danses, les autres danseurs, ma partenaire.
 
-Peut-être que nos danses pourraient se rencontrer. Peut-être pas maintenant. Il n’y a pas d’enjeux. Je me laisse guider par ma danse en gardant ma présence à mon corps, pour ressentir mon essence. Il n’y a pas jamais d’obligation de danser ensemble ni de faire l’amour. Ma connexion à moi-même est plus précieuse que danser avec cette danseuse ou que faire l’amour.
+Peut-être que nos danses pourraient se rencontrer. Peut-être pas maintenant. Il n’y a pas d’enjeux. Je me laisse guider par ma danse en gardant ma présence à mon corps, pour ressentir mon essence. Il n’y a jamais d’obligation de danser ensemble ni de faire l’amour. Ma connexion à moi-même est plus précieuse que danser avec cette danseuse ou que faire l’amour.
 
-Paradoxalement, c’est quand chacun reste en connexion à soi-même, en s’aimant ce que qu’il vit d’abord que la rencontre prendra toute sa beauté, sa vérité, sa puissance.
+Paradoxalement, c’est quand chacun reste en connexion à soi-même, en s’aimant ce qu’il vit d’abord que la rencontre prendra toute sa beauté, sa vérité, sa puissance.
 
 Au cas où tu te poses la question, oui, c’est possible on peut prendre un temps pour soi, pour rentrer en soi avant de faire l’amour. Chacun reste de son côté le temps dont il a besoin. Ensuite, on écoute la danse des corps dans le moment.
 
-C’est un principe valable pour la danse, la sexualité et bien-sûr tous les autres types de relation.
+C’est un principe valable pour la danse, la sexualité et bien sûr tous les autres types de relation.

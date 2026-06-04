@@ -9,7 +9,7 @@ Il y a un an jour pour jour, je me suis retrouvé dans le même atelier de danse
 
 Au moment de la rupture, elle m’avait dit qu’elle ne m’avait pas quitté pour lui. Elle devait aller avec lui pour vivre ce qu’elle avait à vivre, avec lui. J’ai entendu mais je n’avais pas compris. J’étais triste. J’étais en colère. J’étais jaloux.
 
-Ce-là soir, je les ai vus. J’ai vu mon ex dans les bras de son nouveau chéri. J’ai gardé les yeux ouverts pour voir la réalité. Et la réalité est surprenante. Elle a changé d’énergie. Elle montre une autre manière d’être. Effectivement, elle ne peut pas rester avec moi. Notre relation était bâtie sur une tout autre dynamique. Nous ne pouvons pas rester ensemble. Honnêtement, je n’aurai pas choisi la femme de ce soir comme partenaire.
+Ce soir-là, je les ai vus. J’ai vu mon ex dans les bras de son nouveau chéri. J’ai gardé les yeux ouverts pour voir la réalité. Et la réalité est surprenante. Elle a changé d’énergie. Elle montre une autre manière d’être. Effectivement, elle ne peut pas rester avec moi. Notre relation était bâtie sur une tout autre dynamique. Nous ne pouvons pas rester ensemble. Honnêtement, je n’aurais pas choisi la femme de ce soir comme partenaire.
 
 J’ai compris que ce n’était pas moi qu’elle quittait mais son ancienne elle pour aller vers son nouvel être.
 
@@ -31,4 +31,4 @@ L’amour est gratuit. L’amour est libre. L’amour est sans raison. On aime p
 
 J’ai été quitté encore d’autres fois. Mais ce soir, j’ai compris que toutes ces fois où je me suis dit que j’étais quitté, en fait je n’étais pas quitté. J’étais aimé. Mais seulement d’un autre endroit du monde et un autre endroit dans leur cœur.
 
-Depuis des années, j’ai reçu tous ces amours, tout cet amour en cadeau. Je le savais avec ma tête. Mais pas avec le coeur. Je les ai gardés dans leurs boîtes d’origine sans les ouvrir. Aujourd’hui, j’ose les ouvrir. J’ose les regarder en face. J’ose les accueillir dans mon coeur. Il y en a trop. Ça se bouscule dans mon coeur comme les gens dans le métro en heure pointe. Ça fait mal. Je pleure de douleur physique. Mais contrairement au métro qui est rigide, mon coeur est élastique. Il s’agrandit. Petit à petit. Ce sont des douleurs de croissances.
+Depuis des années, j’ai reçu tous ces amours, tout cet amour en cadeau. Je le savais avec ma tête. Mais pas avec le cœur. Je les ai gardés dans leurs boîtes d’origine sans les ouvrir. Aujourd’hui, j’ose les ouvrir. J’ose les regarder en face. J’ose les accueillir dans mon cœur. Il y en a trop. Ça se bouscule dans mon cœur comme les gens dans le métro en heure de pointe. Ça fait mal. Je pleure de douleur physique. Mais contrairement au métro qui est rigide, mon cœur est élastique. Il s’agrandit. Petit à petit. Ce sont des douleurs de croissance.

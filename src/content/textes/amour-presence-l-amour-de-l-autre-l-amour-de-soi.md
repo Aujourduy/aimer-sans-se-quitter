@@ -22,7 +22,7 @@ Sans compter que la lumière de la lune est le reflet du soleil. Donc pas de sol
 
 Quel rapport avec l’amour et la sexualité.
 
-Et bien, quand je propose un projet de site de rencontre, je reçois énormément de demandes. Comme ces gens, longtemps je voulais trouver la lumière de la lune pour illuminer ma vie. La lune c’est la relation fantasmée. C’est l’espoir d’une source de joie venant de l’extérieur.
+Eh bien, quand je propose un projet de site de rencontre, je reçois énormément de demandes. Comme ces gens, longtemps je voulais trouver la lumière de la lune pour illuminer ma vie. La lune c’est la relation fantasmée. C’est l’espoir d’une source de joie venant de l’extérieur.
 
 Le soleil, c’est ma propre joie intérieure. C’est une vie remplie de beautés, de paix, d’épanouissements et de satisfactions. Et quand j’ai trouvé mon soleil, alors sa lumière se réfléchira sur la lune en une relation harmonieuse et épanouissante.
 

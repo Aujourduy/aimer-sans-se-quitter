@@ -11,7 +11,7 @@ Elle s’occupait des lépreux, les soignait, faisait leur toilette. Un jour que
 
 Alors oui, ce n’est pas glamour de parler de dégoût, de répugnance dans un texte de sexualité mais vous savez quoi ? Je m’en fiche du glamour. Ce qui m’importe c’est de parler d’amour. Quelle preuve d’amour, de grandeur d’âme chez mère Teresa pour ne pas fuir le désagrément et privilégier le contact, la présence.
 
-Pour ceux qui ont des enfants et qui ont changé les couches, vous savez de quoi je parle. Les couches salent, ça ne sent pas bon. Mais on reste présent avec notre bébé. On ouvre la couche, on retire les crottes, on nettoie leur petites fesses avec une crème pour préserver leur douceur de leur peau.
+Pour ceux qui ont des enfants et qui ont changé les couches, vous savez de quoi je parle. Les couches sales, ça ne sent pas bon. Mais on reste présent avec notre bébé. On ouvre la couche, on retire les crottes, on nettoie leurs petites fesses avec une crème pour préserver la douceur de leur peau.
 
 Qu’est-ce qui fait qu’une personne peut manquer de présence dans la sexualité, se mettre en mode automatique, des mouvements techniques pour avoir de l’excitation, du plaisir, du relâchement ? Sans être vraiment là, en connexion avec sa partenaire … ni avec elle-même d’ailleurs.
 
