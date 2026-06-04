@@ -7,11 +7,11 @@ order: 9
 
 Dans le milieu du développement personnel et de la spiritualité, j’entends et je lis souvent “la métamorphose du papillon”. La chrysalide qui se transforme pour prendre son envol.
 
-Ayons un peu d’empathie pour le papillon qui sort de sa chrysalide et qui ouvre ses ailes pour la première fois. Mettons nous quelques instants dans sa peau.
+Ayons un peu d’empathie pour le papillon qui sort de sa chrysalide et qui ouvre ses ailes pour la première fois. Mettons-nous quelques instants dans sa peau.
 
 Imagine, tu as passé ta vie en tant que chenille à ramper sur le sol, à sentir du solide sous tes pieds. En plus, les chenilles n’ont pas deux pieds comme les humains, quatre comme les mammifères ou même six comme les insectes. Quand on regarde la chenille, on voit qu’elle a plein de pieds. Donc, chenille, tu as toujours été en contact avec le sol sous tes nombreux pieds.
 
-Quand tu sens un truc dans ton dos, les ailes mais tu ne sais pas ce que c’est vu que c’est la première fois que tu les sens, tu as juste envie de remuer tes épaules. Et là, Baaaam ! Le sol se dérobe sous toi. Parce que pour un observateur, il voit le papillon décoller. Mais pour le papillon, il voit le sol, il sent le sol tomber dans le vide. Qu’est-ce que tu ferais à sa place ? En tout cas, moi j’arrêterai immédiatement de faire le truc qui fait tomber le sol, qui dérobe le solide, les appuis sous mes pieds. Et chaque fois que je laisserai l’envie de remuer les épaules (et les ailes que je ne vois pas), que je m’aperçois que ça fait disparaître la terre sous moi, je stopperai net.
+Quand tu sens un truc dans ton dos, les ailes mais tu ne sais pas ce que c’est vu que c’est la première fois que tu les sens, tu as juste envie de remuer tes épaules. Et là, Baaaam ! Le sol se dérobe sous toi. Parce que pour un observateur, il voit le papillon décoller. Mais pour le papillon, il voit le sol, il sent le sol tomber dans le vide. Qu’est-ce que tu ferais à sa place ? En tout cas, moi j’arrêterais immédiatement de faire le truc qui fait tomber le sol, qui dérobe le solide, les appuis sous mes pieds. Et chaque fois que je laisserai l’envie de remuer les épaules (et les ailes que je ne vois pas), que je m’aperçois que ça fait disparaître la terre sous moi, je stopperai net.
 
 Je chercherai à résoudre ce problème de perte de repères, de perte de l’ancrage au sol, de perte de mes appuis. J’essaierai de trouver un thérapeute pour résoudre ce problème, ce grave problème existentiel. Avec un peu de malchance, j’en trouverai un qui veut bien essayer de me guérir pour que je puisse retrouver ma sécurité, mes repères d’avant. Mais ce n’est pas ce que mon Être désire.
 
@@ -23,7 +23,7 @@ Si tu es un papillon qui est sorti de sa chrysalide depuis quelques jours, quelq
 
 C’est vrai en général, c’est vrai aussi pour les hommes qui perdent leur érection avec leur partenaire, alors que quand ils sont seuls l’érection est bien là.
 
-Ma perspective, c’est que ce sont des chenilles qui sont devenues papillons. Ils avaient d’avoir une sexualité classique basée sur le désir et maintenant leur être, leur corps, leur pénis veulent une sexualité connectée, ils veulent faire l’amour.  Mais ça fait horriblement peur. C’est une perte totale de repères.
+Ma perspective, c’est que ce sont des chenilles qui sont devenues papillons. Ils avaient l’habitude d’avoir une sexualité classique basée sur le désir et maintenant leur être, leur corps, leur pénis veulent une sexualité connectée, ils veulent faire l’amour.  Mais ça fait horriblement peur. C’est une perte totale de repères.
 
 Je vois beaucoup qui cherchent à résoudre ce problème par différentes approches thérapeutiques, qui veulent retrouver leur confiance, sous entendu retrouver qui ils étaient avant. Mais ces thérapeutes entretiennent l’idée que c’est un problème. C’est un obstacle, une difficulté, un mal à soigner. Pour moi, ce n’est pas un problème, c’est une opportunité, une bénédiction.
 

@@ -9,13 +9,13 @@ Ce que tu vois sur le dessin, c’est un piège à guêpe. Comment ça fonctionn
 
 Pourquoi ? Parce qu’elle est intelligente.
 
-Oui, le problème de la guêpe est qu’elle est enfermée. Son problème est qu’elle manque d’espace. Hors, la sortie est le goulot, c’est-à-dire l’endroit du piège où il y a le moins d’espace justement. Là où la problématique du manque d’espace de la guêpe est la pire. Comme elle est intelligente, elle va chercher à éviter sa douleur, elle chercher à aller où elle aura moins mal. Donc elle ira partout ailleurs … sauf vers la sortie.
+Oui, le problème de la guêpe est qu’elle est enfermée. Son problème est qu’elle manque d’espace. Or, la sortie est le goulot, c’est-à-dire l’endroit du piège où il y a le moins d’espace justement. Là où la problématique du manque d’espace de la guêpe est la pire. Comme elle est intelligente, elle va chercher à éviter sa douleur, elle cherche à aller où elle aura moins mal. Donc elle ira partout ailleurs … sauf vers la sortie.
 
-Et là, tu me demandes en quoi c’est lié à l’intelligence. Parce que, la mouche qui est bête, qui n’a pas de stratégie précise va simplement voler en zig zag et complètement au hasard … et elle finit par trouver la sortie.
+Et là, tu me demandes en quoi c’est lié à l’intelligence. Parce que, la mouche qui est bête, qui n’a pas de stratégie précise va simplement voler en zigzag et complètement au hasard … et elle finit par trouver la sortie.
 
 C’est un exemple qui montre que des fois, la solution est l’endroit où la douleur est la plus grande, où le problème est le pire.
 
-Je me sens débordé et je manque de temps pour tout faire dans ta vie. N’importe quel livre en efficacité personnelle me dira qu’il faut prendre entre 15 à 30 minutes pour organiser et suivre le planning de ta semaine pour m’améliorer. Si je manque de temps, il faut que je prenne du temps pour en gagner.
+Je me sens débordé et je manque de temps pour tout faire dans ma vie. N’importe quel livre en efficacité personnelle me dira qu’il faut prendre entre 15 et 30 minutes pour organiser et suivre le planning de ma semaine pour m’améliorer. Si je manque de temps, il faut que je prenne du temps pour en gagner.
 
 Je manque de confiance en moi ? Avec ou sans coach, il faut faire des exercices qui vont mettre encore plus à l’épreuve le peu de confiance que j’ai.
 

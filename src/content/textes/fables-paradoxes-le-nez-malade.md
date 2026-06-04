@@ -5,9 +5,9 @@ category: "fables-paradoxes"
 order: 6
 ---
 
-Certaines personnes s’étonnent que dans mon accompagnement vers la sexualité sensible ou dans mon stage présentiel sexualité sensible, bien que les participants soient très satisfaits des résultats, je leur préviens que je ne fais pas du tout de tantra et qu’il n’y a pas d’exercice avec les énergies sexuelles.
+Certaines personnes s’étonnent que dans mon accompagnement vers la sexualité sensible ou dans mon stage présentiel sexualité sensible, bien que les participants soient très satisfaits des résultats, je les préviens que je ne fais pas du tout de tantra et qu’il n’y a pas d’exercice avec les énergies sexuelles.
 
-J’ai retrouvé une histoire de Nasreddine qui illustre très bien le principe de mon approche. Un jour, Nasreddine, personne mythique de la culture arabo-orientale, qui était alors médecin, allait voir un patient souffrant de maux de terribles maux de ventre. Nasreddine lui demanda ce qu’il avait mangé la veille. Le malade répondit qu’il avait mangé la viande qu’il avait achetée il y a trois semaines et qu’il avait laissée accroché à la fenêtre. Nasreddine lui demanda ce qu’il avait bu avec. Le malade lui dit qu’il avait bu le lait qu’il avait acheté en même temps que la viande qu’il avait aussi laissé à la fenêtre.
+J’ai retrouvé une histoire de Nasreddine qui illustre très bien le principe de mon approche. Un jour, Nasreddine, personne mythique de la culture arabo-orientale, qui était alors médecin, allait voir un patient souffrant de terribles maux de ventre. Nasreddine lui demanda ce qu’il avait mangé la veille. Le malade répondit qu’il avait mangé la viande qu’il avait achetée il y a trois semaines et qu’il avait laissée accrochée à la fenêtre. Nasreddine lui demanda ce qu’il avait bu avec. Le malade lui dit qu’il avait bu le lait qu’il avait acheté en même temps que la viande qu’il avait aussi laissé à la fenêtre.
 
 Le médecin prescrit au malade une pommade pour son nez en lui promettant la guérison sous quelques jours. Quand le malade s’offusqua :
 

@@ -14,14 +14,14 @@ Julie était un poisson rouge. Mais, à cet âge-là, ça ne faisait pas beaucou
 Cette attirance fut immédiatement réciproque. Julie trouvait ce têtard bien profilé. Il avait l’air plus déterminé, plus ambitieux que les autres gars qui l’avaient courtisée. Ça se voyait à sa façon de se tenir. A sa façon de nager. Clairement, il sortait du lot, ce Romain.
 Ils commencèrent à se fréquenter. De longues balades en amoureux. Visitant les moindres recoins de la mare. Ils s’amusaient à nager l’un autour de l’autre. À faire des bulles. Bref, de jeunes et beaux amoureux.
 
-Ils se mirent en ménage. La vie de couple se passait bien. Contrairement aux autres couples qui ne savaient pas communiquer, Romain et Julie avaient suivi des formations en communication et des stages de thérapies de couple. C’est vrai que ça leur servait beaucoup pour gérer les conflits du quotidien. Tous les animaux de la mare envient cette merveilleuse entente dans leur couple.
+Ils se mirent en ménage. La vie de couple se passait bien. Contrairement aux autres couples qui ne savaient pas communiquer, Romain et Julie avaient suivi des formations en communication et des stages de thérapies de couple. C’est vrai que ça leur servait beaucoup pour gérer les conflits du quotidien. Tous les animaux de la mare enviaient cette merveilleuse entente dans leur couple.
 
 Romain avait de temps en temps envie de sortir de la mare. Il en parle à Julie. Celle-ci refuse de quitter sa maisonnette. Rien de grave qu’une différence de goût, comme d’autres différences qui devaient les enrichir mutuellement. Oui. Nous nous enrichissons de nos différences. C’est ce qui se dit dans la sagesse des têtards aussi.
 
 L’envie de Romain d’aller visiter le monde devenait de plus en plus forte. Il sentait que quelque chose bouillonnait en lui. Il essaya de convaincre sa petite Julie. Avec toute la diplomatie donnée par les méthodes de communication, il arriva à faire accepter à Julie l’idée de sortir de l’eau. Elle le fit par amour. Quelques instants seulement car très vite elle se sentit mal sur la berge. Elle regagna rapidement sa maison dans l’eau.
 On assiste alors à leur première dispute.
 
-Il lui reprocha d’être peureuse. D’être trop timoré. De ne pas prendre de risque. Qu’on ne pouvait pas avancer dans la vie si on restait tout le temps dans son cocon.
+Il lui reprocha d’être peureuse. D’être trop timorée. De ne pas prendre de risque. Qu’on ne pouvait pas avancer dans la vie si on restait tout le temps dans son cocon.
 Elle lui dit qu’il est important de se satisfaire du moment présent. Qu’il était un éternel insatisfait. Qu’il voulait toujours plus. Que s’il ne pouvait pas être heureux ici, dans la petite mare, il ne pourrait être heureux nulle part.
 
 Chaque fois que Julie sortait de l’eau pour Romain, elle s’essoufflait. Rapidement, elle agonisait.
