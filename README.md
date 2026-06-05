@@ -144,6 +144,7 @@ En-tête (« frontmatter ») de chaque fichier, suivi du corps en markdown :
 
 ```md
 ---
+verifieParDuy: false                # suivi de relecture (voir plus bas) — true = relu/validé
 title: "Le titre du texte"          # titre affiché
 excerpt: "Une ligne, sur la carte." # résumé affiché dans la liste
 category: "amour-presence"          # voir le tableau plus bas
@@ -172,12 +173,50 @@ Catégories disponibles :
 | ------------------ | ------------------- |
 | `amour-presence`   | Amour et présence   |
 | `desir-verite`     | Désir et vérité     |
+| `desir-intimite`   | Désir et intimité   |
 | `peur-masque`      | Peur et masque      |
 | `fables-paradoxes` | Fables et paradoxes |
 
 > Pour créer une **nouvelle** catégorie, il faut aussi la déclarer dans
 > `src/content.config.ts` (liste `category`) **et** `src/lib/categories.ts`
 > (libellé + ordre d'affichage). En cas de doute, demandez à l'assistant.
+
+### Relire et valider les textes (suivi `verifieParDuy`)
+
+Chaque texte porte, **en tête de son en-tête**, un champ `verifieParDuy` (défaut
+`false`). Il sert à **suivre la relecture** : on le passe à `true` une fois le
+texte relu et validé.
+
+```md
+---
+verifieParDuy: true   # ← passer de false à true quand le texte est relu/validé
+title: "…"
+---
+```
+
+Un **indicateur visuel s'affiche uniquement en local** (`npm run dev`), jamais
+en production :
+
+- sur **`/textes`** : un tableau de bord « **Relecture — N/116 validés** »,
+  déroulable par thématique (avec le compteur de chaque thème), qui liste chaque
+  texte avec `✓` / `◯` et un lien direct. Les **brouillons y sont inclus** (et
+  visibles aussi sur les pages de thématique en local), pour pouvoir tout relire ;
+- sur chaque **carte de texte** : une pastille verte `✓ validé` ou grise
+  `◯ à valider`.
+
+**Marche à suivre :** `npm run dev` → ouvrir `/textes` pour voir ce qui reste →
+lire un texte, ouvrir son `.md`, passer `verifieParDuy` à `true` → le compteur et
+les pastilles se mettent à jour automatiquement.
+
+> En **production**, rien n'apparaît : ni tableau de bord, ni pastille. C'est un
+> outil de relecture interne, sans effet sur le site en ligne.
+
+Suivi possible aussi en ligne de commande :
+
+```bash
+grep -l  "verifieParDuy: true"  src/content/textes/*.md | wc -l   # validés
+grep -rL "verifieParDuy: true"  src/content/textes/*.md | wc -l   # restants
+```
 
 ### La page « Textes » : thématiques et organisation
 
