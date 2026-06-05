@@ -1,4 +1,5 @@
 ---
+verifieParDuy: false
 title: "Quand j’aurai, je serai"
 excerpt: "L’Amour guérit, mais la Vérité est la condition nécessaire."
 category: "desir-verite"

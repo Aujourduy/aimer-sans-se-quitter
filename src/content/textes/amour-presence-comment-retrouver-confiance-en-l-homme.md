@@ -1,4 +1,5 @@
 ---
+verifieParDuy: false
 title: "Comment retrouver confiance en l’homme ?"
 excerpt: "La vraie question n’est pas la confiance en l’homme, mais la confiance en soi face à lui."
 category: "amour-presence"

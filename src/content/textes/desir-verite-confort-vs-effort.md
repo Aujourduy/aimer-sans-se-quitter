@@ -1,4 +1,5 @@
 ---
+verifieParDuy: false
 title: "Confort vs effort"
 excerpt: "L’effort crée une dette implicite ; le confort, lui, laisse place au vrai don."
 category: "desir-verite"

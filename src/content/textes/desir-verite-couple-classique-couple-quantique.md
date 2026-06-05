@@ -1,4 +1,5 @@
 ---
+verifieParDuy: false
 title: "Couple classique / couple quantique"
 excerpt: "Deux paradigmes de la relation amoureuse : le manque ou l’abondance, le confort ou la vérité."
 category: "desir-verite"

@@ -1,4 +1,5 @@
 ---
+verifieParDuy: false
 title: "Merci de m’avoir quittée"
 excerpt: "Au final, j’aime plus ma vérité sans toi que mon confort avec toi."
 category: "amour-presence"

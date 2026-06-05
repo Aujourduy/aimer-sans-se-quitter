@@ -1,4 +1,5 @@
 ---
+verifieParDuy: false
 title: "La fin d’une relation, ce séisme (presque) inévitable"
 excerpt: "À la rupture vient le bilan obligatoire, quand les petits mensonges accumulés libèrent enfin leurs tensions."
 category: "desir-verite"

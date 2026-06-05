@@ -1,4 +1,5 @@
 ---
+verifieParDuy: false
 title: "La poissonne rouge et le têtard"
 excerpt: "On ne peut pas demander à un têtard de grandir dans l’eau où il est né."
 category: "fables-paradoxes"

@@ -1,4 +1,5 @@
 ---
+verifieParDuy: false
 title: "La vie n’est pas une fenêtre mais un miroir"
 excerpt: "Ce que je vois au-dehors n’est peut-être que le reflet de ce qui m’habite."
 category: "amour-presence"

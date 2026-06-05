@@ -1,4 +1,5 @@
 ---
+verifieParDuy: false
 title: "La pyramide de Khéops et la tour Eiffel"
 excerpt: "Plutôt qu’éveiller quelques zones, développer la sensibilité de tout le corps, couche après couche."
 category: "desir-intimite"

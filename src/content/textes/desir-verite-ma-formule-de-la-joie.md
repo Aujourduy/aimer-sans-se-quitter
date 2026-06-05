@@ -1,4 +1,5 @@
 ---
+verifieParDuy: false
 title: "Ma formule de la joie"
 excerpt: "Quelle que soit l’expérience, pour peu qu’on mette assez de clarté, on peut y trouver de la joie."
 category: "desir-verite"

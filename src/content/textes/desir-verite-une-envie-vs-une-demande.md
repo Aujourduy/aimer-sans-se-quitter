@@ -1,4 +1,5 @@
 ---
+verifieParDuy: false
 title: "Une envie vs une demande"
 excerpt: "Une demande part d’un manque ; une envie part du neutre vers le positif."
 category: "desir-verite"

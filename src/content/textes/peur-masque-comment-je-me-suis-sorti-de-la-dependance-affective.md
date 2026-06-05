@@ -1,4 +1,5 @@
 ---
+verifieParDuy: false
 title: "Comment je me suis sorti de la dépendance affective"
 excerpt: "L’émotion n’est pas déclenchée par aujourd’hui mais par toutes les blessures accumulées depuis des années."
 category: "peur-masque"

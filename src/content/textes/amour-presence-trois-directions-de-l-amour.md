@@ -1,4 +1,5 @@
 ---
+verifieParDuy: false
 title: "Trois directions de l’amour"
 excerpt: "Être aimé, aimer, s’aimer dans la relation : trois directions, et le but est la troisième."
 category: "amour-presence"

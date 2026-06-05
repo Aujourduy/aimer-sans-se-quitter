@@ -1,4 +1,5 @@
 ---
+verifieParDuy: false
 title: "La Reine vs la Princesse"
 excerpt: "La Princesse se veut belle pour plaire ; la Reine n’a plus besoin d’être aimée pour se sentir bien."
 category: "peur-masque"

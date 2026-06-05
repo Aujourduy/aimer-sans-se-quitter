@@ -1,4 +1,5 @@
 ---
+verifieParDuy: false
 title: "Il n’y a rien à devenir"
 excerpt: "Tu es déjà qui tu veux être ; il n’y a rien à transformer, seulement à mieux exprimer."
 category: "desir-verite"

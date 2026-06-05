@@ -1,4 +1,5 @@
 ---
+verifieParDuy: false
 title: "Ma chérie, j’ai peur"
 excerpt: "Avouer ses peurs, c’est partager sa réalité ; les taire élève un mur de solitude."
 category: "desir-verite"

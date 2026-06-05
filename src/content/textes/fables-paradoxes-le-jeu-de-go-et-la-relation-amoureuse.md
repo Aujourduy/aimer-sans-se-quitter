@@ -1,4 +1,5 @@
 ---
+verifieParDuy: false
 title: "Le jeu de go et la relation amoureuse"
 excerpt: "L’ordinateur n’a pas gagné en calculant plus vite, mais en se posant les bonnes questions."
 category: "fables-paradoxes"

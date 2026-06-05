@@ -1,4 +1,5 @@
 ---
+verifieParDuy: false
 title: "Le plus grand malentendu"
 excerpt: "La femme se croit en manque d’amour, l’homme se croit sommé d’être à la hauteur."
 category: "amour-presence"

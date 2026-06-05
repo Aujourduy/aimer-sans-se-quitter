@@ -1,4 +1,5 @@
 ---
+verifieParDuy: false
 title: "Sortir du Tantra et de la sexualité sacrée"
 excerpt: "Le Tantra est à la sexualité ce qu’une église est à Dieu : un moyen, jamais l’objectif."
 category: "desir-intimite"

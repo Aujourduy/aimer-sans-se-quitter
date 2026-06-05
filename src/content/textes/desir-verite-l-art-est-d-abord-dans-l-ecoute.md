@@ -1,4 +1,5 @@
 ---
+verifieParDuy: false
 title: "L’art est d’abord dans l’écoute"
 excerpt: "L’art ne s’apprend pas dans le faire mais dans l’écoute."
 category: "desir-verite"

@@ -1,4 +1,5 @@
 ---
+verifieParDuy: false
 title: "La fin n’est pas le moyen"
 excerpt: "On ne gagne pas la tranquillité en réduisant l’activité ; c’est l’apaisement qui espace les besoins."
 category: "desir-verite"

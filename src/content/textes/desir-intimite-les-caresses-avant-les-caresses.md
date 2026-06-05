@@ -1,4 +1,5 @@
 ---
+verifieParDuy: false
 title: "Les caresses avant les caresses"
 excerpt: "Ce n’était pas la caresse, mais l’atmosphère, qui a suscité le désir."
 category: "desir-intimite"

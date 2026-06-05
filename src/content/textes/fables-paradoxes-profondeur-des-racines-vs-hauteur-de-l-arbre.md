@@ -1,4 +1,5 @@
 ---
+verifieParDuy: false
 title: "Profondeur des racines vs hauteur de l’arbre"
 excerpt: "Les choses fortes demandent un long temps de préparation invisible, comme les rhizomes du bambou sous la terre."
 category: "fables-paradoxes"

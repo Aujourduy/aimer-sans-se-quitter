@@ -1,4 +1,5 @@
 ---
+verifieParDuy: false
 title: "Ce dont j’avais le plus besoin"
 excerpt: "Ce que tu rêves au plus profond de toi est légitime et existe vraiment."
 category: "desir-verite"

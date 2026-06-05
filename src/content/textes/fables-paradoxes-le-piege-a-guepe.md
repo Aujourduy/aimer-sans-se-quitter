@@ -1,4 +1,5 @@
 ---
+verifieParDuy: false
 title: "Le piège à guêpe"
 excerpt: "Parfois la solution est là où la douleur est la plus intense."
 category: "fables-paradoxes"

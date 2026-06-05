@@ -1,4 +1,5 @@
 ---
+verifieParDuy: false
 title: "Comme je prie, comme je fais l’amour"
 excerpt: "Demander pour avoir ce que je n’ai pas, ou remercier pour ce qui est déjà là."
 category: "desir-intimite"

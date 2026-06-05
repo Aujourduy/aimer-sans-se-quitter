@@ -1,4 +1,5 @@
 ---
+verifieParDuy: false
 title: "Il n’y avait personne dans la valise"
 excerpt: "Il n’y a personne dans la valise : seulement des blessures, des peurs, des traumatismes."
 category: "fables-paradoxes"

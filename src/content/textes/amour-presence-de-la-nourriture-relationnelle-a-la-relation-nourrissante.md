@@ -1,4 +1,5 @@
 ---
+verifieParDuy: false
 title: "De la nourriture relationnelle à la relation nourrissante"
 excerpt: "Un aliment nourrissant nous apporte ce dont nous avons besoin pour être mieux."
 category: "amour-presence"

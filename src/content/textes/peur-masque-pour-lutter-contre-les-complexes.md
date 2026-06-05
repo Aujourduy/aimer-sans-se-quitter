@@ -1,4 +1,5 @@
 ---
+verifieParDuy: false
 title: "Pour lutter contre les complexes"
 excerpt: "Plaire non au plus grand nombre, mais à une femme qui me plaît vraiment."
 category: "peur-masque"

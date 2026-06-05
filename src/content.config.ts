@@ -27,6 +27,7 @@ const textes = defineCollection({
     order: z.number().default(0),
     draft: z.boolean().default(false),
     draftReason: z.string().optional(), // raison courte du brouillon (marqueur v9)
+    verifieParDuy: z.boolean().default(false), // true = texte relu et validé par Duy
   }),
 });
 

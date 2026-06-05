@@ -1,4 +1,5 @@
 ---
+verifieParDuy: false
 title: "Désir peinture vs sculpture"
 excerpt: "On ne peut pas embellir un cœur : on peut seulement enlever les couches qui le cachent."
 category: "desir-verite"

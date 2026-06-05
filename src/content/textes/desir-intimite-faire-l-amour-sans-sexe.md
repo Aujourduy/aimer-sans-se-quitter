@@ -1,4 +1,5 @@
 ---
+verifieParDuy: false
 title: "Faire l’amour sans sexe"
 excerpt: "Faire l’amour sans masque, entièrement exposé, ouvert à l’autre."
 category: "desir-intimite"

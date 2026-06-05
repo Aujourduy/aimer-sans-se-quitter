@@ -1,4 +1,5 @@
 ---
+verifieParDuy: false
 title: "Donner c’est donner ?"
 excerpt: "À la fin d’une relation, voir si j’ai vraiment donné, ou seulement investi dans l’espoir d’un retour."
 category: "desir-verite"

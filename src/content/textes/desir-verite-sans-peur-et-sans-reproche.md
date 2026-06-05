@@ -1,4 +1,5 @@
 ---
+verifieParDuy: false
 title: "Sans peur & sans reproche"
 excerpt: "Une sexualité sensible, c’est 80% de l’être et 20% du faire."
 category: "desir-verite"

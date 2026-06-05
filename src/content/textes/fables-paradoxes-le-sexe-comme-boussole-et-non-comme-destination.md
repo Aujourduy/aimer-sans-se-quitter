@@ -1,4 +1,5 @@
 ---
+verifieParDuy: false
 title: "Le sexe comme boussole et non comme destination"
 excerpt: "Ce n’était pas lié à ce que nous avions fait, mais à la manière dont nous l’avions fait."
 category: "fables-paradoxes"

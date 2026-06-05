@@ -1,4 +1,5 @@
 ---
+verifieParDuy: false
 title: "Mère Teresa et les lépreux"
 excerpt: "Accepter le dégoût pour rester présent, privilégier le contact plutôt que de fuir le désagrément."
 category: "amour-presence"

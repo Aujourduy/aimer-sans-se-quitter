@@ -12,7 +12,7 @@ import {
 // Une page par catégorie (cinq au total), générée depuis la collection.
 // Destination des titres de catégorie de la page Textes (§5.2bis du brief).
 export async function getStaticPaths() {
-  const all = await getCollection('textes', ({ data }) => !data.draft);
+  const all = await getCollection('textes', ({ data }) => !data.draft || import.meta.env.DEV);
   return CATEGORY_ORDER.map((cat) => ({
     params: { category: cat },
     props: {
@@ -42,7 +42,12 @@ const description = CATEGORY_DESCRIPTIONS[category];
       items.length > 0 ? (
         <div class="text-list">
           {items.map((t) => (
-            <TextCard title={t.data.title} excerpt={t.data.excerpt} slug={t.id} />
+            <TextCard
+              title={t.data.title}
+              excerpt={t.data.excerpt}
+              slug={t.id}
+              verified={t.data.verifieParDuy}
+            />
           ))}
         </div>
       ) : (

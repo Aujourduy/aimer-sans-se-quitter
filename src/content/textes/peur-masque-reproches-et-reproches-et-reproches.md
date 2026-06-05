@@ -1,4 +1,5 @@
 ---
+verifieParDuy: false
 title: "Reproches & reproches & reproches"
 excerpt: "Moins il y a de reproches, et plus il y a de l’action."
 category: "peur-masque"

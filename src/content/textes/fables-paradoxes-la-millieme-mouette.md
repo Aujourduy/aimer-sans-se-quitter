@@ -1,4 +1,5 @@
 ---
+verifieParDuy: false
 title: "La millième mouette"
 excerpt: "On ne progresse que par la pratique, et par l’exploration des aspects qu’on n’avait pas encore tentés."
 category: "fables-paradoxes"

@@ -1,4 +1,5 @@
 ---
+verifieParDuy: false
 title: "Du fumier ou de l’or"
 excerpt: "Le travail transforme le fumier en engrais pour voir fleurir des roses."
 category: "peur-masque"

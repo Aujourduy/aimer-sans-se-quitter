@@ -1,4 +1,5 @@
 ---
+verifieParDuy: false
 title: "Voici pourquoi tes relations sont foireuses"
 excerpt: "Cesse de chercher l’homme bien : deviens d’abord la femme que cet homme cherche."
 category: "amour-presence"

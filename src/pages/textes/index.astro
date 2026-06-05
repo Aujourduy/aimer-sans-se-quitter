@@ -13,6 +13,17 @@ import {
 
 const all = await getCollection('textes', ({ data }) => !data.draft);
 
+// Tableau de bord de relecture : tous les textes (brouillons compris), dev only.
+const allForReview = import.meta.env.DEV ? await getCollection('textes') : [];
+const reviewBoard = CATEGORY_ORDER.map((cat) => ({
+  label: CATEGORY_LABELS[cat],
+  items: allForReview
+    .filter((t) => t.data.category === cat)
+    .sort((a, b) => a.data.order - b.data.order),
+}));
+const reviewTotal = allForReview.length;
+const reviewDone = allForReview.filter((t) => t.data.verifieParDuy).length;
+
 // Trois textes d'entrée, triés par rôle (reconnaissance, déplacement, mécanisme).
 const entries = all
   .filter((t) => t.data.entry)
@@ -44,6 +55,35 @@ const categories = CATEGORY_ORDER.map((cat) => ({
   </section>
 
   {
+    import.meta.env.DEV && (
+      <section class="lecture dev-review" data-dbg="textes__relecture-dev">
+        <h2>
+          Relecture — {reviewDone}/{reviewTotal} validés
+          <span class="dev-review-note"> (visible en développement uniquement)</span>
+        </h2>
+        {reviewBoard.map((grp) => (
+          <details class="dev-review-cat">
+            <summary>
+              {grp.label} —{' '}
+              {grp.items.filter((i) => i.data.verifieParDuy).length}/
+              {grp.items.length}
+            </summary>
+            <ul class="dev-review-list">
+              {grp.items.map((t) => (
+                <li class={t.data.verifieParDuy ? 'is-ok' : 'is-todo'}>
+                  <span class="mark">{t.data.verifieParDuy ? '✓' : '◯'}</span>
+                  <a href={url(`/textes/${t.id}`)}>{t.data.title}</a>
+                  {t.data.draft && <em class="draft">brouillon</em>}
+                </li>
+              ))}
+            </ul>
+          </details>
+        ))}
+      </section>
+    )
+  }
+
+  {
     entries.length > 0 && (
       <section class="lecture" data-dbg="textes__entrees">
         <h2>Trois textes pour entrer</h2>
@@ -54,6 +94,7 @@ const categories = CATEGORY_ORDER.map((cat) => ({
               excerpt={t.data.excerpt}
               slug={t.id}
               featured={true}
+              verified={t.data.verifieParDuy}
             />
           ))}
         </div>
@@ -78,3 +119,50 @@ const categories = CATEGORY_ORDER.map((cat) => ({
     }
   </section>
 </Base>
+
+<style>
+  /* Tableau de bord de relecture — rendu uniquement en développement. */
+  .dev-review {
+    border: 1px dashed #cbbfa8;
+    border-radius: 0.6rem;
+    padding: 1rem 1.25rem;
+    background: #faf7f1;
+  }
+  .dev-review-note {
+    font-size: 0.8rem;
+    font-weight: 400;
+    color: #8a8073;
+  }
+  .dev-review-cat {
+    margin: 0.4rem 0;
+  }
+  .dev-review-cat summary {
+    cursor: pointer;
+    font-weight: 600;
+  }
+  .dev-review-list {
+    list-style: none;
+    padding-left: 0.5rem;
+    margin: 0.4rem 0 0.8rem;
+  }
+  .dev-review-list li {
+    display: flex;
+    align-items: baseline;
+    gap: 0.5rem;
+    padding: 0.1rem 0;
+  }
+  .dev-review-list .mark {
+    width: 1.2em;
+    text-align: center;
+  }
+  .dev-review-list .is-ok .mark {
+    color: #1f7a3d;
+  }
+  .dev-review-list .is-todo {
+    color: #6b6256;
+  }
+  .dev-review-list .draft {
+    font-size: 0.75rem;
+    color: #b08900;
+  }
+</style>

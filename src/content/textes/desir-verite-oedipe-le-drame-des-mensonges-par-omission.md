@@ -1,4 +1,5 @@
 ---
+verifieParDuy: false
 title: "Oedipe, le drame des mensonges par omission"
 excerpt: "Tous ont menti par omission pour protéger des êtres chers, et cela les a conduits au drame."
 category: "desir-verite"

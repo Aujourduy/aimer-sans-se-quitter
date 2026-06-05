@@ -1,4 +1,5 @@
 ---
+verifieParDuy: false
 title: "Le goût du silence"
 excerpt: "Le silence après une belle rencontre n’est pas vide : il est dense."
 category: "amour-presence"

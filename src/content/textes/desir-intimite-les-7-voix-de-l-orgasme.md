@@ -1,4 +1,5 @@
 ---
+verifieParDuy: false
 title: "Les 7 voix de l’orgasme"
 excerpt: "Explorer la voix comme un membre à part entière de l’amour."
 category: "desir-intimite"

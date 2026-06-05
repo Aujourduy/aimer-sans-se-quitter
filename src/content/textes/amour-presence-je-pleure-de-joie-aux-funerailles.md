@@ -1,4 +1,5 @@
 ---
+verifieParDuy: false
 title: "Je pleure de joie aux funérailles"
 excerpt: "Chaque larme devient une fleur déposée sur l’autel de la gratitude."
 category: "amour-presence"

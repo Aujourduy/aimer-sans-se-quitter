@@ -1,4 +1,5 @@
 ---
+verifieParDuy: false
 title: "La morale cachée de Cendrillon"
 excerpt: "Laisse tomber ton rôle de victime et enfile tes plus beaux habits de lumière."
 category: "peur-masque"

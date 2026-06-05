@@ -1,4 +1,5 @@
 ---
+verifieParDuy: false
 title: "La princesse au petit pois"
 excerpt: "Le petit pois sous mes matelas, c’était le masque que je portais."
 category: "peur-masque"

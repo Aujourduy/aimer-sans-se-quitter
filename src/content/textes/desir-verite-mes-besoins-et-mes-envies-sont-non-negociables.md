@@ -1,4 +1,5 @@
 ---
+verifieParDuy: false
 title: "Mes besoins et mes envies sont non négociables"
 excerpt: "Trouver d’abord ce que chacun veut, avant de chercher ce que le couple veut."
 category: "desir-verite"

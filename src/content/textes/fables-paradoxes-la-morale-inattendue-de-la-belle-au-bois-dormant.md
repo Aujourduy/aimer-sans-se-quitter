@@ -1,4 +1,5 @@
 ---
+verifieParDuy: false
 title: "La morale inattendue de la Belle au bois dormant"
 excerpt: "Réveiller l’autre de son endormissement demande le courage et la détermination du prince."
 category: "fables-paradoxes"

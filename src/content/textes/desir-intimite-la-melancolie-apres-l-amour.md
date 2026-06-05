@@ -1,4 +1,5 @@
 ---
+verifieParDuy: false
 title: "La mélancolie après l’amour"
 excerpt: "Deux mélancolies après le sexe : celle des petits cailloux, celle des bulles."
 category: "desir-intimite"

@@ -1,4 +1,5 @@
 ---
+verifieParDuy: false
 title: "La culpabilité à recevoir"
 excerpt: "Recevoir sans dette : il n’y a pas d’échange, seulement des dons."
 category: "desir-verite"

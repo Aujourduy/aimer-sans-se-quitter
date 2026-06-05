@@ -1,4 +1,5 @@
 ---
+verifieParDuy: false
 title: "Une bonne ou mauvaise nouvelle"
 excerpt: "Notre esprit juge vite ; mais qui peut savoir si une chose est vraiment bonne ou mauvaise ?"
 category: "fables-paradoxes"

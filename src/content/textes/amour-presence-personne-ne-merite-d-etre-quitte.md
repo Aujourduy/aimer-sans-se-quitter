@@ -1,4 +1,5 @@
 ---
+verifieParDuy: false
 title: "Personne ne mérite d’être quitté"
 excerpt: "Je peux partir dans l’amour, le cœur ouvert, le ventre plein de gratitude."
 category: "amour-presence"

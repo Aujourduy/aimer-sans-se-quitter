@@ -1,4 +1,5 @@
 ---
+verifieParDuy: false
 title: "Le Roi vs le Prince"
 excerpt: "Le prince combat pour prouver sa valeur ; le roi règne pour la paix."
 category: "peur-masque"

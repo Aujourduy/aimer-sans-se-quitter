@@ -1,4 +1,5 @@
 ---
+verifieParDuy: false
 title: "Une erreur que j’ai traînée longtemps"
 excerpt: "Vouloir être aimé pour qui l’on est sans jamais oser se montrer tel quel."
 category: "desir-verite"

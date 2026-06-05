@@ -1,4 +1,5 @@
 ---
+verifieParDuy: false
 title: "La peur du papillon pour son envol"
 excerpt: "Le papillon ne voit pas son décollage, il sent le sol se dérober."
 category: "fables-paradoxes"

@@ -1,4 +1,5 @@
 ---
+verifieParDuy: false
 title: "Tout a un prix"
 excerpt: "Le prix le plus cher fut celui du dépassement de soi, vers l’authenticité."
 category: "desir-verite"

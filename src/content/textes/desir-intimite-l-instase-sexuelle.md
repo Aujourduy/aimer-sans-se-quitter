@@ -1,4 +1,5 @@
 ---
+verifieParDuy: false
 title: "L’instase sexuelle"
 excerpt: "L’instase, c’est quand l’univers s’est transporté à l’intérieur de soi."
 category: "desir-intimite"

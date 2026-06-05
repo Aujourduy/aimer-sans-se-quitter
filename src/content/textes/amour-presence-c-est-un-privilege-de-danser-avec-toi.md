@@ -1,4 +1,5 @@
 ---
+verifieParDuy: false
 title: "C’est un privilège de danser avec toi"
 excerpt: "La danse devient une écoute silencieuse, sans demande, où deux présences se rencontrent et s’abandonnent."
 category: "amour-presence"

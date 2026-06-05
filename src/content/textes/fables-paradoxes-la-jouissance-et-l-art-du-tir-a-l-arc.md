@@ -1,4 +1,5 @@
 ---
+verifieParDuy: false
 title: "La jouissance et l’art du tir à l’arc"
 excerpt: "Atteindre la cible ne suffit pas : c’est enlever les entraves qui compte."
 category: "fables-paradoxes"

@@ -1,4 +1,5 @@
 ---
+verifieParDuy: false
 title: "Peur de mourir vs peur de ne pas vivre"
 excerpt: "Ne pas lutter contre la peur de la mort, mais remplir la vie de ce qui compte."
 category: "amour-presence"

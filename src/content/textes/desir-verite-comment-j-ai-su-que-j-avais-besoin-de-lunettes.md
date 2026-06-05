@@ -1,4 +1,5 @@
 ---
+verifieParDuy: false
 title: "Comment j’ai su que j’avais besoin de lunettes ?"
 excerpt: "C’est en portant des lunettes qu’on découvre qu’on croyait voir clair sans l’être."
 category: "desir-verite"

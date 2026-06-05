@@ -1,4 +1,5 @@
 ---
+verifieParDuy: false
 title: "Gratitude vs colère"
 excerpt: "La colère naît quand je crois qu’on me doit quelque chose ; voilà comment je suis passé de la colère à la gratitude."
 category: "desir-verite"

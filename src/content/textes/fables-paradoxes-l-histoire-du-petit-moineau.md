@@ -1,4 +1,5 @@
 ---
+verifieParDuy: false
 title: "L’histoire du petit moineau"
 excerpt: "Vouloir sortir de la boue à tout prix, c’est risquer de se faire avaler."
 category: "fables-paradoxes"

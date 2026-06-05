@@ -1,4 +1,5 @@
 ---
+verifieParDuy: false
 title: "Le carnet noir des reproches"
 excerpt: "Ce qui ne s’exprime pas s’imprime dans le carnet noir, et s’exprime quand même plus tard."
 category: "peur-masque"

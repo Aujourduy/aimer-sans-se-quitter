@@ -1,4 +1,5 @@
 ---
+verifieParDuy: false
 title: "Pour progresser il faut renoncer"
 excerpt: "Entre la performance et l’entraînement, deux temporalités inconciliables : il faut choisir."
 category: "desir-verite"

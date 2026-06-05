@@ -1,4 +1,5 @@
 ---
+verifieParDuy: false
 title: "Cuisson à l’eau froide"
 excerpt: "Donner le temps et l’espace pour que la sensualité s’exprime d’elle-même, sans forcer."
 category: "fables-paradoxes"

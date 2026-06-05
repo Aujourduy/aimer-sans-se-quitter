@@ -1,4 +1,5 @@
 ---
+verifieParDuy: false
 title: "La sexualité comme pouls de la relation amoureuse"
 excerpt: "La sexualité est rarement le problème ; elle révèle ce qui se joue ailleurs."
 category: "desir-verite"

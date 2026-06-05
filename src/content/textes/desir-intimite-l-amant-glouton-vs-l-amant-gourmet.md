@@ -1,4 +1,5 @@
 ---
+verifieParDuy: false
 title: "L’amant glouton vs l’amant gourmet"
 excerpt: "Le glouton se dépêche de consommer ; le gourmet prend le temps de déguster."
 category: "desir-intimite"

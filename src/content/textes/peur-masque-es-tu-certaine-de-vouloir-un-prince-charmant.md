@@ -1,4 +1,5 @@
 ---
+verifieParDuy: false
 title: "Es-tu certaine de vouloir un prince charmant ?"
 excerpt: "Chaque femme est déjà une Reine ; elle n’a pas besoin d’un prince pour exister."
 category: "peur-masque"

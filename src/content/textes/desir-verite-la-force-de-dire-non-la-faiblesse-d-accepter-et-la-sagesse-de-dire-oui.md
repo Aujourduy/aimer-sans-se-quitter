@@ -1,4 +1,5 @@
 ---
+verifieParDuy: false
 title: "La force de dire non, la faiblesse d’accepter & la sagesse de dire oui"
 excerpt: "Je ne peux pas être heureux dans une relation si je dois renoncer à moi-même."
 category: "desir-verite"

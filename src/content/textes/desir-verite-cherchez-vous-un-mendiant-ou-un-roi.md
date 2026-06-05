@@ -1,4 +1,5 @@
 ---
+verifieParDuy: false
 title: "Cherchez-vous un Mendiant ou un Roi ?"
 excerpt: "Deux archétypes dans la rencontre : le mendiant qui réclame, le roi qui déborde."
 category: "desir-verite"
