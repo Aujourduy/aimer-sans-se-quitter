@@ -14,22 +14,29 @@ rien ici n'apparaît sur le site.
 ## En-tête de chaque fichier
 
 ```yaml
-titre:    # titre repris de la source (souvent à affiner)
+titre:    # titre clair et descriptif
 source:   # corpus | principes | partages
-date:     # si connue (posts FB)
-statut:   # brouillon | à-terminer (ébauche vide ou marquée « à terminer »)
+date:     # si connue (posts FB) ; vide sinon
+statut:   # brouillon (contenu réel) | à-terminer (vide / fragment / logistique)
 doublon:  # false, ou chemin du fichier de référence si corps identique
-sujet:    # À ENRICHIR : 1 phrase résumant le propos
-motscles: # À ENRICHIR : mots-clés
-enrichi:  # false tant que sujet/motscles/relecture ne sont pas faits
+sujet:    # 1 phrase résumant le propos (rempli sur les brouillons)
+motscles: # mots-clés thématiques
+enrichi:  # true sur les 824 fichiers
 ```
 
 ## État
 
 - Phase 1 (faite) : découpage verbatim + détection doublons + statuts + index.
-- Phase 2 (à faire, par lots) : `sujet`, `motscles`, relecture orthographe/grammaire
-  (même standard que les 116 textes publiés) → passer `enrichi: true`.
+- Phase 2 (faite) : titres affinés, `sujet`, `motscles`, relecture
+  orthographe/grammaire + typographie française (espace fine insécable,
+  guillemets `« »`), retrait du boilerplate Facebook (signatures, PS, liens
+  promo, CTA) → les 824 fichiers sont `enrichi: true`.
 
-Doublons détectés : 58 fichiers (corps identique) répartis en
-44 groupes — voir fin de `INDEX.md`. Conservés tels quels et **marqués**
-(champ `doublon`) plutôt que supprimés, pour décider au cas par cas.
+Répartition : **522 brouillon** (contenu réel, prêts à relire/publier) ·
+**302 à-terminer** (corps vide, fragment, ou post purement logistique :
+accueils de groupe, stats, annonces, liens seuls).
+
+Doublons détectés : 58 fichiers (corps identique) — conservés tels quels et
+**marqués** (champ `doublon`) plutôt que supprimés, pour décider au cas par cas.
+
+Le sommaire complet (titre, sujet, mots-clés, statut, doublons) est dans `INDEX.md`.
