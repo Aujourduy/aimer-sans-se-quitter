@@ -1,11 +1,11 @@
 ---
-titre: "Il n'y a pas de problème sexuel. Il y a des problèmes relationnels (soi-l'autre/soi-soi) qui se manifestent dans la sexu"
+titre: "Il n'y a pas de problème sexuel — il y a des problèmes relationnels (hors pathologie physique)"
 source: "corpus"
 date: "5 octobre 2021"
-statut: "brouillon"
+statut: "à-terminer"
 doublon: false
-sujet: ""
-motscles: []
-enrichi: false
+sujet: "Affirmation centrale de la démarche : tout problème sexuel est en réalité un problème relationnel (avec soi ou avec l'autre) qui se manifeste dans la sexualité, hormis les pathologies physiques."
+motscles: [sexualité sensible, relation, amour de soi, communication, corps]
+enrichi: true
 ---
-Il n'y a pas de problème sexuel. Il y a des problèmes relationnels (soi-l'autre/soi-soi) qui se manifestent dans la sexualité. (Hors pathologie physique bien sur)
+Il n'y a pas de problème sexuel. Il y a des problèmes relationnels (soi-l'autre / soi-soi) qui se manifestent dans la sexualité. (Hors pathologie physique bien sûr.)

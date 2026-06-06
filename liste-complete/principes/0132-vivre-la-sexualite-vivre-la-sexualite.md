@@ -1,10 +1,10 @@
 ---
-titre: "VIVRE la sexualité /= vivre la SEXUALITE"
+titre: "VIVRE la sexualité ≠ vivre la SEXUALITE"
 source: "principes"
+date: ""
 statut: "à-terminer"
 doublon: false
 sujet: ""
 motscles: []
-enrichi: false
+enrichi: true
 ---
-

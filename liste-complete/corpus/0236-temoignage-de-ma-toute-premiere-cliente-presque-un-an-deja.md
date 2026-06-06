@@ -1,13 +1,11 @@
 ---
-titre: "Témoignage de ma toute première cliente ... presque un an déjà."
+titre: "Témoignage — Première cliente, presque un an déjà"
 source: "corpus"
 date: "28 mars 2022"
-statut: "brouillon"
+statut: "à-terminer"
 doublon: false
-sujet: ""
-motscles: []
-enrichi: false
+sujet: "Témoignage de la toute première cliente de l'accompagnement, presque un an après le début, avec mention d'un second témoignage vidéo disponible."
+motscles: [témoignage, sexualité sensible, accompagnement]
+enrichi: true
 ---
 Il y a aussi un autre témoignage plus haut sur mon mur.
-
-L'accompagnement démarre lundi prochain, rendez-vous pour en discuter sur  www.sexualite-sensible.fr

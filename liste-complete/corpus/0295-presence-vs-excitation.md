@@ -1,42 +1,33 @@
 ---
-titre: "PRESENCE vs EXCITATION"
+titre: "Présence vs excitation : ce que la danse m'a appris sur la sexualité"
 source: "corpus"
 date: "5 juin 2022"
 statut: "brouillon"
 doublon: false
-sujet: ""
-motscles: []
-enrichi: false
+sujet: "Une expérience de danse contact révèle la différence entre présence et excitation : se focaliser sur l'excitation éloigne de l'essentiel, tandis que cultiver la présence approfondit naturellement le plaisir et la connexion."
+motscles: [présence, excitation, danse, sexualité sensible, plaisir, corps]
+enrichi: true
 ---
-C’est la fin de la session. Cela fait une heure que l’atelier a commencé. Les groupes se font et se défont sur ce grand parquet. Des danseurs se rencontrent, dansent ensemble et se quittent. Le hasard (ou pas) nous a amené à nous connecter dans la danse. Oui, c’est une belle femme. Oui, c’est une bonne danseuse. D’ailleurs les deux cumulés me créent une appréhension. Cette femme m’impressionne. Mais comme je suis plus passionné par la danse que mon mental, je me laisse fondre dans cette danse.
- 
+C'est la fin de la session. Cela fait une heure que l'atelier a commencé. Les groupes se font et se défont sur ce grand parquet. Des danseurs se rencontrent, dansent ensemble et se quittent. Le hasard (ou pas) nous a amenés à nous connecter dans la danse. Oui, c'est une belle femme. Oui, c'est une bonne danseuse. D'ailleurs les deux cumulés me créent une appréhension. Cette femme m'impressionne. Mais comme je suis plus passionné par la danse que mon mental, je me laisse fondre dans cette danse.
 
-Nous dansons ensemble longuement. Rien acrobatiquement parce je suis fatigué et en plus avec mon mal de dos, je ne fais plus de porter sur l’épaule. Rien de collé serré non plus comme cela à pu être avec d’autres femmes à d’autres moments. C’était tranquille comme mouvements mais avec une grande écoute. Durant un bon moment, nous n’étions en contact que par le bras. Des mouvements simples. Des explorations. Des propositions. Des réponses. Un dialogue entre nos bras qui ne veut rien dire. Juste pour exister. Juste pour manifester l’existence. L’existence des bras. L’existence des sensations. L’existence des corps. De nos corps. L’existence de nos êtres.
- 
-Dans cette danse, j’ai l’impression que nous y avons mis tout notre cœur sans rien attendre de l’après. C'est la magie de la danse. Un moment où tout est possible mais l’instant d’après tout peut disparaître. Nous le savons. Chaque seconde est unique. Chaque instant est précieux. Chaque contact, chaque sensation est ressenti, accueilli et bu jusqu'à la lie. Parce que nous ne savons pas si nous allons nous revoir. Nous ne savons pas si nous allons redanser ensemble.  Et même si nous nous revoyons, même si nous redansons ensemble encore et encore, ce moment est tellement sublime que nous ne sommes pas sûr de pouvoir le retrouver. Et honnêtement, pour l’avoir déjà vécu un certain nombre de fois, c’est un peu comme les premières fois qu’on fait l’amour avec quelqu’un, cette intensité ne se retrouve que rarement. 
- 
-C’est la beauté de la Présence. Se donner au maximum sans attentes, sans espérer, sans demander. Un don pur à l’autre, à soi et à la vie.
- 
-La danse se calme. Le silence vient. Nous restons là debout au milieu de la salle. Dos à dos. Je sens son dos. Bras contre bras. Je sens son bras le long de mon bras. Fesses contre fesses. Je sens ses fesses sur mes fesses. Il y a un contact. Il y a des contacts. Il y a immobilité ou presque. En tout cas, le peu de mouvement qu’il y a, c’est tellement tranquille qu’on dirait de l’immobilité. Comme une respiration. Comme un clignement des yeux. Comme l’écho qui traverse le silence sans le perturber.
- 
-Encore une dizaine de minutes, debout, en contact à écouter les perceptions, à recevoir la musique de cette rencontre sur ma peau, à accueillir dans mon corps la vibration de sa présence, la vibration de ma présence, la vibration de notre rencontre … notre présence dans cet espace, notre présence à cet instant.
- 
-Cela fait plus de 24h et je sens encore le parfum de cette danse. Je sens la Présence en moi. Je me rends compte combien cela est nourrissant. Combien la présence, la qualité de présence est primordiale et c’est au fond ce que je cherche dans une sexualité authentique et sensible. Parfois, souvent même, on cherche l’excitation, le plaisir parce qu’on oublie l’essentiel : la présence.
- 
-Beaucoup de propositions sur la sexualité parlent de l’excitation, du désir, retrouver la flamme dans le couple etc. Et c’est vrai qu’on peut faire des choses pour développer l’excitation :  des lingeries, des mots doux ou crus, des jeux, des accessoires, des situations, des caresses, des techniques pour faire jouir. Mais tellement peu de présence parce qu’on ne peut pas faire la présence, on ne peut pas aller vers la présence. C’est comme le silence. C’est le Silence. La présence est déjà là et il n’y a rien à faire pour la retrouver sinon que de ne pas faire ce qui nous en éloigne.
- 
-Si tu as envie de transformer ta sexualité je te propose de prendre trois respiration profondes. Fais-le vraiment. Pas pour moi mais pour toi-même. Pour gagner en clarté. Vas-y pour les trois respirations avant de lire la suite.
- 
+Nous dansons ensemble longuement. Rien d'acrobatique parce que je suis fatigué et en plus avec mon mal de dos, je ne fais plus de porters sur l'épaule. Rien de collé serré non plus comme cela a pu être avec d'autres femmes à d'autres moments. C'était tranquille comme mouvements mais avec une grande écoute. Durant un bon moment, nous n'étions en contact que par le bras. Des mouvements simples. Des explorations. Des propositions. Des réponses. Un dialogue entre nos bras qui ne veut rien dire. Juste pour exister. Juste pour manifester l'existence. L'existence des bras. L'existence des sensations. L'existence des corps. De nos corps. L'existence de nos êtres.
+
+Dans cette danse, j'ai l'impression que nous y avons mis tout notre cœur sans rien attendre de l'après. C'est la magie de la danse. Un moment où tout est possible mais l'instant d'après tout peut disparaître. Nous le savons. Chaque seconde est unique. Chaque instant est précieux. Chaque contact, chaque sensation est ressenti, accueilli et bu jusqu'à la lie. Parce que nous ne savons pas si nous allons nous revoir. Nous ne savons pas si nous allons redanser ensemble. Et même si nous nous revoyons, même si nous redansons ensemble encore et encore, ce moment est tellement sublime que nous ne sommes pas sûrs de pouvoir le retrouver. Et honnêtement, pour l'avoir déjà vécu un certain nombre de fois, c'est un peu comme les premières fois qu'on fait l'amour avec quelqu'un, cette intensité ne se retrouve que rarement.
+
+C'est la beauté de la Présence. Se donner au maximum sans attentes, sans espérer, sans demander. Un don pur à l'autre, à soi et à la vie.
+
+La danse se calme. Le silence vient. Nous restons là debout au milieu de la salle. Dos à dos. Je sens son dos. Bras contre bras. Je sens son bras le long de mon bras. Fesses contre fesses. Je sens ses fesses sur mes fesses. Il y a un contact. Il y a des contacts. Il y a immobilité ou presque. En tout cas, le peu de mouvement qu'il y a, c'est tellement tranquille qu'on dirait de l'immobilité. Comme une respiration. Comme un clignement des yeux. Comme l'écho qui traverse le silence sans le perturber.
+
+Encore une dizaine de minutes, debout, en contact à écouter les perceptions, à recevoir la musique de cette rencontre sur ma peau, à accueillir dans mon corps la vibration de sa présence, la vibration de ma présence, la vibration de notre rencontre… notre présence dans cet espace, notre présence à cet instant.
+
+Cela fait plus de 24h et je sens encore le parfum de cette danse. Je sens la Présence en moi. Je me rends compte combien cela est nourrissant. Combien la présence, la qualité de présence est primordiale et c'est au fond ce que je cherche dans une sexualité authentique et sensible. Parfois, souvent même, on cherche l'excitation, le plaisir parce qu'on oublie l'essentiel : la présence.
+
+Beaucoup de propositions sur la sexualité parlent de l'excitation, du désir, retrouver la flamme dans le couple etc. Et c'est vrai qu'on peut faire des choses pour développer l'excitation : des lingeries, des mots doux ou crus, des jeux, des accessoires, des situations, des caresses, des techniques pour faire jouir. Mais tellement peu de présence parce qu'on ne peut pas faire la présence, on ne peut pas aller vers la présence. C'est comme le silence. C'est le Silence. La présence est déjà là et il n'y a rien à faire pour la retrouver sinon que de ne pas faire ce qui nous en éloigne.
+
+Si tu as envie de transformer ta sexualité, je te propose de prendre trois respirations profondes. Fais-le vraiment. Pas pour moi mais pour toi-même. Pour gagner en clarté. Vas-y pour les trois respirations avant de lire la suite.
+
 …
- 
-Peut-être que tu as envie d’avoir plus de désir, plus de plaisir avec ton ou ta partenaire. Et c’est tout à fait respectable. Je pose juste cette question. Est-ce que tu veux réellement plus d’excitation ou plus de présence. Paradoxalement, quand on se focalise sur l’excitation et le plaisir on n’a moins de présence. Par contre, quand on est plus dans la présence, on ressent plus d’excitation, sous une forme plus profonde, et plus de plaisir. Le plaisir de vivre.
 
-Peut-être que ce qui importe ce n'est pas réellement le plaisir dans sexualité mais le plaisir de ressentir notre présence, la notre et celle de notre partenaire, incluant la dimension sexuelle de nos êtres.
+Peut-être que tu as envie d'avoir plus de désir, plus de plaisir avec ton ou ta partenaire. Et c'est tout à fait respectable. Je pose juste cette question. Est-ce que tu veux réellement plus d'excitation ou plus de présence ? Paradoxalement, quand on se focalise sur l'excitation et le plaisir on a moins de présence. Par contre, quand on est plus dans la présence, on ressent plus d'excitation, sous une forme plus profonde, et plus de plaisir. Le plaisir de vivre.
 
-Si tu as aimé ce texte, si tu ressens que cela t'a apporté quelque chose de précieux, alors j'ai le plaisir de t'annoncer que beaucoup d'autres posts écrits avec autant d'amour t'attendent sur mon profil. 
-
-C'est tout ce que j'aurai voulu lire, entendre, comprendre il y a 30 ans et qui m'aurait fait énormément gagner de temps et d'énergie pour arriver plus rapidement à une sexualité authentique et sensible. 
-
-Ils ont été inspirés, écrits pour toi. 
-
-Et si tu penses que cela peut aider d'autres personnes tu peux les liker, commenter et partager à ton tour pour participer à  cette chaîne de solidarité et amener plus de lumière et d'amour dans la sexualité de notre société.
+Peut-être que ce qui importe ce n'est pas réellement le plaisir dans la sexualité mais le plaisir de ressentir notre présence, la nôtre et celle de notre partenaire, incluant la dimension sexuelle de nos êtres.

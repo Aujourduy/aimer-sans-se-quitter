@@ -1,11 +1,11 @@
 ---
-titre: "Pour les hommes mais aussi les femmes"
+titre: "Partage — Vidéo pour les hommes et les femmes"
 source: "corpus"
 date: "7 juin 2022"
-statut: "brouillon"
+statut: "à-terminer"
 doublon: false
-sujet: ""
-motscles: []
-enrichi: false
+sujet: "Post de partage d'une vidéo refaite avec un meilleur son et un discours plus direct, destinée aux hommes comme aux femmes."
+motscles: [sexualité sensible, vidéo]
+enrichi: true
 ---
-Vidéo refait avec un meilleur son et un discours plus direct 😁
+Vidéo refaite avec un meilleur son et un discours plus direct.

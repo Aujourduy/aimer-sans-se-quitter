@@ -1,11 +1,11 @@
 ---
-titre: "Présentation du stage \"Danseurs Sauvages / Amants Sensibles\" les 4-5 Mars 2023"
+titre: "Partage — Stage Danseurs Sauvages / Amants Sensibles (4-5 mars 2023)"
 source: "corpus"
 date: "3 février 2023"
-statut: "brouillon"
+statut: "à-terminer"
 doublon: false
-sujet: ""
-motscles: []
-enrichi: false
+sujet: "Annonce du stage Danseurs Sauvages / Amants Sensibles des 4 et 5 mars 2023, sans autre contenu textuel."
+motscles: [danse, stage, amants sensibles]
+enrichi: true
 ---
-Infos et Résa sur www.aujourduy.com
+Infos et réservation sur www.aujourduy.com

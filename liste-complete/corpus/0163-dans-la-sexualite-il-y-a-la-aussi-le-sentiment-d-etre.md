@@ -1,25 +1,11 @@
 ---
-titre: "Dans la sexualité, il y a la aussi le sentiment d'être précieux, honoré et aimé par sa partenaire."
+titre: "Dans la sexualité, le sentiment d'être précieux, honoré et aimé"
 source: "corpus"
 date: "11 décembre 2021"
-statut: "brouillon"
+statut: "à-terminer"
 doublon: false
-sujet: ""
-motscles: []
-enrichi: false
+sujet: "Fragment affirmant que dans la sexualité, il y a aussi le sentiment d'être précieux, honoré et aimé par sa partenaire."
+motscles: [honorer, présence, amour, sexualité sensible, couple]
+enrichi: true
 ---
-Duy Dang 
-Inspirateur de Sexualité sensible
-www.sexualite-sensible.fr
-
--------------------------------------------------------------------
-
-*** PLUS D'INFOS ***
-
-1/ Tu as depuis longtemps une envie irrésistible et profonde de vivre les instants de grâce d'une sexualité authentique et sensible ? C'est par ici : www.sexualite-sensible.fr
-
-2/ Pour recevoir des conseils sur la sexualité sensible, connaître mon actualité, inscris-toi 😉 sur www.conseils-pour-amants-sensibles.fr
-
-3/ Pour lire mes autres posts 😘, abonne-toi à mon profil pro https://www.facebook.com/inspirateur.des.amants.sensibles
-
-4/ Mon groupe privé de partages amicaux, sensuels et charnels entre personnes désireuses d'une sexualité authentique et sensible : www.la-tribu-des-amants-sensibles.fr
+Dans la sexualité, il y a là aussi le sentiment d'être précieux, honoré et aimé par sa partenaire.

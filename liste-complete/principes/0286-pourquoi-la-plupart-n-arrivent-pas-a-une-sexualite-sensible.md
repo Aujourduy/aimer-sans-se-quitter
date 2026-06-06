@@ -1,10 +1,11 @@
 ---
-titre: "Pourquoi la plupart n’arrivent pas à une sexualité sensible"
+titre: "Pourquoi la plupart n'arrivent pas à une sexualité sensible"
 source: "principes"
-statut: "brouillon"
+date: ""
+statut: "à-terminer"
 doublon: false
 sujet: ""
 motscles: []
-enrichi: false
+enrichi: true
 ---
 Beaucoup de personnes

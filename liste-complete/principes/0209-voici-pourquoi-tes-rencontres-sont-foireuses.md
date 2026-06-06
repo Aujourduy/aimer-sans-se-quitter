@@ -1,42 +1,43 @@
 ---
-titre: "Voici pourquoi tes rencontres sont foireuses"
+titre: "Arrête de chercher un homme bien : deviens d'abord une amante sensible"
 source: "principes"
+date: ""
 statut: "brouillon"
 doublon: false
-sujet: ""
-motscles: []
-enrichi: false
+sujet: "Le vrai chemin vers une sexualité épanouie n'est pas de chercher le bon partenaire, mais de travailler à devenir soi-même une amante (ou un amant) sensible. Désirer être plutôt que désirer avoir est la clé d'une transformation durable."
+motscles: [sexualité sensible, désir, être vs avoir, transformation intérieure, partenaire, confiance]
+enrichi: true
 ---
-Dans le milieu développement personnel et spirituel il y a deux principes qui sont souvent mal utilisés ensemble. 
+Dans le milieu du développement personnel et spirituel, il y a deux principes qui sont souvent mal utilisés ensemble.
 
-D’un côté, on dit que l’important c’est l’être, pas l’avoir.
+D'un côté, on dit que l'important c'est l'être, pas l'avoir.
 
-D’un côté, on parle du principe de l’attraction. qui dit que si on pense fortement et souvent à ce qu’on désire, cela arrive.
+D'un autre côté, on parle du principe de l'attraction, qui dit que si on pense fortement et souvent à ce qu'on désire, cela arrive.
 
-Certaines femmes, et certains hommes aussi bien sûr mais je ne répéterai à chaque pour pour ne pas alourdir le texte, utilisent ce principe pour trouver le partenaire qui répondra à leurs attentes. Elles pensent à toutes les qualités qu’elles recherchent chez un amant sensible et les écrivent sur une feuille. Elles font un tableau de visualisation en imaginant comment elles se sentiraient en étant en relation avec un tel homme.
+Certaines femmes — et certains hommes aussi bien sûr, mais je ne le répéterai pas à chaque fois pour ne pas alourdir le texte — utilisent ce principe pour trouver le partenaire qui répondra à leurs attentes. Elles pensent à toutes les qualités qu'elles recherchent chez un amant sensible et les écrivent sur une feuille. Elles font un tableau de visualisation en imaginant comment elles se sentiraient en étant en relation avec un tel homme.
 
-Tu vois le problème ? Elles mettent le focus sur l’homme, sur l’extérieur.
+Tu vois le problème ? Elles mettent le focus sur l'homme, sur l'extérieur.
 
-Elles désirent avoir alors qu’elles considèrent que l’important c’est être.
+Elles désirent avoir alors qu'elles considèrent que l'important c'est être.
 
-Ce qui est vraiment efficace c’est désirer être. Donc leur question ne devrait pas “Où et comment trouver un amant sensible ?” mais “Comment devenir une amante sensible ?”
+Ce qui est vraiment efficace c'est désirer être. Donc leur question ne devrait pas être « Où et comment trouver un amant sensible ? » mais « Comment devenir une amante sensible ? »
 
-Au lieu de désirer rencontrer un amant sensible, désirer devenir une amante sensible. Ce n’est pas parce qu’elles ont vécu une expérience de sexualité sensible qu’elles sont des amantes sensibles. Le fait de vivre une sexualité sensible montre qu’elles ont de la sensibilité et sont capables de la recevoir. 
+Au lieu de désirer rencontrer un amant sensible, désirer devenir une amante sensible. Ce n'est pas parce qu'elles ont vécu une expérience de sexualité sensible qu'elles sont des amantes sensibles. Le fait de vivre une sexualité sensible montre qu'elles ont de la sensibilité et sont capables de la recevoir.
 
-Comme une personne peut devenir riche en recevant un héritage ou gagner au loto. C’est très différent d’une personne qui travaille, investit pour devenir riche. Pour créer sa propre richesse matérielle. Warren Buffet, Elon Musk ou Khan Vo Anh (avec qui j’ai travaillé et qui a fait fortune dans l’immobilier d’investissement), si tu confisquais toute leur fortune, 10 ans après ils redeviennent millionnaires. 
+Comme une personne peut devenir riche en recevant un héritage ou en gagnant au loto. C'est très différent d'une personne qui travaille et investit pour devenir riche, pour créer sa propre richesse matérielle. Warren Buffet, Elon Musk ou Khan Vo Anh — avec qui j'ai travaillé et qui a fait fortune dans l'immobilier d'investissement — si tu leur confisquais toute leur fortune, 10 ans après ils redeviendraient millionnaires.
 
-Depuis, 10 ans, toutes les relations que j’ai vécues m’ont offert une sexualité authentique et sensible. Par contre,  mes ex ont eu des relations parfois complexes après.
+Depuis 10 ans, toutes les relations que j'ai vécues m'ont offert une sexualité authentique et sensible. Par contre, mes ex ont eu des relations parfois complexes après.
 
-Dernièrement, j’ai contacté d’anciennes participantes pour avoir de leurs nouvelles. Elles m’ont toutes dit que mon accompagnement les avait transformées dans l’être. Elles se rendent compte maintenant pourquoi avant, elles avaient des fois une sexualité sensible et des fois (souvent en fait) des relations très insatisfaisantes … voire néfastes.
+Dernièrement, j'ai contacté d'anciennes participantes pour avoir de leurs nouvelles. Elles m'ont toutes dit que mon accompagnement les avait transformées dans l'être. Elles se rendent compte maintenant pourquoi avant, elles avaient des fois une sexualité sensible et des fois — souvent en fait — des relations très insatisfaisantes, voire néfastes.
 
-Avant c’était des Princesses, et leurs relations dépendaient du Prince. Maintenant elles sont des Reines, la qualité de leur sexualité dépend d’elles.
+Avant c'étaient des Princesses, et leurs relations dépendaient du Prince. Maintenant elles sont des Reines, la qualité de leur sexualité dépend d'elles.
 
-C’est rare que je donne des conseils, j’essaie plutôt de simplement mettre les choses en perspectives, mais après avoir discuté avec plus personnes j’ai été tellement touché par leurs désespérances, leurs renoncements à vivre une belle sexualité nourrissante. Là c’est mon petit coup de gueule, bienveillant : “Arrête de chercher à un homme bien. Cherche d’abord à être la femme que cet homme cherche.” 
+C'est rare que je donne des conseils, j'essaie plutôt de simplement mettre les choses en perspective, mais après avoir discuté avec plusieurs personnes j'ai été tellement touché par leurs désespérances, leurs renoncements à vivre une belle sexualité nourrissante. Là c'est mon petit coup de gueule, bienveillant : « Arrête de chercher un homme bien. Cherche d'abord à être la femme que cet homme cherche. »
 
-Deviens Reine, conquiers ton royaume, reconquiers ton royaume, 
+Deviens Reine, conquiers ton royaume, reconquiers ton royaume.
 
 Si tu cherches à devenir riche, arrête de jouer au loto ou au casino. Tu vas te ruiner. Ruiner ton argent. Ruiner ta santé. Ruiner ton amour propre. Ruiner ton respect pour toi-même. Ruiner ta confiance en toi. Ruiner ta joie de vivre. Ruiner ta sensibilité.
 
 Pour devenir riche, apprends un métier lucratif ou comment investir efficacement.
 
-Pour revenir à la sexualité sensible, je répète mon conseil : “Arrête de chercher à un homme bien. Cherche d’abord à être la femme que cet homme cherche.”
+Pour revenir à la sexualité sensible, je répète mon conseil : « Arrête de chercher un homme bien. Cherche d'abord à être la femme que cet homme cherche. »

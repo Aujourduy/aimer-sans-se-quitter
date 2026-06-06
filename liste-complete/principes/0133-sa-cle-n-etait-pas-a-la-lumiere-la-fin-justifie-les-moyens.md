@@ -1,12 +1,13 @@
 ---
-titre: "Sa clé n’était pas à la lumière La fin justifie les moyens"
+titre: "Sa clé n'était pas à la lumière — la fin justifie les moyens"
 source: "principes"
+date: ""
 statut: "à-terminer"
 doublon: false
 sujet: ""
 motscles: []
-enrichi: false
+enrichi: true
 ---
-Problème avec la visio /= présentiel
+Problème avec la visio ≠ présentiel
 
 Des fois, on

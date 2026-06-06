@@ -1,62 +1,10 @@
 ---
-titre: "Souhaitons la bienvenue aux nouveaux membres :"
+titre: "Partage — Bienvenue aux nouveaux membres"
 source: "corpus"
 date: "30 mars 2022"
-statut: "brouillon"
+statut: "à-terminer"
 doublon: false
-sujet: ""
-motscles: []
-enrichi: false
+sujet: "Message de bienvenue adressé aux nouveaux membres du groupe, sans contenu réflexif."
+motscles: [sexualité sensible, communauté]
+enrichi: true
 ---
-@[100028850587850:2048:Rose ArTes],
-@[717584700:2048:Marina Durand-viel],
-@[705619040:2048:Raphaëlle Ankaoua Moreuil],
-@[100012327631502:2048:Isabelle Laurent],
-@[1228603960:2048:Sev'loyer's Friend],
-@[100001143405462:2048:Lucile Cvcb],
-@[1593866090:2048:Alexandre Castex],
-@[585331286:2048:Noémi Rvouet],
-@[100000286823092:2048:Vero de Brouwer],
-@[688828982:2048:Clélia Grelier],
-@[1144300623:2048:Vincent Buron],
-@[614792862:2048:Ostiane Arthaud],
-@[100011643613368:2048:Alexandre Jorant],
-@[1486566690:2048:Agnes Prouvost Gonichon],
-@[654862431:2048:Antony Latour],
-@[100000968603565:2048:Thierry Soulier],
-@[100011225654538:2048:Pascale Hay],
-@[672336308:2048:Audrey Courbin],
-@[851144181:2048:Raphael Loyer],
-@[743683740:2048:Carine Bourny],
-@[100007894270404:2048:Aurore Florent Daigneau],
-@[100043778018516:2048:Isabelle Mulliez],
-@[615092837:2048:Laëtitia Schaffner],
-@[100000479893126:2048:Kassi Radji],
-@[100002259511135:2048:Vincent Heulin],
-@[1399095260:2048:Susanna Paly],
-@[520297149:2048:Bérangère Tardy],
-@[100003664010364:2048:Isabelle Gras],
-@[100003393872612:2048:Nola Mercier],
-@[100056199651646:2048:Isabelle Girod Thérapeute],
-@[100002898144042:2048:Gaïa-Sylvie Malo],
-@[100000099224715:2048:Benigni Cathy],
-@[100003052203031:2048:Sandra Moultanin],
-@[1480454820:2048:Laure Poucet],
-@[100004481378989:2048:Veronique Le Vaslot],
-@[100009444587756:2048:Rosanna Bilotta],
-@[100008424391286:2048:Lise Mercier],
-Duy Dang,
-@[634319210:2048:Guillaume de Brébisson],
-@[757302484:2048:Christine Huguet],
-@[100007842281833:2048:Cindy Palomo],
-@[1543263218:2048:Virginie Sanglas],
-@[100004861058129:2048:Catherine Aine],
-@[1487865652:2048:Christine Frichot],
-@[1013736290:2048:Virginie Grange],
-@[100000870675487:2048:Sandrine Pesenti],
-@[660339354:2048:Carine Leboeuf],
-@[100000087455035:2048:Mary Fredon],
-@[1615632724:2048:Judith Louis],
-@[1430453464:2048:Ludivine Poutrel],
-@[554007701:2048:Léon Petit],
-@[1222089759:2048:Valerie Chaumeil]

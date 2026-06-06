@@ -1,10 +1,11 @@
 ---
-titre: "Je cherche plus la paix que le plaisir"
+titre: "Le plaisir comme chemin vers la paix"
 source: "principes"
-statut: "brouillon"
+date: ""
+statut: "à-terminer"
 doublon: false
 sujet: ""
 motscles: []
-enrichi: false
+enrichi: true
 ---
-J’espère que le feu du plaisir me brûlera tout (les choses négatives) jusqu’à ce qu’il ne reste rien que la paix
+J'espère que le feu du plaisir me brûlera tout (les choses négatives) jusqu'à ce qu'il ne reste rien que la paix.

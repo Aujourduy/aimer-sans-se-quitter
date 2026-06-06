@@ -1,10 +1,11 @@
 ---
-titre: "Faire l’amour sans sexe"
+titre: "Faire l'amour sans sexe"
 source: "principes"
-statut: "brouillon"
+date: ""
+statut: "à-terminer"
 doublon: false
-sujet: ""
-motscles: []
-enrichi: false
+sujet: "Fragment inachevé évoquant la possibilité de faire l'amour sans acte sexuel, en référence aux films d'arts martiaux."
+motscles: [présence, intimité, corps, sexualité sensible]
+enrichi: true
 ---
-Pour les amateurs de films d’art martiaux, en plus des beaux combats, ce qui est aussi intéressants
+Pour les amateurs de films d'arts martiaux, en plus des beaux combats, ce qui est aussi intéressant
