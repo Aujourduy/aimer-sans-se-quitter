@@ -43,11 +43,11 @@ const categories = CATEGORY_ORDER.map((cat) => ({
 ---
 
 <Base
-  title="Textes"
+  title="Écrits"
   description="Fragments sur l’amour, le désir, la peur, le corps et les endroits où l’on se perd."
 >
   <section class="lecture" data-dbg="textes__entete">
-    <h1 data-dbg="textes__titre">Textes</h1>
+    <h1 data-dbg="textes__titre">Écrits</h1>
     <p class="lede">
       Fragments sur l’amour, le désir, la peur, le corps et les endroits où
       l’on se perd.
@@ -86,7 +86,7 @@ const categories = CATEGORY_ORDER.map((cat) => ({
   {
     entries.length > 0 && (
       <section class="lecture" data-dbg="textes__entrees">
-        <h2>Trois textes pour entrer</h2>
+        <h2>Trois écrits pour entrer</h2>
         <div class="text-list">
           {entries.map((t) => (
             <TextCard
@@ -112,7 +112,7 @@ const categories = CATEGORY_ORDER.map((cat) => ({
             <p class="intime-intro">{DESIR_INTIMITE_INTRO}</p>
           )}
           <a class="cat-card-link" href={url(`/textes/${cat.category}`)}>
-            Voir les textes
+            Voir les écrits
           </a>
         </article>
       ))
