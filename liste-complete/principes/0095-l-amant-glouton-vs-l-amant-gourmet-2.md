@@ -1,0 +1,16 @@
+---
+titre: "L’amant glouton vs l’amant gourmet (2)"
+source: "principes"
+statut: "brouillon"
+doublon: false
+sujet: ""
+motscles: []
+enrichi: false
+---
+C'est sûr que pour certains hommes c'est cause perdu. Il faut être vigilant sur la façon de faire. Il y a l'art et la manière comme on dit. Je dirai plus simplement, il y a des méthodes plus efficaces que d'autres. 
+
+Premièrement, il y a une grande différence entre jouer le rôle d’initiatrice à une sexualité sensible et initier son partenaire à une sexualité sensible. Jouer le rôle d'initiatrice c’est reconnaître le fait que vous avez des envies différentes, une maturité différente dans la sexualité. C’est accepter de faire des efforts, accepter de prendre du temps, accepter de répéter les choses pour aider votre partenaire à cheminer. Mais c’est rester à son niveau, ou presque. Il ne faut pas qu'il ait l'impression de vous suivre mais plus que vous êtes en train de marcher côte à côte, main dans la main. L’expression à ne pas utiliser “Ca serait bien que tu …” parce que ça risque d’être perçu comme moralisateur, autoritaire, infantilisant. C’est le parent qui s’adresse à l’enfant. 
+
+Deuxièmement, un homme qui a des doutes sur son masculin aura probablement plus de difficultés inconscientes à suivre les conseils d’une femme pour avancer sur la sexualité, le domaine le plus problématique du masculin. Moi, par exemple, j'écoutais bien mieux des conseils qui venaient de mon ami coach que les mêmes venant de mon ex-femme. C’est arrivé un certain nombre de fois, que je revienne d’une séance de coaching et disant à mon ex-femme “C’était super, j’ai pris conscience d’un gros truc” et qu’elle me réponde “Mais je te l’avais déjà dit plusieurs fois ça”. Certainement, qu’en étant coach, mon ami trouvaient certainement des explications plus compréhensibles mais étant donné le nombre de fois que c’est arrivé, c’est certain que j’avais des filtres par rapport au fait que le message venait d’une femme et encore plus de ma compagne. J'étais idiot, je le suis surement encore mais c'est comme ça. Je pense que beaucoup d’hommes sont comme ça. Sur le sujet de la sexualité, je pense que c'est pire. Pour contourner cette résistance, le mieux à mon avis, c’est que ce soit un homme qui explique à votre amant ce dont il s’agit.
+
+Troisièmement, dans le processus que je décris pour ouvrir son amant à une sexualité sensible en 4 étapes : Motivation, Exploration, Découverte, Évolution qui forme en réalité un cycle, un cercle vertueux, il y a deux étapes sur lequel il faut être vigilant. Exploration : souvent, quand une femme veut faire évoluer la sexualité dans le couple, elle propose une exploration comme essayer du slow sex, du sexe sacré, ou autre. C’est une erreur. Parce qu’il y a une étape importante avant qui est celle de la Motivation. Dans les formations que j’animais, c’était l’étape cruciale. Sans motivation réelle et profonde, toute la formation n’était au mieux qu’un bon moment convivial et agréable mais n’amenait pas le changement important et durable escompté. Donc avant de chercher les exercices à faire, il faut trouver ce qui motivera votre amant à le faire.

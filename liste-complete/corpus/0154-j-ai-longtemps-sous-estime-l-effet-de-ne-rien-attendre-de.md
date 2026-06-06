@@ -1,0 +1,11 @@
+---
+titre: "J'ai longtemps sous-estimé l'effet de ne rien attendre de ma partenaire."
+source: "corpus"
+date: "6 décembre 2021"
+statut: "brouillon"
+doublon: false
+sujet: ""
+motscles: []
+enrichi: false
+---
+Cette liberté offerte est un très puissant aphrodisiaque...

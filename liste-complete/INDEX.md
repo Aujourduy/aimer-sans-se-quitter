@@ -1,0 +1,912 @@
+# Index — liste complète des textes
+
+> Archive de travail (non publiée sur le site). Texte **verbatim** : les champs `sujet` / `motscles` et la relecture orthographique restent à enrichir par lots.
+
+**Total : 824** (corpus 463 + principes 338 + partages 23) — à terminer : 106 — doublons (corps identique) : 58 fichiers dans 44 groupes.
+
+_Généré le 2026-06-06 depuis le dossier `a-publier/textes/` (Corpus, Principes, Partages)._
+
+
+## Corpus (463)
+
+
+### 2021
+
+- `[0001]` [La sexualité sensible nous offre de la beauté, de la fraîcheur, de la solidité, de la liberté et de la paix. La sexualit](corpus/0001-la-sexualite-sensible-nous-offre-de-la-beaute-de-la.md) — *17 juillet 2021*
+- `[0002]` [L'ART EST D'ABORD DANS L'ECOUTE](corpus/0002-l-art-est-d-abord-dans-l-ecoute.md) — *19 juillet 2021*
+- `[0003]` [C'est la premiere fois que je tombe sur une citation de soi même. Grand sourire, grand étonnement  ... Et là je me rends](corpus/0003-c-est-la-premiere-fois-que-je-tombe-sur-une-citation-de-soi.md) — *20 juillet 2021*
+- `[0004]` [Kamasutra, de la position à la sensation](corpus/0004-kamasutra-de-la-position-a-la-sensation.md) — *10 août 2021*
+- `[0005]` [VERITE ET RECONCIALITION](corpus/0005-verite-et-reconcialition.md) — *11 août 2021*
+- `[0006]` [https://www.premiumradio.net/podcasts/franck-rocca-142/franck-rocca-le-perfectionnisme-33?utm_source=franckrocca&utm_sou](corpus/0006-https-www-premiumradio-net-podcasts-franck-rocca-142-franck.md) — *26 août 2021*
+- `[0007]` [Je viens de me rendre compte que certaines personnes entendent 'sensible' de "sexualité sensible" comme douloureux et no](corpus/0007-je-viens-de-me-rendre-compte-que-certaines-personnes.md) — *9 septembre 2021*
+- `[0008]` [Je viens de me rendre compte que certaines personnes entendent 'sensible' de "sexualité sensible" comme douloureux et no](corpus/0008-je-viens-de-me-rendre-compte-que-certaines-personnes.md) — *9 septembre 2021*
+- `[0009]` [La plupart des conseils que je vois sur la sexualité, surtout de la part des professions médicales, sont de l’ordre du f](corpus/0009-la-plupart-des-conseils-que-je-vois-sur-la-sexualite.md) — *10 septembre 2021*
+- `[0010]` [QUAND UNE FEMME PARLER DE SEXUALITÉ A SON AMANT](corpus/0010-quand-une-femme-parler-de-sexualite-a-son-amant.md) — *11 septembre 2021*
+- `[0011]` [LES QUATRES TYPES D'AMANT](corpus/0011-les-quatres-types-d-amant.md) — *15 septembre 2021*
+- `[0012]` [Voilà la pensée d'aujourd'hui ... elle est très courte et très simple ;-)](corpus/0012-voila-la-pensee-d-aujourd-hui-elle-est-tres-courte-et-tres.md) — *15 septembre 2021*
+- `[0013]` [Voici le challenge proposé par @[759879872:2048:Julien Musy] ce matin. Un pas à la fois, j'avance vers l'objectif :-)](corpus/0013-voici-le-challenge-propose-par-759879872-2048-julien-musy.md) — *16 septembre 2021*
+- `[0014]` [Voilà la pensée d'aujourd'hui ... elle est très courte et très simple ;-)](corpus/0014-voila-la-pensee-d-aujourd-hui-elle-est-tres-courte-et-tres.md) — *16 septembre 2021*
+- `[0015]` [Voilà la pensée d'aujourd'hui ... elle est très courte et très simple ;-)](corpus/0015-voila-la-pensee-d-aujourd-hui-elle-est-tres-courte-et-tres.md) — *16 septembre 2021*
+- `[0016]` [Voilà la pensée d'aujourd'hui ... elle est très courte et très simple ;-)](corpus/0016-voila-la-pensee-d-aujourd-hui-elle-est-tres-courte-et-tres.md) — *16 septembre 2021*
+- `[0017]` [Voilà, je partage mon délire du matin. J'étais tellement enthousiaste par la visio de @[759879872:2048:Julien Musy] J3 q](corpus/0017-voila-je-partage-mon-delire-du-matin-j-etais-tellement.md) — *16 septembre 2021*
+- `[0018]` [La Team m'a donné tellement la pêche que voilà, j'ai passé une partie de la nuit et de la matinée à travailler dessus. J](corpus/0018-la-team-m-a-donne-tellement-la-peche-que-voila-j-ai-passe.md) — *16 septembre 2021*
+- `[0019]` [LES QUATRES TYPES D'AMANT.E](corpus/0019-les-quatres-types-d-amant-e.md) — *18 septembre 2021*  ⟲ doublon de `corpus/0011-les-quatres-types-d-amant.md`
+- `[0020]` [Bonjour à tous,](corpus/0020-bonjour-a-tous.md) — *18 septembre 2021*
+- `[0021]` [Pourquoi la sexualité sensible ?](corpus/0021-pourquoi-la-sexualite-sensible.md) — *21 septembre 2021*
+- `[0022]` [Pourquoi la sexualité sensible ?](corpus/0022-pourquoi-la-sexualite-sensible.md) — *21 septembre 2021*
+- `[0023]` [L'attention doit se porter sur les actions et non les résultats.](corpus/0023-l-attention-doit-se-porter-sur-les-actions-et-non-les.md) — *21 septembre 2021*
+- `[0024]` [L'attention doit se porter sur les actions et non les résultats.](corpus/0024-l-attention-doit-se-porter-sur-les-actions-et-non-les.md) — *21 septembre 2021*
+- `[0025]` [Qui est intéressé pour tester gratuitement une ressource  simple et efficace qui va améliorer définitivement votre sexua](corpus/0025-qui-est-interesse-pour-tester-gratuitement-une-ressource.md) — *22 septembre 2021*
+- `[0026]` [Qui est intéressé pour tester gratuitement une ressource  simple et efficace sur la sexualité authentique et sensible ?](corpus/0026-qui-est-interesse-pour-tester-gratuitement-une-ressource.md) — *22 septembre 2021* `à-terminer`
+- `[0027]` [Qui est intéressé pour tester une ressource  simple et efficace sur la sexualité authentique et sensible ?](corpus/0027-qui-est-interesse-pour-tester-une-ressource-simple-et.md) — *22 septembre 2021*
+- `[0028]` [Qui est intéressé pour tester une technique simple et efficace sur la sexualité authentique et sensible ?](corpus/0028-qui-est-interesse-pour-tester-une-technique-simple-et.md) — *22 septembre 2021*  ⟲ doublon de `corpus/0027-qui-est-interesse-pour-tester-une-ressource-simple-et.md`
+- `[0029]` [Découvrir ce qui vous empêche vraiment de vivre une sexualité authentique et sensible](corpus/0029-decouvrir-ce-qui-vous-empeche-vraiment-de-vivre-une.md) — *24 septembre 2021*
+- `[0030]` [Voici une vidéo pour vous raconter la sagesse du pommier. Cela a changé mon regard sur de nombreuse situations difficile](corpus/0030-voici-une-video-pour-vous-raconter-la-sagesse-du-pommier.md) — *24 septembre 2021*
+- `[0031]` [Voici une vidéo pour vous raconter la sagesse du pommier. Cela a changé mon regard sur de nombreuse situations difficile](corpus/0031-voici-une-video-pour-vous-raconter-la-sagesse-du-pommier.md) — *24 septembre 2021*
+- `[0032]` [Voici une vidéo pour vous raconter la sagesse du pommier. Cela a changé mon regard sur de nombreuse situations difficile](corpus/0032-voici-une-video-pour-vous-raconter-la-sagesse-du-pommier.md) — *24 septembre 2021*
+- `[0033]` [GROUPE DE RENCONTRES TANTRIQUES](corpus/0033-groupe-de-rencontres-tantriques.md) — *25 septembre 2021*
+- `[0034]` [OYE OYE, Il y a tellement de monde que je ne peux pas répondre à chaque personne. Facebook vient de me bloquer les comme](corpus/0034-oye-oye-il-y-a-tellement-de-monde-que-je-ne-peux-pas.md) — *28 septembre 2021*
+- `[0035]` [OYE OYE, Il y a tellement de monde que je ne peux pas répondre à chaque personne. Facebook vient de me bloquer les comme](corpus/0035-oye-oye-il-y-a-tellement-de-monde-que-je-ne-peux-pas.md) — *28 septembre 2021*
+- `[0036]` [OYE OYE,](corpus/0036-oye-oye.md) — *28 septembre 2021*
+- `[0037]` [OYE OYE,](corpus/0037-oye-oye.md) — *28 septembre 2021*
+- `[0038]` [Bonjour à tous,](corpus/0038-bonjour-a-tous.md) — *28 septembre 2021*
+- `[0039]` [Bonjour à tous,](corpus/0039-bonjour-a-tous.md) — *28 septembre 2021*
+- `[0040]` [Bonjour à tous,](corpus/0040-bonjour-a-tous.md) — *28 septembre 2021*
+- `[0041]` [Bonjour à tous,](corpus/0041-bonjour-a-tous.md) — *28 septembre 2021*
+- `[0042]` [Bonjour à tous,](corpus/0042-bonjour-a-tous.md) — *29 septembre 2021*
+- `[0043]` [GROUPE DE RENCONTRES TANTRIQUES](corpus/0043-groupe-de-rencontres-tantriques.md) — *29 septembre 2021*
+- `[0044]` [GROUPE DE RENCONTRES AVEC DES VALEURS TANTRIQUES](corpus/0044-groupe-de-rencontres-avec-des-valeurs-tantriques.md) — *29 septembre 2021*
+- `[0045]` [Bonjour à tous,](corpus/0045-bonjour-a-tous.md) — *29 septembre 2021*
+- `[0046]` [Ma vision personnelle, subjective et non dogmatique sur les interactions entre les personnes, du groupe ou d'ailleurs.](corpus/0046-ma-vision-personnelle-subjective-et-non-dogmatique-sur-les.md) — *3 octobre 2021*
+- `[0047]` [Il n'y a pas de problème sexuel. Il y a des problèmes relationnels (soi-l'autre/soi-soi) qui se manifestent dans la sexu](corpus/0047-il-n-y-a-pas-de-probleme-sexuel-il-y-a-des-problemes.md) — *5 octobre 2021*
+- `[0048]` [Il n'y a pas de problème sexuel. Il y a des problèmes relationnels (soi-l'autre/soi-soi) qui se manifestent dans la sexu](corpus/0048-il-n-y-a-pas-de-probleme-sexuel-il-y-a-des-problemes.md) — *5 octobre 2021*
+- `[0049]` [TÉMOIGNAGES ET PRESENTATION](corpus/0049-temoignages-et-presentation.md) — *5 octobre 2021*
+- `[0050]` [Bonjour à tous, cela fait à peine une semaine que le groupe a été créé.](corpus/0050-bonjour-a-tous-cela-fait-a-peine-une-semaine-que-le-groupe.md) — *7 octobre 2021*
+- `[0051]` [Retrait des vidéos des Défi Le tournant dans 4j !](corpus/0051-retrait-des-videos-des-defi-le-tournant-dans-4j.md) — *9 octobre 2021*
+- `[0052]` [Retrait des vidéos du Défi Le tournant dans 4 jours !](corpus/0052-retrait-des-videos-du-defi-le-tournant-dans-4-jours.md) — *9 octobre 2021*
+- `[0053]` [Sensiblement,](corpus/0053-sensiblement.md) — *12 octobre 2021*
+- `[0054]` [Bonjour,](corpus/0054-bonjour.md) — *15 octobre 2021*
+- `[0055]` [Bonjour,](corpus/0055-bonjour.md) — *15 octobre 2021*
+- `[0056]` [Il y a beaucoup d'activité non visible dans ce groupe : des échanges de messages entre vous en privé et je m'en réjouis](corpus/0056-il-y-a-beaucoup-d-activite-non-visible-dans-ce-groupe-des.md) — *19 octobre 2021*
+- `[0057]` [Bonjour,](corpus/0057-bonjour.md) — *19 octobre 2021*
+- `[0058]` [Bonjour,](corpus/0058-bonjour.md) — *19 octobre 2021*
+- `[0059]` [SE LOCALISER](corpus/0059-se-localiser.md) — *19 octobre 2021*
+- `[0060]` [*** SE LOCALISER ***](corpus/0060-se-localiser.md) — *19 octobre 2021*
+- `[0061]` [*** COMMENT UTILISER LA LOCALISATION ***](corpus/0061-comment-utiliser-la-localisation.md) — *20 octobre 2021*
+- `[0062]` [Bonjour et bienvenus aux nouveaux amant.e.s sensibles.](corpus/0062-bonjour-et-bienvenus-aux-nouveaux-amant-e-s-sensibles.md) — *22 octobre 2021*
+- `[0063]` [Bonjour et bienvenus aux nouveaux amant.e.s sensibles (la liste en commentaire).](corpus/0063-bonjour-et-bienvenus-aux-nouveaux-amant-e-s-sensibles-la.md) — *22 octobre 2021*  ⟲ doublon de `corpus/0062-bonjour-et-bienvenus-aux-nouveaux-amant-e-s-sensibles.md`
+- `[0064]` [Longtemps j'ai cru que j'avais besoin de recevoir de l'amour.](corpus/0064-longtemps-j-ai-cru-que-j-avais-besoin-de-recevoir-de-l-amour.md) — *22 octobre 2021*
+- `[0065]` [Bonjour à tous,](corpus/0065-bonjour-a-tous.md) — *24 octobre 2021*
+- `[0066]` [Souhaitons la bienvenue aux nouveaux membres :](corpus/0066-souhaitons-la-bienvenue-aux-nouveaux-membres.md) — *27 octobre 2021*
+- `[0067]` [Souhaitons la bienvenue aux nouveaux membres :](corpus/0067-souhaitons-la-bienvenue-aux-nouveaux-membres.md) — *27 octobre 2021*
+- `[0068]` [Souhaitons la bienvenue aux nouveaux membres :](corpus/0068-souhaitons-la-bienvenue-aux-nouveaux-membres.md) — *27 octobre 2021*
+- `[0069]` [Souhaitons la bienvenue aux nouveaux membres :](corpus/0069-souhaitons-la-bienvenue-aux-nouveaux-membres.md) — *27 octobre 2021*
+- `[0070]` [Souhaitons la bienvenue aux nouveaux membres :](corpus/0070-souhaitons-la-bienvenue-aux-nouveaux-membres.md) — *29 octobre 2021*
+- `[0071]` [Souhaitons la bienvenue aux nouveaux membres :](corpus/0071-souhaitons-la-bienvenue-aux-nouveaux-membres.md) — *29 octobre 2021*
+- `[0072]` ["www.sexualite-sensible.fr"](corpus/0072-www-sexualite-sensible-fr.md) — *29 octobre 2021*
+- `[0073]` [Souhaitons la bienvenue aux nouveaux membres :](corpus/0073-souhaitons-la-bienvenue-aux-nouveaux-membres.md) — *31 octobre 2021*
+- `[0074]` [Souhaitons la bienvenue aux nouveaux membres :](corpus/0074-souhaitons-la-bienvenue-aux-nouveaux-membres.md) — *31 octobre 2021*
+- `[0075]` [SI TU CHERCHES A ATTIRER LA BONNE PERSONNE PARTENAIRE](corpus/0075-si-tu-cherches-a-attirer-la-bonne-personne-partenaire.md) — *6 novembre 2021*
+- `[0076]` [SI TU CHERCHES A ATTIRER LA BONNE PERSONNE](corpus/0076-si-tu-cherches-a-attirer-la-bonne-personne.md) — *6 novembre 2021*
+- `[0077]` [LES INGRÉDIENTS SECRETS D'UNE SEXUALITÉ SENSIBLE](corpus/0077-les-ingredients-secrets-d-une-sexualite-sensible.md) — *9 novembre 2021*
+- `[0078]` [LES INGRÉDIENTS SECRETS D'UNE SEXUALITÉ SENSIBLE](corpus/0078-les-ingredients-secrets-d-une-sexualite-sensible.md) — *9 novembre 2021*
+- `[0079]` [ACTION OU VÉRITÉ,](corpus/0079-action-ou-verite.md) — *10 novembre 2021*
+- `[0080]` [ACTION OU VÉRITÉ-S,](corpus/0080-action-ou-verite-s.md) — *10 novembre 2021*  ⟲ doublon de `corpus/0079-action-ou-verite.md`
+- `[0081]` [Duy Dang](corpus/0081-duy-dang.md) — *13 novembre 2021*
+- `[0082]` [@[100070375365062:2048:Duy Dang]](corpus/0082-100070375365062-2048-duy-dang.md) — *13 novembre 2021*  ⟲ doublon de `corpus/0081-duy-dang.md`
+- `[0083]` [OMBRE & LUMIÈRE](corpus/0083-ombre-lumiere.md) — *13 novembre 2021*
+- `[0084]` [Quand je fais toujours la même chose](corpus/0084-quand-je-fais-toujours-la-meme-chose.md) — *16 novembre 2021*
+- `[0085]` [En faisant toujours la même chose, il y a beaucoup de chances d’obtenir toujours le même résultat. Donc, pour avoir des](corpus/0085-en-faisant-toujours-la-meme-chose-il-y-a-beaucoup-de.md) — *16 novembre 2021*
+- `[0086]` [LA PRATIQUE SEXUELLE QUI M'EXCITE LE PLUS](corpus/0086-la-pratique-sexuelle-qui-m-excite-le-plus.md) — *17 novembre 2021*
+- `[0087]` [Pour vivre une sexualité authentique et sensible, la prochaine étape est au bout de ce lien www.sexualite-sensible.fr](corpus/0087-pour-vivre-une-sexualite-authentique-et-sensible-la.md) — *18 novembre 2021* `à-terminer`
+- `[0088]` [La prochaine étape pour vivre une sexualité authentique et sensible est au bout de ce lien : www.sexualite-sensible.fr](corpus/0088-la-prochaine-etape-pour-vivre-une-sexualite-authentique-et.md) — *18 novembre 2021* `à-terminer`
+- `[0089]` [Votre prochaine étape pour vivre une sexualité authentique et sensible est au bout de ce lien : www.sexualite-sensible.f](corpus/0089-votre-prochaine-etape-pour-vivre-une-sexualite-authentique.md) — *18 novembre 2021*
+- `[0090]` [Ce que j'appelle nuit noire, c'est quand je ne vois rien parce que mes yeux ne voient que certaines types de lumières.](corpus/0090-ce-que-j-appelle-nuit-noire-c-est-quand-je-ne-vois-rien.md) — *20 novembre 2021*
+- `[0091]` [Ce que j'appelle nuit noire, c'est quand je ne vois rien parce que mes yeux ne voient que certaines types de lumières.](corpus/0091-ce-que-j-appelle-nuit-noire-c-est-quand-je-ne-vois-rien.md) — *20 novembre 2021*
+- `[0092]` [LA NUIT NOIRE](corpus/0092-la-nuit-noire.md) — *20 novembre 2021*
+- `[0093]` [C'EST UN PRIVILÈGE DE DANSER AVEC TOI](corpus/0093-c-est-un-privilege-de-danser-avec-toi.md) — *22 novembre 2021*
+- `[0094]` [Bonjour à tous,](corpus/0094-bonjour-a-tous.md) — *23 novembre 2021*
+- `[0095]` [CRITÈRES MÉCONNUS POUR CHOISIR UNE FORMATION](corpus/0095-criteres-meconnus-pour-choisir-une-formation.md) — *26 novembre 2021*
+- `[0096]` [C'EST UN PRIVILÈGE DE DANSER AVEC TOI](corpus/0096-c-est-un-privilege-de-danser-avec-toi.md) — *26 novembre 2021*
+- `[0097]` [LA MORALE INATTENDUE DE LA BELLE AU BOIS DORMANT](corpus/0097-la-morale-inattendue-de-la-belle-au-bois-dormant.md) — *26 novembre 2021*
+- `[0098]` [LA NUIT NOIRE](corpus/0098-la-nuit-noire.md) — *26 novembre 2021*
+- `[0099]` [LA VIE N'EST PAS UNE FENÊTRE MAIS UN MIROIR](corpus/0099-la-vie-n-est-pas-une-fenetre-mais-un-miroir.md) — *26 novembre 2021*
+- `[0100]` [LE CROCODILE ET L'ANTILOPE](corpus/0100-le-crocodile-et-l-antilope.md) — *26 novembre 2021*
+- `[0101]` [LA PRATIQUE SEXUELLE QUI M'EXCITE LE PLUS](corpus/0101-la-pratique-sexuelle-qui-m-excite-le-plus.md) — *26 novembre 2021*
+- `[0102]` [SIMPLE, EFFICACE, DIFFICILE](corpus/0102-simple-efficace-difficile.md) — *26 novembre 2021*
+- `[0103]` [En faisant toujours la même chose, il y a beaucoup de chances d’obtenir toujours le même résultat. Donc, pour avoir des](corpus/0103-en-faisant-toujours-la-meme-chose-il-y-a-beaucoup-de.md) — *26 novembre 2021*
+- `[0104]` [DES RELATIONS SEXUELLES NOURRISSANTES](corpus/0104-des-relations-sexuelles-nourrissantes.md) — *26 novembre 2021*
+- `[0105]` [OMBRE & LUMIÈRE](corpus/0105-ombre-lumiere.md) — *26 novembre 2021*
+- `[0106]` [LA MORALE CACHÉE DE CENDRILLON](corpus/0106-la-morale-cachee-de-cendrillon.md) — *26 novembre 2021*
+- `[0107]` [LA FRUSTRATION DE LIBERTÉ D’ÊTRE](corpus/0107-la-frustration-de-liberte-d-etre.md) — *26 novembre 2021*
+- `[0108]` [ACTION OU VÉRITÉ-S,](corpus/0108-action-ou-verite-s.md) — *26 novembre 2021*
+- `[0109]` [LES INGRÉDIENTS SECRETS D'UNE SEXUALITÉ SENSIBLE](corpus/0109-les-ingredients-secrets-d-une-sexualite-sensible.md) — *26 novembre 2021*
+- `[0110]` [SI TU CHERCHES A ATTIRER LA BONNE PERSONNE](corpus/0110-si-tu-cherches-a-attirer-la-bonne-personne.md) — *26 novembre 2021*
+- `[0111]` [Bonjour à tous,](corpus/0111-bonjour-a-tous.md) — *26 novembre 2021*
+- `[0112]` [Longtemps j'ai cru que j'avais besoin de recevoir de l'amour.](corpus/0112-longtemps-j-ai-cru-que-j-avais-besoin-de-recevoir-de-l-amour.md) — *26 novembre 2021*
+- `[0113]` [MA FORMULE DE LA JOIE](corpus/0113-ma-formule-de-la-joie.md) — *26 novembre 2021*
+- `[0114]` [LA SEXUALITÉ SACRÉE OU LE SACRÉ SEXUALISÉ](corpus/0114-la-sexualite-sacree-ou-le-sacre-sexualise.md) — *26 novembre 2021*
+- `[0115]` [LA QUESTION QUI A REVEILLE SON DESIR](corpus/0115-la-question-qui-a-reveille-son-desir.md) — *26 novembre 2021*
+- `[0116]` [OYE OYE,](corpus/0116-oye-oye.md) — *26 novembre 2021*
+- `[0117]` [Voici une vidéo pour vous raconter la sagesse du pommier. Cela a changé mon regard sur de nombreuse situations difficile](corpus/0117-voici-une-video-pour-vous-raconter-la-sagesse-du-pommier.md) — *26 novembre 2021*
+- `[0118]` [DÉCOUVRIR CE QUI VOUS EMPÊCHE DE VIVRE UNE SEXUALITÉ AUTHENTIQUE ET SENSIBLE](corpus/0118-decouvrir-ce-qui-vous-empeche-de-vivre-une-sexualite.md) — *26 novembre 2021*
+- `[0119]` [Bonjour à tous,](corpus/0119-bonjour-a-tous.md) — *27 novembre 2021*
+- `[0120]` [Voilà la pensée d'aujourd'hui ... elle est très courte et très simple ;-)](corpus/0120-voila-la-pensee-d-aujourd-hui-elle-est-tres-courte-et-tres.md) — *27 novembre 2021*
+- `[0121]` [LES QUATRE TYPES D'AMANT.E.S](corpus/0121-les-quatre-types-d-amant-e-s.md) — *27 novembre 2021*
+- `[0122]` [PRESENTATION & TÉMOIGNAGES](corpus/0122-presentation-temoignages.md) — *27 novembre 2021*
+- `[0123]` [QUAND UNE FEMME PARLE DE SEXUALITÉ A SON AMANT](corpus/0123-quand-une-femme-parle-de-sexualite-a-son-amant.md) — *27 novembre 2021*
+- `[0124]` [SANS PEUR & SANS REPROCHE](corpus/0124-sans-peur-sans-reproche.md) — *27 novembre 2021*
+- `[0125]` [LA FORCE DE DIRE NON, LA FAIBLESSE D'ACCEPTER & LA SAGESSE DE DIRE OUI](corpus/0125-la-force-de-dire-non-la-faiblesse-d-accepter-la-sagesse-de.md) — *27 novembre 2021*
+- `[0126]` [VÉRITÉ ET RÉCONCILIATION](corpus/0126-verite-et-reconciliation.md) — *27 novembre 2021*
+- `[0127]` [KAMASUTRA : DE LA POSITION A LA SENSATION](corpus/0127-kamasutra-de-la-position-a-la-sensation.md) — *27 novembre 2021*
+- `[0128]` [COMMENT FAIRE PLEURER UNE FEMME](corpus/0128-comment-faire-pleurer-une-femme.md) — *27 novembre 2021*
+- `[0129]` [Aujourd'hui c'est la premiere fois que je tombe sur un post où quelqu'un me cite ! Grand sourire, grand étonnement  ...](corpus/0129-aujourd-hui-c-est-la-premiere-fois-que-je-tombe-sur-un-post.md) — *27 novembre 2021*
+- `[0130]` [DÉVELOPPER L'ECOUTE C'EST D'ABORD REVENIR AU SILENCE](corpus/0130-developper-l-ecoute-c-est-d-abord-revenir-au-silence.md) — *27 novembre 2021*
+- `[0131]` [TANTRA SEXY, TANTRA TRAHI](corpus/0131-tantra-sexy-tantra-trahi.md) — *27 novembre 2021*
+- `[0132]` [HONORER SA PARTENAIRE](corpus/0132-honorer-sa-partenaire.md) — *28 novembre 2021*
+- `[0133]` [HONORER SA PARTENAIRE](corpus/0133-honorer-sa-partenaire.md) — *28 novembre 2021*
+- `[0134]` [TOUT A UN PRIX](corpus/0134-tout-a-un-prix.md) — *30 novembre 2021*
+- `[0135]` [TOUT A UN PRIX](corpus/0135-tout-a-un-prix.md) — *30 novembre 2021*
+- `[0136]` [Je ne dis plus](corpus/0136-je-ne-dis-plus.md) — *30 novembre 2021*
+- `[0137]` [Aller du](corpus/0137-aller-du.md) — *2 décembre 2021*
+- `[0138]` [Aller du](corpus/0138-aller-du.md) — *2 décembre 2021*
+- `[0139]` [Il y a trois façons de faire l'amour :](corpus/0139-il-y-a-trois-facons-de-faire-l-amour.md) — *2 décembre 2021*
+- `[0140]` [Il y a trois grandes façons de faire l'amour :](corpus/0140-il-y-a-trois-grandes-facons-de-faire-l-amour.md) — *2 décembre 2021*
+- `[0141]` [LES 3 FAÇONS DE FAIRE L'AMOUR](corpus/0141-les-3-facons-de-faire-l-amour.md) — *2 décembre 2021*  ⟲ doublon de `corpus/0140-il-y-a-trois-grandes-facons-de-faire-l-amour.md`
+- `[0142]` [UNE ERREUR QUE J'AI TRAINE LONGTEMPS](corpus/0142-une-erreur-que-j-ai-traine-longtemps.md) — *3 décembre 2021*
+- `[0143]` [LES 3 FAÇONS DE FAIRE L'AMOUR](corpus/0143-les-3-facons-de-faire-l-amour.md) — *3 décembre 2021*
+- `[0144]` [TOUT A UN PRIX](corpus/0144-tout-a-un-prix.md) — *3 décembre 2021*
+- `[0145]` [HONORER SA PARTENAIRE](corpus/0145-honorer-sa-partenaire.md) — *3 décembre 2021*
+- `[0146]` [Aller du](corpus/0146-aller-du.md) — *3 décembre 2021*
+- `[0147]` [UNE ERREUR QUE J'AI TRAINEE LONGTEMPS](corpus/0147-une-erreur-que-j-ai-trainee-longtemps.md) — *3 décembre 2021*
+- `[0148]` [Une des choses qui te fera le plus avancer vers la sexualité, c’est de savoir que ce que tu rêves au plus profond de toi](corpus/0148-une-des-choses-qui-te-fera-le-plus-avancer-vers-la.md) — *4 décembre 2021*
+- `[0149]` [CE DONT J'AVAIS LE PLUS BESOIN](corpus/0149-ce-dont-j-avais-le-plus-besoin.md) — *4 décembre 2021*
+- `[0150]` [Aller du](corpus/0150-aller-du.md) — *5 décembre 2021*
+- `[0151]` [J'ai longtemps sous-estimé l'effet de ne rien attendre se ma partenaire.](corpus/0151-j-ai-longtemps-sous-estime-l-effet-de-ne-rien-attendre-se.md) — *6 décembre 2021*
+- `[0152]` [J'ai longtemps sous-estimé l'effet de ne rien attendre se ma partenaire.](corpus/0152-j-ai-longtemps-sous-estime-l-effet-de-ne-rien-attendre-se.md) — *6 décembre 2021*
+- `[0153]` [J'ai longtemps sous-estimé l'effet de ne rien attendre se ma partenaire.](corpus/0153-j-ai-longtemps-sous-estime-l-effet-de-ne-rien-attendre-se.md) — *6 décembre 2021*
+- `[0154]` [J'ai longtemps sous-estimé l'effet de ne rien attendre de ma partenaire.](corpus/0154-j-ai-longtemps-sous-estime-l-effet-de-ne-rien-attendre-de.md) — *6 décembre 2021*
+- `[0155]` [UN SUPER APHRODISIAQUE](corpus/0155-un-super-aphrodisiaque.md) — *6 décembre 2021*
+- `[0156]` [Je vois de plus en plus de professionnels qui montrent des photos de participants dans des moments intimes de la formati](corpus/0156-je-vois-de-plus-en-plus-de-professionnels-qui-montrent-des.md) — *6 décembre 2021*
+- `[0157]` [STOP AUX IMAGES DES PARTICIPANTS DANS LES STAGES](corpus/0157-stop-aux-images-des-participants-dans-les-stages.md) — *7 décembre 2021*
+- `[0158]` [REPROCHES & REPROCHES & REPROCHES](corpus/0158-reproches-reproches-reproches.md) — *7 décembre 2021*
+- `[0159]` [EST-CE QUE MES POSTS TE SONT RÉELLEMENT UTILES ?](corpus/0159-est-ce-que-mes-posts-te-sont-reellement-utiles.md) — *8 décembre 2021*
+- `[0160]` [EST-CE QUE MES POSTS TE SONT RÉELLEMENT UTILES ?](corpus/0160-est-ce-que-mes-posts-te-sont-reellement-utiles.md) — *8 décembre 2021*
+- `[0161]` [SI TU TE SENS INCOMPRIS : GRANDE OU PETITE CUILLÈRE ?](corpus/0161-si-tu-te-sens-incompris-grande-ou-petite-cuillere.md) — *9 décembre 2021*
+- `[0162]` [Duy Dang](corpus/0162-duy-dang.md) — *11 décembre 2021*
+- `[0163]` [Dans la sexualité, il y a la aussi le sentiment d'être précieux, honoré et aimé par sa partenaire.](corpus/0163-dans-la-sexualite-il-y-a-la-aussi-le-sentiment-d-etre.md) — *11 décembre 2021*
+- `[0164]` [Personnellement, j'ai déjà manqué de passion avec de belles femmes mais jamais avec des femmes joyeuses.  En fait, une f](corpus/0164-personnellement-j-ai-deja-manque-de-passion-avec-de-belles.md) — *11 décembre 2021*
+- `[0165]` [ETES-VOUS CERTAINE DE VOULOIR TROUVER UN PRINCE CHARMANT ?](corpus/0165-etes-vous-certaine-de-vouloir-trouver-un-prince-charmant.md) — *18 décembre 2021*
+- `[0166]` [ES-TU CERTAINE DE VOULOIR TROUVER UN PRINCE CHARMANT ?](corpus/0166-es-tu-certaine-de-vouloir-trouver-un-prince-charmant.md) — *18 décembre 2021*  ⟲ doublon de `corpus/0165-etes-vous-certaine-de-vouloir-trouver-un-prince-charmant.md`
+- `[0167]` [FAIRE L'AMOUR EN SPIRALE](corpus/0167-faire-l-amour-en-spirale.md) — *28 décembre 2021*
+- `[0168]` [Donner c’est donner : la colère c’est quand on n’a pas donné](corpus/0168-donner-c-est-donner-la-colere-c-est-quand-on-n-a-pas-donne.md) — *29 décembre 2021*
+- `[0169]` [DONNER C'EST DONNER ?](corpus/0169-donner-c-est-donner.md) — *29 décembre 2021*
+
+### 2022
+
+- `[0170]` [Bonjour et bienvenus aux nouveaux amant.e.s sensibles (la liste en commentaire).](corpus/0170-bonjour-et-bienvenus-aux-nouveaux-amant-e-s-sensibles-la.md) — *7 janvier 2022*
+- `[0171]` [J'ARRÊTE LES VOEUX EN 2022](corpus/0171-j-arrete-les-voeux-en-2022.md) — *7 janvier 2022*
+- `[0172]` [J'ARRÊTE LES VOEUX EN 2022](corpus/0172-j-arrete-les-voeux-en-2022.md) — *7 janvier 2022*
+- `[0173]` [J'ARRÊTE LES VOEUX EN 2022](corpus/0173-j-arrete-les-voeux-en-2022.md) — *7 janvier 2022*
+- `[0174]` [Bonjour,](corpus/0174-bonjour.md) — *7 janvier 2022*
+- `[0175]` [Bonjour,](corpus/0175-bonjour.md) — *7 janvier 2022*
+- `[0176]` ["MA CHÉRIE, J'AI PEUR ... "](corpus/0176-ma-cherie-j-ai-peur.md) — *9 janvier 2022*
+- `[0177]` [J'ACCUEILLE VOS DONATIONS](corpus/0177-j-accueille-vos-donations.md) — *12 janvier 2022*
+- `[0178]` [Quand une personne se blesse gravement à la jambe, on va lui donner des béquilles pour économiser l’usage de la jambe po](corpus/0178-quand-une-personne-se-blesse-gravement-a-la-jambe-on-va-lui.md) — *13 janvier 2022*
+- `[0179]` [COURIR AVEC DES BEQUILLES](corpus/0179-courir-avec-des-bequilles.md) — *13 janvier 2022*
+- `[0180]` [Voici pourquoi tes rencontres sont foireuses](corpus/0180-voici-pourquoi-tes-rencontres-sont-foireuses.md) — *14 janvier 2022*
+- `[0181]` [VOICI POURQUOI TES RELATIONS SONT FOIREUSES](corpus/0181-voici-pourquoi-tes-relations-sont-foireuses.md) — *14 janvier 2022*
+- `[0182]` [Des larmes comme des bulles, des larmes comme des cailloux](corpus/0182-des-larmes-comme-des-bulles-des-larmes-comme-des-cailloux.md) — *16 janvier 2022*
+- `[0183]` [DES LARMES COMME DES CAILLOUX, DES LARMES COMME DES BULLES](corpus/0183-des-larmes-comme-des-cailloux-des-larmes-comme-des-bulles.md) — *16 janvier 2022*  ⟲ doublon de `corpus/0182-des-larmes-comme-des-bulles-des-larmes-comme-des-cailloux.md`
+- `[0184]` [SI ELLE PLEURE APRES L'AMOUR](corpus/0184-si-elle-pleure-apres-l-amour.md) — *16 janvier 2022*  ⟲ doublon de `corpus/0182-des-larmes-comme-des-bulles-des-larmes-comme-des-cailloux.md`
+- `[0185]` [SI ELLE PLEURE APRES L'AMOUR (OU LUI)](corpus/0185-si-elle-pleure-apres-l-amour-ou-lui.md) — *16 janvier 2022*  ⟲ doublon de `corpus/0182-des-larmes-comme-des-bulles-des-larmes-comme-des-cailloux.md`
+- `[0186]` [Marre des relations bancales ?](corpus/0186-marre-des-relations-bancales.md) — *17 janvier 2022*
+- `[0187]` [MARRE DES RELATIONS BANCALES ?](corpus/0187-marre-des-relations-bancales.md) — *17 janvier 2022*
+- `[0188]` [MARRE DES RELATIONS BANCALES ?](corpus/0188-marre-des-relations-bancales.md) — *17 janvier 2022*
+- `[0189]` [CHÉRIE, JE SUIS EXCITE ! SAUVE- MOI !](corpus/0189-cherie-je-suis-excite-sauve-moi.md) — *18 janvier 2022*
+- `[0190]` [Le tigre et le masque](corpus/0190-le-tigre-et-le-masque.md) — *19 janvier 2022*
+- `[0191]` [La carnet noir des reproches](corpus/0191-la-carnet-noir-des-reproches.md) — *19 janvier 2022*
+- `[0192]` [LE CHEMIN DIRECT VERS LA SEXUALITÉ SENSIBLE](corpus/0192-le-chemin-direct-vers-la-sexualite-sensible.md) — *21 janvier 2022*
+- `[0193]` [Piège à guêpe](corpus/0193-piege-a-guepe.md) — *22 janvier 2022*
+- `[0194]` [PIEGE A GUEPE](corpus/0194-piege-a-guepe.md) — *22 janvier 2022*
+- `[0195]` [Si vous avez déjà des questions, vous pouvez les mettre dans le fil de discussion pour que j'axe la préparation du webin](corpus/0195-si-vous-avez-deja-des-questions-vous-pouvez-les-mettre-dans.md) — *22 janvier 2022*
+- `[0196]` [Si vous avez déjà des sujets, vous pouvez les mettre dans le fil de discussion pour que j'axe la préparation du webinair](corpus/0196-si-vous-avez-deja-des-sujets-vous-pouvez-les-mettre-dans-le.md) — *22 janvier 2022*
+- `[0197]` [J'ai mis en place la billetterie pour le webinaire :](corpus/0197-j-ai-mis-en-place-la-billetterie-pour-le-webinaire.md) — *23 janvier 2022*
+- `[0198]` [La vigie vs le bateau](corpus/0198-la-vigie-vs-le-bateau.md) — *24 janvier 2022*
+- `[0199]` [LE CARNET NOIR DES REPROCHES](corpus/0199-le-carnet-noir-des-reproches.md) — *24 janvier 2022*  ⟲ doublon de `corpus/0191-la-carnet-noir-des-reproches.md`
+- `[0200]` [LA VIGIE DU BATEAU](corpus/0200-la-vigie-du-bateau.md) — *24 janvier 2022*
+- `[0201]` [LA PRINCESSE AU PETIT POIS](corpus/0201-la-princesse-au-petit-pois.md) — *2 février 2022*
+- `[0202]` [DU FUMIER OU DE L'OR](corpus/0202-du-fumier-ou-de-l-or.md) — *3 février 2022*
+- `[0203]` [De la clarté](corpus/0203-de-la-clarte.md) — *4 février 2022*
+- `[0204]` [LA JALOUSIE N'EST PAS DANS LA SOUPE](corpus/0204-la-jalousie-n-est-pas-dans-la-soupe.md) — *5 février 2022*
+- `[0205]` [Je t’aime et je te quitte (2)](corpus/0205-je-t-aime-et-je-te-quitte-2.md) — *10 février 2022*
+- `[0206]` [JE T'AIME ET JE TE QUITTE](corpus/0206-je-t-aime-et-je-te-quitte.md) — *10 février 2022*
+- `[0207]` [Il suffit de trouver la bonne personne](corpus/0207-il-suffit-de-trouver-la-bonne-personne.md) — *14 février 2022*
+- `[0208]` [Il suffit de trouver la bonne personne ?](corpus/0208-il-suffit-de-trouver-la-bonne-personne.md) — *14 février 2022*
+- `[0209]` [IL SUFFIT DE RENCONTRER LA BONNE PERSONNE ?](corpus/0209-il-suffit-de-rencontrer-la-bonne-personne.md) — *15 février 2022*
+- `[0210]` [DE LA LÉGÈRETÉ A LA LIBIDO](corpus/0210-de-la-legerete-a-la-libido.md) — *24 février 2022*
+- `[0211]` [L’excitation n’est pas un problème, l’agitation l’est](corpus/0211-l-excitation-n-est-pas-un-probleme-l-agitation-l-est.md) — *24 février 2022*
+- `[0212]` [TOUT EST UNE QUESTION DE DOSAGE](corpus/0212-tout-est-une-question-de-dosage.md) — *25 février 2022*
+- `[0213]` [MERCI DE M'AVOIR QUITTÉE QUITTEE](corpus/0213-merci-de-m-avoir-quittee-quittee.md) — *3 mars 2022*
+- `[0214]` [MERCI DE M'AVOIR QUITTÉE](corpus/0214-merci-de-m-avoir-quittee.md) — *4 mars 2022*  ⟲ doublon de `corpus/0213-merci-de-m-avoir-quittee-quittee.md`
+- `[0215]` [ON N'A PAS BESOIN FORCEMENT DE S'AIMER PLUS,](corpus/0215-on-n-a-pas-besoin-forcement-de-s-aimer-plus.md) — *6 mars 2022*
+- `[0216]` [ON N'A PAS BESOIN FORCEMENT DE S'AIMER PLUS,](corpus/0216-on-n-a-pas-besoin-forcement-de-s-aimer-plus.md) — *6 mars 2022*
+- `[0217]` [JE N'AI PAS BESOIN FORCEMENT DE M'AIMER PLUS,](corpus/0217-je-n-ai-pas-besoin-forcement-de-m-aimer-plus.md) — *6 mars 2022*
+- `[0218]` [JE N'AI PAS BESOIN FORCEMENT DE M'AIMER PLUS,](corpus/0218-je-n-ai-pas-besoin-forcement-de-m-aimer-plus.md) — *6 mars 2022*
+- `[0219]` [Ose ta Vérité](corpus/0219-ose-ta-verite.md) — *10 mars 2022*
+- `[0220]` [Oser ma Vérité](corpus/0220-oser-ma-verite.md) — *10 mars 2022*
+- `[0221]` [Problème d’érection ou Problème de connexion](corpus/0221-probleme-d-erection-ou-probleme-de-connexion.md) — *15 mars 2022*
+- `[0222]` [PROBLEME D'ERECTION vs PROBLEME DE CONNEXION](corpus/0222-probleme-d-erection-vs-probleme-de-connexion.md) — *15 mars 2022*  ⟲ doublon de `corpus/0221-probleme-d-erection-ou-probleme-de-connexion.md`
+- `[0223]` [Dans le séminaire à Cannes le week-end dernier, j’ai pu rencontrer @[600203089:2048:Virginie Bales], une femme exception](corpus/0223-dans-le-seminaire-a-cannes-le-week-end-dernier-j-ai-pu.md) — *22 mars 2022*
+- `[0224]` [TRAVAILLER *DANS* LE SEXUALITE vs TRAVAILLER *POUR* LA SEXUALITE SENSIBLE](corpus/0224-travailler-dans-le-sexualite-vs-travailler-pour-la.md) — *22 mars 2022*  ⟲ doublon de `corpus/0223-dans-le-seminaire-a-cannes-le-week-end-dernier-j-ai-pu.md`
+- `[0225]` [TRAVAILLER *DANS* LE SEXUALITE vs TRAVAILLER *AU SERVIDE DE * LA SEXUALITE SENSIBLE](corpus/0225-travailler-dans-le-sexualite-vs-travailler-au-servide-de-la.md) — *22 mars 2022*  ⟲ doublon de `corpus/0223-dans-le-seminaire-a-cannes-le-week-end-dernier-j-ai-pu.md`
+- `[0226]` [Si l’important est le voyage](corpus/0226-si-l-important-est-le-voyage.md) — *23 mars 2022*
+- `[0227]` [SI LE VOYAGE EST IMPORTANT ALORS](corpus/0227-si-le-voyage-est-important-alors.md) — *23 mars 2022*  ⟲ doublon de `corpus/0226-si-l-important-est-le-voyage.md`
+- `[0228]` [TRAVAILLER *DANS* LE SEXUALITE vs TRAVAILLER *AU SERVICE DE * LA SEXUALITE SENSIBLE](corpus/0228-travailler-dans-le-sexualite-vs-travailler-au-service-de-la.md) — *23 mars 2022*  ⟲ doublon de `corpus/0223-dans-le-seminaire-a-cannes-le-week-end-dernier-j-ai-pu.md`
+- `[0229]` [Voici une journée de transformation pour avancer vers une sexualité authentique et sensible.](corpus/0229-voici-une-journee-de-transformation-pour-avancer-vers-une.md) — *25 mars 2022*
+- `[0230]` [Voici une journée de transformation pour avancer vers une sexualité authentique et sensible.](corpus/0230-voici-une-journee-de-transformation-pour-avancer-vers-une.md) — *25 mars 2022*
+- `[0231]` [COUPLE CLASSIQUE / COUPLE QUANTIQUE](corpus/0231-couple-classique-couple-quantique.md) — *26 mars 2022*
+- `[0232]` [Webinaire : 4 étapes indispensables pour trouver ton amant.e sensible](corpus/0232-webinaire-4-etapes-indispensables-pour-trouver-ton-amant-e.md) — *26 mars 2022*
+- `[0233]` [Témoignage d'une participante qui a rencontré son chéri, un amant sensible, la dernière semaine de l'accompagnement.](corpus/0233-temoignage-d-une-participante-qui-a-rencontre-son-cheri-un.md) — *28 mars 2022* `à-terminer`
+- `[0234]` [Témoignage d'une participante qui a rencontré son chéri, un amant sensible, la dernière semaine de l'accompagnement.](corpus/0234-temoignage-d-une-participante-qui-a-rencontre-son-cheri-un.md) — *28 mars 2022*
+- `[0235]` [Témoignage de ma toute première cliente ... presque un an déjà.](corpus/0235-temoignage-de-ma-toute-premiere-cliente-presque-un-an-deja.md) — *28 mars 2022*  ⟲ doublon de `corpus/0234-temoignage-d-une-participante-qui-a-rencontre-son-cheri-un.md`
+- `[0236]` [Témoignage de ma toute première cliente ... presque un an déjà.](corpus/0236-temoignage-de-ma-toute-premiere-cliente-presque-un-an-deja.md) — *28 mars 2022*
+- `[0237]` [Témoignage d'une participante qui a rencontré son chéri, un amant sensible, la dernière semaine de l'accompagnement.](corpus/0237-temoignage-d-une-participante-qui-a-rencontre-son-cheri-un.md) — *28 mars 2022*
+- `[0238]` [Oser ma Vérité](corpus/0238-oser-ma-verite.md) — *29 mars 2022*
+- `[0239]` [Souhaitons la bienvenue aux nouveaux membres :](corpus/0239-souhaitons-la-bienvenue-aux-nouveaux-membres.md) — *30 mars 2022*
+- `[0240]` [PLAISIR = STIMULATION x SENSIBILITE](corpus/0240-plaisir-stimulation-x-sensibilite.md) — *1 avril 2022*
+- `[0241]` [PLAISIR = STIMULATION x SENSIBILITÉ](corpus/0241-plaisir-stimulation-x-sensibilite.md) — *1 avril 2022*  ⟲ doublon de `corpus/0240-plaisir-stimulation-x-sensibilite.md`
+- `[0242]` [Pour démarrer ton voyage vers une sexualité sensible en Mai, regarde sur www.sexualite-sensible.fr si tu sens l'appel d'](corpus/0242-pour-demarrer-ton-voyage-vers-une-sexualite-sensible-en-mai.md) — *5 avril 2022*
+- `[0243]` [Pour démarrer ton voyage vers une sexualité authentique et sensible en Mai, regarde sur www.sexualite-sensible.fr si tu](corpus/0243-pour-demarrer-ton-voyage-vers-une-sexualite-authentique-et.md) — *5 avril 2022*
+- `[0244]` [LES 4 DIMENSIONS DE L'ÊTRE](corpus/0244-les-4-dimensions-de-l-etre.md) — *6 avril 2022*
+- `[0245]` [FAIRE CONFIANCE A 100% EST PRÉTENTIEUX ET IRRESPECTUEUX](corpus/0245-faire-confiance-a-100-est-pretentieux-et-irrespectueux.md) — *14 avril 2022*
+- `[0246]` [ON N'OBTIENT PAS DE CE QU'ON VEUT / ON OBTIENT DE QUI ON EST](corpus/0246-on-n-obtient-pas-de-ce-qu-on-veut-on-obtient-de-qui-on-est.md) — *14 avril 2022*
+- `[0247]` [LA SEXUALITÉ SENSIBLE EST LE PONT DE DEPART](corpus/0247-la-sexualite-sensible-est-le-pont-de-depart.md) — *26 avril 2022*
+- `[0248]` [Il y a des moments d'inspirations fortes, et ça l'a été hier soir pendant le webinaire où cette phrase m'est apparue com](corpus/0248-il-y-a-des-moments-d-inspirations-fortes-et-ca-l-a-ete-hier.md) — *27 avril 2022*
+- `[0249]` [Il y a des moments d'inspirations fortes, et ça l'a été hier soir pendant le webinaire où cette phrase m'est apparue com](corpus/0249-il-y-a-des-moments-d-inspirations-fortes-et-ca-l-a-ete-hier.md) — *27 avril 2022*
+- `[0250]` [Quelles étapes sont nécessaires, même si elles ne sont pas forcément suffisantes, pour trouver le partenaire qui te corr](corpus/0250-quelles-etapes-sont-necessaires-meme-si-elles-ne-sont-pas.md) — *27 avril 2022*
+- `[0251]` [AU FIL DE SOIE](corpus/0251-au-fil-de-soie.md) — *29 avril 2022*
+- `[0252]` [FLASH-COACHING AMOUREUX](corpus/0252-flash-coaching-amoureux.md) — *29 avril 2022*  ⟲ doublon de `corpus/0250-quelles-etapes-sont-necessaires-meme-si-elles-ne-sont-pas.md`
+- `[0253]` [Des fois, c’est en répondant à un participant que se révèle à moi une évidence latente. Il y a quelque temps, un partici](corpus/0253-des-fois-c-est-en-repondant-a-un-participant-que-se-revele.md) — *1 mai 2022*
+- `[0254]` [COMMENT DEVENIR PLEINE UNE FEMME / UN HOMME ?](corpus/0254-comment-devenir-pleine-une-femme-un-homme.md) — *1 mai 2022*
+- `[0255]` ["COMMENT DEVENIR PLEINE UNE FEMME / UN HOMME ?" LA QUESTION PIÉGÉE](corpus/0255-comment-devenir-pleine-une-femme-un-homme-la-question-piegee.md) — *2 mai 2022*  ⟲ doublon de `corpus/0254-comment-devenir-pleine-une-femme-un-homme.md`
+- `[0256]` ["COMMENT DEVENIR PLEINE UNE FEMME / UN HOMME ?" : LA QUESTION PIÉGÉE](corpus/0256-comment-devenir-pleine-une-femme-un-homme-la-question-piegee.md) — *2 mai 2022*  ⟲ doublon de `corpus/0254-comment-devenir-pleine-une-femme-un-homme.md`
+- `[0257]` ["COMMENT DEVENIR PLEINEMENT UNE FEMME / UN HOMME ?" : LA QUESTION PIÉGÉE](corpus/0257-comment-devenir-pleinement-une-femme-un-homme-la-question.md) — *2 mai 2022*  ⟲ doublon de `corpus/0254-comment-devenir-pleine-une-femme-un-homme.md`
+- `[0258]` [LE NEZ MALADE](corpus/0258-le-nez-malade.md) — *3 mai 2022*
+- `[0259]` [Quelles étapes sont nécessaires, même si elles ne sont pas forcément suffisantes, pour trouver le partenaire qui te corr](corpus/0259-quelles-etapes-sont-necessaires-meme-si-elles-ne-sont-pas.md) — *4 mai 2022*
+- `[0260]` [Le crocodile qui avait peur de la gazelle](corpus/0260-le-crocodile-qui-avait-peur-de-la-gazelle.md) — *6 mai 2022*
+- `[0261]` [LE CROCODILE TRAUMATISE PAR UNE GAZELLE](corpus/0261-le-crocodile-traumatise-par-une-gazelle.md) — *6 mai 2022*  ⟲ doublon de `corpus/0260-le-crocodile-qui-avait-peur-de-la-gazelle.md`
+- `[0262]` [Bon d'accord, je n'ai pas beaucoup écrit de post cette dernière semaine mais j'avais une bonne raison.](corpus/0262-bon-d-accord-je-n-ai-pas-beaucoup-ecrit-de-post-cette.md) — *11 mai 2022*
+- `[0263]` [Bon d'accord, je n'ai pas beaucoup écrit de post cette dernière semaine mais j'avais une bonne raison. Les amants sensib](corpus/0263-bon-d-accord-je-n-ai-pas-beaucoup-ecrit-de-post-cette.md) — *11 mai 2022*
+- `[0264]` [Bon d'accord, je n'ai pas beaucoup écrit de posts cette dernière semaine mais j'avais une bonne raison. Les amants sensi](corpus/0264-bon-d-accord-je-n-ai-pas-beaucoup-ecrit-de-posts-cette.md) — *11 mai 2022*
+- `[0265]` [Bon d'accord, je n'ai pas beaucoup écrit de posts cette dernière semaine mais j'avais une bonne raison. Les amants sensi](corpus/0265-bon-d-accord-je-n-ai-pas-beaucoup-ecrit-de-posts-cette.md) — *11 mai 2022*
+- `[0266]` [Bon d'accord, je n'ai pas beaucoup écrit de posts cette dernière semaine mais j'avais une bonne raison. Les amants sensi](corpus/0266-bon-d-accord-je-n-ai-pas-beaucoup-ecrit-de-posts-cette.md) — *11 mai 2022*
+- `[0267]` [LE MANQUE ET LA PRÉSENCE DE QUELQU'UN](corpus/0267-le-manque-et-la-presence-de-quelqu-un.md) — *13 mai 2022*
+- `[0268]` [Le retour le plus satisfaisant sur mon accompagnement](corpus/0268-le-retour-le-plus-satisfaisant-sur-mon-accompagnement.md) — *13 mai 2022*
+- `[0269]` [LE RETOUR LE PLUS SATISFAISANT](corpus/0269-le-retour-le-plus-satisfaisant.md) — *16 mai 2022*
+- `[0270]` [Voilà mon site Bilobaba.fr en ligne dans sa version 2.0](corpus/0270-voila-mon-site-bilobaba-fr-en-ligne-dans-sa-version-2-0.md) — *16 mai 2022*
+- `[0271]` [Voilà mon site Bilobaba.fr en ligne dans sa version 2.0](corpus/0271-voila-mon-site-bilobaba-fr-en-ligne-dans-sa-version-2-0.md) — *16 mai 2022*
+- `[0272]` [PÉNIS DÉFAILLANT, VÉRITÉ MANQUANTE](corpus/0272-penis-defaillant-verite-manquante.md) — *16 mai 2022*
+- `[0273]` [Voilà mon site www.bilobaba.fr en ligne dans sa version 2.0](corpus/0273-voila-mon-site-www-bilobaba-fr-en-ligne-dans-sa-version-2-0.md) — *16 mai 2022*  ⟲ doublon de `corpus/0271-voila-mon-site-bilobaba-fr-en-ligne-dans-sa-version-2-0.md`
+- `[0274]` [LA VOITURE AVEC VICES CACHES](corpus/0274-la-voiture-avec-vices-caches.md) — *20 mai 2022*
+- `[0275]` [COMMENT TOURNER ENFIN LA PAGE](corpus/0275-comment-tourner-enfin-la-page.md) — *20 mai 2022*  ⟲ doublon de `corpus/0274-la-voiture-avec-vices-caches.md`
+- `[0276]` [L'ORGASME DE LA VALLÉE](corpus/0276-l-orgasme-de-la-vallee.md) — *20 mai 2022*
+- `[0277]` [Lors des quatre derniers funérailles, j’ai énormément pleuré. J’étais peut-être la personne qui pleurait le plus dans l’](corpus/0277-lors-des-quatre-derniers-funerailles-j-ai-enormement-pleure.md) — *23 mai 2022*
+- `[0278]` [JE PLEURE DE GRATITUDE AUX FUNÉRAILLES](corpus/0278-je-pleure-de-gratitude-aux-funerailles.md) — *23 mai 2022*
+- `[0279]` [Une inconnue vous offre des fleurs dans le métro à 23h00 du soir. C'est possible !!!](corpus/0279-une-inconnue-vous-offre-des-fleurs-dans-le-metro-a-23h00-du.md) — *27 mai 2022*
+- `[0280]` [Une inconnue vous offre des fleurs dans le métro à 23h00 du soir. C'est possible !!!](corpus/0280-une-inconnue-vous-offre-des-fleurs-dans-le-metro-a-23h00-du.md) — *27 mai 2022*
+- `[0281]` [Une inconnue vous offre des fleurs dans le métro à 23h00 du soir. C'est possible !!!](corpus/0281-une-inconnue-vous-offre-des-fleurs-dans-le-metro-a-23h00-du.md) — *27 mai 2022*
+- `[0282]` [Voici un échange de ce main avec une participante qui a accepté que je partage avec vous son message avec vous. Elle a f](corpus/0282-voici-un-echange-de-ce-main-avec-une-participante-qui-a.md) — *28 mai 2022*
+- `[0283]` [Voici un échange de ce matin avec une participante qui a accepté que je partage avec vous son message. Elle a fini l'acc](corpus/0283-voici-un-echange-de-ce-matin-avec-une-participante-qui-a.md) — *28 mai 2022*
+- `[0284]` [TÉMOIGNAGE D'UNE PARTICIPANTE](corpus/0284-temoignage-d-une-participante.md) — *28 mai 2022*  ⟲ doublon de `corpus/0283-voici-un-echange-de-ce-matin-avec-une-participante-qui-a.md`
+- `[0285]` [Comment elles ont trouvé leur amant sensible avant même la fin de l’accompagnement](corpus/0285-comment-elles-ont-trouve-leur-amant-sensible-avant-meme-la.md) — *29 mai 2022*
+- `[0286]` [COMMENT ELLES ONT TROUVE LEUR AMANT SENSIBLE AVANT MÊME LA FIN DE L'ACCOMPAGNEMENT](corpus/0286-comment-elles-ont-trouve-leur-amant-sensible-avant-meme-la.md) — *29 mai 2022*  ⟲ doublon de `corpus/0285-comment-elles-ont-trouve-leur-amant-sensible-avant-meme-la.md`
+- `[0287]` [Une inconnue vous offre des fleurs dans le métro à 23h00 du soir. C'est possible !!!](corpus/0287-une-inconnue-vous-offre-des-fleurs-dans-le-metro-a-23h00-du.md) — *29 mai 2022*
+- `[0288]` [Ce n’est pas parce que les reproches sont justifiés qu’ils sont justes.](corpus/0288-ce-n-est-pas-parce-que-les-reproches-sont-justifies-qu-ils.md) — *1 juin 2022*
+- `[0289]` [CE N'EST PAS PARCE QU'UN REPROCHE EST JUSTIFIE QU'IL EST FORCEMENT JUSTE](corpus/0289-ce-n-est-pas-parce-qu-un-reproche-est-justifie-qu-il-est.md) — *1 juin 2022*  ⟲ doublon de `corpus/0288-ce-n-est-pas-parce-que-les-reproches-sont-justifies-qu-ils.md`
+- `[0290]` [CE N'EST PAS PARCE QU'UN REPROCHE EST JUSTIFIE QU'IL EST FORCEMENT JUSTE](corpus/0290-ce-n-est-pas-parce-qu-un-reproche-est-justifie-qu-il-est.md) — *1 juin 2022*
+- `[0291]` [Le site www.bilobaba.fr, l'agenda Dev. Perso. & Co en francophonie gratuit, même pour les pros, pour s'épanouir et se re](corpus/0291-le-site-www-bilobaba-fr-l-agenda-dev-perso-co-en.md) — *3 juin 2022*
+- `[0292]` [Le site www.bilobaba.fr, l'agenda Dev. Perso. & Co en francophonie gratuit, même pour les pros, pour s'épanouir et se re](corpus/0292-le-site-www-bilobaba-fr-l-agenda-dev-perso-co-en.md) — *3 juin 2022*
+- `[0293]` [Trois directions de l’amour dans la relation amoureuse](corpus/0293-trois-directions-de-l-amour-dans-la-relation-amoureuse.md) — *5 juin 2022*
+- `[0294]` [TRIOS DIRECTIONS DE L'AMOUR](corpus/0294-trios-directions-de-l-amour.md) — *5 juin 2022*  ⟲ doublon de `corpus/0293-trois-directions-de-l-amour-dans-la-relation-amoureuse.md`
+- `[0295]` [PRESENCE vs EXCITATION](corpus/0295-presence-vs-excitation.md) — *5 juin 2022*
+- `[0296]` [TROIS DIRECTIONS DE L'AMOUR](corpus/0296-trois-directions-de-l-amour.md) — *5 juin 2022*
+- `[0297]` [Pour les hommes mais aussi les femmes](corpus/0297-pour-les-hommes-mais-aussi-les-femmes.md) — *7 juin 2022*
+- `[0298]` [LA JOUISSANCE ET L ART DU TIR A L'ARC](corpus/0298-la-jouissance-et-l-art-du-tir-a-l-arc.md) — *10 juin 2022*
+- `[0299]` [LES EXTRA-ALPHAS](corpus/0299-les-extra-alphas.md) — *11 juin 2022*
+- `[0300]` [D’après mes échanges, une difficulté majeure pour les personnes qui aspirent à une sexualité authentique et sensible est](corpus/0300-d-apres-mes-echanges-une-difficulte-majeure-pour-les.md) — *13 juin 2022*
+- `[0301]` [QUINE COMPREND PAS QUI](corpus/0301-quine-comprend-pas-qui.md) — *13 juin 2022*
+- `[0302]` [QUI NE COMPREND PAS QUI](corpus/0302-qui-ne-comprend-pas-qui.md) — *13 juin 2022*  ⟲ doublon de `corpus/0301-quine-comprend-pas-qui.md`
+- `[0303]` [QUI NE COMPREND PAS QUI ?](corpus/0303-qui-ne-comprend-pas-qui.md) — *13 juin 2022*  ⟲ doublon de `corpus/0301-quine-comprend-pas-qui.md`
+- `[0304]` [J'ATTENDS TES COMMENTAIRES ET QUESTIONS](corpus/0304-j-attends-tes-commentaires-et-questions.md) — *18 juin 2022*
+- `[0305]` [QU'EN PESNES-TU ?](corpus/0305-qu-en-pesnes-tu.md) — *18 juin 2022*  ⟲ doublon de `corpus/0304-j-attends-tes-commentaires-et-questions.md`
+- `[0306]` [QU'EN PENSES-TU ?](corpus/0306-qu-en-penses-tu.md) — *19 juin 2022*  ⟲ doublon de `corpus/0304-j-attends-tes-commentaires-et-questions.md`
+- `[0307]` [COMMENT CES 3 FEMMES ONT TROUVE UN PARTENAIRE AU DELÀ DE LEURS ESPERENACES.](corpus/0307-comment-ces-3-femmes-ont-trouve-un-partenaire-au-dela-de.md) — *19 juin 2022*
+- `[0308]` [COMMENT CES 3 FEMMES ONT TROUVE UN PARTENAIRE AU DELÀ DE LEURS ESPÉRANCES.](corpus/0308-comment-ces-3-femmes-ont-trouve-un-partenaire-au-dela-de.md) — *19 juin 2022*  ⟲ doublon de `corpus/0307-comment-ces-3-femmes-ont-trouve-un-partenaire-au-dela-de.md`
+- `[0309]` [COMMENT CES 3 FEMMES ONT TROUVÉ UN PARTENAIRE AU DELÀ DE LEURS ESPÉRANCES.](corpus/0309-comment-ces-3-femmes-ont-trouve-un-partenaire-au-dela-de.md) — *19 juin 2022*  ⟲ doublon de `corpus/0307-comment-ces-3-femmes-ont-trouve-un-partenaire-au-dela-de.md`
+- `[0310]` [L’ERREUR PRINCIPALE DES FEMMES QUAND ELLES COMMUNIQUENT SUR LA SEXUALITÉ](corpus/0310-l-erreur-principale-des-femmes-quand-elles-communiquent-sur.md) — *22 juin 2022*
+- `[0311]` [Bonjour à tous,](corpus/0311-bonjour-a-tous.md) — *29 juin 2022*
+- `[0312]` [Bonjour à tous,](corpus/0312-bonjour-a-tous.md) — *29 juin 2022*
+- `[0313]` [Bonjour à tous,](corpus/0313-bonjour-a-tous.md) — *29 juin 2022*
+- `[0314]` [Bonjour à tous,](corpus/0314-bonjour-a-tous.md) — *29 juin 2022*
+- `[0315]` [DOCTEUR, J'AI MAL PARTOUT](corpus/0315-docteur-j-ai-mal-partout.md) — *30 juin 2022*
+- `[0316]` [Le couple complet sur les 4 plans](corpus/0316-le-couple-complet-sur-les-4-plans.md) — *1 juillet 2022*
+- `[0317]` [LE 4 PLANS DU COUPLE](corpus/0317-le-4-plans-du-couple.md) — *1 juillet 2022*  ⟲ doublon de `corpus/0316-le-couple-complet-sur-les-4-plans.md`
+- `[0318]` [Bonjour à tous,](corpus/0318-bonjour-a-tous.md) — *3 juillet 2022*
+- `[0319]` [FAIRE L'AMOUR A UNE PERSONNE MAIS EN AIMANT DEUX](corpus/0319-faire-l-amour-a-une-personne-mais-en-aimant-deux.md) — *5 juillet 2022*
+- `[0320]` [COACHING DE GROUPE OFFERT](corpus/0320-coaching-de-groupe-offert.md) — *6 juillet 2022*
+- `[0321]` [COACHING DE GROUPE OFFERT : CES OUTILS ONT CHANGE MA VIE](corpus/0321-coaching-de-groupe-offert-ces-outils-ont-change-ma-vie.md) — *6 juillet 2022*  ⟲ doublon de `corpus/0320-coaching-de-groupe-offert.md`
+- `[0322]` [COACHING DE GROUPE OFFERT : CES OUTILS ONT CHANGE MA VIE](corpus/0322-coaching-de-groupe-offert-ces-outils-ont-change-ma-vie.md) — *6 juillet 2022*
+- `[0323]` [COACHING DE GROUPE OFFERT : CES OUTILS ONT CHANGE MA VIE](corpus/0323-coaching-de-groupe-offert-ces-outils-ont-change-ma-vie.md) — *6 juillet 2022*
+- `[0324]` [L’auto-sabotage existe-il ?](corpus/0324-l-auto-sabotage-existe-il.md) — *10 juillet 2022*
+- `[0325]` [L'AUTO SABOTAGE EXISTE-IL ?](corpus/0325-l-auto-sabotage-existe-il.md) — *10 juillet 2022*  ⟲ doublon de `corpus/0324-l-auto-sabotage-existe-il.md`
+- `[0326]` [Oser ma Vérité](corpus/0326-oser-ma-verite.md) — *10 juillet 2022*
+- `[0327]` [OÙ VA MON ATTENTION](corpus/0327-ou-va-mon-attention.md) — *12 juillet 2022*
+- `[0328]` [OÙ VA MON ATTENTION](corpus/0328-ou-va-mon-attention.md) — *14 juillet 2022*
+- `[0329]` [Bonjour à tous, moins de posts ces jours-ci parce que j'étais sur ce projet qui me tient vraiment à coeur. Montrer l'éco](corpus/0329-bonjour-a-tous-moins-de-posts-ces-jours-ci-parce-que-j.md) — *18 juillet 2022*
+- `[0330]` [Bonjour à tous, moins de posts ces jours-ci parce que j'étais sur ce projet qui me tient vraiment à coeur. Montrer l'éco](corpus/0330-bonjour-a-tous-moins-de-posts-ces-jours-ci-parce-que-j.md) — *18 juillet 2022*
+- `[0331]` [COACHING gratuit ce Samedi 23.07.2023 à 10h.](corpus/0331-coaching-gratuit-ce-samedi-23-07-2023-a-10h.md) — *20 juillet 2022*
+- `[0332]` [COACHING gratuit ce Samedi 23.07.2023 à 10h.](corpus/0332-coaching-gratuit-ce-samedi-23-07-2023-a-10h.md) — *20 juillet 2022*
+- `[0333]` [COACHING gratuit ce Samedi 23.07.2023 à 10h.](corpus/0333-coaching-gratuit-ce-samedi-23-07-2023-a-10h.md) — *21 juillet 2022*
+- `[0334]` [Mode Brouillon Post visible uniquement par](corpus/0334-mode-brouillon-post-visible-uniquement-par.md) — *27 juillet 2022*
+- `[0335]` [Mode Brouillon Post visible uniquement par Martine](corpus/0335-mode-brouillon-post-visible-uniquement-par-martine.md) — *27 juillet 2022*  ⟲ doublon de `corpus/0334-mode-brouillon-post-visible-uniquement-par.md`
+- `[0336]` ["AIME-TOI TOI-MÊME AVANT D'AIMER L'AUTRE"](corpus/0336-aime-toi-toi-meme-avant-d-aimer-l-autre.md) — *27 juillet 2022*
+- `[0337]` [Bonjour à tous,](corpus/0337-bonjour-a-tous.md) — *10 septembre 2022*
+- `[0338]` [Bonjour à tous,](corpus/0338-bonjour-a-tous.md) — *11 septembre 2022*
+- `[0339]` [https://youtu.be/7J9zLzRp4Nc](corpus/0339-https-youtu-be-7j9zlzrp4nc.md) — *19 septembre 2022*
+- `[0340]` [Dernière vidéo des thèmes de mon logo sur la sexualité sensible : De la Vie](corpus/0340-derniere-video-des-themes-de-mon-logo-sur-la-sexualite.md) — *22 septembre 2022*
+- `[0341]` [LES FEMMES NE VEULENT PAS EDUQUER LES HOMMES : FAUX](corpus/0341-les-femmes-ne-veulent-pas-eduquer-les-hommes-faux.md) — *6 octobre 2022*
+- `[0342]` [CE QUE MOHAMED ALI PEUT NOUS ENSEIGNER SUR LA SEXUALITE SENSIBLE](corpus/0342-ce-que-mohamed-ali-peut-nous-enseigner-sur-la-sexualite.md) — *6 octobre 2022*
+- `[0343]` [CE QUE LE JEU DE GO PEUT ENSEIGNER SUR LA RELATION AMOUREUSE](corpus/0343-ce-que-le-jeu-de-go-peut-enseigner-sur-la-relation-amoureuse.md) — *14 octobre 2022*
+- `[0344]` [DANS UN VOYAGE LA DESTINATION EST ESSENTIELLE](corpus/0344-dans-un-voyage-la-destination-est-essentielle.md) — *18 octobre 2022*
+- `[0345]` [COMMENT RETROUVER CONFIANCE EN L’HOMME ?](corpus/0345-comment-retrouver-confiance-en-l-homme.md) — *21 octobre 2022*
+- `[0346]` [Bonjour à tous,](corpus/0346-bonjour-a-tous.md) — *26 octobre 2022*
+- `[0347]` [Les Amants Sensibles,](corpus/0347-les-amants-sensibles.md) — *28 octobre 2022*
+- `[0348]` [Les Amants Sensibles,](corpus/0348-les-amants-sensibles.md) — *28 octobre 2022*
+- `[0349]` [Voilà que je découvre que je suis cité dans un livre sur la sexualité !](corpus/0349-voila-que-je-decouvre-que-je-suis-cite-dans-un-livre-sur-la.md) — *7 novembre 2022*
+- `[0350]` [Voilà que je découvre que je suis cité dans un livre sur la sexualité !](corpus/0350-voila-que-je-decouvre-que-je-suis-cite-dans-un-livre-sur-la.md) — *8 novembre 2022*
+- `[0351]` [Voilà que je découvre que je suis cité dans un livre sur la sexualité !](corpus/0351-voila-que-je-decouvre-que-je-suis-cite-dans-un-livre-sur-la.md) — *8 novembre 2022*
+- `[0352]` [Pour avoir un entretien sans gratuit et sans engagement qui va t'apporte de la clarté par rapport à ta situation et tes](corpus/0352-pour-avoir-un-entretien-sans-gratuit-et-sans-engagement-qui.md) — *28 novembre 2022*
+- `[0353]` [Pour avoir un entretien gratuit et sans engagement qui va t'apporte de la clarté par rapport à ta situation et tes objec](corpus/0353-pour-avoir-un-entretien-gratuit-et-sans-engagement-qui-va-t.md) — *28 novembre 2022*
+- `[0354]` [FORMATION A > 600 EUROS](corpus/0354-formation-a-600-euros.md) — *3 décembre 2022*
+- `[0355]` [FORMATION A > 600 EUROS ?](corpus/0355-formation-a-600-euros.md) — *3 décembre 2022*
+- `[0356]` [FORMATION A > 600 EUROS ?](corpus/0356-formation-a-600-euros.md) — *3 décembre 2022*
+- `[0357]` [Voilà, je le dis, je l'assume.](corpus/0357-voila-je-le-dis-je-l-assume.md) — *11 décembre 2022*
+- `[0358]` [Voilà, je le dis, je l'assume.](corpus/0358-voila-je-le-dis-je-l-assume.md) — *11 décembre 2022*
+- `[0359]` [Voilà,](corpus/0359-voila.md) — *21 décembre 2022*
+
+### 2023
+
+- `[0360]` [Oser ma Vérité](corpus/0360-oser-ma-verite.md) — *2 janvier 2023*
+- `[0361]` [J'aide les femmes et les hommes dans leur vérité à vivre un grand Amour au niveau du coeur et de la sexualité,](corpus/0361-j-aide-les-femmes-et-les-hommes-dans-leur-verite-a-vivre-un.md) — *4 janvier 2023*
+- `[0362]` [LE PLUS UTILE ENTRE LA LUNE ET LE SOLEIL](corpus/0362-le-plus-utile-entre-la-lune-et-le-soleil.md) — *7 janvier 2023*
+- `[0363]` [LES CARESSES AVANT LES CARESSES](corpus/0363-les-caresses-avant-les-caresses.md) — *7 janvier 2023*
+- `[0364]` [Dans les articles, les vidéos, les témoignages et les présentation sur la sexualité épanouie, je trouve que les gens par](corpus/0364-dans-les-articles-les-videos-les-temoignages-et-les.md) — *11 janvier 2023*
+- `[0365]` [Dans les articles, les vidéos, les témoignages et les présentations sur la sexualité épanouie, je trouve que les gens pa](corpus/0365-dans-les-articles-les-videos-les-temoignages-et-les.md) — *11 janvier 2023*
+- `[0366]` [L'INSTASE SEXUELLE](corpus/0366-l-instase-sexuelle.md) — *11 janvier 2023*
+- `[0367]` [L'INSTASE SEXUELLE](corpus/0367-l-instase-sexuelle.md) — *11 janvier 2023*
+- `[0368]` [Tout donner, rien demander,](corpus/0368-tout-donner-rien-demander.md) — *11 janvier 2023*
+- `[0369]` [En amour :](corpus/0369-en-amour.md) — *11 janvier 2023*
+- `[0370]` [AMOUR DE SOI & AMOUR DE L'AUTRE](corpus/0370-amour-de-soi-amour-de-l-autre.md) — *11 janvier 2023*
+- `[0371]` [JE PLEURE DE GRATITUDE AUX FUNÉRAILLES](corpus/0371-je-pleure-de-gratitude-aux-funerailles.md) — *14 janvier 2023*
+- `[0372]` [Lors des quatre dernières funérailles, j’ai énormément pleuré. J’étais peut-être la personne qui pleurait le plus dans l](corpus/0372-lors-des-quatre-dernieres-funerailles-j-ai-enormement.md) — *26 janvier 2023*
+- `[0373]` [AUX FUNERAILLES, JE PLEURE DE GRATITUDE.](corpus/0373-aux-funerailles-je-pleure-de-gratitude.md) — *26 janvier 2023*  ⟲ doublon de `corpus/0372-lors-des-quatre-dernieres-funerailles-j-ai-enormement.md`
+- `[0374]` [J'AI CRU QUE J'AI ETE QUITTE, EN FAIT J'ÉTAIS AIME](corpus/0374-j-ai-cru-que-j-ai-ete-quitte-en-fait-j-etais-aime.md) — *30 janvier 2023*
+- `[0375]` [J'AI CRU QUE J'AI ETE QUITTE, EN FAIT J'ÉTAIS AIME](corpus/0375-j-ai-cru-que-j-ai-ete-quitte-en-fait-j-etais-aime.md) — *31 janvier 2023*
+- `[0376]` [Présentation du stage "Danseurs Sauvages / Amants Sensibles" les 4-5 Mars 2023](corpus/0376-presentation-du-stage-danseurs-sauvages-amants-sensibles.md) — *3 février 2023*
+- `[0377]` [Présentation du stage "Danseurs Sauvages / Amants Sensibles" les 4-5 Mars 2023](corpus/0377-presentation-du-stage-danseurs-sauvages-amants-sensibles.md) — *3 février 2023*
+- `[0378]` [Voilà l'événement sur Facebook](corpus/0378-voila-l-evenement-sur-facebook.md) — *3 février 2023*
+- `[0379]` [Voilà l'événement sur Facebook](corpus/0379-voila-l-evenement-sur-facebook.md) — *10 février 2023*
+- `[0380]` [Youhou❤,](corpus/0380-youhou.md) — *23 février 2023*
+- `[0381]` [Youhou❤,](corpus/0381-youhou.md) — *23 février 2023*
+- `[0382]` [Un secret pour bouleverser positivement une personne](corpus/0382-un-secret-pour-bouleverser-positivement-une-personne.md) — *26 février 2023*
+- `[0383]` [Un secret pour bouleverser positivement une personne](corpus/0383-un-secret-pour-bouleverser-positivement-une-personne.md) — *26 février 2023*
+- `[0384]` [COMMENT J'ARRIVE A MARQUER LES ESPRITS DANS MES ATELIERS](corpus/0384-comment-j-arrive-a-marquer-les-esprits-dans-mes-ateliers.md) — *26 février 2023*
+- `[0385]` [Mes actus, mes meilleurs posts, etc www.duy-dang.fr](corpus/0385-mes-actus-mes-meilleurs-posts-etc-www-duy-dang-fr.md) — *12 mars 2023*
+- `[0386]` [J'AI DETRUIT L'HISTOIRE DE SA VIE EN 10 MINUTES](corpus/0386-j-ai-detruit-l-histoire-de-sa-vie-en-10-minutes.md) — *16 mars 2023*
+- `[0387]` [LA PEUR DU PAPILLON POUR SON ENVOL](corpus/0387-la-peur-du-papillon-pour-son-envol.md) — *22 mars 2023*
+- `[0388]` [LE SECRET CACHE DE LA COMMUNICATION](corpus/0388-le-secret-cache-de-la-communication.md) — *25 mars 2023*
+- `[0389]` [LE SECRET CACHE DE LA COMMUNICATION (POUR LES SUJETS DELICATS)](corpus/0389-le-secret-cache-de-la-communication-pour-les-sujets-delicats.md) — *25 mars 2023*  ⟲ doublon de `corpus/0388-le-secret-cache-de-la-communication.md`
+- `[0390]` [Voici ma page de présentation www.sexualite-sensible.fr](corpus/0390-voici-ma-page-de-presentation-www-sexualite-sensible-fr.md) — *17 avril 2023*
+- `[0391]` [Mes actus, mes meilleurs posts, etc www.duy-dang.fr](corpus/0391-mes-actus-mes-meilleurs-posts-etc-www-duy-dang-fr.md) — *27 avril 2023*
+- `[0392]` [Quand je suis interviewé, on me demande toujours comment j’en suis arrivé à accompagner des personnes vers la sexualité](corpus/0392-quand-je-suis-interviewe-on-me-demande-toujours-comment-j.md) — *3 mai 2023*
+- `[0393]` [DE LA HONTE A LA GRATITUDE](corpus/0393-de-la-honte-a-la-gratitude.md) — *3 mai 2023*
+- `[0394]` [DE LA HONTE A LA GRATITUDE](corpus/0394-de-la-honte-a-la-gratitude.md) — *3 mai 2023*
+- `[0395]` [Voici ma page de présentation www.sexualite-sensible.fr](corpus/0395-voici-ma-page-de-presentation-www-sexualite-sensible-fr.md) — *6 mai 2023*
+- `[0396]` [LA DANSE CONNECTÉE DES AMANTS SENSIBLES](corpus/0396-la-danse-connectee-des-amants-sensibles.md) — *23 mai 2023*
+- `[0397]` [Notre danse à l'origine de l'atelier :](corpus/0397-notre-danse-a-l-origine-de-l-atelier.md) — *23 mai 2023*
+- `[0398]` [NOTRE DANSE A L ORIGINE DE NOTRE PREMIER ATELIER DE DANSE](corpus/0398-notre-danse-a-l-origine-de-notre-premier-atelier-de-danse.md) — *23 mai 2023*  ⟲ doublon de `corpus/0397-notre-danse-a-l-origine-de-l-atelier.md`
+- `[0399]` [IMPROVISATION À L'ÉTAT PUR](corpus/0399-improvisation-a-l-etat-pur.md) — *23 mai 2023*
+- `[0400]` [IMPROVISATION À L'ÉTAT PUR](corpus/0400-improvisation-a-l-etat-pur.md) — *24 mai 2023*
+- `[0401]` [1. Vivre (et danser) pour soi](corpus/0401-1-vivre-et-danser-pour-soi.md) — *10 juin 2023*
+- `[0402]` [ÉVITER LA DÉPENDANCE AFFECTIVE](corpus/0402-eviter-la-dependance-affective.md) — *10 juin 2023*
+- `[0403]` [Ce qu’on ne m’a jamais dit dans les stages de sur la sexualité.](corpus/0403-ce-qu-on-ne-m-a-jamais-dit-dans-les-stages-de-sur-la.md) — *4 août 2023*
+- `[0404]` [Nous voilà de retour  Duy Dang et moi même pour vous proposer une série de 3 ateliers de La Voie de la Danse.](corpus/0404-nous-voila-de-retour-duy-dang-et-moi-meme-pour-vous.md) — *9 octobre 2023*
+- `[0405]` [DANSE-CONNEXION-SENSUALITÉ](corpus/0405-danse-connexion-sensualite.md) — *19 octobre 2023*
+- `[0406]` [DANSE-CONNEXION](corpus/0406-danse-connexion.md) — *19 octobre 2023*  ⟲ doublon de `corpus/0405-danse-connexion-sensualite.md`
+- `[0407]` [Mon site www.duy-dang.fr avec une sélection des meilleurs posts et le programme de coaching Les Amants Sensibles](corpus/0407-mon-site-www-duy-dang-fr-avec-une-selection-des-meilleurs.md) — *19 octobre 2023* `à-terminer`
+- `[0408]` [Nous voilà de retour,  Duy Dang et Martine Mauricrace,  pour vous proposer une série de 3 ateliers de La Voie de la Dans](corpus/0408-nous-voila-de-retour-duy-dang-et-martine-mauricrace-pour.md) — *20 octobre 2023*
+- `[0409]` [Animé par Duy DANG et Martine MAURICRACE](corpus/0409-anime-par-duy-dang-et-martine-mauricrace.md) — *16 novembre 2023*
+- `[0410]` [Atelier à venir de La Voie de la Danse, le dimanche 26/11/2023, de 11h à 13h : Réveiller sa Sensualité avec co-animation](corpus/0410-atelier-a-venir-de-la-voie-de-la-danse-le-dimanche-26-11.md) — *24 novembre 2023*
+- `[0411]` [Atelier à venir de La Voie de la Danse, le dimanche 26/11/2023, de 11h à 13h : Réveiller sa Sensualité en co-animation a](corpus/0411-atelier-a-venir-de-la-voie-de-la-danse-le-dimanche-26-11.md) — *24 novembre 2023*
+- `[0412]` [Je n'écoute pas le corps de ma partenaire.](corpus/0412-je-n-ecoute-pas-le-corps-de-ma-partenaire.md) — *24 novembre 2023*
+- `[0413]` [Je n'écoute pas le corps de ma partenaire.](corpus/0413-je-n-ecoute-pas-le-corps-de-ma-partenaire.md) — *24 novembre 2023*
+- `[0414]` [LE SECRET DE MA SENSUALITÉ,](corpus/0414-le-secret-de-ma-sensualite.md) — *28 novembre 2023*
+- `[0415]` [LA SÉDUCTION 0.0](corpus/0415-la-seduction-0-0.md) — *6 décembre 2023*
+- `[0416]` [BONNE FIN D’ANNEE = BON DEBUT D’ANNEE](corpus/0416-bonne-fin-d-annee-bon-debut-d-annee.md) — *7 décembre 2023*
+- `[0417]` [BONNE FIN D’ANNEE = BON DEBUT D’ANNEE](corpus/0417-bonne-fin-d-annee-bon-debut-d-annee.md) — *7 décembre 2023*
+- `[0418]` [Le courage de 1 sur 1 Million](corpus/0418-le-courage-de-1-sur-1-million.md) — *10 décembre 2023*
+- `[0419]` [Le courage de 1 sur 1 Millard](corpus/0419-le-courage-de-1-sur-1-millard.md) — *10 décembre 2023*
+- `[0420]` [Le courage de 1 sur 1 Milliard](corpus/0420-le-courage-de-1-sur-1-milliard.md) — *11 décembre 2023*
+- `[0421]` [L'HISTOIRE DU PETIT MOINEAU](corpus/0421-l-histoire-du-petit-moineau.md) — *13 décembre 2023*
+- `[0422]` [FUGACITE DU TEMPS](corpus/0422-fugacite-du-temps.md) — *24 décembre 2023*
+- `[0423]` [FUGACITE DU TEMPS](corpus/0423-fugacite-du-temps.md) — *24 décembre 2023*
+
+### 2024
+
+- `[0424]` [LES 4 PRINCIPES COSMIQUES](corpus/0424-les-4-principes-cosmiques.md) — *16 février 2024*
+- `[0425]` [LES 4 PRINCIPES COSMIQUES](corpus/0425-les-4-principes-cosmiques.md) — *16 février 2024*
+- `[0426]` [Qui veut savoir comment devenir attirant tout en restant soi-même ?](corpus/0426-qui-veut-savoir-comment-devenir-attirant-tout-en-restant.md) — *19 février 2024*
+- `[0427]` [Qui veut savoir comment devenir attractif tout en restant soi-même ?](corpus/0427-qui-veut-savoir-comment-devenir-attractif-tout-en-restant.md) — *19 février 2024*  ⟲ doublon de `corpus/0426-qui-veut-savoir-comment-devenir-attirant-tout-en-restant.md`
+- `[0428]` [Qui veut savoir comment devenir ultra attractif tout en restant soi-même ?](corpus/0428-qui-veut-savoir-comment-devenir-ultra-attractif-tout-en.md) — *19 février 2024*
+- `[0429]` [MAGNÉTISME = RADICALITÉ +  AFFIRMATION](corpus/0429-magnetisme-radicalite-affirmation.md) — *20 février 2024*
+- `[0430]` [ATTIRANCE AUTHENTIQUE = RADICALITÉ +  AFFIRMATION](corpus/0430-attirance-authentique-radicalite-affirmation.md) — *20 février 2024*  ⟲ doublon de `corpus/0429-magnetisme-radicalite-affirmation.md`
+- `[0431]` [LES 4 PRINCIPES COSMIQUES](corpus/0431-les-4-principes-cosmiques.md) — *21 février 2024*
+- `[0432]` [UNE EXPERIENCE PRESQUE MYSTIQUE DE LA DANSE](corpus/0432-une-experience-presque-mystique-de-la-danse.md) — *6 mars 2024*
+- `[0433]` [UNE EXPÉRIENCE PRESQUE MYSTIQUE DE LA DANSE](corpus/0433-une-experience-presque-mystique-de-la-danse.md) — *8 mars 2024*
+- `[0434]` [TÉMOIGNAGE QUI M'A BOULEVERSE](corpus/0434-temoignage-qui-m-a-bouleverse.md) — *6 avril 2024*
+- `[0435]` [SON TÉMOIGNAGE QUI M'A BOULEVERSE](corpus/0435-son-temoignage-qui-m-a-bouleverse.md) — *6 avril 2024*  ⟲ doublon de `corpus/0434-temoignage-qui-m-a-bouleverse.md`
+- `[0436]` [SON TÉMOIGNAGE M'A BOULEVERSÉ](corpus/0436-son-temoignage-m-a-bouleverse.md) — *6 avril 2024*  ⟲ doublon de `corpus/0434-temoignage-qui-m-a-bouleverse.md`
+- `[0437]` [LE PARDON SUPRÊME](corpus/0437-le-pardon-supreme.md) — *8 mai 2024*
+- `[0438]` [Bonjour amis chercheurs.ses de Vérité, d’Amour et de Liberté.](corpus/0438-bonjour-amis-chercheurs-ses-de-verite-d-amour-et-de-liberte.md) — *11 juin 2024*
+- `[0439]` [PROCESSUS LE PARDON SUPRÊME](corpus/0439-processus-le-pardon-supreme.md) — *11 juin 2024*
+- `[0440]` [CE QUI REND MON AMANTE MAGNÉTIQUE ET IRRÉSISTIBLE](corpus/0440-ce-qui-rend-mon-amante-magnetique-et-irresistible.md) — *8 juillet 2024*
+- `[0441]` [CE QUI REND MON AMANTE MAGNÉTIQUE ET IRRÉSISTIBLE](corpus/0441-ce-qui-rend-mon-amante-magnetique-et-irresistible.md) — *8 juillet 2024*
+- `[0442]` [Découvrez sur cette fiche memo l'essence même de tout ce que je souhaite partager avec vous qui ressentez un désir profo](corpus/0442-decouvrez-sur-cette-fiche-memo-l-essence-meme-de-tout-ce.md) — *18 juillet 2024*
+- `[0443]` [FICHE MÉMO : L'ESSENTIEL DE LA SEXUALITÉ AUTHENTIQUE SUR UNE PAGE](corpus/0443-fiche-memo-l-essentiel-de-la-sexualite-authentique-sur-une.md) — *18 juillet 2024*
+- `[0444]` [FICHE MÉMO : L'ESSENTIEL DE 20 ANS DE SEXUALITÉ AUTHENTIQUE SUR UNE PAGE](corpus/0444-fiche-memo-l-essentiel-de-20-ans-de-sexualite-authentique.md) — *18 juillet 2024*
+- `[0445]` [L'ESSENTIEL DE LA SEXUALITÉ AUTHENTIQUE POUR LES AMANT SENSIBLES Version-2 + vidéos](corpus/0445-l-essentiel-de-la-sexualite-authentique-pour-les-amant.md) — *2 septembre 2024*
+- `[0446]` [Pour recevoir ma pépite "L'essentiel de la sexualité authentique pour les amants sensibles" simple et rapide à lire :](corpus/0446-pour-recevoir-ma-pepite-l-essentiel-de-la-sexualite.md) — *12 septembre 2024*
+- `[0447]` [Pour recevoir ma pépite "L'essentiel de la sexualité authentique pour les amants sensibles" simple et rapide à lire :](corpus/0447-pour-recevoir-ma-pepite-l-essentiel-de-la-sexualite.md) — *12 septembre 2024*
+- `[0448]` [AMANT CORÉEN VS AMANT CHINOIS](corpus/0448-amant-coreen-vs-amant-chinois.md) — *14 septembre 2024*
+- `[0449]` [MON SECRET POUR ÊTRE UN AMANT EXCEPTIONNEL](corpus/0449-mon-secret-pour-etre-un-amant-exceptionnel.md) — *14 septembre 2024*
+- `[0450]` [POURQUOI ET COMMENT PARLER PENDANT QU’ON FAIT L’AMOUR ?](corpus/0450-pourquoi-et-comment-parler-pendant-qu-on-fait-l-amour.md) — *9 octobre 2024*
+
+### 2025
+
+- `[0451]` [PEUR DE MOURIR - PEUR DE NE PAS VIVRE](corpus/0451-peur-de-mourir-peur-de-ne-pas-vivre.md) — *7 mai 2025*
+- `[0452]` [C’est un privilège de flirter avec toi,](corpus/0452-c-est-un-privilege-de-flirter-avec-toi.md) — *14 mai 2025*
+- `[0453]` [LA SEXUALITÉ SENSIBLE EST LE POINT DE DEPART](corpus/0453-la-sexualite-sensible-est-le-point-de-depart.md) — *15 mai 2025*
+- `[0454]` [UNE JOURNÉE POUR RETROUVER NOTRE BOUSSOLE INTÉRIEURE](corpus/0454-une-journee-pour-retrouver-notre-boussole-interieure.md) — *16 mai 2025*
+- `[0455]` [QUAND J'AURAI, JE SERAI](corpus/0455-quand-j-aurai-je-serai.md) — *19 mai 2025*
+- `[0456]` [Comment entrer et sortir du lien, tout en étant connecté à soi ?](corpus/0456-comment-entrer-et-sortir-du-lien-tout-en-etant-connecte-a.md) — *24 mai 2025*
+- `[0457]` [Il reste encore quelques places 🌷](corpus/0457-il-reste-encore-quelques-places.md) — *26 mai 2025*
+- `[0458]` [LES 3 DISTANCES DE L'ATTRACTION SEXUELLE](corpus/0458-les-3-distances-de-l-attraction-sexuelle.md) — *2 septembre 2025*
+- `[0459]` [Solo Lafaurie Aout 2025, sur les mots](corpus/0459-solo-lafaurie-aout-2025-sur-les-mots.md) — *14 octobre 2025*
+- `[0460]` [Solo Lafaurie Aout 2025, sur les mots](corpus/0460-solo-lafaurie-aout-2025-sur-les-mots.md) — *14 octobre 2025*
+- `[0461]` [UNE ENVIE VS UNE DEMANDE](corpus/0461-une-envie-vs-une-demande.md) — *1 décembre 2025*
+- `[0462]` [CONFORT vs EFFORT](corpus/0462-confort-vs-effort.md) — *2 décembre 2025*
+- `[0463]` [MASQUE OU PAS MASQUE](corpus/0463-masque-ou-pas-masque.md) — *14 décembre 2025*
+
+## Principes (338)
+
+- `[0001]` [Êtes-vous certaine de vouloir un prince charmant ?](principes/0001-etes-vous-certaine-de-vouloir-un-prince-charmant.md)
+- `[0002]` [Le tigre et le masque](principes/0002-le-tigre-et-le-masque.md)
+- `[0003]` [La pyramide de Khéops et la tour eiffel](principes/0003-la-pyramide-de-kheops-et-la-tour-eiffel.md)
+- `[0004]` [Le Roi vs le Prince](principes/0004-le-roi-vs-le-prince.md)
+- `[0005]` [La Reine vs la Princesse](principes/0005-la-reine-vs-la-princesse.md)
+- `[0006]` [Feu de paille vs Feu de braise](principes/0006-feu-de-paille-vs-feu-de-braise.md) `à-terminer`
+- `[0007]` [Une envie vs une demande](principes/0007-une-envie-vs-une-demande.md)
+- `[0008]` [Confort vs Effort](principes/0008-confort-vs-effort.md)
+- `[0009]` [Toucher sans toucher](principes/0009-toucher-sans-toucher.md)
+- `[0010]` [Le kanban sexuel](principes/0010-le-kanban-sexuel.md)
+- `[0011]` [L’ingrédient secret](principes/0011-l-ingredient-secret.md)
+- `[0012]` [Gratitude vs Colère](principes/0012-gratitude-vs-colere.md)
+- `[0013]` [Pour lutter contre les complexes](principes/0013-pour-lutter-contre-les-complexes.md)
+- `[0014]` [Profondeur des racines vs hauteur de l'arbre](principes/0014-profondeur-des-racines-vs-hauteur-de-l-arbre.md)
+- `[0015]` [Je n’ai pas d’âme… Je suis l’âme](principes/0015-je-n-ai-pas-d-ame-je-suis-l-ame.md)
+- `[0016]` [Oedipe, le drame des mensonges par omission](principes/0016-oedipe-le-drame-des-mensonges-par-omission.md)
+- `[0017]` [Le territoire du mâle](principes/0017-le-territoire-du-male.md)
+- `[0018]` [Le goût du silence](principes/0018-le-gout-du-silence.md)
+- `[0019]` [La sexualité des 5 animaux célestes](principes/0019-la-sexualite-des-5-animaux-celestes.md)
+- `[0020]` [La princesse au petit pois](principes/0020-la-princesse-au-petit-pois.md)
+- `[0021]` [Un clitoris ou une oreille, c’est pareil \!](principes/0021-un-clitoris-ou-une-oreille-c-est-pareil.md)
+- `[0022]` [L’Instase sexuelle](principes/0022-l-instase-sexuelle.md)
+- `[0023]` [Cuisson à l’eau froide](principes/0023-cuisson-a-l-eau-froide.md)
+- `[0024]` [Il n’y a pas de sexualité épanouie](principes/0024-il-n-y-a-pas-de-sexualite-epanouie.md)
+- `[0025]` [Ce que je veux vraiment](principes/0025-ce-que-je-veux-vraiment.md)
+- `[0026]` [L’aphrodisiaque le plus méconnu](principes/0026-l-aphrodisiaque-le-plus-meconnu.md)
+- `[0027]` [Outil nécessaire pour une sexualité heureuse](principes/0027-outil-necessaire-pour-une-sexualite-heureuse.md)
+- `[0028]` [La parole du maître est souvent déformée par le peuple](principes/0028-la-parole-du-maitre-est-souvent-deformee-par-le-peuple.md)
+- `[0029]` [Le consentement : une mauvaise question.](principes/0029-le-consentement-une-mauvaise-question.md)
+- `[0030]` [Comment j’ai su que j’avais besoin de lunettes ?](principes/0030-comment-j-ai-su-que-j-avais-besoin-de-lunettes.md)
+- `[0031]` [La fin d’une relation, ce séisme (presque) inévitable.](principes/0031-la-fin-d-une-relation-ce-seisme-presque-inevitable.md)
+- `[0032]` [Sexualité : quel endroit ?](principes/0032-sexualite-quel-endroit.md)
+- `[0033]` [Sexualité ou pas : le masque](principes/0033-sexualite-ou-pas-le-masque.md)
+- `[0034]` [Je touche l’autre](principes/0034-je-touche-l-autre.md)
+- `[0035]` [Les archétypes : Accélérateurs et freins à la fois.](principes/0035-les-archetypes-accelerateurs-et-freins-a-la-fois.md)
+- `[0036]` [La millième mouette](principes/0036-la-millieme-mouette.md)
+- `[0037]` [Le coït sans sexe](principes/0037-le-coit-sans-sexe.md)
+- `[0038]` [Pimenter sa relation, est-ce saucer un plat qui manque de goût ?](principes/0038-pimenter-sa-relation-est-ce-saucer-un-plat-qui-manque-de.md)
+- `[0039]` [Conseils pour célibataire : Comment rencontrer la bonne personne](principes/0039-conseils-pour-celibataire-comment-rencontrer-la-bonne.md)
+- `[0040]` [Conseils pour les célibataires : Cherchez-vous un Mendiant ou un Roi ?](principes/0040-conseils-pour-les-celibataires-cherchez-vous-un-mendiant-ou.md)
+- `[0041]` [Démarrer une voiture, démarrer une relation sexuelle](principes/0041-demarrer-une-voiture-demarrer-une-relation-sexuelle.md) `à-terminer`
+- `[0042]` [Les 7 voix de l’orgasme](principes/0042-les-7-voix-de-l-orgasme.md)
+- `[0043]` [Initiatrice vs Professeure](principes/0043-initiatrice-vs-professeure.md)
+- `[0044]` [Célibataires : Où avez-vous mis votre attention ?](principes/0044-celibataires-ou-avez-vous-mis-votre-attention.md)
+- `[0045]` [Sur la fidélité, l’infidélité, le polyamour](principes/0045-sur-la-fidelite-l-infidelite-le-polyamour.md)
+- `[0046]` [La culpabilité à recevoir](principes/0046-la-culpabilite-a-recevoir.md)
+- `[0047]` [Faire l’amour sans sexe](principes/0047-faire-l-amour-sans-sexe.md)
+- `[0048]` [Le charabia de l’amour](principes/0048-le-charabia-de-l-amour.md)
+- `[0049]` [La colère contre ma partenaire est une illusion](principes/0049-la-colere-contre-ma-partenaire-est-une-illusion.md) `à-terminer`
+- `[0050]` [Les roues patinent et on fait du sur place en voulant aller trop vite](principes/0050-les-roues-patinent-et-on-fait-du-sur-place-en-voulant-aller.md) `à-terminer`
+- `[0051]` [Il n’y avait personne dans la valise.](principes/0051-il-n-y-avait-personne-dans-la-valise.md)
+- `[0052]` [Expansion de la conscience vs Focalisation de l’attention](principes/0052-expansion-de-la-conscience-vs-focalisation-de-l-attention.md)
+- `[0053]` [Sexualité heureuse, une solution pour la décroissance](principes/0053-sexualite-heureuse-une-solution-pour-la-decroissance.md) `à-terminer`
+- `[0054]` [Le lâcher prise](principes/0054-le-lacher-prise.md) `à-terminer`
+- `[0055]` [Le conseil que je donnerai à mon fils](principes/0055-le-conseil-que-je-donnerai-a-mon-fils.md) `à-terminer`
+- `[0056]` [GPS vs Carte de votre sexualité](principes/0056-gps-vs-carte-de-votre-sexualite.md)
+- `[0057]` [Pas de confidentialité inconditionnel](principes/0057-pas-de-confidentialite-inconditionnel.md) `à-terminer`
+- `[0058]` [Les extra-alphas](principes/0058-les-extra-alphas.md) `à-terminer`
+- `[0059]` [Les 3 niveaux du conflit ou plus jamais de conflit](principes/0059-les-3-niveaux-du-conflit-ou-plus-jamais-de-conflit.md) `à-terminer`
+- `[0060]` [Jouissance et l’art du tir à l’arc](principes/0060-jouissance-et-l-art-du-tir-a-l-arc.md)
+- `[0061]` [Sortir du Tantra et de la sexualité sacrée](principes/0061-sortir-du-tantra-et-de-la-sexualite-sacree.md)
+- `[0062]` [Mes besoins et mes envies sont non négociables](principes/0062-mes-besoins-et-mes-envies-sont-non-negociables.md)
+- `[0063]` [Des hommes fuyants, des femmes paranoïaques](principes/0063-des-hommes-fuyants-des-femmes-paranoiaques.md)
+- `[0064]` [Il n’y a pas insatisfaction sexuelle](principes/0064-il-n-y-a-pas-insatisfaction-sexuelle.md)
+- `[0065]` [Des conflits, des ponts et de l’amour](principes/0065-des-conflits-des-ponts-et-de-l-amour.md)
+- `[0066]` [Thich Nhat Hanh](principes/0066-thich-nhat-hanh.md)
+- `[0067]` [Les 4 accords toltèques](principes/0067-les-4-accords-tolteques.md)
+- `[0068]` [Le plus grand malentendu](principes/0068-le-plus-grand-malentendu.md)
+- `[0069]` [Pourquoi tu ne seras jamais assez bien](principes/0069-pourquoi-tu-ne-seras-jamais-assez-bien.md) `à-terminer`
+- `[0070]` [Les images érotiques](principes/0070-les-images-erotiques.md)
+- `[0071]` [Ma grande erreur  sur la sexualité](principes/0071-ma-grande-erreur-sur-la-sexualite.md)
+- `[0072]` [Personne ne mérite d'être quitté](principes/0072-personne-ne-merite-d-etre-quitte.md)
+- `[0073]` [La mélancolie après l’amour : 2 raisons possibles](principes/0073-la-melancolie-apres-l-amour-2-raisons-possibles.md)
+- `[0074]` [L’ingrédient secret du toucher : l’honnêteté](principes/0074-l-ingredient-secret-du-toucher-l-honnetete.md)
+- `[0075]` [Mes 3 positions pour faire l’amour](principes/0075-mes-3-positions-pour-faire-l-amour.md)
+- `[0076]` [Comme je prie, comme je fais l’amour](principes/0076-comme-je-prie-comme-je-fais-l-amour.md)
+- `[0077]` [Ne pas se forcer, ne pas se retenir](principes/0077-ne-pas-se-forcer-ne-pas-se-retenir.md)
+- `[0078]` [La fin n’est pas le moyen](principes/0078-la-fin-n-est-pas-le-moyen.md)
+- `[0079]` [Du sexe au coeur comme de la bouche au ventre](principes/0079-du-sexe-au-coeur-comme-de-la-bouche-au-ventre.md)
+- `[0080]` [Le sexe comme boussole et non comme destination](principes/0080-le-sexe-comme-boussole-et-non-comme-destination.md)
+- `[0081]` [Pour un toucher exceptionnel : le Recevoir](principes/0081-pour-un-toucher-exceptionnel-le-recevoir.md)
+- `[0082]` [Pourquoi je ne parle pas de Tantra](principes/0082-pourquoi-je-ne-parle-pas-de-tantra.md) `à-terminer`
+- `[0083]` [Qu’est-ce que ça veut dire partenaire ?](principes/0083-qu-est-ce-que-ca-veut-dire-partenaire.md)
+- `[0084]` [Les 4 fondamentaux pour faire évoluer votre sexualité](principes/0084-les-4-fondamentaux-pour-faire-evoluer-votre-sexualite.md)
+- `[0085]` [Sexualité sensible : cette sexualité qui élève nos deux coeurs](principes/0085-sexualite-sensible-cette-sexualite-qui-eleve-nos-deux-coeurs.md) `à-terminer`
+- `[0086]` [Descendre dans les profondeur de l’âme /  escalader les sommets du plaisir](principes/0086-descendre-dans-les-profondeur-de-l-ame-escalader-les.md) `à-terminer`
+- `[0087]` [Cette frustration d’une sexualité sensible chez les femmes](principes/0087-cette-frustration-d-une-sexualite-sensible-chez-les-femmes.md) `à-terminer`
+- `[0088]` [Laisser monter le désir vs Chercher provoquer l'excitation](principes/0088-laisser-monter-le-desir-vs-chercher-provoquer-l-excitation.md) `à-terminer`
+- `[0089]` [Mère Teresa et les lépreux](principes/0089-mere-teresa-et-les-lepreux.md)
+- `[0090]` [Le but n’est pas d’être parfait mais d’être complet](principes/0090-le-but-n-est-pas-d-etre-parfait-mais-d-etre-complet.md) `à-terminer`
+- `[0091]` [Le masculin sauvage](principes/0091-le-masculin-sauvage.md) `à-terminer`
+- `[0092]` [Ouvrir votre amant à une sexualité sensible](principes/0092-ouvrir-votre-amant-a-une-sexualite-sensible.md)
+- `[0093]` [Deux cadeaux faciles pour votre chérie avec votre smartphone](principes/0093-deux-cadeaux-faciles-pour-votre-cherie-avec-votre-smartphone.md) `à-terminer`
+- `[0094]` [L’amant glouton vs l’amant gourmet](principes/0094-l-amant-glouton-vs-l-amant-gourmet.md)
+- `[0095]` [L’amant glouton vs l’amant gourmet (2)](principes/0095-l-amant-glouton-vs-l-amant-gourmet-2.md)
+- `[0096]` [L’amant glouton vs l’amant gourmet (3)](principes/0096-l-amant-glouton-vs-l-amant-gourmet-3.md)
+- `[0097]` [L’amant glouton vs l’amant gourmet (4)](principes/0097-l-amant-glouton-vs-l-amant-gourmet-4.md)
+- `[0098]` [La femme est une noix de coco, l’homme est un grain de raisin](principes/0098-la-femme-est-une-noix-de-coco-l-homme-est-un-grain-de-raisin.md) `à-terminer`
+- `[0099]` [Logique implacable](principes/0099-logique-implacable.md) `à-terminer`
+- `[0100]` [Quel est le premier pas vers une sexualité sensible](principes/0100-quel-est-le-premier-pas-vers-une-sexualite-sensible.md) `à-terminer`
+- `[0101]` [Ce qui tue le désir des hypersensibles](principes/0101-ce-qui-tue-le-desir-des-hypersensibles.md) `à-terminer`
+- `[0102]` [Désir peinture vs désir sculpture](principes/0102-desir-peinture-vs-desir-sculpture.md)
+- `[0103]` [La sexualité se vit à deux mais se prépare seul](principes/0103-la-sexualite-se-vit-a-deux-mais-se-prepare-seul.md)
+- `[0104]` [Sexualité phallocratique](principes/0104-sexualite-phallocratique.md) `à-terminer`
+- `[0105]` [Être dans le plaisir vs le plaisir de l'Être](principes/0105-etre-dans-le-plaisir-vs-le-plaisir-de-l-etre.md) `à-terminer`
+- `[0106]` [L’art est d’abord dans l’écoute avant d’être dans le faire](principes/0106-l-art-est-d-abord-dans-l-ecoute-avant-d-etre-dans-le-faire.md)
+- `[0107]` [Aikido, systema, visé plus loin que ce qu’on veut atteindre](principes/0107-aikido-systema-vise-plus-loin-que-ce-qu-on-veut-atteindre.md) `à-terminer`
+- `[0108]` [Tantra sexy, tantra trahi](principes/0108-tantra-sexy-tantra-trahi.md)
+- `[0109]` [Comment faire pleurer une femme](principes/0109-comment-faire-pleurer-une-femme.md)
+- `[0110]` [La sexualité sensible c’est être libre d’être](principes/0110-la-sexualite-sensible-c-est-etre-libre-d-etre.md)
+- `[0111]` [La sexualité sensible vient de l’intérieur](principes/0111-la-sexualite-sensible-vient-de-l-interieur.md) `à-terminer`
+- `[0112]` [Super Nanny](principes/0112-super-nanny.md)
+- `[0113]` [Kamasutra, de la position à la sensation](principes/0113-kamasutra-de-la-position-a-la-sensation.md)
+- `[0114]` [Vérité et Réconciliation](principes/0114-verite-et-reconciliation.md)
+- `[0115]` [La force de dire non, la faiblesse d’accepter, la sagesse de dire oui](principes/0115-la-force-de-dire-non-la-faiblesse-d-accepter-la-sagesse-de.md)
+- `[0116]` [La sexualité sensible : être libre d’être](principes/0116-la-sexualite-sensible-etre-libre-d-etre.md) `à-terminer`
+- `[0117]` [L’économie bleue : les déchets sont des ressources](principes/0117-l-economie-bleue-les-dechets-sont-des-ressources.md)
+- `[0118]` [La sexualité comme pouls de la relation amoureuse](principes/0118-la-sexualite-comme-pouls-de-la-relation-amoureuse.md)
+- `[0119]` [Christiane Singer.](principes/0119-christiane-singer.md)
+- `[0120]` [Osez ceci, cessez cela: Stop à l’impératif, oui à l’indicatif.](principes/0120-osez-ceci-cessez-cela-stop-a-l-imperatif-oui-a-l-indicatif.md)
+- `[0121]` [Être libre d’être](principes/0121-etre-libre-d-etre.md)
+- `[0122]` [Ta merde est précieuse que l’or](principes/0122-ta-merde-est-precieuse-que-l-or.md) `à-terminer`
+- `[0123]` [Pourquoi les femmes parlent mal de sexualité avec leur amant](principes/0123-pourquoi-les-femmes-parlent-mal-de-sexualite-avec-leur-amant.md)
+- `[0124]` [Films de combat, films pornos](principes/0124-films-de-combat-films-pornos.md) `à-terminer`
+- `[0125]` [Sexualité sans cible](principes/0125-sexualite-sans-cible.md) `à-terminer`
+- `[0126]` [Sans peur et sans reproche (ou presque)](principes/0126-sans-peur-et-sans-reproche-ou-presque.md)
+- `[0127]` [Quand une femme parle de sexualité à son amant](principes/0127-quand-une-femme-parle-de-sexualite-a-son-amant.md)
+- `[0128]` [Conseil numéro 1 absolu](principes/0128-conseil-numero-1-absolu.md) `à-terminer`
+- `[0129]` [Il n’y a rien à imposer, mais ne cédez sur rien](principes/0129-il-n-y-a-rien-a-imposer-mais-ne-cedez-sur-rien.md)
+- `[0130]` [Les quatres types d’amant](principes/0130-les-quatres-types-d-amant.md)
+- `[0131]` [Charge mentale des femmes initiatrices](principes/0131-charge-mentale-des-femmes-initiatrices.md)
+- `[0132]` [VIVRE la sexualité /= vivre la SEXUALITE](principes/0132-vivre-la-sexualite-vivre-la-sexualite.md) `à-terminer`
+- `[0133]` [Sa clé n’était pas à la lumière La fin justifie les moyens](principes/0133-sa-cle-n-etait-pas-a-la-lumiere-la-fin-justifie-les-moyens.md) `à-terminer`
+- `[0134]` [Comment choisir votre formation en sexualité](principes/0134-comment-choisir-votre-formation-en-sexualite.md) `à-terminer`
+- `[0135]` [Ce qui vous empêche vraiment de vivre une sexualité authentique](principes/0135-ce-qui-vous-empeche-vraiment-de-vivre-une-sexualite.md)
+- `[0136]` [La question qui a réveillé son désir (presque) instantanément](principes/0136-la-question-qui-a-reveille-son-desir-presque-instantanement.md)
+- `[0137]` [Va-t-elle sauver son couple ?](principes/0137-va-t-elle-sauver-son-couple.md)
+- `[0138]` [La sexualité sacrée ou Le sacré sexualisé](principes/0138-la-sexualite-sacree-ou-le-sacre-sexualise.md)
+- `[0139]` [Soit on a le choix soit on n'a pas le choix](principes/0139-soit-on-a-le-choix-soit-on-n-a-pas-le-choix.md)
+- `[0140]` [Ma formule de la joie](principes/0140-ma-formule-de-la-joie.md)
+- `[0141]` [Si tu cherches à attirer le bon partenaire](principes/0141-si-tu-cherches-a-attirer-le-bon-partenaire.md)
+- `[0142]` [Les ingrédients secrets d’une sexualité sensible](principes/0142-les-ingredients-secrets-d-une-sexualite-sensible.md)
+- `[0143]` [Action ou Vérités, la version sexuelle de Duy](principes/0143-action-ou-verites-la-version-sexuelle-de-duy.md)
+- `[0144]` [Simplicité, efficacité, merveilleux](principes/0144-simplicite-efficacite-merveilleux.md) `à-terminer`
+- `[0145]` [L’émotion négative est seulement la distance entre la réalité et mon imaginaire](principes/0145-l-emotion-negative-est-seulement-la-distance-entre-la.md) `à-terminer`
+- `[0146]` [La sexualité est le plus noble des instincts](principes/0146-la-sexualite-est-le-plus-noble-des-instincts.md) `à-terminer`
+- `[0147]` [La frustration de liberté d’être total](principes/0147-la-frustration-de-liberte-d-etre-total.md)
+- `[0148]` [Qui se ressemble s’assemble](principes/0148-qui-se-ressemble-s-assemble.md)
+- `[0149]` [Si je veux être aimé à 100%](principes/0149-si-je-veux-etre-aime-a-100.md) `à-terminer`
+- `[0150]` [Qui se ressemble s'assemble](principes/0150-qui-se-ressemble-s-assemble.md) `à-terminer`
+- `[0151]` [La morale cachée de Cendrillon](principes/0151-la-morale-cachee-de-cendrillon.md)
+- `[0152]` [Comment choisir sa formation](principes/0152-comment-choisir-sa-formation.md)
+- `[0153]` [La morale inattendue de la belle au bois dormant pour les hommes et pour les femmes](principes/0153-la-morale-inattendue-de-la-belle-au-bois-dormant-pour-les.md)
+- `[0154]` [Ombre & Lumière](principes/0154-ombre-lumiere.md)
+- `[0155]` [De la nourriture relationnelle à la relation nourrissante](principes/0155-de-la-nourriture-relationnelle-a-la-relation-nourrissante.md)
+- `[0156]` [’illusion du tout développement personnel](principes/0156-illusion-du-tout-developpement-personnel.md)
+- `[0157]` [L’exemple est la meilleure pédagogie](principes/0157-l-exemple-est-la-meilleure-pedagogie.md)
+- `[0158]` [Quand je fais toujours la même chose](principes/0158-quand-je-fais-toujours-la-meme-chose.md)  ⟲ doublon de `corpus/0084-quand-je-fais-toujours-la-meme-chose.md`
+- `[0159]` [Simple, Efficace, Difficile](principes/0159-simple-efficace-difficile.md)
+- `[0160]` [La vie n’est pas une fenêtre mais un miroir](principes/0160-la-vie-n-est-pas-une-fenetre-mais-un-miroir.md)
+- `[0161]` [Belle au bois dormant inversé](principes/0161-belle-au-bois-dormant-inverse.md)
+- `[0162]` [Blanche Neige](principes/0162-blanche-neige.md)
+- `[0163]` [La nuit la plus noire](principes/0163-la-nuit-la-plus-noire.md)
+- `[0164]` [SYNONYME](principes/0164-synonyme.md)
+- `[0165]` [Honorer sa partenaire](principes/0165-honorer-sa-partenaire.md)
+- `[0166]` [Vérité, Liberté & Sexualité](principes/0166-verite-liberte-sexualite.md)
+- `[0167]` [Taux de réussite du coaching](principes/0167-taux-de-reussite-du-coaching.md)
+- `[0168]` [Napoleon Hill](principes/0168-napoleon-hill.md)
+- `[0169]` [L’infidélité peut conduire la séparation mais pas forcément à cause du sexe](principes/0169-l-infidelite-peut-conduire-la-separation-mais-pas-forcement.md) `à-terminer`
+- `[0170]` [Critères méconnus pour choisir une formation dans n’importe quel domaine](principes/0170-criteres-meconnus-pour-choisir-une-formation-dans-n-importe.md)
+- `[0171]` [Les biais du feu tricolore](principes/0171-les-biais-du-feu-tricolore.md)
+- `[0172]` [Emotion /= Transformation](principes/0172-emotion-transformation.md) `à-terminer`
+- `[0173]` [Joie, Amour, Liberté, Paix tout pareil](principes/0173-joie-amour-liberte-paix-tout-pareil.md) `à-terminer`
+- `[0174]` [L’opportunité est de ton côté](principes/0174-l-opportunite-est-de-ton-cote.md) `à-terminer`
+- `[0175]` [C’est un privilège de danser avec toi](principes/0175-c-est-un-privilege-de-danser-avec-toi.md)
+- `[0176]` [Chaque fois que je vois une ombre, c'est qu'il y avait suffisamment de lumière pour faire apparaître cette ombre.](principes/0176-chaque-fois-que-je-vois-une-ombre-c-est-qu-il-y-avait.md) `à-terminer`
+- `[0177]` [C’est moins une frustration sexuelle mais plus une frustration d’Être qui se manifeste dans la sexualité.](principes/0177-c-est-moins-une-frustration-sexuelle-mais-plus-une.md) `à-terminer`
+- `[0178]` [Pourquoi je te partage mon intimité](principes/0178-pourquoi-je-te-partage-mon-intimite.md)
+- `[0179]` [Aime ton prochain comme toi même, et surtout pas plus](principes/0179-aime-ton-prochain-comme-toi-meme-et-surtout-pas-plus.md) `à-terminer`
+- `[0180]` [La simplicité renversante de mon approche de la sexualité](principes/0180-la-simplicite-renversante-de-mon-approche-de-la-sexualite.md)
+- `[0181]` [Une histoire d'amour (pas) comme les autres.](principes/0181-une-histoire-d-amour-pas-comme-les-autres.md)
+- `[0182]` [Tout a un prix](principes/0182-tout-a-un-prix.md)
+- `[0183]` [3 façon de faire l’amour](principes/0183-3-facon-de-faire-l-amour.md)
+- `[0184]` [Ce dont j’avais le plus besoin](principes/0184-ce-dont-j-avais-le-plus-besoin.md)
+- `[0185]` [Stop aux images des participants](principes/0185-stop-aux-images-des-participants.md)
+- `[0186]` [Je salue le divin qui est en toi/à travers toi](principes/0186-je-salue-le-divin-qui-est-en-toi-a-travers-toi.md) `à-terminer`
+- `[0187]` [Ne rien demander](principes/0187-ne-rien-demander.md)
+- `[0188]` [Blessure non guérie](principes/0188-blessure-non-guerie.md)
+- `[0189]` [Si tu te sens incompris : Grande ou petite cuillère ?](principes/0189-si-tu-te-sens-incompris-grande-ou-petite-cuillere.md)
+- `[0190]` [Reproches & Reproches & Reproches](principes/0190-reproches-reproches-reproches.md)
+- `[0191]` [Faire l’amour en spirale](principes/0191-faire-l-amour-en-spirale.md)
+- `[0192]` [Donner c’est donner : la colère c’est quand on n’a pas donné](principes/0192-donner-c-est-donner-la-colere-c-est-quand-on-n-a-pas-donne.md)
+- `[0193]` [J’arrête les voeux en 2022](principes/0193-j-arrete-les-voeux-en-2022.md)
+- `[0194]` [Du précieux](principes/0194-du-precieux.md)
+- `[0195]` [Ma chérie, j’ai peur …](principes/0195-ma-cherie-j-ai-peur.md)
+- `[0196]` [Les pré-préliminaires](principes/0196-les-pre-preliminaires.md)
+- `[0197]` [J’accueille vos donations](principes/0197-j-accueille-vos-donations.md)
+- `[0198]` [Ca va te faire mal et je vais quand même te le dire](principes/0198-ca-va-te-faire-mal-et-je-vais-quand-meme-te-le-dire.md)
+- `[0199]` [Courir avec des béquilles](principes/0199-courir-avec-des-bequilles.md)
+- `[0200]` [Analyse paralyse](principes/0200-analyse-paralyse.md) `à-terminer`
+- `[0201]` [Je n’obtiens pas parce que je le veux mais parce que je ne le tolère plus](principes/0201-je-n-obtiens-pas-parce-que-je-le-veux-mais-parce-que-je-ne.md) `à-terminer`
+- `[0202]` [Je réussis parce que j’ai le bon état d’esprit et le bon environnement (collègue, chérie, etc)](principes/0202-je-reussis-parce-que-j-ai-le-bon-etat-d-esprit-et-le-bon.md) `à-terminer`
+- `[0203]` [Mes maitres.ses en sexualité sensible](principes/0203-mes-maitres-ses-en-sexualite-sensible.md) `à-terminer`
+- `[0204]` [Devenir qui je suis en faisant ce que j’ai à faire même si je n’obtiens pas maintenant le résultat que je veux](principes/0204-devenir-qui-je-suis-en-faisant-ce-que-j-ai-a-faire-meme-si.md) `à-terminer`
+- `[0205]` [Je te donne un environnement par ma présence](principes/0205-je-te-donne-un-environnement-par-ma-presence.md) `à-terminer`
+- `[0206]` [Marre des relations bancales ?](principes/0206-marre-des-relations-bancales.md)
+- `[0207]` [Je te prête ma certitude pour l'énergie](principes/0207-je-te-prete-ma-certitude-pour-l-energie.md) `à-terminer`
+- `[0208]` [Je cherche plus la paix que le plaisir](principes/0208-je-cherche-plus-la-paix-que-le-plaisir.md)
+- `[0209]` [Voici pourquoi tes rencontres sont foireuses](principes/0209-voici-pourquoi-tes-rencontres-sont-foireuses.md)
+- `[0210]` [Des larmes comme des bulles, des larmes comme des cailloux](principes/0210-des-larmes-comme-des-bulles-des-larmes-comme-des-cailloux.md)
+- `[0211]` [La sexualité épanoui est la conséquence non la cause énergie et rayonnant](principes/0211-la-sexualite-epanoui-est-la-consequence-non-la-cause.md) `à-terminer`
+- `[0212]` [Chérie, je suis excité \! Sauve moi \!](principes/0212-cherie-je-suis-excite-sauve-moi.md)
+- `[0213]` [Le feu de la conscience, de la vérité, de la liberté se communique](principes/0213-le-feu-de-la-conscience-de-la-verite-de-la-liberte-se.md) `à-terminer`
+- `[0214]` [La communication non verbales (Quoi, Comment, Pourquoi)](principes/0214-la-communication-non-verbales-quoi-comment-pourquoi.md) `à-terminer`
+- `[0215]` [La vigie du bateau](principes/0215-la-vigie-du-bateau.md)
+- `[0216]` [La carnet noir des reproches](principes/0216-la-carnet-noir-des-reproches.md)
+- `[0217]` [Le chemin direct vers la sexualité sensible](principes/0217-le-chemin-direct-vers-la-sexualite-sensible.md)
+- `[0218]` [\* L’objectif n’est pas le moyen (taux horaire, distanciel, relation amoureuse/joie](principes/0218-l-objectif-n-est-pas-le-moyen-taux-horaire-distanciel.md) `à-terminer`
+- `[0219]` [Pour progresser il faut renoncer](principes/0219-pour-progresser-il-faut-renoncer.md)
+- `[0220]` [\* Le feu, la conscience, la liberté, la vérité se propagent](principes/0220-le-feu-la-conscience-la-liberte-la-verite-se-propagent.md) `à-terminer`
+- `[0221]` [Piège à guêpe](principes/0221-piege-a-guepe.md)
+- `[0222]` [Inversion entre la fin et le moyen](principes/0222-inversion-entre-la-fin-et-le-moyen.md)
+- `[0223]` [Je ne suis pas génial mais j’entends le génie de mes posts](principes/0223-je-ne-suis-pas-genial-mais-j-entends-le-genie-de-mes-posts.md) `à-terminer`
+- `[0224]` [Le trésor caché de ce post](principes/0224-le-tresor-cache-de-ce-post.md)
+- `[0225]` [Les 4 dimensions de l’être](principes/0225-les-4-dimensions-de-l-etre.md)
+- `[0226]` [Deux facteurs essentiels de réussite l’état d’esprit et l’environnement](principes/0226-deux-facteurs-essentiels-de-reussite-l-etat-d-esprit-et-l.md) `à-terminer`
+- `[0227]` [L’effet cumulé de mes lectures de post](principes/0227-l-effet-cumule-de-mes-lectures-de-post.md) `à-terminer`
+- `[0228]` [Mes  5 pourquoi ?](principes/0228-mes-5-pourquoi.md) `à-terminer`
+- `[0229]` [Thich Nhat Hanh est mort ou presque](principes/0229-thich-nhat-hanh-est-mort-ou-presque.md) `à-terminer`
+- `[0230]` [La liberté d’être dans la sexualité sensible](principes/0230-la-liberte-d-etre-dans-la-sexualite-sensible.md)
+- `[0231]` [Une expérience ou une évolution ?](principes/0231-une-experience-ou-une-evolution.md)
+- `[0232]` [Le piège des formations à la sexualité](principes/0232-le-piege-des-formations-a-la-sexualite.md)
+- `[0233]` [Du fumier ou de l’or](principes/0233-du-fumier-ou-de-l-or.md)
+- `[0234]` [De la clarté](principes/0234-de-la-clarte.md)
+- `[0235]` [La jalousie n’est pas dans la soupe](principes/0235-la-jalousie-n-est-pas-dans-la-soupe.md)
+- `[0236]` [Ce que je n’ai pas fait pas](principes/0236-ce-que-je-n-ai-pas-fait-pas.md)
+- `[0237]` [Le problème après la solution](principes/0237-le-probleme-apres-la-solution.md)
+- `[0238]` [Aujourd’hui, j’ai fait mon premier remboursement](principes/0238-aujourd-hui-j-ai-fait-mon-premier-remboursement.md) `à-terminer`
+- `[0239]` [Je t’aime et je te quitte](principes/0239-je-t-aime-et-je-te-quitte.md)
+- `[0240]` [Je t’aime et je te quitte 2](principes/0240-je-t-aime-et-je-te-quitte-2.md)
+- `[0241]` [Amour, Conscience, Vérité et Lumière](principes/0241-amour-conscience-verite-et-lumiere.md)
+- `[0242]` [Oser ma Vérité, Cultiver ma Liberté](principes/0242-oser-ma-verite-cultiver-ma-liberte.md)
+- `[0243]` [Il suffit de trouver la bonne personne](principes/0243-il-suffit-de-trouver-la-bonne-personne.md)  ⟲ doublon de `corpus/0207-il-suffit-de-trouver-la-bonne-personne.md`
+- `[0244]` [De la légèreté à la libido](principes/0244-de-la-legerete-a-la-libido.md)
+- `[0245]` [Une bonne ou mauvaise nouvelle](principes/0245-une-bonne-ou-mauvaise-nouvelle.md)
+- `[0246]` [L’excitation n’est pas un problème, l’agitation l’est](principes/0246-l-excitation-n-est-pas-un-probleme-l-agitation-l-est.md)
+- `[0247]` [Orgasme énergétique démystifié](principes/0247-orgasme-energetique-demystifie.md)
+- `[0248]` [Du tout ou rien](principes/0248-du-tout-ou-rien.md)
+- `[0249]` [Tout est une question de dosage](principes/0249-tout-est-une-question-de-dosage.md)
+- `[0250]` [Merci de m’avoir quittée](principes/0250-merci-de-m-avoir-quittee.md)
+- `[0251]` [Pas besoin de s’aimer plus  On a besoin de moins se juger](principes/0251-pas-besoin-de-s-aimer-plus-on-a-besoin-de-moins-se-juger.md)
+- `[0252]` [Il ne s’agit pas de nourrir le désir](principes/0252-il-ne-s-agit-pas-de-nourrir-le-desir.md)
+- `[0253]` [La trahison est en réalité mon ignorance de l’autre](principes/0253-la-trahison-est-en-realite-mon-ignorance-de-l-autre.md) `à-terminer`
+- `[0254]` [Peur de mourir \- Peur de ne pas vivre](principes/0254-peur-de-mourir-peur-de-ne-pas-vivre.md)
+- `[0255]` [Problème d’érection ou Problème de connexion (Bis)](principes/0255-probleme-d-erection-ou-probleme-de-connexion-bis.md)
+- `[0256]` [Problème d’érection ou Problème de connexion](principes/0256-probleme-d-erection-ou-probleme-de-connexion.md)
+- `[0257]` [Un business dans la sexualité sensible / Un business pour la sexualité sensible](principes/0257-un-business-dans-la-sexualite-sensible-un-business-pour-la.md) `à-terminer`
+- `[0258]` [Les 4 dimensions de l’être](principes/0258-les-4-dimensions-de-l-etre.md)
+- `[0259]` [Travailler DANS vs POUR la sexualité sensible](principes/0259-travailler-dans-vs-pour-la-sexualite-sensible.md)
+- `[0260]` [Ma révolution](principes/0260-ma-revolution.md)
+- `[0261]` [Si l’important est le voyage](principes/0261-si-l-important-est-le-voyage.md)
+- `[0262]` [Enterrement : pleurer de tristesse par égoïsme pour pleurer de joie par gratitude](principes/0262-enterrement-pleurer-de-tristesse-par-egoisme-pour-pleurer.md) `à-terminer`
+- `[0263]` [Le couple classique / le couple quantique](principes/0263-le-couple-classique-le-couple-quantique.md)
+- `[0264]` [Webinaire : 4 étapes indispensables pour trouver ton amant.e sensible](principes/0264-webinaire-4-etapes-indispensables-pour-trouver-ton-amant-e.md)
+- `[0265]` [Plaisir \= Stimulation x Sensibilité](principes/0265-plaisir-stimulation-x-sensibilite.md)
+- `[0266]` [Faire confiance à 100% est prétentieux et irrespectueux](principes/0266-faire-confiance-a-100-est-pretentieux-et-irrespectueux.md)
+- `[0267]` [Ne pas avoir d’attente vs Se préparer au non](principes/0267-ne-pas-avoir-d-attente-vs-se-preparer-au-non.md) `à-terminer`
+- `[0268]` [On n’obtient pas de ce qu’on veut / On obtient de qui on est](principes/0268-on-n-obtient-pas-de-ce-qu-on-veut-on-obtient-de-qui-on-est.md)
+- `[0269]` [Le secret de mes caresses](principes/0269-le-secret-de-mes-caresses.md)
+- `[0270]` [Comment je me suis sorti de la dépendance affective ?](principes/0270-comment-je-me-suis-sorti-de-la-dependance-affective.md)
+- `[0271]` [La sexualité sensible n’est pas l’arrivée mais le départ](principes/0271-la-sexualite-sensible-n-est-pas-l-arrivee-mais-le-depart.md)
+- `[0272]` [Il n’y a pas de normalité, il y a des individualités](principes/0272-il-n-y-a-pas-de-normalite-il-y-a-des-individualites.md)
+- `[0273]` [Au fil de soie](principes/0273-au-fil-de-soie.md)
+- `[0274]` [“ Vouloir être pleinement un homme/une femme ” : Chemin vers la déception](principes/0274-vouloir-etre-pleinement-un-homme-une-femme-chemin-vers-la.md)  ⟲ doublon de `corpus/0253-des-fois-c-est-en-repondant-a-un-participant-que-se-revele.md`
+- `[0275]` [Elle n’avait pas de problème avec la douceur](principes/0275-elle-n-avait-pas-de-probleme-avec-la-douceur.md) `à-terminer`
+- `[0276]` [Le nez malade](principes/0276-le-nez-malade.md)
+- `[0277]` [Le crocodile qui avait peur de la gazelle](principes/0277-le-crocodile-qui-avait-peur-de-la-gazelle.md)
+- `[0278]` [Confiance en l’avenir que si on a la gratitude par rapport au passé](principes/0278-confiance-en-l-avenir-que-si-on-a-la-gratitude-par-rapport.md)
+- `[0279]` [La voiture avec vices cachés  \!](principes/0279-la-voiture-avec-vices-caches.md)
+- `[0280]` [Le manque et la présence de quelqu’un](principes/0280-le-manque-et-la-presence-de-quelqu-un.md)
+- `[0281]` [Le retour le plus satisfaisant sur mon accompagnement](principes/0281-le-retour-le-plus-satisfaisant-sur-mon-accompagnement.md)  ⟲ doublon de `corpus/0269-le-retour-le-plus-satisfaisant.md`
+- `[0282]` [Pénis défaillant, vérité manquante](principes/0282-penis-defaillant-verite-manquante.md)
+- `[0283]` [Ce n’est pas la sexualité qu’il faut préparer mais la personne](principes/0283-ce-n-est-pas-la-sexualite-qu-il-faut-preparer-mais-la.md) `à-terminer`
+- `[0284]` [L’orgasme de la vallée](principes/0284-l-orgasme-de-la-vallee.md)
+- `[0285]` [Se forcer / Faire des efforts](principes/0285-se-forcer-faire-des-efforts.md) `à-terminer`
+- `[0286]` [Pourquoi la plupart n’arrivent pas à une sexualité sensible](principes/0286-pourquoi-la-plupart-n-arrivent-pas-a-une-sexualite-sensible.md)
+- `[0287]` [Ce n’est pas parce qu’un reproche est justifié qu’il est juste](principes/0287-ce-n-est-pas-parce-qu-un-reproche-est-justifie-qu-il-est.md) `à-terminer`
+- `[0288]` [De l’impuissance masculine à la puissance de l’amour](principes/0288-de-l-impuissance-masculine-a-la-puissance-de-l-amour.md)
+- `[0289]` [Témoignage d’Annie](principes/0289-temoignage-d-annie.md) `à-terminer`
+- `[0290]` [Comment elles ont trouvé leur amant sensible avant même la fin de l’accompagnement](principes/0290-comment-elles-ont-trouve-leur-amant-sensible-avant-meme-la.md)  ⟲ doublon de `corpus/0285-comment-elles-ont-trouve-leur-amant-sensible-avant-meme-la.md`
+- `[0291]` [Ils auraient pu, peut-être, sauver leur couple](principes/0291-ils-auraient-pu-peut-etre-sauver-leur-couple.md)
+- `[0292]` [Reproches justifiés / reproches justes](principes/0292-reproches-justifies-reproches-justes.md)
+- `[0293]` [Trois directions de l’amour dans la relation amoureuse](principes/0293-trois-directions-de-l-amour-dans-la-relation-amoureuse.md)  ⟲ doublon de `corpus/0293-trois-directions-de-l-amour-dans-la-relation-amoureuse.md`
+- `[0294]` [Excitation vs Présence](principes/0294-excitation-vs-presence.md)
+- `[0295]` [La peur du papillon pour son envol](principes/0295-la-peur-du-papillon-pour-son-envol.md)
+- `[0296]` [Attirer le bon partenaire](principes/0296-attirer-le-bon-partenaire.md) `à-terminer`
+- `[0297]` [Deux dilemmes : Je ne suis pas aimable vs je suis aimable](principes/0297-deux-dilemmes-je-ne-suis-pas-aimable-vs-je-suis-aimable.md)
+- `[0298]` [L’espoir rassure mais ne fait pas avancer](principes/0298-l-espoir-rassure-mais-ne-fait-pas-avancer.md) `à-terminer`
+- `[0299]` [Une difficulté majeure pour les femmes](principes/0299-une-difficulte-majeure-pour-les-femmes.md)
+- `[0300]` [Pensées courtes pour Post \*\*\*\*\*\*\*\* xxxxxxxxx](principes/0300-pensees-courtes-pour-post-xxxxxxxxx.md)
+- `[0301]` [Préface](principes/0301-preface.md)
+- `[0302]` [Mon bilan personnel](principes/0302-mon-bilan-personnel.md)
+- `[0303]` [Aime-toi toi-même avant d’aimer d’aimer l’autre](principes/0303-aime-toi-toi-meme-avant-d-aimer-d-aimer-l-autre.md) `à-terminer`
+- `[0304]` [aurait pu être la devise pour ce post et cette danse.](principes/0304-aurait-pu-etre-la-devise-pour-ce-post-et-cette-danse.md) `à-terminer`
+- `[0305]` [Loin des clichés du cinéma, des rencontres instantanées où les partenaires rentrent tout de suite en connexion, il y a une autre possibilité : celle d'entrer dans son royaume d'abord.](principes/0305-loin-des-cliches-du-cinema-des-rencontres-instantanees-ou.md) `à-terminer`
+- `[0306]` [Occuper mon royaume, prendre possession complètement de mon espace. Certains diront : "Mais tu es dans ta bulle \! Tu ne t'occupes pas de ta partenaire ?\!" Ma réponse est " Oui, je suis dans ma bulle. Je l'assume. Je remplis ma bulle de mes mouvements, de ma respiration, de ma présence."](principes/0306-occuper-mon-royaume-prendre-possession-completement-de-mon.md) `à-terminer`
+- `[0307]` [Et c'est avec cette bulle remplie à ras bord de moi que j'amène ma richesse vers ma partenaire. Dans la sexualité comme dans la danse.](principes/0307-et-c-est-avec-cette-bulle-remplie-a-ras-bord-de-moi-que-j.md) `à-terminer`
+- `[0308]` [Je pratique la danse 2 à 4 fois par semaine depuis 10 ans et beaucoup des principes que je vous partage viennent de cette expérience, de ces expériences. Je ne partage pas ce qu'on m'a enseigné, même si j'ai eu de très grands enseignants. Je partage ce que j'ai personnellement vécu suffisamment de fois pour en tirer mes conclusions.](principes/0308-je-pratique-la-danse-2-a-4-fois-par-semaine-depuis-10-ans.md) `à-terminer`
+- `[0309]` [Ce n'est pas de la danse de couple où je demande à une femme si elle veut danser avec moi et si oui, nous commencerions à danser ensemble. Je ne demande jamais si une femme, ou un homme, veut danser avec moi.](principes/0309-ce-n-est-pas-de-la-danse-de-couple-ou-je-demande-a-une.md) `à-terminer`
+- `[0310]` [Avant de danser avec une femme (ou de faire l'amour), ou de danser avec un homme, je prends soin d'occuper mon espace et ma danse de mon être. Je suis dans l'écoute de mon mouvement, de mon rythme, de ma danse, de mes envies. D'instant en instant. Je suis en amour de ce qui se passe, ici, maintenant, en moi, en la vie. Je vis le moment présent en moi.](principes/0310-avant-de-danser-avec-une-femme-ou-de-faire-l-amour-ou-de.md) `à-terminer`
+- `[0311]` [Ensuite, je laisse l'extérieur entrer. J'écoute l'extérieur. Les autres danses, les autres danseurs, ma partenaire.](principes/0311-ensuite-je-laisse-l-exterieur-entrer-j-ecoute-l-exterieur.md) `à-terminer`
+- `[0312]` [Peut-être que nos danses pourraient se rencontrer. Peut-être pas maintenant. Il n'y a pas d'enjeux. Je me laisse guider par ma danse en gardant ma présence à mon corps, pour ressentir mon essence. Il n'y a pas jamais d'obligation de danser ensemble ni de faire l'amour. Ma connexion à moi-même est plus précieuse que danser avec cette danseuse ou que faire l'amour.](principes/0312-peut-etre-que-nos-danses-pourraient-se-rencontrer-peut-etre.md) `à-terminer`
+- `[0313]` [Paradoxalement, c'est quand chacun reste en connexion à soi-même, en s'aimant ce que qu'il vit d'abord que la rencontre prendra toute sa beauté, sa vérité, sa puissance.](principes/0313-paradoxalement-c-est-quand-chacun-reste-en-connexion-a-soi.md) `à-terminer`
+- `[0314]` [Au cas où tu te poses la question, oui, c'est possible on peut prendre un temps pour soi, pour rentrer en soi avant de faire l'amour. Chacun reste de son côté le temps dont il a besoin. Ensuite, on écoute la danse des corps dans le moment.](principes/0314-au-cas-ou-tu-te-poses-la-question-oui-c-est-possible-on.md) `à-terminer`
+- `[0315]` [Voici en image dans la danse ce que je voulais te partager.](principes/0315-voici-en-image-dans-la-danse-ce-que-je-voulais-te-partager.md) `à-terminer`
+- `[0316]` [L’auto-sabotage existe-il ?](principes/0316-l-auto-sabotage-existe-il.md) `à-terminer`
+- `[0317]` [Spoiler alert : l’auto-sabotage n’existe pas.  A vrai dire, je ne l’ai jamais rencontré. Je comprends le concept. Je sais de quoi les gens parlent quand ils utilisent cette expression mais je n’en ai jamais vu. C’est comme le Père Noël. Je vois sa représentation, je peux dire à quoi il ressemble mais je ne l’ai jamais rencontré. Chaque fois, c’était un faux.](principes/0317-spoiler-alert-l-auto-sabotage-n-existe-pas-a-vrai-dire-je.md)
+- `[0318]` [Comparaison, mauvais élève](principes/0318-comparaison-mauvais-eleve.md) `à-terminer`
+- `[0319]` [Moi au ski, et dans ma sexualité](principes/0319-moi-au-ski-et-dans-ma-sexualite.md) `à-terminer`
+- `[0320]` [Faire l’amour à une personne en aimant deux](principes/0320-faire-l-amour-a-une-personne-en-aimant-deux.md) `à-terminer`
+- `[0321]` [Ma partenaire et moi-même. M’aimer assez pour accueillir ma vérité. M’aimer assez moi-même pour respecter ma liberté](principes/0321-ma-partenaire-et-moi-meme-m-aimer-assez-pour-accueillir-ma.md) `à-terminer`
+- `[0322]` [Le couple complet sur les 4 plans](principes/0322-le-couple-complet-sur-les-4-plans.md)  ⟲ doublon de `corpus/0316-le-couple-complet-sur-les-4-plans.md`
+- `[0323]` [Egalité vs Efficacité](principes/0323-egalite-vs-efficacite.md)
+- `[0324]` [Docteur, j’ai mal partout](principes/0324-docteur-j-ai-mal-partout.md)
+- `[0325]` [L’erreur principale des femmes quand elles communiquent sur la sexualité](principes/0325-l-erreur-principale-des-femmes-quand-elles-communiquent-sur.md) `à-terminer`
+- `[0326]` [Ce que je constate, c’est que de nombreuses femmes ont du mal à communiquer avec leur partenaire, surtout en matière de sexualité. Et voici ma vision des choses, elles ont du mal à communiquer parce qu’elles essaient d’expliquer.](principes/0326-ce-que-je-constate-c-est-que-de-nombreuses-femmes-ont-du.md)
+- `[0327]` [Quand on est affamé, on a les yeux plus gros que le ventre](principes/0327-quand-on-est-affame-on-a-les-yeux-plus-gros-que-le-ventre.md)
+- `[0328]` [Un peine de coeur, ce n’est pas parce que tu l’aimes trop mais simplement que tu ne t’aime pas assez](principes/0328-un-peine-de-coeur-ce-n-est-pas-parce-que-tu-l-aimes-trop.md) `à-terminer`
+- `[0329]` [Les 4 dimensions de l’être](principes/0329-les-4-dimensions-de-l-etre.md) `à-terminer`
+- `[0330]` [Dans plusieurs conceptions de l’humain, on parle des trois dimensions de l’être humain. Le mental, l’émotion et le physique et le sexe. En présentant](principes/0330-dans-plusieurs-conceptions-de-l-humain-on-parle-des-trois.md) `à-terminer`
+- `[0331]` [Qui ne comprend pas qui ?](principes/0331-qui-ne-comprend-pas-qui.md)  ⟲ doublon de `corpus/0300-d-apres-mes-echanges-une-difficulte-majeure-pour-les.md`
+- `[0332]` [Les 3 distances de l’attraction sexuelle](principes/0332-les-3-distances-de-l-attraction-sexuelle.md)
+- `[0333]` [Séduction vs Sélection](principes/0333-seduction-vs-selection.md)
+- `[0334]` [Pourquoi j’ai arrêtế les préliminaires : Le Pré-préliminaire](principes/0334-pourquoi-j-ai-arrete-les-preliminaires-le-pre-preliminaire.md)
+- `[0335]` [Le Tantra et l’après Tantra](principes/0335-le-tantra-et-l-apres-tantra.md)  ⟲ doublon de `principes/0334-pourquoi-j-ai-arrete-les-preliminaires-le-pre-preliminaire.md`
+- `[0336]` [Comment plaire quand on est au RSA, habite chez sa mère à 40 ans, sans emploi, sans m’engager à être fidèle, un soutien, et changer pour l’autre.](principes/0336-comment-plaire-quand-on-est-au-rsa-habite-chez-sa-mere-a-40.md) `à-terminer`
+- `[0337]` [J’ai arrêtế les préliminaires : Le Pré-préliminaire](principes/0337-j-ai-arrete-les-preliminaires-le-pre-preliminaire.md)  ⟲ doublon de `principes/0334-pourquoi-j-ai-arrete-les-preliminaires-le-pre-preliminaire.md`
+- `[0338]` [Pourquoi boire l’eau corrompue dans le désert quand on sait que ça rend malade Pourquoi rester dans une relation nuisible](principes/0338-pourquoi-boire-l-eau-corrompue-dans-le-desert-quand-on-sait.md)
+
+## Partages (23)
+
+
+### Sur la sexualité
+
+- `[0001]` [Les caresses avant les caresses](partages/0001-les-caresses-avant-les-caresses.md)
+- `[0002]` [L’orgasme de la vallée](partages/0002-l-orgasme-de-la-vallee.md)
+- `[0003]` [Les 7 voix de l’orgasme](partages/0003-les-7-voix-de-l-orgasme.md)
+- `[0004]` [L’instase sexuelle](partages/0004-l-instase-sexuelle.md)
+- `[0005]` [Il n’y a pas de sexualité épanouie](partages/0005-il-n-y-a-pas-de-sexualite-epanouie.md)
+- `[0006]` [L’aphrodisiaque le plus méconnu](partages/0006-l-aphrodisiaque-le-plus-meconnu.md)
+- `[0007]` [Du sexe au cœur comme de la bouche au](partages/0007-du-sexe-au-coeur-comme-de-la-bouche-au.md)
+- `[0008]` [Jouissance et l’art du tir à l’arc](partages/0008-jouissance-et-l-art-du-tir-a-l-arc.md)
+- `[0009]` [Désir peinture vs désir sculpture](partages/0009-desir-peinture-vs-desir-sculpture.md)
+- `[0010]` [Comment faire pleurer une femme](partages/0010-comment-faire-pleurer-une-femme.md)
+- `[0011]` [La question qui a réveillé son désir](partages/0011-la-question-qui-a-reveille-son-desir.md)
+- `[0012]` [Schéma résumé de la sexualité sensible](partages/0012-schema-resume-de-la-sexualite-sensible.md) `à-terminer`
+- `[0013]` [L’excitation n’est pas un problème,](partages/0013-l-excitation-n-est-pas-un-probleme.md)
+
+### Sur soi
+
+- `[0014]` [L’amour de l’autre, l’amour de soi](partages/0014-l-amour-de-l-autre-l-amour-de-soi.md)
+- `[0015]` [Piège à guêpe](partages/0015-piege-a-guepe.md)
+- `[0016]` [Peur de mourir vs Peur de ne pas vivre](partages/0016-peur-de-mourir-vs-peur-de-ne-pas-vivre.md)
+- `[0017]` [La princesse au petit pois vu par Duy](partages/0017-la-princesse-au-petit-pois-vu-par-duy.md)
+
+### Sur les relations
+
+- `[0018]` [C’est un privilège de danser avec toi](partages/0018-c-est-un-privilege-de-danser-avec-toi.md)
+- `[0019]` [Une histoire d'amour entre une poissonne](partages/0019-une-histoire-d-amour-entre-une-poissonne.md)
+- `[0020]` [De la jalousie dans une simple soupe](partages/0020-de-la-jalousie-dans-une-simple-soupe.md)
+- `[0021]` [Je t’aime et je te quitte](partages/0021-je-t-aime-et-je-te-quitte.md)
+- `[0022]` [Je pleure de joie aux funérailles](partages/0022-je-pleure-de-joie-aux-funerailles.md)
+- `[0023]` [J'ai cru que j’étais quitté, en fait j’étais aimé](partages/0023-j-ai-cru-que-j-etais-quitte-en-fait-j-etais-aime.md)
+
+## Doublons (corps identique)
+
+- `corpus/0011-les-quatres-types-d-amant.md` ≡ `corpus/0019-les-quatres-types-d-amant-e.md`
+- `corpus/0027-qui-est-interesse-pour-tester-une-ressource-simple-et.md` ≡ `corpus/0028-qui-est-interesse-pour-tester-une-technique-simple-et.md`
+- `corpus/0062-bonjour-et-bienvenus-aux-nouveaux-amant-e-s-sensibles.md` ≡ `corpus/0063-bonjour-et-bienvenus-aux-nouveaux-amant-e-s-sensibles-la.md`
+- `corpus/0079-action-ou-verite.md` ≡ `corpus/0080-action-ou-verite-s.md`
+- `corpus/0081-duy-dang.md` ≡ `corpus/0082-100070375365062-2048-duy-dang.md`
+- `corpus/0084-quand-je-fais-toujours-la-meme-chose.md` ≡ `principes/0158-quand-je-fais-toujours-la-meme-chose.md`
+- `corpus/0140-il-y-a-trois-grandes-facons-de-faire-l-amour.md` ≡ `corpus/0141-les-3-facons-de-faire-l-amour.md`
+- `corpus/0165-etes-vous-certaine-de-vouloir-trouver-un-prince-charmant.md` ≡ `corpus/0166-es-tu-certaine-de-vouloir-trouver-un-prince-charmant.md`
+- `corpus/0182-des-larmes-comme-des-bulles-des-larmes-comme-des-cailloux.md` ≡ `corpus/0183-des-larmes-comme-des-cailloux-des-larmes-comme-des-bulles.md` ≡ `corpus/0184-si-elle-pleure-apres-l-amour.md` ≡ `corpus/0185-si-elle-pleure-apres-l-amour-ou-lui.md`
+- `corpus/0191-la-carnet-noir-des-reproches.md` ≡ `corpus/0199-le-carnet-noir-des-reproches.md`
+- `corpus/0207-il-suffit-de-trouver-la-bonne-personne.md` ≡ `principes/0243-il-suffit-de-trouver-la-bonne-personne.md`
+- `corpus/0213-merci-de-m-avoir-quittee-quittee.md` ≡ `corpus/0214-merci-de-m-avoir-quittee.md`
+- `corpus/0221-probleme-d-erection-ou-probleme-de-connexion.md` ≡ `corpus/0222-probleme-d-erection-vs-probleme-de-connexion.md`
+- `corpus/0223-dans-le-seminaire-a-cannes-le-week-end-dernier-j-ai-pu.md` ≡ `corpus/0224-travailler-dans-le-sexualite-vs-travailler-pour-la.md` ≡ `corpus/0225-travailler-dans-le-sexualite-vs-travailler-au-servide-de-la.md` ≡ `corpus/0228-travailler-dans-le-sexualite-vs-travailler-au-service-de-la.md`
+- `corpus/0226-si-l-important-est-le-voyage.md` ≡ `corpus/0227-si-le-voyage-est-important-alors.md`
+- `corpus/0234-temoignage-d-une-participante-qui-a-rencontre-son-cheri-un.md` ≡ `corpus/0235-temoignage-de-ma-toute-premiere-cliente-presque-un-an-deja.md`
+- `corpus/0240-plaisir-stimulation-x-sensibilite.md` ≡ `corpus/0241-plaisir-stimulation-x-sensibilite.md`
+- `corpus/0250-quelles-etapes-sont-necessaires-meme-si-elles-ne-sont-pas.md` ≡ `corpus/0252-flash-coaching-amoureux.md`
+- `corpus/0253-des-fois-c-est-en-repondant-a-un-participant-que-se-revele.md` ≡ `principes/0274-vouloir-etre-pleinement-un-homme-une-femme-chemin-vers-la.md`
+- `corpus/0254-comment-devenir-pleine-une-femme-un-homme.md` ≡ `corpus/0255-comment-devenir-pleine-une-femme-un-homme-la-question-piegee.md` ≡ `corpus/0256-comment-devenir-pleine-une-femme-un-homme-la-question-piegee.md` ≡ `corpus/0257-comment-devenir-pleinement-une-femme-un-homme-la-question.md`
+- `corpus/0260-le-crocodile-qui-avait-peur-de-la-gazelle.md` ≡ `corpus/0261-le-crocodile-traumatise-par-une-gazelle.md`
+- `corpus/0269-le-retour-le-plus-satisfaisant.md` ≡ `principes/0281-le-retour-le-plus-satisfaisant-sur-mon-accompagnement.md`
+- `corpus/0271-voila-mon-site-bilobaba-fr-en-ligne-dans-sa-version-2-0.md` ≡ `corpus/0273-voila-mon-site-www-bilobaba-fr-en-ligne-dans-sa-version-2-0.md`
+- `corpus/0274-la-voiture-avec-vices-caches.md` ≡ `corpus/0275-comment-tourner-enfin-la-page.md`
+- `corpus/0283-voici-un-echange-de-ce-matin-avec-une-participante-qui-a.md` ≡ `corpus/0284-temoignage-d-une-participante.md`
+- `corpus/0285-comment-elles-ont-trouve-leur-amant-sensible-avant-meme-la.md` ≡ `corpus/0286-comment-elles-ont-trouve-leur-amant-sensible-avant-meme-la.md` ≡ `principes/0290-comment-elles-ont-trouve-leur-amant-sensible-avant-meme-la.md`
+- `corpus/0288-ce-n-est-pas-parce-que-les-reproches-sont-justifies-qu-ils.md` ≡ `corpus/0289-ce-n-est-pas-parce-qu-un-reproche-est-justifie-qu-il-est.md`
+- `corpus/0293-trois-directions-de-l-amour-dans-la-relation-amoureuse.md` ≡ `corpus/0294-trios-directions-de-l-amour.md` ≡ `principes/0293-trois-directions-de-l-amour-dans-la-relation-amoureuse.md`
+- `corpus/0300-d-apres-mes-echanges-une-difficulte-majeure-pour-les.md` ≡ `principes/0331-qui-ne-comprend-pas-qui.md`
+- `corpus/0301-quine-comprend-pas-qui.md` ≡ `corpus/0302-qui-ne-comprend-pas-qui.md` ≡ `corpus/0303-qui-ne-comprend-pas-qui.md`
+- `corpus/0304-j-attends-tes-commentaires-et-questions.md` ≡ `corpus/0305-qu-en-pesnes-tu.md` ≡ `corpus/0306-qu-en-penses-tu.md`
+- `corpus/0307-comment-ces-3-femmes-ont-trouve-un-partenaire-au-dela-de.md` ≡ `corpus/0308-comment-ces-3-femmes-ont-trouve-un-partenaire-au-dela-de.md` ≡ `corpus/0309-comment-ces-3-femmes-ont-trouve-un-partenaire-au-dela-de.md`
+- `corpus/0316-le-couple-complet-sur-les-4-plans.md` ≡ `corpus/0317-le-4-plans-du-couple.md` ≡ `principes/0322-le-couple-complet-sur-les-4-plans.md`
+- `corpus/0320-coaching-de-groupe-offert.md` ≡ `corpus/0321-coaching-de-groupe-offert-ces-outils-ont-change-ma-vie.md`
+- `corpus/0324-l-auto-sabotage-existe-il.md` ≡ `corpus/0325-l-auto-sabotage-existe-il.md`
+- `corpus/0334-mode-brouillon-post-visible-uniquement-par.md` ≡ `corpus/0335-mode-brouillon-post-visible-uniquement-par-martine.md`
+- `corpus/0372-lors-des-quatre-dernieres-funerailles-j-ai-enormement.md` ≡ `corpus/0373-aux-funerailles-je-pleure-de-gratitude.md`
+- `corpus/0388-le-secret-cache-de-la-communication.md` ≡ `corpus/0389-le-secret-cache-de-la-communication-pour-les-sujets-delicats.md`
+- `corpus/0397-notre-danse-a-l-origine-de-l-atelier.md` ≡ `corpus/0398-notre-danse-a-l-origine-de-notre-premier-atelier-de-danse.md`
+- `corpus/0405-danse-connexion-sensualite.md` ≡ `corpus/0406-danse-connexion.md`
+- `corpus/0426-qui-veut-savoir-comment-devenir-attirant-tout-en-restant.md` ≡ `corpus/0427-qui-veut-savoir-comment-devenir-attractif-tout-en-restant.md`
+- `corpus/0429-magnetisme-radicalite-affirmation.md` ≡ `corpus/0430-attirance-authentique-radicalite-affirmation.md`
+- `corpus/0434-temoignage-qui-m-a-bouleverse.md` ≡ `corpus/0435-son-temoignage-qui-m-a-bouleverse.md` ≡ `corpus/0436-son-temoignage-m-a-bouleverse.md`
+- `principes/0334-pourquoi-j-ai-arrete-les-preliminaires-le-pre-preliminaire.md` ≡ `principes/0335-le-tantra-et-l-apres-tantra.md` ≡ `principes/0337-j-ai-arrete-les-preliminaires-le-pre-preliminaire.md`
