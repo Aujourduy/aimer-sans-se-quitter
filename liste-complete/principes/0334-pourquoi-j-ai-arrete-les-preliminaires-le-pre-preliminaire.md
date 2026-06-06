@@ -1,10 +1,10 @@
 ---
-titre: "Pourquoi j’ai arrêtế les préliminaires : Le Pré-préliminaire"
+titre: "Pourquoi j'ai arrêté les préliminaires : le pré-préliminaire"
 source: "principes"
-statut: "brouillon"
+date: ""
+statut: "à-terminer"
 doublon: false
 sujet: ""
 motscles: []
-enrichi: false
+enrichi: true
 ---
-test

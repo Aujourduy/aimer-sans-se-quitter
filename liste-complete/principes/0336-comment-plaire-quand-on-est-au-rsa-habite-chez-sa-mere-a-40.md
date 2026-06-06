@@ -1,10 +1,10 @@
 ---
-titre: "Comment plaire quand on est au RSA, habite chez sa mère à 40 ans, sans emploi, sans m’engager à être fidèle, un soutien, et changer pour l’autre."
+titre: "Comment plaire sans argent, sans emploi, sans engagement : la stratégie de l'ovule"
 source: "principes"
+date: ""
 statut: "à-terminer"
 doublon: false
 sujet: ""
 motscles: []
-enrichi: false
+enrichi: true
 ---
-
