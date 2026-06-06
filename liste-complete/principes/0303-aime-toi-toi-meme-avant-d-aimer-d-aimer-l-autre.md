@@ -1,10 +1,10 @@
 ---
-titre: "Aime-toi toi-même avant d’aimer d’aimer l’autre"
+titre: "Aime-toi toi-même avant d'aimer l'autre"
 source: "principes"
+date: ""
 statut: "à-terminer"
 doublon: false
 sujet: ""
 motscles: []
-enrichi: false
+enrichi: true
 ---
-

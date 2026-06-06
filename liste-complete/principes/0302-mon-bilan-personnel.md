@@ -1,16 +1,17 @@
 ---
 titre: "Mon bilan personnel"
 source: "principes"
-statut: "brouillon"
+date: ""
+statut: "à-terminer"
 doublon: false
 sujet: ""
 motscles: []
-enrichi: false
+enrichi: true
 ---
-Je suis heureux dans ma sexualité. Serein, débordant d’amour et de bien-être.
+Je suis heureux dans ma sexualité. Serein, débordant d'amour et de bien-être.
 
 Pas de compulsion, pas de manque. Tout va toujours bien.
 
 Niveau de nichage :
 
-Niveau d’expertise :bbbbb
+Niveau d'expertise :
