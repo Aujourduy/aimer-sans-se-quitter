@@ -1,10 +1,9 @@
 ---
-titre: "Ne pas avoir d’attente vs Se préparer au non"
+titre: "Ne pas avoir d'attente vs se préparer au non"
 source: "principes"
 statut: "à-terminer"
 doublon: false
 sujet: ""
-motscles: []
-enrichi: false
+motscles: [attente, peur, confiance, communication, couple]
+enrichi: true
 ---
-

@@ -1,51 +1,50 @@
 ---
-titre: "Le couple classique / le couple quantique"
+titre: "Le couple classique et le couple quantique"
 source: "principes"
 statut: "brouillon"
 doublon: false
-sujet: ""
-motscles: []
-enrichi: false
+sujet: "L'auteur oppose deux paradigmes du couple : le modèle classique (durée, manque, attente, confort) et le modèle quantique (intensité du présent, abondance, don, vérité, liberté). Chaque item de la liste illustre un changement de paradigme concret."
+motscles: [couple, présence, désir, liberté, amour de soi, sexualité sensible]
+enrichi: true
 ---
-Après un an d’accompagnement vers la sexualité sensible, je me rends compte à quel point cela change la vie des gens et l’ampleur de la remise en question des fondamentaux dans la relation amoureuse.
+Après un an d'accompagnement vers la sexualité sensible, je me rends compte à quel point cela change la vie des gens et l'ampleur de la remise en question des fondamentaux dans la relation amoureuse.
 
 Il y a un changement total des paradigmes.
 
 Le plus visible des changements de paradigme est dans le domaine de la sexualité.
 
-Couple classique, une sexualité basée sur le désir et le plaisir
+Couple classique : une sexualité basée sur le désir et le plaisir.
 
-Couple quantique, une sexualité basée sur la connexion et la joie
+Couple quantique : une sexualité basée sur la connexion et la joie.
 
-De ce changement découle directement ou indirectement tous les autres
+De ce changement découlent directement ou indirectement tous les autres.
 
-Couple classique, le temps : longue durée, voire toute la vie
+Couple classique, le temps : longue durée, voire toute la vie.
 
-Couple quantique, le temps : intensité du moment présent
+Couple quantique, le temps : intensité du moment présent.
 
-Couple classique, posture intérieure, le mendiant qui est en manque et qui mendie
+Couple classique, posture intérieure : le mendiant qui est en manque et qui mendie.
 
-Couple quantique, posture intérieur, l’empereur qui vit l’abondance et qui rayonne
+Couple quantique, posture intérieure : l'empereur qui vit l'abondance et qui rayonne.
 
-Couple classique, l’action est basée sur une attente de retour
+Couple classique : l'action est basée sur une attente de retour.
 
-Classique, l’action est basée sur un don qui procure le plaisir de donner
+Couple classique : l'action est basée sur un don qui procure le plaisir de donner.
 
-Couple classique, nous sommes deux moitiés d’entité qui se complètent
+Couple classique : nous sommes deux moitiés d'entité qui se complètent.
 
-Couple quantique, nous sommes deux entités complètes qui crée une synergie
+Couple quantique : nous sommes deux entités complètes qui créent une synergie.
 
-Couple classique, une recherche de confort et de sécurité
+Couple classique : une recherche de confort et de sécurité.
 
-Couple quantique, une recherche de vérité et de liberté
+Couple quantique : une recherche de vérité et de liberté.
 
-Couple classique, cherche à éradiquer le désagréable pour atteindre/rester dans la tranquillité
+Couple classique : cherche à éradiquer le désagréable pour atteindre ou rester dans la tranquillité.
 
-Couple quantique, reconnaît le désagréable comme opportunité de croissance personnelle et honore le chemin
+Couple quantique : reconnaît le désagréable comme opportunité de croissance personnelle et honore le chemin.
 
+Couple classique : le partenaire est source d'agacements parce qu'il est imparfait.
 
-Couple classique, le partenaire est source d’agacements parce qu’il est imparfait
+Couple quantique : le partenaire est source d'agacements parce que la vie offre l'opportunité de grandir.
 
-Couple quantique, le partenaire est source d’agacements parce que la vie offre l’opportunité de grandir
-
-Même si ma pensée est encore à l’état d’ébauche, elle va continuer à s’élaborer, j’ai la certitude que cela résonne à certains d’entre vous. Si c’est ton cas, manifeste toi s’il te plaît pour que je vois si je ça parle réellement aux autres où si c’est seulement mon chemin personnel. Tu peux liker, commenter et partager pour contribuer à ce message.
+Même si ma pensée est encore à l'état d'ébauche, elle va continuer à s'élaborer. J'ai la certitude que cela résonne pour certains d'entre vous.

@@ -3,18 +3,16 @@ titre: "Désir peinture vs désir sculpture"
 source: "principes"
 statut: "brouillon"
 doublon: false
-sujet: ""
-motscles: []
-enrichi: false
+sujet: "Il existe deux façons de nourrir le désir : l'approche « peinture » qui ajoute des artifices pour susciter l'attraction, et l'approche « sculpture » qui retire les masques et les non-dits pour laisser apparaître la connexion de cœur à cœur déjà présente."
+motscles: [désir, authenticité, non-dits, vulnérabilité, corps, couple]
+enrichi: true
 ---
-Il y a cette citation de Michel Ange que j’adore sur la sculpture : “J'ai vu un ange dans le marbre et j'ai seulement ciselé jusqu'à l'en libérer”. Elle décrit complètement une autre façon de ressentir le désir sexuel pour sa partenaire dont on parle très peu … voire  jamais.
+Il y a cette citation de Michel-Ange que j'adore sur la sculpture : « J'ai vu un ange dans le marbre et j'ai seulement ciselé jusqu'à l'en libérer. » Elle décrit complètement une autre façon de ressentir le désir sexuel pour sa partenaire dont on parle très peu… voire jamais.
 
-Notre esprit a été entraîné à faire les choses plus qu’à défaire.
+Notre esprit a été entraîné à faire les choses plus qu'à défaire.
 
-Comment susciter le désir chez votre partenaire ? On vous propose beaucoup de moyens : Mettre un string, gonfler les seins, faire un lifting, poser de faux ongles, avaler des pilules bleues, muscler le corps, etc. Est-ce que vous avez remarqué que ces solutions sont assez simples et surtout que vous pouvez les acheter moyennant finance ? C’est l’approche “peinture” du désir sexuel. On part d’une toile blanche et on ajoute des couleurs, des lignes, des formes pour créer le tableau. C’est tout à fait respectable et c'est bon de savoir comment faire pour susciter le désir chez votre partenaire.
+Comment susciter le désir chez votre partenaire ? On vous propose beaucoup de moyens : mettre un string, gonfler les seins, faire un lifting, poser de faux ongles, avaler des pilules bleues, muscler le corps, etc. Est-ce que vous avez remarqué que ces solutions sont assez simples et surtout que vous pouvez les acheter moyennant finance ? C'est l'approche « peinture » du désir sexuel. On part d'une toile blanche et on ajoute des couleurs, des lignes, des formes pour créer le tableau. C'est tout à fait respectable et c'est bon de savoir comment faire pour susciter le désir chez votre partenaire.
 
-La deuxième façon, moins coûteuse financièrement mais bien plus difficile à mettre en place, est celle de la sculpture. On part d’un trop et on retire tout ce qui n’est pas la statue. On cherche et enlève ce qui entrave le désir. Qu’est-ce qui entrave le désir ? Les mensonges, les non-dits, le masque que nous portons pour préserver la tranquillité de la relation.  Certains diront “Et il y a les peurs, les tristesses et les colères”. Non, les peurs, les tristesses et les colères n’entravent pas le désir. C’est de les cacher qui le fait. En tout cas, c’est mon expérience.
+La deuxième façon, moins coûteuse financièrement mais bien plus difficile à mettre en place, est celle de la sculpture. On part d'un trop et on retire tout ce qui n'est pas la statue. On cherche et enlève ce qui entrave le désir. Qu'est-ce qui entrave le désir ? Les mensonges, les non-dits, le masque que nous portons pour préserver la tranquillité de la relation. Certains diront « Et il y a les peurs, les tristesses et les colères ». Non, les peurs, les tristesses et les colères n'entravent pas le désir. C'est de les cacher qui le fait. En tout cas, c'est mon expérience.
 
-Si vous avez le pressentiment qu’il y a une connexion possible de coeur à coeur qui est plus profonde que l’attirance de corps à corps, demandez-vous ce qu’est un beau coeur. On peut rendre un corps plus beau en y ajoutant de multiples artifices. Mais comment rendre un coeur plus beau ? On ne peut pas embellir un coeur  parce qu’il est déjà magnifique. La seule chose qu’on peut faire c’est enlever les couches de protection qu’on a mis dessus pour que notre partenaire puisse le voir tel qu’il est.
-
-C’est le pilier de l’accompagnement Sexualité sensible que je proposerai sur 12 semaines à la rentrée. Si cela vous intéresse, contactez-moi.
+Si vous avez le pressentiment qu'il y a une connexion possible de cœur à cœur qui est plus profonde que l'attirance de corps à corps, demandez-vous ce qu'est un beau cœur. On peut rendre un corps plus beau en y ajoutant de multiples artifices. Mais comment rendre un cœur plus beau ? On ne peut pas embellir un cœur parce qu'il est déjà magnifique. La seule chose qu'on peut faire c'est enlever les couches de protection qu'on a mises dessus pour que notre partenaire puisse le voir tel qu'il est.

@@ -1,79 +1,74 @@
 ---
-titre: "L’amant glouton vs l’amant gourmet (3)"
+titre: "L'amant glouton vs l'amant gourmet (3) : déguster pour mieux dévorer"
 source: "principes"
 statut: "brouillon"
 doublon: false
-sujet: ""
-motscles: []
-enrichi: false
+sujet: "L'amant gourmet n'est pas que douceur : il prend le temps de laisser mûrir le désir pour mieux l'explorer dans toutes ses dimensions. Ce qui s'appelle parfois auto-sabotage est en réalité un mécanisme de protection à accueillir avec amour plutôt qu'à combattre."
+motscles: [désir, lâcher-prise, amour de soi, présence, peur, sexualité sensible]
+enrichi: true
 ---
-Pour préciser les choses, quand j’oppose le glouton et le gourmet, je parle de délicatesse sur le plan psychologique. Le glouton se dépêche de consommer. C’est l'instinct de survie qui cherche à finir rapidement parce qu’il y a danger. C’est comme s'il mange le fruit alors que celui-ci est à peine mûr, presque encore vert. 
+Pour préciser les choses, quand j'oppose le glouton et le gourmet, je parle de délicatesse sur le plan psychologique. Le glouton se dépêche de consommer. C'est l'instinct de survie qui cherche à finir rapidement parce qu'il y a danger. C'est comme s'il mange le fruit alors que celui-ci est à peine mûr, presque encore vert.
 
-Le gourmet prend le temps de déguster. Il a tout son temps. Il est calme psychologiquement. Il préfère que le fruit soit mûr. Il sait qu’avec des fruits mûrs, le sucre apparaît, le parfum est exalté. Avec des fruits mûrs, on peut faire des tartes, des compotes. Un fruit très mûrs peut même fermenter et produire de l’alcool pour nous enivrer. 
+Le gourmet prend le temps de déguster. Il a tout son temps. Il est calme psychologiquement. Il préfère que le fruit soit mûr. Il sait qu'avec des fruits mûrs, le sucre apparaît, le parfum est exalté. Avec des fruits mûrs, on peut faire des tartes, des compotes. Un fruit très mûr peut même fermenter et produire de l'alcool pour nous enivrer.
 
-Le fait d’être détendu mentalement ne signifie pas que le gourmet n’est que douceur. Oui, douceur, lenteur, présence sont invitées au début de la rencontre. C’est le soleil qui éclaire les feuilles. C’est la pluie qui abreuve les racines. Nourrir le bourgeon pour qu’il s’épanouit en fleur. Continuer à nourrir la fleur pour qu’elle devienne fruit. Et encore nourrir le fruit pour qu’il soit complètement mûr. Nous devenons alors amants avec toutes nos dimensions.
+Le fait d'être détendu mentalement ne signifie pas que le gourmet n'est que douceur. Oui, douceur, lenteur, présence sont invitées au début de la rencontre. C'est le soleil qui éclaire les feuilles. C'est la pluie qui abreuve les racines. Nourrir le bourgeon pour qu'il s'épanouisse en fleur. Continuer à nourrir la fleur pour qu'elle devienne fruit. Et encore nourrir le fruit pour qu'il soit complètement mûr. Nous devenons alors amants avec toutes nos dimensions.
 
-Il n’y a pas d'a priori sur le type d’énergie. Nous pouvons être dans une énergie tendre, douce, subtile. Nous pouvons aussi exprimer une énergie animale voire bestiale. Tous les archétypes sont disponibles : le papillon, le colibri, le chat, le serpent comme le tigre, le bison et le dragon. Nous pouvons nous caresser et nous lécher comme nous pincer ou nous mordre et si après il reste quelques traces de morsures dans la nuque ou des gifles sur les fesses, elles sont les bienvenues aussi. 
+Il n'y a pas d'a priori sur le type d'énergie. Nous pouvons être dans une énergie tendre, douce, subtile. Nous pouvons aussi exprimer une énergie animale voire bestiale. Tous les archétypes sont disponibles : le papillon, le colibri, le chat, le serpent comme le tigre, le bison et le dragon. Nous pouvons nous caresser et nous lécher comme nous pincer ou nous mordre et si après il reste quelques traces de morsures dans la nuque ou des gifles sur les fesses, elles sont les bienvenues aussi.
 
-En définitive, l’amant gourmet ne renonce pas à sa gloutonnerie. C’est seulement qu’il accompagne le potentiel sexuel de sa partenaire à se développer, à venir en surface et parfumer l’atmosphère … pour mieux la dévorer. Tout dévorer d’elle : la reine, la déesse, la chasseresse, la courtisane, la mère, la fille, la folle, la diva, l’infirmière, la dominatrice, la soumise, l’excentrique, l’émotive, la victime, la bourreau, la princess, etc
+En définitive, l'amant gourmet ne renonce pas à sa gloutonnerie. C'est seulement qu'il accompagne le potentiel sexuel de sa partenaire à se développer, à venir en surface et parfumer l'atmosphère… pour mieux la dévorer. Tout dévorer d'elle : la reine, la déesse, la chasseresse, la courtisane, la mère, la fille, la folle, la diva, l'infirmière, la dominatrice, la soumise, l'excentrique, l'émotive, la victime, le bourreau, la princesse, etc.
 
-Un compliment que j’ai reçu plusieurs fois : “Avec toi, je me sens libre d'être qui je suis”
+Un compliment que j'ai reçu plusieurs fois : « Avec toi, je me sens libre d'être qui je suis. »
 
-Citation de Thich Nhat Hanh dont l’enseignement a énormément contribué à faire évoluer ma sexualité : “​Vous devez aimer de manière à ce que la personne que vous aimez se sente libre”
+Citation de Thich Nhat Hanh dont l'enseignement a énormément contribué à faire évoluer ma sexualité : « Vous devez aimer de manière à ce que la personne que vous aimez se sente libre. »
 
-Une autre façon de formuler ces propos : Dans la sexualité, le glouton cherche le plaisir de sa jouissance, le gourmet savoure le plaisir de la liberté d’être de sa partenaire et de la sienne.
+Une autre façon de formuler ces propos : dans la sexualité, le glouton cherche le plaisir de sa jouissance, le gourmet savoure le plaisir de la liberté d'être de sa partenaire et de la sienne.
 
- 
+---
 
+### De l'auto-sabotage
 
-### **De l’auto-sabotage**
+Le terme de sabotage, d'auto-sabotage suppose qu'il y a une partie en moi — « le saboteur » — qui prendrait un malin plaisir à me nuire, dont l'unique objectif serait de m'empêcher de réussir un projet, une relation, ou autre chose. C'est le diable qui me veut du mal. C'est l'obstacle qu'il faut détruire, le dragon qu'il faut tuer pour atteindre le bonheur.
 
-Si vous vous dites que vous faites de l’auto-sabotage, c’est que vous n’avez pas compris.
+C'est une analyse de causalité de type psychanalytique :
 
-Comme souvent, quand un sujet de conversation revient plus de deux fois en quelques jours, c’est que les anges m’ont soufflé le sujet d’un post. Au cours d’une discussion, un ami me disait :” Tu ne trouves pas ça nul qu’on se sabote ? La vie est mal faite quand même !” Je lui ai répondu “Pas du tout, je trouve que la vie est très bien faite” Hier, pendant mon séminaire, le sujet était encore revenu. Ce matin, dans une vidéo de motivation, le formateur parlait d'auto-sabotage. C’est ce qui m’a guidé pour vous partager ma compréhension.
+« Je ne peux pas être heureux dans ma relation amoureuse »
 
-Le terme de sabotage, d’auto-sabotage suppose qu’il y a une partie en moi “le saboteur” qui prendrait un malin plaisir à me nuire, dont l'unique objectif serait de m’empêcher de réussir un projet, une relation, ou autre chose. C’est le diable qui me veut du mal. C’est l’obstacle qu’il faut détruire, le dragon qu’il faut tuer pour atteindre le bonheur.
+Parce que
 
-C’est une analyse de causalité de type psycho-analytique :
+« j'ai un fonctionnement pourri d'abandon ou de rejet qui fout la merde »
 
-“Je ne peux pas être heureux dans ma relation amoureuse”
+Parce que
 
-\*\*\*Parce que
+« mes parents m'ont maltraité en ne me donnant pas assez de ceci ou étaient trop comme cela »
 
-“j’ai un fonctionnement pourri d’abandon ou de rejet qui fout la merde”
+C'est donc 2 étapes de causalité : le résultat causé par un comportement, le comportement causé par des événements.
 
-\*\*\*Parce que
+La plupart d'entre vous n'ont pas connu la guerre, ont grandi dans une société confortable, une société de consommation qui autorise la quête de l'amour et du bonheur. J'ai vécu au Vietnam pendant la guerre. J'ai quitté ce pays en boat-people. Je sais que le plus important dans la vie, c'est la Vie. Et quand on prend ce recul, on voit les choses différemment.
 
-“mes parents m’ont maltraité en ne me donnant pas assez de ceci ou étaient trop comme cela”
+On comprend pourquoi le traumatisme. Le traumatisme n'est plus la cause de mon malheur, mais c'est la conséquence d'un mécanisme de survie. J'ai un mécanisme qui me protège en général et de temps en temps ça fait mal, voire très mal. C'est un mécanisme qui a été affiné depuis des milliers de générations d'humains sur terre. C'est le top du top de ce qui se fait jusqu'à aujourd'hui. Le mieux qui existe pour moi jusqu'à aujourd'hui !
 
-C’est donc 2 étapes de causalité : le résultat causé par un comportement, le comportement causé par des événements.
+Préférer ne pas avoir mal, c'est ignorer les dangers. C'est comme se dire qu'on préfère ne plus jamais sentir la douleur d'un caillou qui pique sous le pied. Il y a deux solutions pour ne pas sentir cette douleur.
 
-La plupart d’entre vous n’ont pas connu la guerre, ont grandi dans une société confortable, une société de consommation qui autorise la quête de l’amour et du bonheur. J’ai vécu au Vietnam pendant la guerre. J’ai quitté ce pays en boat-people. Je sais que le plus important dans la vie, c’est la Vie. Et quand on prend ce recul, on voit les choses différemment.
+La première c'est d'enlever tous les cailloux de la terre : bon courage.
 
-On comprend pourquoi le traumatisme. Le traumatisme n’est plus la cause de mon malheur, mais c’est la conséquence d’un mécanisme de survie. J’ai un mécanisme qui me protège en général et de temps en temps ça fait mal, voire très mal. C’est un mécanisme qui a été affiné depuis des milliers de générations d’humains sur terre. C’est le top du top de ce qui se fait jusqu’à aujourd’hui. Le mieux qui existe pour moi jusqu’à aujourd’hui !
+La deuxième c'est d'enlever la sensation dans le pied : bon courage pour marcher sans la proprioception.
 
-Préférer ne pas avoir mal, c’est ignorer les dangers. C’est comme se dire qu’on préfère ne plus jamais sentir la douleur d’un caillou qui pique sous le pied. Il y a deux solutions pour ne pas sentir cette douleur.
+Et le malin qui répond qu'il suffit d'éviter de marcher sur les cailloux — et oui ! Mais qui lui a appris qu'il ne fallait pas marcher sur les cailloux sinon la douleur quand on y marche dessus ?
 
-La première c’est d’enlever tous les cailloux de la terre : bon courage.
+Bien sûr que notre sensibilité conduit de temps en temps à des traumatismes. Mais combien de fois elle nous a sauvés ? Combien de fois, on lui a dit merci ? Je crois en l'intelligence du corps, de l'esprit et de la vie. Le blocage n'est pas là pour nous nuire. C'est seulement la conséquence de notre mécanisme de survie, de nos stratégies de protection. C'est la conséquence de l'amour de la vie, de l'amour de nous-mêmes. C'est une porte vers plus de sagesse et plus de liberté.
 
-La deuxième c’est d’enlever la sensation dans le pied : bon courage pour marcher sans la proprioception.
+Quelquefois, les stratégies que nous avons ne sont pas adaptées à une situation particulière. C'est ok. Prenons-en note et cherchons une nouvelle stratégie pour traiter la situation en question. Cela peut être une thérapie, une spiritualité, une technique corporelle ou autre.
 
-Et le malin qui répond qu’il suffit d’éviter de marcher sur les cailloux, et oui ! Mais qui lui a appris qu’il ne fallait pas marcher sur les cailloux sinon la douleur quand on y marche dessus.
+Il n'y a pas d'ennemi en nous. Il n'y a que des amis. Même si nous sommes le merveilleux résultat de millions d'années d'évolution aussi bien sur le plan physique que psychologique, nous pouvons encore progresser. La douleur n'est pas notre bourreau, c'est notre guide intérieur qui s'exprime à travers elle pour nous pousser vers plus de clarté et plus d'amour.
 
-Bien sûr que notre sensibilité conduit de temps en temps à des traumatismes. Mais combien de fois elle nous a sauvés ? Combien de fois, on lui a dit merci ? Je crois en l’intelligence du corps, de l’esprit et de la vie. Le blocage n’est pas là pour nous nuire. C’est seulement la conséquence de notre mécanisme de survie, de nos stratégies de protection. C’est les conséquences de l’amour de la vie, de l’amour de nous-mêmes. C'est une porte vers plus de sagesse et plus de liberté.
+Je me méfie des formateurs qui utilisent les mots « auto-sabotage » ou équivalents. Je me méfie des enseignants, des conférenciers qui voient une partie de soi-même comme quelque chose à combattre, à dépasser et non quelque chose à aimer et à faire grandir.
 
-Quelques fois, les stratégies que nous avons ne sont pas adaptées à une situation particulière. C’est ok. Prenons-en note et cherchons une nouvelle stratégie pour traiter la situation en question. Cela peut-être une thérapie, une spiritualité, une technique corporelle ou autre. Cela peut même être un super séminaire sur la sexualité avec un super animateur.
+Cela ne signifie absolument pas rester inactif. Mais au lieu d'essayer de ramasser tous les cailloux sur terre, au lieu d'entraîner mon pied à résister voire à dépasser la douleur, je lui donne de l'amour. Et l'amour peut prendre des formes très différentes. Par exemple, l'amour peut prendre la forme d'une chaussure ou d'une tong. L'amour peut prendre la forme d'un désinfectant, d'un pansement voire des points de sutures.
 
-Il n’y a pas d'ennemi en nous. Il n'y a que des amis. Même si nous sommes le merveilleux résultat de millions d’années d'évolution aussi bien sur le plan physique que psychologique, nous pouvons encore progresser. La douleur n’est pas notre bourreau, c’est notre guide intérieur qui s’exprime à travers elle pour nous pousser vers plus de clarté et plus d’amour.
+Il n'y a pas à se battre contre soi-même. Il y a seulement à se donner plus d'amour à soi-même.
 
-Je me méfie des formateurs qui utilisent les mots “auto-sabotage” ou équivalents. Je me méfie des enseignants, des conférenciers qui voient une partie de soi-même comme quelque chose à combattre, à dépasser et non quelque chose à aimer et à faire grandir.
+Quand vous utilisez le concept d'auto-sabotage : vous vous voyez comme l'ennemi de vous-même alors que vous êtes déjà votre meilleur ami — et c'est simplement que la situation est le 1 % des cas où l'expression de cette affection n'est pas adaptée. Un ami qui vous a fait du tort une fois et vous a sauvé 99 fois. Traitez-le avec l'affection, le respect qu'il mérite.
 
-Cela ne signifie absolument pas rester inactif. Mais au lieu d’essayer de ramasser tous les cailloux sur terre, au lieu d'entraîner mon pied à résister voire à dépasser la douleur, je lui donne de l’amour. Et l’amour peut prendre des formes très différentes. Par exemple, l’amour peut prendre la forme d’une chaussure ou d’une tongue. L’amour peut prendre la forme d’un désinfectant, d’un pansement voire des points de sutures.
+Dans la sexualité, si vous vivez vos blocages comme des ennemis à votre plaisir, à votre légèreté et à votre présence, vous rajoutez du chagrin à la difficulté. Vous surchargez la frustration avec de la colère. Cherchez simplement un moyen plus adapté pour exprimer l'amour et la liberté.
 
-Il n’y a pas à se battre contre soi-même. Il y a seulement à se donner plus d’amour à soi-même.
-
-Quand vous utilisez le concept d’auto-sabotage : vous vous voyez comme l’ennemi de vous-même alors que vous êtes déjà votre meilleur ami et c’est simplement que la situation est le 1/100 des cas où l’expression de cette affection n’est pas adaptée. Un ami qui vous a fait du tort une fois et vous a sauvé 99 fois. Traitez-le avec l'affection, le respect qu’il mérite.
-
-Dans la sexualité, si vous vivez vos blocages comme des ennemis à votre plaisir, à votre légèreté et à votre présence, vous rajoutez du chagrin à la difficulté. Vous surcharger la frustration avec de la colère. Cherchez simplement un moyen plus adapté pour exprimer l’amour et la liberté. Mon séminaire est un moyen parmi d’autres.
-
-Ce que d'autres appellent auto-sabotage, je les vois comme des occasions précieuses de faire grandir la liberté, la clarté en moi. Je les accueillent comme un rappel pour me donner plus d'amour à moi-même. Je n'ai pas toujours la disponibilité et l'énergie pour le faire. Mais quand j'y arrive, je suis rempli de gratitude pour la vie.
+Ce que d'autres appellent auto-sabotage, je les vois comme des occasions précieuses de faire grandir la liberté, la clarté en moi. Je les accueille comme un rappel pour me donner plus d'amour à moi-même. Je n'ai pas toujours la disponibilité et l'énergie pour le faire. Mais quand j'y arrive, je suis rempli de gratitude pour la vie.

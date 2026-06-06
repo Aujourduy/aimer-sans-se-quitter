@@ -1,10 +1,10 @@
 ---
-titre: "Quel est le premier pas vers une sexualité sensible"
+titre: "Quel est le premier pas vers une sexualité sensible ?"
 source: "principes"
 statut: "à-terminer"
 doublon: false
 sujet: ""
 motscles: []
-enrichi: false
+enrichi: true
 ---
-Comme le disait Lao Tseu, un voyage de mille lieu commence par un pas : la pause.
+Comme le disait Lao Tseu, un voyage de mille lieues commence par un pas : la pause.

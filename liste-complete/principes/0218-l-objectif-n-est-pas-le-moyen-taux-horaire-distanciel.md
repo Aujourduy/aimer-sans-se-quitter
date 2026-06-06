@@ -1,10 +1,11 @@
 ---
-titre: "\\* L’objectif n’est pas le moyen (taux horaire, distanciel, relation amoureuse/joie"
+titre: "L'objectif n'est pas le moyen"
 source: "principes"
+date: ""
 statut: "à-terminer"
 doublon: false
 sujet: ""
 motscles: []
-enrichi: false
+enrichi: true
 ---
 

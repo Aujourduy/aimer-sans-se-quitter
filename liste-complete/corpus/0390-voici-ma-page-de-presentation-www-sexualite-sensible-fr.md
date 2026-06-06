@@ -1,14 +1,11 @@
 ---
-titre: "Voici ma page de présentation www.sexualite-sensible.fr"
+titre: "Partage — Belle journée avec mon amour dansé"
 source: "corpus"
 date: "17 avril 2023"
-statut: "brouillon"
+statut: "à-terminer"
 doublon: false
-sujet: ""
-motscles: []
-enrichi: false
+sujet: "Publication Facebook très courte, sans contenu de fond, exprimant un vœu de belle journée."
+motscles: [danse, sensualité]
+enrichi: true
 ---
-Belle journée avec mon amour dansé,
-
-@[100070375365062:2048:Duy Dang]
-Danseur - Révélateur d'amants Sensibles
+Belle journée avec mon amour dansé.

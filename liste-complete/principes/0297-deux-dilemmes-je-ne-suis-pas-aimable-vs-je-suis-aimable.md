@@ -1,10 +1,11 @@
 ---
-titre: "Deux dilemmes : Je ne suis pas aimable vs je suis aimable"
+titre: "Deux dilemmes : je ne suis pas aimable vs je suis aimable"
 source: "principes"
-statut: "brouillon"
+date: ""
+statut: "à-terminer"
 doublon: false
 sujet: ""
 motscles: []
-enrichi: false
+enrichi: true
 ---
 Deux grandes peurs les plus profondes.

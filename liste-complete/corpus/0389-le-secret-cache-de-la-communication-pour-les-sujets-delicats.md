@@ -1,12 +1,12 @@
 ---
-titre: "LE SECRET CACHE DE LA COMMUNICATION (POUR LES SUJETS DELICATS)"
+titre: "Le secret caché de la communication (pour les sujets délicats)"
 source: "corpus"
 date: "25 mars 2023"
 statut: "brouillon"
 doublon: "corpus/0388-le-secret-cache-de-la-communication.md"
-sujet: ""
-motscles: []
-enrichi: false
+sujet: "Après avoir pratiqué de nombreuses techniques de communication, l'auteur conclut que l'essentiel n'est pas l'outil mais la sérénité intérieure : c'est la capacité à gérer ses émotions, et non la maîtrise des mots, qui rend la communication vraiment efficace."
+motscles: [communication, peur, sérénité, couple, lâcher-prise]
+enrichi: true
 ---
 Pendant des années, j'ai cherché à mieux communiquer et je me suis formé à plusieurs techniques : PNL, Dale Carnegie, ProcessCom, CNV, Comm Color et DISC. Pour les avoir pratiquées de très nombreuses fois, je suis arrivé à la conclusion suivante : ces techniques sont intéressantes, elles donnent des outils mais oublient l'essentiel.
 
@@ -16,7 +16,7 @@ Je pourrais disposer de super matériel de dessin, en tant que débutant, mes de
 
 L'adresse est dans la main, pas dans le crayon.
 
-En ce qui concerne la communication, bien évidemment, le choix des mots, des structures et l'adaptation aux cartes mentales de l'interlocuteur sont importants, mais le plus important est la sérénité avec laquelle on communique. S'il y a des peurs qui sont réveillées, des blessures qui se réveillent, même avec tous les outils du monde, cela sera vraiment très difficile de communiquer.
+En ce qui concerne la communication, bien évidemment, le choix des mots, des structures et l'adaptation aux cartes mentales de l'interlocuteur sont importants, mais le plus important est la sérénité avec laquelle on communique. S'il y a des peurs qui se réveillent, des blessures qui se réveillent, même avec tous les outils du monde, cela sera vraiment très difficile de communiquer.
 
 Par contre, quand on est serein, ouvert à toutes les éventualités, si on n'est pas compris tout de suite, on peut prendre le temps de chercher d'autres façons de communiquer, comme le font les explorateurs avec des communautés qu'ils ne connaissent pas.
 
@@ -28,14 +28,8 @@ Le conseil que je donne à mes clients pour bien communiquer est d'abord de se p
 
 Avant toute communication délicate, il faut dissoudre le plus possible les charges émotionnelles liées à la discussion. Cela ne signifie pas qu'il n'y a plus d'émotions, mais qu'on est arrivé à un niveau gérable de ses émotions.
 
-Les sages communiquent bien non pas parce qu’ils connaissent des techniques de communication mais parce qu’ils restent sereins.
+Les sages communiquent bien non pas parce qu'ils connaissent des techniques de communication mais parce qu'ils restent sereins.
 
 Le secret de la communication : être en capacité de gérer nos émotions pendant la discussion.
 
 Cela est encore plus vrai dans la communication de sujets sensibles dans la relation amoureuse ou sur la sexualité.
-
-Duy Dang
-Révélateur d'Amants Sensibles
-
-Mes meilleurs posts et mes propositions sont sur :
-www.duy-dang.fr
