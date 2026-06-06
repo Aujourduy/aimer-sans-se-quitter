@@ -1,10 +1,11 @@
 ---
-titre: "La communication non verbales (Quoi, Comment, Pourquoi)"
+titre: "La communication non verbale (quoi, comment, pourquoi)"
 source: "principes"
+date: ""
 statut: "à-terminer"
 doublon: false
 sujet: ""
 motscles: []
-enrichi: false
+enrichi: true
 ---
 

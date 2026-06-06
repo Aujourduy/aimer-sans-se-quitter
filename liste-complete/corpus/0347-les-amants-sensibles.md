@@ -1,20 +1,15 @@
 ---
-titre: "Les Amants Sensibles,"
+titre: "Partage — webinaire gratuit « Les Amants Sensibles »"
 source: "corpus"
 date: "28 octobre 2022"
-statut: "brouillon"
+statut: "à-terminer"
 doublon: false
-sujet: ""
-motscles: []
-enrichi: false
+sujet: "Annonce d'un webinaire gratuit sur Zoom consacré aux relations amoureuses authentiques et à la sexualité sensible."
+motscles: [amants sensibles, sexualité sensible, amour]
+enrichi: true
 ---
 Qui ? Quoi ? Comment ?
 
 Tout ce que vous avez toujours voulu savoir sur les relations amoureuses authentiques et la sexualité sensible sans jamais oser le demander.
 
 Webinaire gratuit sur Zoom.
-
-Inscription sur : https://forms.gle/vWYPXPUAPXdf2tXJ9
-
-Animé par Duy DANG,
-Révélateur d'Amants Sensibles
