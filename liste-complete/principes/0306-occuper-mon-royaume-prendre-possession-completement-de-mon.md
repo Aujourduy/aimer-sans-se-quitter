@@ -1,10 +1,10 @@
 ---
-titre: "Occuper mon royaume, prendre possession complètement de mon espace. Certains diront : \"Mais tu es dans ta bulle \\! Tu ne t'occupes pas de ta partenaire ?\\!\" Ma réponse est \" Oui, je suis dans ma bulle. Je l'assume. Je remplis ma bulle de mes mouvements, de ma respiration, de ma présence.\""
+titre: "Occuper mon royaume : être pleinement dans sa bulle avant d'aller vers l'autre"
 source: "principes"
+date: ""
 statut: "à-terminer"
 doublon: false
 sujet: ""
 motscles: []
-enrichi: false
+enrichi: true
 ---
-

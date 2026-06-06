@@ -1,22 +1,23 @@
 ---
 titre: "Ne pas se forcer, ne pas se retenir"
 source: "principes"
+date: ""
 statut: "brouillon"
 doublon: false
-sujet: ""
-motscles: []
-enrichi: false
+sujet: "Se forcer à « bien faire » ou se retenir de « mal faire » sont deux formes de mensonge à soi-même qui s'accumulent et creusent le tombeau du désir. Accueillir ses envies et ses non-envies sans les juger est la seule façon de se révéler tel qu'on est à l'autre."
+motscles: [authenticité, désir, sexualité sensible, peur, lâcher-prise, communication]
+enrichi: true
 ---
-Notre éducation, nos parents, la société, la religion nous a plus ou moins formatés. Il y a ce qui est bien et ce qui est mal. Ce qui est bien de faire et ce qui est mal de faire. Dans la sexualité où se trouve une pression sociale, une pression morale, la peur de déplaire voire de perdre le partenaire nous pousse à faire plus ou moins d’efforts. Des choses que je n’ai pas réellement, ou plus, envie de faire mais que je fais quand même. Des choses que je voudrais faire mais que je n’ose pas. Parfois il s’agit de quelque chose de nette et précise, parfois c’est juste d’un petit effort, d’une petite frustration. Dans les deux cas, ce sont des tensions. Des petites tensions qui s’accumulent avec le temps. Au final, on peut se retrouver à avoir construit le tombeau de notre désir, pierre après pierre, jour après jour sans s’en rendre compte. 
+Notre éducation, nos parents, la société, la religion nous ont plus ou moins formatés. Il y a ce qui est bien et ce qui est mal. Ce qui est bien de faire et ce qui est mal de faire. Dans la sexualité où se trouve une pression sociale, une pression morale, la peur de déplaire voire de perdre le partenaire nous pousse à faire plus ou moins d'efforts. Des choses que je n'ai pas réellement, ou plus, envie de faire mais que je fais quand même. Des choses que je voudrais faire mais que je n'ose pas. Parfois il s'agit de quelque chose de nette et précise, parfois c'est juste d'un petit effort, d'une petite frustration. Dans les deux cas, ce sont des tensions. Des petites tensions qui s'accumulent avec le temps. Au final, on peut se retrouver à avoir construit le tombeau de notre désir, pierre après pierre, jour après jour sans s'en rendre compte.
 
-Se forcer à être “bien”.
+Se forcer à être « bien ».
 
-Se retenir à être “mal”.
+Se retenir à être « mal ».
 
 Dans les deux cas, nous nous éloignons de nous-mêmes.
 
-Dans les deux cas, je me suis caché, j’ai menti à ma partenaire alors que j’attends d’elle honnêteté et sincérité.
+Dans les deux cas, je me suis caché, j'ai menti à ma partenaire alors que j'attends d'elle honnêteté et sincérité.
 
-Il ne s’agit pas de ne faire aucun effort. Il ne s’agit de suivre toutes les pulsions. Il s’agit d’accueillir en moi les non-envies et les envies. De les autoriser à être. J’ai le droit de ne pas faire ”bien” comme les “autres”. J’ai le droit d’avoir des désirs différents des “autres”. Je peux alors les exprimer par l’action ou la parole suivant les circonstances mais je les exprime.
+Il ne s'agit pas de ne faire aucun effort. Il ne s'agit pas de suivre toutes les pulsions. Il s'agit d'accueillir en moi les non-envies et les envies. De les autoriser à être. J'ai le droit de ne pas faire « bien » comme les « autres ». J'ai le droit d'avoir des désirs différents des « autres ». Je peux alors les exprimer par l'action ou la parole suivant les circonstances mais je les exprime.
 
-Je ne suis pas “bien”. Je ne suis pas “mal”. Je suis simplement “moi”. Alors je peux te révéler qui je suis, à cet instant. J’espère que tu en feras de même. Nous pourrons alors nous rencontrer intimement aux endroits qui nous sont véritablement communs.
+Je ne suis pas « bien ». Je ne suis pas « mal ». Je suis simplement « moi ». Alors je peux te révéler qui je suis, à cet instant. J'espère que tu en feras de même. Nous pourrons alors nous rencontrer intimement aux endroits qui nous sont véritablement communs.

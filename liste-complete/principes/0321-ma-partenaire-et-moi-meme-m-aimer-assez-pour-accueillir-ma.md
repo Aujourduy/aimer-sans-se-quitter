@@ -1,10 +1,10 @@
 ---
-titre: "Ma partenaire et moi-même. M’aimer assez pour accueillir ma vérité. M’aimer assez moi-même pour respecter ma liberté"
+titre: "S'aimer assez pour accueillir sa vérité et respecter sa liberté"
 source: "principes"
+date: ""
 statut: "à-terminer"
 doublon: false
 sujet: ""
 motscles: []
-enrichi: false
+enrichi: true
 ---
-

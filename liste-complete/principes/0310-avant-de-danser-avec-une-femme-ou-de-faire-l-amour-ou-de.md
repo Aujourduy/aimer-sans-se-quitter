@@ -1,10 +1,10 @@
 ---
-titre: "Avant de danser avec une femme (ou de faire l'amour), ou de danser avec un homme, je prends soin d'occuper mon espace et ma danse de mon être. Je suis dans l'écoute de mon mouvement, de mon rythme, de ma danse, de mes envies. D'instant en instant. Je suis en amour de ce qui se passe, ici, maintenant, en moi, en la vie. Je vis le moment présent en moi."
+titre: "Avant de danser ou de faire l'amour : habiter son espace, être en amour du présent"
 source: "principes"
+date: ""
 statut: "à-terminer"
 doublon: false
 sujet: ""
 motscles: []
-enrichi: false
+enrichi: true
 ---
-

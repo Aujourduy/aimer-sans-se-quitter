@@ -1,10 +1,10 @@
 ---
-titre: "Voici en image dans la danse ce que je voulais te partager."
+titre: "La danse en image : ce que je voulais te partager"
 source: "principes"
+date: ""
 statut: "à-terminer"
 doublon: false
 sujet: ""
 motscles: []
-enrichi: false
+enrichi: true
 ---
-

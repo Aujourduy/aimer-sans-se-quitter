@@ -1,10 +1,10 @@
 ---
-titre: "Ensuite, je laisse l'extérieur entrer. J'écoute l'extérieur. Les autres danses, les autres danseurs, ma partenaire."
+titre: "Ensuite, laisser l'extérieur entrer : écouter l'autre depuis son propre centre"
 source: "principes"
+date: ""
 statut: "à-terminer"
 doublon: false
 sujet: ""
 motscles: []
-enrichi: false
+enrichi: true
 ---
-

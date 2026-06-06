@@ -1,10 +1,10 @@
 ---
-titre: "Et c'est avec cette bulle remplie à ras bord de moi que j'amène ma richesse vers ma partenaire. Dans la sexualité comme dans la danse."
+titre: "La bulle pleine de soi portée vers l'autre : dans la danse comme dans la sexualité"
 source: "principes"
+date: ""
 statut: "à-terminer"
 doublon: false
 sujet: ""
 motscles: []
-enrichi: false
+enrichi: true
 ---
-

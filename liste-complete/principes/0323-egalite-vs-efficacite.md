@@ -1,10 +1,11 @@
 ---
-titre: "Egalité vs Efficacité"
+titre: "Égalité vs Efficacité"
 source: "principes"
-statut: "brouillon"
+date: ""
+statut: "à-terminer"
 doublon: false
 sujet: ""
 motscles: []
-enrichi: false
+enrichi: true
 ---
-M’ont réellement inspiré pour formuler ma devise
+M'ont réellement inspiré pour formuler ma devise.
