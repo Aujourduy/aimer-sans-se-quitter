@@ -1,12 +1,12 @@
 ---
-titre: "Solo Lafaurie Aout 2025, sur les mots"
+titre: "Solo Lafaurie août 2025 — sur les mots"
 source: "corpus"
 date: "14 octobre 2025"
 statut: "brouillon"
 doublon: false
-sujet: ""
-motscles: []
-enrichi: false
+sujet: "L'auteur partage 30 mots surgis compulsivement dès le premier jour d'un stage de danse solo, qui se sont enchaînés comme un poème et ont trouvé leurs gestes — une expérience vécue entre création personnelle et révélation divine."
+motscles: [danse, création, mots, poème, stage, inspiration, présence]
+enrichi: true
 ---
 Allongé
 Crochet
@@ -31,7 +31,7 @@ Avancer
 Sourire
 Découvrir
 Attraper
-Rependre
+Reprendre
 Recueillir
 Puissance
 Violence
@@ -41,17 +41,8 @@ S'apaiser
 
 Ces 30 mots qui se sont bousculés dans ma tête dès le 1er jour de stage, qui voulaient absolument sortir, s'épanouir à tout prix à m'empêcher de dormir tant que le dernier mot n'était pas arrivé. Ils ont trouvé leur musique. Ils ont trouvé leurs gestes.
 
-Au final, les mots s’enchaînent comme un poème. Les gestes s'entraînent comme une danse. 
+Au final, les mots s'enchaînent comme un poème. Les gestes s'entraînent comme une danse.
 
 Une création personnelle ou une révélation divine.
 
-J'ai été un pinceau écrivant sur l'eau la rivière du temps à l'encre du vent. 
-
-Belle journée,
-
-Duy
-
-PS : 
-
-Pour les femme sensible aux énergies, avec une activité tournée vers les autres (médecin, infirmière, masseuse, coach, naturo, mère au foyer, astrologue, mère de famille, …), qui a déjà cheminé personnellement pendant plusieurs années (thérapies, stages, spiritualités, …), avec au moins une fin de relation douloureuse et avec une pratique artistique régulière (danse, chant, poterie, poésie, photo, …) qui veulent trouver joies et beautés dans la relation, dans l'amour, dans la sexualité, contactez-moi pour une séance de clarification complètement offerte et sans engagement.
-https://
+J'ai été un pinceau écrivant sur l'eau la rivière du temps à l'encre du vent.
