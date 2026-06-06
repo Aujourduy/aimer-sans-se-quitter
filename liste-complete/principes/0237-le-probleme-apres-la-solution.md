@@ -1,10 +1,11 @@
 ---
-titre: "Le problème après la solution"
+titre: "Le problème qui surgit après la solution"
 source: "principes"
-statut: "brouillon"
+date: ""
+statut: "à-terminer"
 doublon: false
 sujet: ""
 motscles: []
-enrichi: false
+enrichi: true
 ---
-Après un stage sur la sexualité …. le problème de comment rencontrer un.e tel.le partenaire ?
+Après un stage sur la sexualité… le problème de comment rencontrer un.e tel.le partenaire ?

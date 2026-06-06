@@ -1,14 +1,11 @@
 ---
-titre: "Voici ma page de présentation www.sexualite-sensible.fr"
+titre: "Partage — Belle journée"
 source: "corpus"
 date: "6 mai 2023"
-statut: "brouillon"
+statut: "à-terminer"
 doublon: false
-sujet: ""
-motscles: []
-enrichi: false
+sujet: "Publication Facebook très courte, sans contenu de fond."
+motscles: [amants sensibles]
+enrichi: true
 ---
-Belle journée,
-
-@[100070375365062:2048:Duy Dang]
-Révélateur d'Amants Sensibles
+Belle journée.

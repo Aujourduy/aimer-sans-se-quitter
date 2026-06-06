@@ -1,10 +1,11 @@
 ---
-titre: "L’exemple est la meilleure pédagogie"
+titre: "L'exemple est la meilleure pédagogie"
 source: "principes"
-statut: "brouillon"
+date: ""
+statut: "à-terminer"
 doublon: false
 sujet: ""
 motscles: []
-enrichi: false
+enrichi: true
 ---
-Pourquoi les formateurs de sexualité n’ose pas parler d’eux ?
+Pourquoi les formateurs de sexualité n'osent pas parler d'eux ?

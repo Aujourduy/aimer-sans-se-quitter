@@ -1,10 +1,11 @@
 ---
-titre: "’illusion du tout développement personnel"
+titre: "L'illusion du tout développement personnel"
 source: "principes"
-statut: "brouillon"
+date: ""
+statut: "à-terminer"
 doublon: false
 sujet: ""
 motscles: []
-enrichi: false
+enrichi: true
 ---
-Pendant longtemps, j’ai cru qu’il fallait
+Pendant longtemps, j'ai cru qu'il fallait
