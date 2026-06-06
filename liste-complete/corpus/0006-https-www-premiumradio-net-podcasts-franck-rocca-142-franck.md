@@ -1,11 +1,13 @@
 ---
-titre: "https://www.premiumradio.net/podcasts/franck-rocca-142/franck-rocca-le-perfectionnisme-33?utm_source=franckrocca&utm_sou"
+titre: "Podcast — Le perfectionnisme (Franck Rocca)"
 source: "corpus"
 date: "26 août 2021"
 statut: "brouillon"
 doublon: false
-sujet: ""
-motscles: []
-enrichi: false
+sujet: "Partage d'un podcast de Franck Rocca sur le perfectionnisme et le passage à l'action."
+motscles: [podcast, perfectionnisme, passage à l'action, partage]
+enrichi: true
 ---
-https://www.premiumradio.net/podcasts/franck-rocca-142/franck-rocca-le-perfectionnisme-33?utm_source=franckrocca&utm_source=ActiveCampaign&utm_medium=email&utm_content=La+citation+pour+laquelle+je+vis+et+je+meurs+pour+passer+%C3%A0+l+action+plut%C3%B4t+que+de+me+paralyser&utm_campaign=ADC+%23253+-+%23359+Split+%28apr%C3%A8s+les+10%29Perfectionnisme+%23CTA+Interview
+Un podcast de Franck Rocca sur le perfectionnisme et la citation pour laquelle « je vis et je meurs » : passer à l'action plutôt que de se paralyser.
+
+https://www.premiumradio.net/podcasts/franck-rocca-142/franck-rocca-le-perfectionnisme-33
