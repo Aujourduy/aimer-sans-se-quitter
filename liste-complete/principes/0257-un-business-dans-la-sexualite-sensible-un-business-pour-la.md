@@ -1,10 +1,9 @@
 ---
-titre: "Un business dans la sexualité sensible / Un business pour la sexualité sensible"
+titre: "Un business dans la sexualité sensible / un business pour la sexualité sensible"
 source: "principes"
 statut: "à-terminer"
 doublon: false
 sujet: ""
-motscles: []
-enrichi: false
+motscles: [sexualité sensible, authenticité]
+enrichi: true
 ---
-
