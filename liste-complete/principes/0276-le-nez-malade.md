@@ -1,6 +1,7 @@
 ---
 titre: "Le nez malade"
 source: "principes"
+date: ""
 statut: "brouillon"
 doublon: false
 sujet: "À travers un conte de Nasreddine, l'auteur explique son approche : la souffrance sexuelle ne vient pas de la sexualité elle-même mais de la perception qu'on en a. Soigner le regard — et non le symptôme — est le vrai remède."

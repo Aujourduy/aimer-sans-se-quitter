@@ -1,6 +1,7 @@
 ---
 titre: "4 étapes indispensables pour trouver son amant.e sensible"
 source: "principes"
+date: ""
 statut: "brouillon"
 doublon: false
 sujet: "Chercher un.e partenaire sensible sans passer par les bonnes étapes préalables mène à la déception : il faut d'abord travailler sur soi pour reconnaître et attirer une rencontre authentique, et non se contenter de « faire son marché »."

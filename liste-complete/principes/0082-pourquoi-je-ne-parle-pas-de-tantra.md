@@ -1,6 +1,7 @@
 ---
 titre: "Pourquoi je ne parle pas de tantra"
 source: "principes"
+date: ""
 statut: "à-terminer"
 doublon: false
 sujet: ""

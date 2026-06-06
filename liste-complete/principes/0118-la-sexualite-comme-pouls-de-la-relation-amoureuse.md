@@ -1,6 +1,7 @@
 ---
 titre: "La sexualité comme pouls de la relation amoureuse"
 source: "principes"
+date: ""
 statut: "brouillon"
 doublon: false
 sujet: "La sexualité n'est pas en elle-même un problème — elle est le révélateur des problèmes non résolus du reste de la vie. Comme le pouls en médecine chinoise, elle permet de lire l'état de la relation et de la personne."

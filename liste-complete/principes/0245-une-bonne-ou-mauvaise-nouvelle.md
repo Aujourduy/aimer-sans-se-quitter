@@ -1,6 +1,7 @@
 ---
 titre: "Une bonne ou mauvaise nouvelle ?"
 source: "principes"
+date: ""
 statut: "brouillon"
 doublon: false
 sujet: "À travers un conte traditionnel chinois, l'auteur invite à suspendre le jugement sur les événements de vie : ce qui semble une perte peut ouvrir une liberté, ce qui semble un gain peut cacher une peur plus grande."

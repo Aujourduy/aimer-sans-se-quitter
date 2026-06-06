@@ -1,6 +1,7 @@
 ---
 titre: "La sexualité sensible vient de l'intérieur"
 source: "principes"
+date: ""
 statut: "à-terminer"
 doublon: false
 sujet: ""

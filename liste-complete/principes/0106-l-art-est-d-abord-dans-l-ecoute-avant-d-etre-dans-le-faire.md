@@ -1,6 +1,7 @@
 ---
 titre: "L'art est d'abord dans l'écoute avant d'être dans le faire"
 source: "principes"
+date: ""
 statut: "brouillon"
 doublon: false
 sujet: "Les livres et formations intitulés « L'art de… » enseignent le faire avant le percevoir, ce qui est pédagogiquement à rebours. Comme en musique, en peinture ou en médecine, l'excellence commence par l'écoute et la perception — c'est vrai aussi dans la sexualité."

@@ -1,6 +1,7 @@
 ---
 titre: "Vouloir être pleinement homme ou femme : chemin vers la déception"
 source: "principes"
+date: ""
 statut: "brouillon"
 doublon: "corpus/0253-des-fois-c-est-en-repondant-a-un-participant-que-se-revele.md"
 sujet: "Chercher à devenir un « homme complet » ou une « femme accomplie » est une erreur de logique : ces idéaux n'existent pas. La vraie question est « comment exprimer qui je suis déjà ? » — non pas se transformer, mais mieux s'exprimer."

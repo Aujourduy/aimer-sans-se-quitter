@@ -1,6 +1,7 @@
 ---
 titre: "De la légèreté à la libido"
 source: "principes"
+date: ""
 statut: "brouillon"
 doublon: false
 sujet: "La sexualité sensible repose sur la légèreté intérieure autant que sur les pratiques : une baisse de libido dans le couple peut signaler un manque de légèreté émotionnelle, et retrouver cette légèreté suffit souvent à raviver le désir."

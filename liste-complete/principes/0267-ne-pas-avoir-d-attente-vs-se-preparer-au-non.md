@@ -1,6 +1,7 @@
 ---
 titre: "Ne pas avoir d'attente vs se préparer au non"
 source: "principes"
+date: ""
 statut: "à-terminer"
 doublon: false
 sujet: ""

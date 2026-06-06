@@ -1,6 +1,7 @@
 ---
 titre: "Citation de Christiane Singer sur l'intimité et la vérité"
 source: "principes"
+date: ""
 statut: "brouillon"
 doublon: false
 sujet: "Une citation de Christiane Singer recentre la notion d'intimité : ce n'est pas le sexe qui en est le cœur, mais la vérité — ce moment où l'on peut se montrer tel qu'on est et recevoir en retour : « Tu es en sécurité avec moi. »"

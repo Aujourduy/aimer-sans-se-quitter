@@ -1,6 +1,7 @@
 ---
 titre: "Du tout ou rien"
 source: "principes"
+date: ""
 statut: "brouillon"
 doublon: false
 sujet: "Assumer ses besoins relationnels conduit à un positionnement radical : se dévoiler authentiquement dès la première rencontre, ce qui permet soit de construire une intimité profonde et rapide, soit d'éviter des désillusions coûteuses."

@@ -1,6 +1,7 @@
 ---
 titre: "Les 4 dimensions de l'être"
 source: "principes"
+date: ""
 statut: "brouillon"
 doublon: false
 sujet: "La sexualité n'est pas une sous-partie du corps mais une quatrième dimension à part entière de l'être humain, au même titre que le mental, les émotions et le corps — portée par la pulsion de vie et l'énergie de la lignée."

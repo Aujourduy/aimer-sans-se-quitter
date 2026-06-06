@@ -1,6 +1,7 @@
 ---
 titre: "Qu'est-ce que ça veut dire, partenaire ?"
 source: "principes"
+date: ""
 statut: "brouillon"
 doublon: false
 sujet: "À travers une anecdote intime, l'auteur explore ce que signifie vraiment être partenaires : non pas face à face dans la transaction du plaisir, mais côte à côte, alliés pour traverser ensemble les aveuglements et s'avancer vers plus de conscience et d'amour."

@@ -1,6 +1,7 @@
 ---
 titre: "L'amant glouton vs l'amant gourmet (3) : déguster pour mieux dévorer"
 source: "principes"
+date: ""
 statut: "brouillon"
 doublon: false
 sujet: "L'amant gourmet n'est pas que douceur : il prend le temps de laisser mûrir le désir pour mieux l'explorer dans toutes ses dimensions. Ce qui s'appelle parfois auto-sabotage est en réalité un mécanisme de protection à accueillir avec amour plutôt qu'à combattre."

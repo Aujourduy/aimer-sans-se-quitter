@@ -1,6 +1,7 @@
 ---
 titre: "Mère Teresa et les lépreux : rester présent malgré l'inconfort"
 source: "principes"
+date: ""
 statut: "brouillon"
 doublon: false
 sujet: "L'exemple de Mère Teresa soignant des lépreux malgré le dégoût illustre ce qui permet de rester présent dans la sexualité : non pas l'absence de peurs ou de malaises, mais la volonté d'accueillir ses émotions pour pouvoir s'ouvrir pleinement à l'autre."

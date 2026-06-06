@@ -1,6 +1,7 @@
 ---
 titre: "La sexualité sensible n'est pas l'arrivée mais le départ"
 source: "principes"
+date: ""
 statut: "brouillon"
 doublon: false
 sujet: "La sexualité sensible est moins une destination à atteindre qu'un point de départ : vérité et liberté sont l'état naturel originel, et chaque insatisfaction sexuelle signale un manque de vérité ou de liberté dans la relation."

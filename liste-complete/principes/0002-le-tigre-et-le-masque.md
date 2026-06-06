@@ -1,6 +1,7 @@
 ---
 titre: "Le tigre et le masque"
 source: "principes"
+date: ""
 statut: "brouillon"
 doublon: false
 sujet: "Comme Nasreddine qui jette du sel contre des tigres inexistants, nous gardons un masque par peur d'un rejet imaginaire ; or on ne peut être vraiment aimé qu'en l'ôtant — et derrière, il n'y a pas de tigre."

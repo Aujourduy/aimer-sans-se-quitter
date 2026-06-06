@@ -1,6 +1,7 @@
 ---
 titre: "Super Nanny : parler au reptilien, pas au rationnel"
 source: "principes"
+date: ""
 statut: "à-terminer"
 doublon: false
 sujet: "Pour toucher un homme bloqué dans ses peurs sexuelles, ni la logique ni les émotions ne suffisent : il faut s'adresser au cerveau instinctif, comme Super Nanny le fait avec les enfants en crise — en contournant les résistances plutôt qu'en les affrontant."

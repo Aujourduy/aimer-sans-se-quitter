@@ -1,6 +1,7 @@
 ---
 titre: "Oser ma vérité, honorer ma liberté"
 source: "principes"
+date: ""
 statut: "brouillon"
 doublon: false
 sujet: "Les problèmes relationnels et sexuels trouvent souvent leur source dans le fait de ne pas assumer sa vérité ou de ne pas respecter sa liberté. S'interroger honnêtement sur ces deux points permet de dénouer colère et sentiment de piège."

@@ -1,6 +1,7 @@
 ---
 titre: "L'amant glouton vs l'amant gourmet (4) : quand changer d'approche"
 source: "principes"
+date: ""
 statut: "brouillon"
 doublon: false
 sujet: "Quand un homme est trop ancré dans un schéma sexuel défensif et qu'une femme est elle-même trop anxieuse dans la relation, certaines stratégies de communication sont vouées à l'échec. Ce texte liste les signaux d'alerte et les erreurs à éviter absolument."

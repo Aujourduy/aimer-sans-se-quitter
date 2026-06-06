@@ -1,6 +1,7 @@
 ---
 titre: "Ma révolution"
 source: "principes"
+date: ""
 statut: "brouillon"
 doublon: false
 sujet: "La vraie révolution intérieure, c'est la décision radicale de ne plus jamais accepter une sexualité non authentique — quitte à ne plus en avoir du tout. Ce renoncement absolu est la condition d'une sexualité véritablement sensible."

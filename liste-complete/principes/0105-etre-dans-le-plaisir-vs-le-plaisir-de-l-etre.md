@@ -1,6 +1,7 @@
 ---
 titre: "Être dans le plaisir vs le plaisir de l'Être"
 source: "principes"
+date: ""
 statut: "à-terminer"
 doublon: false
 sujet: ""

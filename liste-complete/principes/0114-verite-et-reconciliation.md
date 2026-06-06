@@ -1,6 +1,7 @@
 ---
 titre: "Vérité et réconciliation"
 source: "principes"
+date: ""
 statut: "brouillon"
 doublon: false
 sujet: "Le Comité Vérité et Réconciliation sud-africain illustre que la vérité dite est la clé de la réconciliation et du désir. Dans une relation intime, oser déposer une vérité difficile est ce qui rouvre l'accès à l'amour de soi, au sentiment d'être aimé et au désir."

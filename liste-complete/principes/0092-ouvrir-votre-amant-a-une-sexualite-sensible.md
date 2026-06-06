@@ -1,6 +1,7 @@
 ---
 titre: "Ouvrir votre amant à une sexualité sensible"
 source: "principes"
+date: ""
 statut: "brouillon"
 doublon: false
 sujet: "Les femmes plus sensibles sexuellement se heurtent souvent à un partenaire bloqué dans un schéma mécanique. L'auteur explique pourquoi la communication directe ne suffit pas et propose une stratégie fondée sur la patience, la pédagogie et le choix des bons mots."

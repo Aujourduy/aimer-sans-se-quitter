@@ -1,6 +1,7 @@
 ---
 titre: "Les 4 fondamentaux pour faire évoluer votre sexualité"
 source: "principes"
+date: ""
 statut: "brouillon"
 doublon: false
 sujet: "Pour transformer sa sexualité en profondeur, quatre piliers sont indispensables dans cet ordre : la confiance en soi, l'écoute de soi, la communication sincère et l'exploration — cette dernière n'étant efficace que si les trois premières sont solides."

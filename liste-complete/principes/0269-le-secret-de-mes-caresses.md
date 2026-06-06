@@ -1,6 +1,7 @@
 ---
 titre: "Le secret de mes caresses"
 source: "principes"
+date: ""
 statut: "brouillon"
 doublon: false
 sujet: "La caresse la plus puissante n'est pas celle qui donne mais celle qui reçoit : porter son attention sur la sensation que ressent sa propre main plutôt que sur la peau de l'autre renverse la posture et intensifie la connexion."

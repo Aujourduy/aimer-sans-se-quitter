@@ -1,6 +1,7 @@
 ---
 titre: "La sexualité se vit à deux mais se prépare seul"
 source: "principes"
+date: ""
 statut: "brouillon"
 doublon: false
 sujet: "Comme dans tout art collectif — musique, danse, sport —, une sexualité épanouie suppose un travail individuel préalable. L'auteur distingue deux démarches : aller vers l'autre pour être comblé, ou aller d'abord vers soi pour se compléter, puis rencontrer l'autre dans la reliance."

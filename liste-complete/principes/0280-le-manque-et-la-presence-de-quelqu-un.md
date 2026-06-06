@@ -1,6 +1,7 @@
 ---
 titre: "Le manque et la présence de quelqu'un"
 source: "principes"
+date: ""
 statut: "brouillon"
 doublon: false
 sujet: "Ce qu'on appelle manque de l'autre est en réalité une présence intérieure : en portant son attention sur ce noyau, on peut le transformer de tristesse en amour et en gratitude — tellement plus léger à porter."

@@ -1,6 +1,7 @@
 ---
 titre: "La femme est une noix de coco, l'homme est un grain de raisin"
 source: "principes"
+date: ""
 statut: "à-terminer"
 doublon: false
 sujet: ""

@@ -1,6 +1,7 @@
 ---
 titre: "Pour un toucher exceptionnel : recevoir l'autre"
 source: "principes"
+date: ""
 statut: "brouillon"
 doublon: false
 sujet: "Un toucher vraiment exceptionnel ne cherche pas à donner du plaisir mais à accueillir l'autre tel qu'il est — ses désirs, ses appréhensions, sa totalité. L'amour passe autant par l'écoute et la réception que par le don."

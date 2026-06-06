@@ -1,6 +1,7 @@
 ---
 titre: "La frustration des femmes face à une sexualité peu sensible"
 source: "principes"
+date: ""
 statut: "à-terminer"
 doublon: false
 sujet: "Les femmes entretiennent avec leur corps et leur sexualité une relation bien plus intime et complexe que les hommes — cycles hormonaux, intériorité du sexe, préparation physiologique à la grossesse — ce qui crée un déséquilibre dans les attentes au sein de la relation sexuelle."

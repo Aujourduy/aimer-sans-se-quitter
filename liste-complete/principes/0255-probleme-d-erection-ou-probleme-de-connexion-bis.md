@@ -1,6 +1,7 @@
 ---
 titre: "Problème d'érection ou problème de connexion — suite"
 source: "principes"
+date: ""
 statut: "brouillon"
 doublon: false
 sujet: "Un homme qui n'a aucun problème d'érection en solo mais des difficultés avec sa partenaire n'a pas de problème physiologique : c'est un indicateur de son niveau d'exigence sur la qualité de la connexion, et une invitation à chercher la vérité et l'amour plutôt que la performance."

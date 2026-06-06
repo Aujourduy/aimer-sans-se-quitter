@@ -1,6 +1,7 @@
 ---
 titre: "Les caresses avant les caresses"
 source: "partages"
+date: ""
 theme: "Sur la sexualité"
 statut: "brouillon"
 doublon: false

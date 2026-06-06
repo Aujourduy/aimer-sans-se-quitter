@@ -1,6 +1,7 @@
 ---
 titre: "Travailler dans la sexualité sensible vs travailler pour elle"
 source: "principes"
+date: ""
 statut: "brouillon"
 doublon: false
 sujet: "Il y a une différence fondamentale entre travailler dans un domaine (en faire un business) et travailler pour un domaine (être au service du message). Ce repositionnement vaut aussi dans la sexualité : la différence entre faire l'amour pour avoir du plaisir et faire l'amour par amour."

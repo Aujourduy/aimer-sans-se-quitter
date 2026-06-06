@@ -1,6 +1,7 @@
 ---
 titre: "Deux cadeaux faciles pour votre chérie avec votre smartphone"
 source: "principes"
+date: ""
 statut: "brouillon"
 doublon: false
 sujet: "Deux gestes simples et gratuits pour nourrir la relation amoureuse : se filmer en train de danser pour sa partenaire, et capturer ses expressions naturelles en visio pour lui offrir une image d'elle qu'elle ne se connaît pas."

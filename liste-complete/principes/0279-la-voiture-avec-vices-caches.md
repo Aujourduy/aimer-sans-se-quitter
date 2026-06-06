@@ -1,6 +1,7 @@
 ---
 titre: "La voiture avec vices cachés"
 source: "principes"
+date: ""
 statut: "brouillon"
 doublon: false
 sujet: "Par la métaphore d'une voiture achetée avec vices cachés, l'auteur invite à reconsidérer le prix total d'une expérience de vie difficile : si, au bilan, on aurait dit oui au deal connaissant le prix réel, alors il est temps d'arrêter de s'en plaindre et de profiter de sa voiture."

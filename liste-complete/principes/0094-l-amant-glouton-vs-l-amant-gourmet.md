@@ -1,6 +1,7 @@
 ---
 titre: "L'amant glouton vs l'amant gourmet"
 source: "principes"
+date: ""
 statut: "brouillon"
 doublon: false
 sujet: "Deux signes révèlent qu'un amant est en stress dans sa sexualité : il ne sourit jamais en érection et il court vers l'éjaculation. Ce n'est pas un problème de compétence mais de confiance. Pour y remédier, les femmes sont invitées à assumer le rôle d'initiatrice et à partager leurs envies plutôt qu'à formuler des demandes."

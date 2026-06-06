@@ -1,6 +1,7 @@
 ---
 titre: "Le couple classique et le couple quantique"
 source: "principes"
+date: ""
 statut: "brouillon"
 doublon: false
 sujet: "L'auteur oppose deux paradigmes du couple : le modèle classique (durée, manque, attente, confort) et le modèle quantique (intensité du présent, abondance, don, vérité, liberté). Chaque item de la liste illustre un changement de paradigme concret."

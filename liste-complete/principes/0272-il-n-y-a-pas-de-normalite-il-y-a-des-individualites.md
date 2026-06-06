@@ -1,6 +1,7 @@
 ---
 titre: "Il n'y a pas de normalité, il y a des individualités"
 source: "principes"
+date: ""
 statut: "à-terminer"
 doublon: false
 sujet: ""

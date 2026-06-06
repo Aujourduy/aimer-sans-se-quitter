@@ -1,6 +1,7 @@
 ---
 titre: "Peur de mourir, peur de ne pas vivre"
 source: "principes"
+date: ""
 statut: "brouillon"
 doublon: false
 sujet: "Ce qu'on appelle peur de mourir est souvent peur de ne pas vivre : une fois que les grandes envies essentielles sont accomplies, cette peur se dissout d'elle-même. Faire l'amour pleinement — présent à soi, à l'autre et à la Vie — figure parmi ces expériences fondamentales."

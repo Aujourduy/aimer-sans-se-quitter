@@ -1,6 +1,7 @@
 ---
 titre: "Tout est une question de dosage"
 source: "principes"
+date: ""
 statut: "brouillon"
 doublon: false
 sujet: "Si tout être humain contient en lui toutes les caractéristiques humaines à des degrés variables, juger l'autre revient à se juger soi-même — et reconnaître ce dosage commun apaise le cœur et dissout les reproches."

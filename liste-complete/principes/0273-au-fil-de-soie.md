@@ -1,6 +1,7 @@
 ---
 titre: "Au fil de soie"
 source: "principes"
+date: ""
 statut: "brouillon"
 doublon: false
 sujet: "À travers une parabole bouddhiste, l'auteur illustre sa démarche d'accompagnement : chaque texte partagé est un escargot portant un fil de soie, invitation à libérer progressivement le potentiel sexuel emprisonné par l'éducation et les blessures."

@@ -1,6 +1,7 @@
 ---
 titre: "La force de dire non, la faiblesse d'accepter, la sagesse de dire oui au passé"
 source: "principes"
+date: ""
 statut: "brouillon"
 doublon: false
 sujet: "Accepter par peur de décevoir ou de perdre l'autre finit par détruire la relation de l'intérieur. La vraie force est de dire non. Mais quand on n'a pas eu cette force, la sagesse consiste à dire oui à ce qui s'est passé — accueillir sa faiblesse passée plutôt que de la ruminer."

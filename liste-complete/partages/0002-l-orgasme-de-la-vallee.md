@@ -1,6 +1,7 @@
 ---
 titre: "L’orgasme de la vallée"
 source: "partages"
+date: ""
 theme: "Sur la sexualité"
 statut: "brouillon"
 doublon: false

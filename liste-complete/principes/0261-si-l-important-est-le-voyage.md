@@ -1,6 +1,7 @@
 ---
 titre: "Si l'important est le voyage"
 source: "principes"
+date: ""
 statut: "brouillon"
 doublon: false
 sujet: "Affirmer qu'un objectif est important sans rien faire pour y avancer crée soit une hypocrisie avec soi-même, soit une frustration profonde qui se déploie en colère et victimisation. Le voyage vers la sexualité sensible commence par des pas concrets."

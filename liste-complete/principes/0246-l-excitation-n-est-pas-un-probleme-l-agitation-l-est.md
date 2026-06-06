@@ -1,6 +1,7 @@
 ---
 titre: "L'excitation n'est pas un problème, l'agitation l'est"
 source: "principes"
+date: ""
 statut: "brouillon"
 doublon: false
 sujet: "L'excitation (physiologique) et l'agitation (psychologique, liée à la peur) sont deux réalités distinctes : calmer l'agitation mentale permet à l'excitation de se déployer plus pleinement et plus profondément."

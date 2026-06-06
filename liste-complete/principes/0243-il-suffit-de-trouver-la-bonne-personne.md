@@ -1,6 +1,7 @@
 ---
 titre: "Il suffit de trouver la bonne personne"
 source: "principes"
+date: ""
 statut: "brouillon"
 doublon: "corpus/0207-il-suffit-de-trouver-la-bonne-personne.md"
 sujet: "L'idée qu'il suffit de trouver le bon partenaire pour être heureux est un fantasme : c'est en étant déjà dans la joie, l'authenticité et l'amour de soi qu'on attire et reconnaît une rencontre véritable."

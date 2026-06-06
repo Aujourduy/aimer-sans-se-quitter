@@ -1,6 +1,7 @@
 ---
 titre: "Comment faire pleurer une femme (de joie)"
 source: "principes"
+date: ""
 statut: "brouillon"
 doublon: false
 sujet: "Les larmes pendant l'amour ne sont pas signe de douleur mais d'un trop-plein de joie, de gratitude et de lâcher-prise. Pour que cela devienne possible, l'homme doit être sans attente, sans fuite, et capable de contenir la totalité des émotions de sa partenaire."

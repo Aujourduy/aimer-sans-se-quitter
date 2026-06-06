@@ -1,6 +1,7 @@
 ---
 titre: "Kamasutra : de la position à la sensation"
 source: "principes"
+date: ""
 statut: "brouillon"
 doublon: false
 sujet: "Le Kamasutra est mal compris en occident : ce n'est pas un catalogue de positions acrobatiques mais un traité de vie dont la dimension sexuelle vise l'exploration subtile des sensations. Les positions sont des moyens, pas des fins — la perception du ressenti est le vrai but."

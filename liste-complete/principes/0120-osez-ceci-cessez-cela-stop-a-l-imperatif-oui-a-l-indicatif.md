@@ -1,6 +1,7 @@
 ---
 titre: "Stop à l'impératif, oui à l'indicatif"
 source: "principes"
+date: ""
 statut: "brouillon"
 doublon: false
 sujet: "L'auteur en a assez des injonctions — « Osez ceci », « Cessez cela » — qui sont autant de violences faites à l'écoute de soi. Ce qu'il propose à la place : non pas se forcer à aller mieux, mais simplement s'écouter, sans même se forcer à se faire du bien."

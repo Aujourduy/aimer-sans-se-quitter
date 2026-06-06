@@ -1,6 +1,7 @@
 ---
 titre: "Êtes-vous certaine de vouloir un prince charmant ?"
 source: "principes"
+date: ""
 statut: "brouillon"
 doublon: false
 sujet: "Derrière l'imaginaire du « prince charmant » se cache une posture de princesse en manque ; mieux vaut s'incarner en Reine, déjà riche de son royaume intérieur, qui offre à un Roi le privilège d'être choisi."

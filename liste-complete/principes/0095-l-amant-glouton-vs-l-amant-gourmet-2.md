@@ -1,6 +1,7 @@
 ---
 titre: "L'amant glouton vs l'amant gourmet (2) : l'art d'initier"
 source: "principes"
+date: ""
 statut: "brouillon"
 doublon: false
 sujet: "Suite sur la façon d'accompagner un partenaire vers une sexualité plus sensible : jouer le rôle d'initiatrice sans l'infantiliser, contourner les résistances masculines en passant par un intermédiaire masculin, et créer la motivation avant d'explorer de nouvelles pratiques."

@@ -1,6 +1,7 @@
 ---
 titre: "Quel est le premier pas vers une sexualité sensible ?"
 source: "principes"
+date: ""
 statut: "à-terminer"
 doublon: false
 sujet: ""

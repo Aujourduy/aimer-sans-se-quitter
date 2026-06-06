@@ -1,6 +1,7 @@
 ---
 titre: "Le crocodile qui avait peur de la gazelle"
 source: "principes"
+date: ""
 statut: "brouillon"
 doublon: false
 sujet: "Une métaphore personnelle : les blessures passées nous font surestimer le danger présent parce que nous mesurons la menace d'aujourd'hui avec la cicatrice d'hier. En grandissant, nous avons changé — la gazelle géante de notre souvenir n'existe plus."

@@ -1,6 +1,7 @@
 ---
 titre: "Faire confiance à 100 % est prétentieux et irrespectueux"
 source: "principes"
+date: ""
 statut: "brouillon"
 doublon: false
 sujet: "Accorder une confiance totale à l'autre suppose qu'on le connaît parfaitement et qu'il se comportera comme une machine — ce qui est illusoire et nie sa liberté. La vraie rencontre passe par la connexion profonde à soi-même, non par la fusion avec l'autre."

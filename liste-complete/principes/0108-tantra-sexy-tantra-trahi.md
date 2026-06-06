@@ -1,6 +1,7 @@
 ---
 titre: "Tantra sexy, tantra trahi"
 source: "principes"
+date: ""
 statut: "brouillon"
 doublon: false
 sujet: "L'auteur dénonce la contradiction entre le discours des formations tantriques — conscience, sacré, liberté d'être — et leur marketing basé sur des images de corps parfaits et sexy, qui reproduit exactement la dictature du physique dont le tantra prétend nous libérer."

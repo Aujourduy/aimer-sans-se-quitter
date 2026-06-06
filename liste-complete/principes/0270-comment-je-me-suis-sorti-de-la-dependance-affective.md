@@ -1,6 +1,7 @@
 ---
 titre: "Comment je me suis sorti de la dépendance affective"
 source: "principes"
+date: ""
 statut: "brouillon"
 doublon: false
 sujet: "Face à un pic de jalousie et de sentiment d'abandon, l'auteur découvre un processus intérieur combinant méditation et thérapie brève qui lui permet de traverser la douleur jusqu'à la transformer en gratitude — un chemin vers la libération de la dépendance affective."

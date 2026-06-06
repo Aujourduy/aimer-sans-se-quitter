@@ -1,6 +1,7 @@
 ---
 titre: "Il ne s'agit pas de nourrir le désir"
 source: "principes"
+date: ""
 statut: "brouillon"
 doublon: false
 sujet: "Le désir n'a pas besoin d'être nourri de l'extérieur : il est naturellement grand et demande surtout qu'on lui retire ses entraves — manque d'authenticité, de liberté, de respect. S'aimer suffisamment permet de désirer librement sans dépendre de l'amour de l'autre."

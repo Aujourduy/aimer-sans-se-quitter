@@ -1,6 +1,7 @@
 ---
 titre: "On n'obtient pas ce qu'on veut, on obtient ce qu'on est"
 source: "principes"
+date: ""
 statut: "brouillon"
 doublon: false
 sujet: "La sexualité sensible ne s'obtient pas par le seul désir ni la seule volonté : elle est le résultat de ce qu'on est devenu — honnête, courageux, capable d'accueillir ses émotions. Vouloir sans s'entraîner mène à la blessure, comme courir un marathon sans préparation."

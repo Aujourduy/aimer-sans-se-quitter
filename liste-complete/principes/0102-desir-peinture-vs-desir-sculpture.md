@@ -1,6 +1,7 @@
 ---
 titre: "Désir peinture vs désir sculpture"
 source: "principes"
+date: ""
 statut: "brouillon"
 doublon: false
 sujet: "Il existe deux façons de nourrir le désir : l'approche « peinture » qui ajoute des artifices pour susciter l'attraction, et l'approche « sculpture » qui retire les masques et les non-dits pour laisser apparaître la connexion de cœur à cœur déjà présente."

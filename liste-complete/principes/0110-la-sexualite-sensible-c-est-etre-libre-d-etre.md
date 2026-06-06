@@ -1,6 +1,7 @@
 ---
 titre: "La sexualité sensible : être libre d'être"
 source: "principes"
+date: ""
 statut: "brouillon"
 doublon: false
 sujet: "L'essence de la sexualité sensible tient en une expression : être libre d'être. Libre d'être avec ses envies, ses peurs, ses émotions — sans avoir besoin de paraître. La société nous a conditionnés à faire semblant d'être mieux que ce que nous sommes, au détriment de l'authenticité."

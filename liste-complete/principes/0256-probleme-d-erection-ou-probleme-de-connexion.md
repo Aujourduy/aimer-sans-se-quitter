@@ -1,6 +1,7 @@
 ---
 titre: "Problème d'érection ou problème de connexion ?"
 source: "principes"
+date: ""
 statut: "brouillon"
 doublon: false
 sujet: "À travers des expériences personnelles, l'auteur montre que l'absence d'érection avec une partenaire est souvent liée à un manque d'authenticité dans l'échange plutôt qu'à un problème physiologique : le pénis comme « mesureur d'authenticité »."

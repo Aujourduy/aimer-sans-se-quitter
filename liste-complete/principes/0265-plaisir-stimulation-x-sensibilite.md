@@ -1,6 +1,7 @@
 ---
 titre: "Plaisir = Stimulation × Sensibilité"
 source: "principes"
+date: ""
 statut: "brouillon"
 doublon: false
 sujet: "Le plaisir dépend autant de la stimulation que de la sensibilité intérieure : développer sa sensibilité permet d'atteindre une intensité de plaisir bien supérieure à ce que la seule multiplication des stimulations peut offrir."

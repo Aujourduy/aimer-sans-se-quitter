@@ -1,6 +1,7 @@
 ---
 titre: "Merci de m'avoir quitté"
 source: "principes"
+date: ""
 statut: "brouillon"
 doublon: false
 sujet: "La rupture, vécue comme une trahison par celui qui est quitté, recèle trois cadeaux souvent invisibles sur le moment : retrouver de la liberté, accéder à la vérité de l'incompatibilité, et reconnaître le courage de l'autre à nommer la fin."
