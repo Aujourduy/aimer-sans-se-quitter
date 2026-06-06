@@ -1,22 +1,19 @@
 ---
-titre: "Bonjour,"
+titre: "Devise : Vérité, Liberté, Sexualité"
 source: "corpus"
 date: "7 janvier 2022"
-statut: "brouillon"
+statut: "à-terminer"
 doublon: false
-sujet: ""
-motscles: []
-enrichi: false
+sujet: "Courte présentation de la devise de l'auteur en trois mots : Vérité, Liberté, Sexualité."
+motscles: [vérité, liberté, sexualité sensible]
+enrichi: true
 ---
-J accompagne les personnes évoluant vers une sexualité authentique et sensible. 
+J'accompagne les personnes évoluant vers une sexualité authentique et sensible.
 
 Ma devise :
 
-Ose ta Vérité 
-Cultive ta Liberté 
-Déploie ta Sexualité 
+Ose ta Vérité
+Cultive ta Liberté
+Déploie ta Sexualité
 
-Belle journée 
-
-@[100070375365062:2048:Duy Dang]
-Www.sexualite-sensible.fr
+Belle journée

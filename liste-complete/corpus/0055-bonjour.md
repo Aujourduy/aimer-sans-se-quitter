@@ -1,41 +1,15 @@
 ---
-titre: "Bonjour,"
+titre: "Lancement du groupe « Les Amants Sensibles » — présentation et inscription"
 source: "corpus"
 date: "15 octobre 2021"
-statut: "brouillon"
+statut: "à-terminer"
 doublon: false
-sujet: ""
-motscles: []
-enrichi: false
+sujet: "Présentation du groupe privé Facebook « Les Amants Sensibles », communauté gratuite dédiée à une sexualité authentique et sensible, ouverte à plusieurs pays francophones, avec les modalités d'inscription."
+motscles: [communauté, amants sensibles, inscription, sexualité sensible]
+enrichi: true
 ---
-Voici les statistiques des personnes inscrites sur le groupe privé facebook "Les Amants Sensibles". C'est une communauté de partages amicales, sensuelles et rencontres amoureuses pour les personnes qui aspirent à une sexualité authentique et sensible que j'ai créé il y a deux semaines.
+Voici les statistiques des personnes inscrites sur le groupe privé Facebook « Les Amants Sensibles ». C'est une communauté de partages amicaux, sensuels et de rencontres amoureuses pour les personnes qui aspirent à une sexualité authentique et sensible que j'ai créée il y a deux semaines.
 
-Il y a aussi de membres en Suisse, Belgique, Tunisie et Québec.
+Il y a aussi des membres en Suisse, Belgique, Tunisie et Québec.
 
 C'est complètement gratuit.
-
-Pour vous inscrire :
-
-1/ Like le post et mets en commentaire "Bonne idée".  Oui, dans le groupe, on se tutoie parce que s'y livre de manière sincère et bienveillante.
-
-2/ Me demander en ami sur mon profil pro https://www.facebook.com/amour.charnel.sensible/
-
-3/ Vas sur www.les-amants-sensibles.fr et choisir le formulaire de ton pays et le remplir.
-
-4/ Demande ton adhésion sur le groupe en prenant soin de bien répondre aux questions. Je valide les demandes UNIQUEMENT si la personnes a pris soin de répondre aux questions. https://www.facebook.com/groups/les.amants.sensibles
-
-Sensiblement,
-
-@[100070375365062:2048:Duy Dang]
-Frère-Révélateur de Sexualité sensible
-
--------------------------------------------------------------------
-PS : Pour les personnes intéressées par un accompagnement pour atteindre une sexualité authentique et sensible, contactez-moi en message privé.
-
-PPS : Quelques infos complémentaires
-
-1/ Pour la lettre d'infos de mon actualité, les prochains séminaires, les accompagnements individuels ou collectifs,  inscrivez-vous  😉sur www.sexualite-sensible.fr
-
-2/ Pour lire mes autres posts 😘, abonnez-vous à sur mon profil pro  https://www.facebook.com/amour.charnel.sensible/
-
-3/ Si vous voulez m'envoyer un message sympa ou/et une question sur mes accompagnements individuels et collectifs, contactez-moi directement par Messenger 😃.

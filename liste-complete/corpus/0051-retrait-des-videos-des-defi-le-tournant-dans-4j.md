@@ -1,11 +1,11 @@
 ---
-titre: "Retrait des vidéos des Défi Le tournant dans 4j !"
+titre: "Annonce — Retrait des vidéos du défi « Le Tournant »"
 source: "corpus"
 date: "9 octobre 2021"
-statut: "brouillon"
+statut: "à-terminer"
 doublon: false
-sujet: ""
-motscles: []
-enrichi: false
+sujet: "Annonce de la prochaine suppression des vidéos du défi « Le Tournant », invitant à les regarder avant leur retrait."
+motscles: [défi, vidéo, le tournant, annonce]
+enrichi: true
 ---
-Profitez-en pour si vous ne l'avez pas encore regardé.
+Profitez-en si vous ne l'avez pas encore regardé.

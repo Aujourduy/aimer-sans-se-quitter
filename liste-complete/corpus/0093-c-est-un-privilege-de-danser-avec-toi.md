@@ -1,64 +1,49 @@
 ---
-titre: "C'EST UN PRIVILÈGE DE DANSER AVEC TOI"
+titre: "Ce fut un privilège de danser avec toi"
 source: "corpus"
 date: "22 novembre 2021"
 statut: "brouillon"
 doublon: false
-sujet: ""
-motscles: []
-enrichi: false
+sujet: "Texte méditatif sur la danse en conscience : l'auteur décrit comment il approche une danseuse avec la même attention, le même respect et la même absence d'attente que dans une rencontre intime sensible — écoute, présence, liberté mutuelle, lâcher-prise progressif."
+motscles: [danse, présence, écoute, désir, lâcher-prise, liberté]
+enrichi: true
 ---
-La danse est un réel espace de pratique méditative pour moi. Écouter chaque partie de mon corps, les doigts, la hanche, la tête. Percevoir une tension, une gène, le début d’un mouvement. C’est un moment d’attention, solennel, précieux. Alors toutes les interactions avec les autres personnes le deviennent aussi : solennelles et précieuses.
- 
-Au détour d’un regard, d’un geste, peut-être qu’une envie d’aller vers toi apparaît.
- 
-Il a une attirance physique envers toi, un désir pour toi. Alors je redouble d’attention, d’écoute. Des peurs surgissent. Peur d’être jugé par toi, peur d’être rejeté par toi, peur de condamné par les autres. Alors j’écoute profondément ces peurs. Je danse avec. J’y respire. Je bouge dedans. En conscience. Dans l’écoute. Dans l’écoute profonde de cet instant.
- 
-Avant de me rapprocher de toi, je te fais ma révérence intérieurement parce que toi aussi tu es dans un espace précieux et sacré. Tu es là pour ton plaisir, pour te nourrir. Tu n’es pas venu pour les autres, il n’y a plus de code social ni de politesse. Ici chacun est là pour soi. C’est ton temps. C’est ta danse. C’est ton monde.
- 
-Avant de venir à toi, je reste loin de toi. Je suis là. A 2 mètres. Je ne te regarde pas. C’est trop intrusif. Te regarder risque de changer ta danse malgré toi. Le regard est directif, sélectif, actif. L’écoute est passif, accueillant, plus ouvert.
- 
-J’écoute. Ta danse, ta maison. Y-a-t-il assez de place pour accueillir ma danse ou alors ton espace est déjà plein de choses ? Il n’y a pas d’urgence. Je n’ai pas besoin de venir chez toi. Je n’ai pas soif. Je n’ai pas faim. C’est une visite amicale. Peut-être que ce n’est pas le moment alors je continuerai mon voyage.
- 
-Maintenant je danse un peu avec toi, toujours de loin. Sans te regarder. Sans même être face à toi. Surtout pas. L’énergie de mon cœur n’est pas vers toi mais à côté de toi. Mon regard, mon cœur, mon désir, rien n’est vers toi mais tout est ouvert à toi. Je ne t’envoie rien. Je reçois tout de toi. Je danse avec toi subtilement. Je ne singe pas tes gestes. Je ne copie rien de toi. Je m’inspire de ta danse. Je réponds à ta danse. A ma façon. Avec ma propre danse.
- 
-Il y en a qui disent qu’il faut faire clairement la demande pour savoir si une personne veut danser avec soi. Avec toi, je ne le ferai pas. Je respecte trop ta danse, ton espace. Te poser la question, c’est te demander une réponse. Je ne te demanderai rien. Te poser une question, c’est te demander d’interrompre ta danse pour me répondre. Non, je ne veux pas interrompre ta relation à ta danse. Ne rien interrompre. Préserver la continuité, la fluidité, ta fluidité. Tu es libre de me dire si tu veux danser avec moi ou pas. Peut-être que tu as besoin de temps. Je ne sais pas. Je suis libre de mon envie de danser avec toi. Tout est léger, tout est joyeux. Si nous ne dansons pas ensemble, j’aurai déjà dansé avec mes peurs. C’est déjà un cadeau.
- 
+La danse est un réel espace de pratique méditative pour moi. Écouter chaque partie de mon corps, les doigts, la hanche, la tête. Percevoir une tension, une gêne, le début d'un mouvement. C'est un moment d'attention, solennel, précieux. Alors toutes les interactions avec les autres personnes le deviennent aussi : solennelles et précieuses.
+
+Au détour d'un regard, d'un geste, peut-être qu'une envie d'aller vers toi apparaît.
+
+Il y a une attirance physique envers toi, un désir pour toi. Alors je redouble d'attention, d'écoute. Des peurs surgissent. Peur d'être jugé par toi, peur d'être rejeté par toi, peur d'être condamné par les autres. Alors j'écoute profondément ces peurs. Je danse avec. J'y respire. Je bouge dedans. En conscience. Dans l'écoute. Dans l'écoute profonde de cet instant.
+
+Avant de me rapprocher de toi, je te fais ma révérence intérieurement parce que toi aussi tu es dans un espace précieux et sacré. Tu es là pour ton plaisir, pour te nourrir. Tu n'es pas venu pour les autres, il n'y a plus de code social ni de politesse. Ici chacun est là pour soi. C'est ton temps. C'est ta danse. C'est ton monde.
+
+Avant de venir à toi, je reste loin de toi. Je suis là. A 2 mètres. Je ne te regarde pas. C'est trop intrusif. Te regarder risque de changer ta danse malgré toi. Le regard est directif, sélectif, actif. L'écoute est passive, accueillante, plus ouverte.
+
+J'écoute. Ta danse, ta maison. Y a-t-il assez de place pour accueillir ma danse ou alors ton espace est déjà plein de choses ? Il n'y a pas d'urgence. Je n'ai pas besoin de venir chez toi. Je n'ai pas soif. Je n'ai pas faim. C'est une visite amicale. Peut-être que ce n'est pas le moment alors je continuerai mon voyage.
+
+Maintenant je danse un peu avec toi, toujours de loin. Sans te regarder. Sans même être face à toi. Surtout pas. L'énergie de mon cœur n'est pas vers toi mais à côté de toi. Mon regard, mon cœur, mon désir, rien n'est vers toi mais tout est ouvert à toi. Je ne t'envoie rien. Je reçois tout de toi. Je danse avec toi subtilement. Je ne singe pas tes gestes. Je ne copie rien de toi. Je m'inspire de ta danse. Je réponds à ta danse. A ma façon. Avec ma propre danse.
+
+Il y en a qui disent qu'il faut faire clairement la demande pour savoir si une personne veut danser avec soi. Avec toi, je ne le ferai pas. Je respecte trop ta danse, ton espace. Te poser la question, c'est te demander une réponse. Je ne te demanderai rien. Te poser une question, c'est te demander d'interrompre ta danse pour me répondre. Non, je ne veux pas interrompre ta relation à ta danse. Ne rien interrompre. Préserver la continuité, la fluidité, ta fluidité. Tu es libre de me dire si tu veux danser avec moi ou pas. Peut-être que tu as besoin de temps. Je ne sais pas. Je suis libre de mon envie de danser avec toi. Tout est léger, tout est joyeux. Si nous ne dansons pas ensemble, j'aurai déjà dansé avec mes peurs. C'est déjà un cadeau.
+
 Entends-tu ma danse ? Perçois-tu mon envie de danser avec toi ?
- 
-Ça y est. Je sens que ton mouvement répond à mon geste. Est-ce vraiment une réponse ou une simple coïncidence. Je ne sais pas. Je ne suis pas sûr. J’attends encore un peu. Dans l’ouverture de tout est possible. Tu as compris et tu veux danser avec moi. Ou alors tu danses ta danse et ce n’était qu’un hasard. J’écoute ma danse, mes peurs, mes questions, mes doutes et mes envies. J’écoute l’intensité de ce moment d'incertitude. J’écoute profondément l’intérieur de moi.
- 
-Maintenant, il y a eu plusieurs réponses de ta danse à ma danse. Oui, je crois que tu danses avec moi. Je ne suis pas sûr encore alors je fais des propositions. Les perçois-tu ? Est-ce que tu y réponds ? Oui, tu y réponds. Encore et encore. Nous sommes bien en train de danser ensemble. A grande distance. Nous allons nous rapprocher. Lentement. Doucement. Pour préserver la danse de chacun. Ne rien brusquer. Tout est fluide. Tout est lent à l’intérieur de nous. Même si à l’extérieur, nous pouvons danser le chaos comme des excités, à l’intérieur il y a présence, il y a écoute, il y a accueil l’un de l’autre. Nous ne nous saluerons pas, nous avons déjà passé du temps ensemble. Nous sommes déjà intimes. Je ne te regarde toujours pas. La vision de tes yeux m’y plongera et je ne veux pas perdre cette écoute, cette présence en moi.
- 
-Nous dansons ensemble. Nous partageons nos espaces, nos volumes. Mes bras visitent les creux formés par ta danse. Mes formes creuses reçoivent tes mains, ta ta tête. Ne pas se toucher. Préserver l’intensité du moment. Nos corps sont proches mais il reste une distance entre nous. Il reste une vingtaine de centimètres entre nous. Pas que nous ayons peur du contact. C’est simplement que nous prenons notre temps. Et puis, à vrai dire nous n’avons pas besoin de contact entre nos corps parce que nous sommes déjà en contact avec nos danses. Je sens ton désir à ta respiration, à tes mouvements. Nos danses s’entremêlent. Nos danses se caressent.
- 
-Notre danse se développe, se cherche. Comment exprimer le plaisir d’être ensemble, le désir l’un pour l’autre ? C’est une écoute de chaque seconde. Qu’y a-t-il ici maintenant ? Où est mon désir ? Où est ma peur ? Où est mon plaisir ? Où est ma gêne ? Où est ma force d’assumer cette danse parmi la foule ? Où est la grâce de te rencontrer ? La gratitude de recevoir ta danse, ta confiance et ta présence.
- 
-Progressivement, inexorablement nos corps viennent à se toucher. Ma main qui se pose sur ton dos. Mon dos qui se pose sur ta main. Des contacts qui arrivent progressivement. De plus en plus souvent. Puis le contact devient permanent. Je te sens. Je sens que tu me sens. Nous dansons dans ce désir mutuel. Dans la liberté du moment. Parce que c’est une danse. Juste une danse. Rien qu’une danse. Avec ça, rien. Après ça, rien. Je ne te demanderai rien. Je n’attendrai rien de toi. Tu le sais. Tu le sens. C’est pour ça que tu te lâches, que tu t’abandonnes complètement. Parce que tu as confiance. Parce que tu es dans l’ouverture. Il n’y a pas d’enjeu. Il n’y a rien à perdre. Tu sais que tu ne vas pas me perdre … parce que tu ne m’as jamais eu. Ni avant, ni après. Je suis libre. Alors toi aussi tu es libre.
- 
-Ta liberté, je la sens. Parce que je sens ton abandon sur mon corps. Je sens le relâchement de ton poids. Juste par ton laisser aller, tu me donnes quelque chose de précieux. Ta totale confiance. Ton total relâchement. Dans le désir. Dans le plaisir. Quelque chose que tu n’as peut-être jamais pu vivre avec un mari, un amant, un chéri … parce qu’il y avait de la peur, il y avait un enjeu. Avec lui, il y avait une tension, même minime, vers le futur. Une tension due au passé. Ici, avec moi il n’y a que le présent, rien d’autre. Absolument rien d’autre alors tu peux t’abandonner à toute l’intensité du présent. Dans le ressenti. Dans l’écoute profonde.
- 
-Notre danse va durer un certain temps. Le temps que la musique change. Le temps qu’une consigne du prof arrive. Le temps que l’intensité devienne trop forte. Alors notre danse s’agrandit, s’agrandit encore. Le corps dansé devient petit à petit deux corps dansant. Encore un dernier geste, un dernier contact, une dernière respiration pour se dire au-revoir, pour se dire adieu. Tout va bien. Rien ne manque. Rien ne manquera parce que tout est bien.
- 
-Bien sûr, nous allons passer à autres choses. Tellement de choses autres. J’oublierai cette danse. J’oublierai cet instant. Ma mémoire n’est pas assez précise pour se rappeler de tout. Mon cœur non plus. Mais c’est inutile parce que quelque chose en moi a déjà changé. Quelque chose DE moi a changé. Cet instant est comme une goutte d’eau dans un lac. On ne voit jamais la goutte d’eau du lac. On ne ramasse jamais une goutte d’eau dans un lac … mais il n’y a pas de lac sans gouttes d’eau. Il n’y a pas de danse sans ces échanges. Il n’y a pas de vie sans moments de vie.
- 
-C’est juste que parfois j’ai l’esprit plus clair pour reconnaître une goutte d’eau dans un lac. Grâce à la méditation. Grâce à la danse. Grâce à toi.
- 
+
+Ça y est. Je sens que ton mouvement répond à mon geste. Est-ce vraiment une réponse ou une simple coïncidence ? Je ne sais pas. Je ne suis pas sûr. J'attends encore un peu. Dans l'ouverture de tout est possible. Tu as compris et tu veux danser avec moi. Ou alors tu danses ta danse et ce n'était qu'un hasard. J'écoute ma danse, mes peurs, mes questions, mes doutes et mes envies. J'écoute l'intensité de ce moment d'incertitude. J'écoute profondément l'intérieur de moi.
+
+Maintenant, il y a eu plusieurs réponses de ta danse à ma danse. Oui, je crois que tu danses avec moi. Je ne suis pas sûr encore alors je fais des propositions. Les perçois-tu ? Est-ce que tu y réponds ? Oui, tu y réponds. Encore et encore. Nous sommes bien en train de danser ensemble. A grande distance. Nous allons nous rapprocher. Lentement. Doucement. Pour préserver la danse de chacun. Ne rien brusquer. Tout est fluide. Tout est lent à l'intérieur de nous. Même si à l'extérieur, nous pouvons danser le chaos comme des excités, à l'intérieur il y a présence, il y a écoute, il y a accueil l'un de l'autre. Nous ne nous saluerons pas, nous avons déjà passé du temps ensemble. Nous sommes déjà intimes. Je ne te regarde toujours pas. La vision de tes yeux m'y plongera et je ne veux pas perdre cette écoute, cette présence en moi.
+
+Nous dansons ensemble. Nous partageons nos espaces, nos volumes. Mes bras visitent les creux formés par ta danse. Mes formes creuses reçoivent tes mains, ta tête. Ne pas se toucher. Préserver l'intensité du moment. Nos corps sont proches mais il reste une distance entre nous. Il reste une vingtaine de centimètres entre nous. Pas que nous ayons peur du contact. C'est simplement que nous prenons notre temps. Et puis, à vrai dire nous n'avons pas besoin de contact entre nos corps parce que nous sommes déjà en contact avec nos danses. Je sens ton désir à ta respiration, à tes mouvements. Nos danses s'entremêlent. Nos danses se caressent.
+
+Notre danse se développe, se cherche. Comment exprimer le plaisir d'être ensemble, le désir l'un pour l'autre ? C'est une écoute de chaque seconde. Qu'y a-t-il ici maintenant ? Où est mon désir ? Où est ma peur ? Où est mon plaisir ? Où est ma gêne ? Où est ma force d'assumer cette danse parmi la foule ? Où est la grâce de te rencontrer ? La gratitude de recevoir ta danse, ta confiance et ta présence.
+
+Progressivement, inexorablement nos corps viennent à se toucher. Ma main qui se pose sur ton dos. Mon dos qui se pose sur ta main. Des contacts qui arrivent progressivement. De plus en plus souvent. Puis le contact devient permanent. Je te sens. Je sens que tu me sens. Nous dansons dans ce désir mutuel. Dans la liberté du moment. Parce que c'est une danse. Juste une danse. Rien qu'une danse. Avec ça, rien. Après ça, rien. Je ne te demanderai rien. Je n'attendrai rien de toi. Tu le sais. Tu le sens. C'est pour ça que tu te lâches, que tu t'abandonnes complètement. Parce que tu as confiance. Parce que tu es dans l'ouverture. Il n'y a pas d'enjeu. Il n'y a rien à perdre. Tu sais que tu ne vas pas me perdre… parce que tu ne m'as jamais eu. Ni avant, ni après. Je suis libre. Alors toi aussi tu es libre.
+
+Ta liberté, je la sens. Parce que je sens ton abandon sur mon corps. Je sens le relâchement de ton poids. Juste par ton laisser-aller, tu me donnes quelque chose de précieux. Ta totale confiance. Ton total relâchement. Dans le désir. Dans le plaisir. Quelque chose que tu n'as peut-être jamais pu vivre avec un mari, un amant, un chéri… parce qu'il y avait de la peur, il y avait un enjeu. Avec lui, il y avait une tension, même minime, vers le futur. Une tension due au passé. Ici, avec moi il n'y a que le présent, rien d'autre. Absolument rien d'autre alors tu peux t'abandonner à toute l'intensité du présent. Dans le ressenti. Dans l'écoute profonde.
+
+Notre danse va durer un certain temps. Le temps que la musique change. Le temps qu'une consigne du prof arrive. Le temps que l'intensité devienne trop forte. Alors notre danse s'agrandit, s'agrandit encore. Le corps dansé devient petit à petit deux corps dansant. Encore un dernier geste, un dernier contact, une dernière respiration pour se dire au revoir, pour se dire adieu. Tout va bien. Rien ne manque. Rien ne manquera parce que tout est bien.
+
+Bien sûr, nous allons passer à autre chose. Tellement de choses autres. J'oublierai cette danse. J'oublierai cet instant. Ma mémoire n'est pas assez précise pour se rappeler de tout. Mon cœur non plus. Mais c'est inutile parce que quelque chose en moi a déjà changé. Quelque chose DE moi a changé. Cet instant est comme une goutte d'eau dans un lac. On ne voit jamais la goutte d'eau du lac. On ne ramasse jamais une goutte d'eau dans un lac… mais il n'y a pas de lac sans gouttes d'eau. Il n'y a pas de danse sans ces échanges. Il n'y a pas de vie sans moments de vie.
+
+C'est juste que parfois j'ai l'esprit plus clair pour reconnaître une goutte d'eau dans un lac. Grâce à la méditation. Grâce à la danse. Grâce à toi.
+
 Ce fut un privilège de danser avec toi.
- 
+
 Texte dédié à toutes les femmes qui ont partagé avec moi ces danses divines et aux hommes et femmes qui veulent les vivre.
-
-@[100070375365062:2048:Duy Dang]
-Inspirateur de Sexualité sensible
-www.sexualite-sensible.fr
-
--------------------------------------------------------------------
-*** LES INFOS ***
-
-1/ Tu as depuis longtemps une envie irrésistible et profonde de vivre les instants de grâce d'une sexualité authentique et sensible ? C'est par ici :  www.sexualite-sensible.fr
-
-2/ Pour recevoir des conseils sur la sexualité sensible, connaître mon actualité,  inscris-toi  😉 sur https://forms.gle/2bDWT7vuJUGqgTvJ6
-
-3/ Pour lire mes autres posts 😘, abonne-toi à sur mon profil pro  https://www.facebook.com/amour.charnel.sensible
-
-4/ Mon groupe privé de partages amicaux, sensuels et charnels entre personnes désireuses d'une sexualité authentique et sensible : https://www.facebook.com/groups/les.amants.sensibles

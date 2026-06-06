@@ -1,29 +1,15 @@
 ---
-titre: "Longtemps j'ai cru que j'avais besoin de recevoir de l'amour."
+titre: "Donner de l'amour nourrit plus que d'en recevoir"
 source: "corpus"
 date: "22 octobre 2021"
 statut: "brouillon"
 doublon: false
-sujet: ""
-motscles: []
-enrichi: false
+sujet: "L'auteur réalise que donner de l'amour est plus nourrissant que d'en recevoir, et que cela est encore plus vrai dans la sexualité."
+motscles: [amour, donner, sexualité sensible, présence, réciprocité]
+enrichi: true
 ---
+Longtemps j'ai cru que j'avais besoin de recevoir de l'amour.
+
 Je réalise maintenant qu'en donner est encore plus nourrissant.
 
 Et c'est encore plus vrai pour la sexualité.
-
-Sensiblement,
-
-Duy Dang
-Frère-Révélateur de Sexualité sensible
-
--------------------------------------------------------------------
-PS : Pour les personnes intéressées par un accompagnement pour atteindre une sexualité authentique et sensible, contactez-moi en message privé.
-
-PPS : Quelques infos complémentaires
-
-1/ Pour la lettre d'infos de mon actualité, les prochains séminaires, les accompagnements individuels ou collectifs,  inscrivez-vous  😉sur www.sexualite-sensible.fr
-
-2/ Pour lire mes autres posts 😘, abonnez-vous à sur mon profil pro  https://www.facebook.com/amour.charnel.sensible/
-
-3/ Si vous voulez m'envoyer un message sympa ou/et une question sur mes accompagnements individuels et collectifs, contactez-moi directement par Messenger 😃.

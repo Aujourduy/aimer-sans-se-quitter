@@ -1,15 +1,15 @@
 ---
-titre: "Souhaitons la bienvenue aux nouveaux membres :"
+titre: "Bienvenue aux nouveaux membres (31 octobre 2021) — liste courte"
 source: "corpus"
 date: "31 octobre 2021"
-statut: "brouillon"
+statut: "à-terminer"
 doublon: false
-sujet: ""
-motscles: []
-enrichi: false
+sujet: "Message de bienvenue aux nouveaux membres rejoignant le groupe des amants sensibles le 31 octobre 2021."
+motscles: [communauté, amants sensibles, bienvenue]
+enrichi: true
 ---
-@[615361442:2048:Juliane Braasch],
-@[100000492161086:2048:Frédéric Tantra Coaching Emoi],
-@[100068718967505:2048:Harry Tubers],
-@[100037866242061:2048:Fil Le Vent],
-@[100001225270322:2048:Nathalie Sadok]
+Juliane Braasch,
+Frédéric Tantra Coaching Emoi,
+Harry Tubers,
+Fil Le Vent,
+Nathalie Sadok

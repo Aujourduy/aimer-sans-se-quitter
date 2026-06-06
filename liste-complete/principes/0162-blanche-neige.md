@@ -1,17 +1,18 @@
 ---
-titre: "Blanche Neige"
+titre: "Notes de travail : Blanche-Neige et les espaces de liberté"
 source: "principes"
-statut: "brouillon"
+date: ""
+statut: "à-terminer"
 doublon: false
-sujet: ""
-motscles: []
-enrichi: false
+sujet: "Notes fragmentaires reliant le conte de Blanche-Neige à une réflexion sur l'espace de liberté versus les méthodes tantra ou taoïstes, et sur les trois temporalités."
+motscles: [liberté, méthode, transformation, émotion, espace intérieur]
+enrichi: true
 ---
-Nains \= mi homme  
+Nains = mi-homme
 Ramener au royaume du prince, chute, recrache la pomme
 
-Enseignement : Espace de liberté \>\>\> méthode tantra, taoiste ou autre
+Enseignement : espace de liberté >>> méthode tantra, taoïste ou autre
 
-technique de thérapies, transformation \>\>\> émotion
+Technique de thérapies, transformation >>> émotion
 
 Moi 3 temporalités

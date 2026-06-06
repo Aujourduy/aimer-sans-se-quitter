@@ -1,11 +1,11 @@
 ---
-titre: "Voici le challenge proposé par @[759879872:2048:Julien Musy] ce matin. Un pas à la fois, j'avance vers l'objectif :-)"
+titre: "Remerciement à la Team après un challenge"
 source: "corpus"
 date: "16 septembre 2021"
-statut: "brouillon"
+statut: "à-terminer"
 doublon: false
-sujet: ""
-motscles: []
-enrichi: false
+sujet: "Bref message de remerciement à une équipe après un challenge, sans développement de fond."
+motscles: [accompagnement, groupe]
+enrichi: true
 ---
-Merci à la Team
+Merci à la Team.

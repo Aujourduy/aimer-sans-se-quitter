@@ -1,10 +1,11 @@
 ---
-titre: "Mes maitres.ses en sexualité sensible"
+titre: "Mes maîtres en sexualité sensible"
 source: "principes"
+date: ""
 statut: "à-terminer"
 doublon: false
 sujet: ""
 motscles: []
-enrichi: false
+enrichi: true
 ---
 

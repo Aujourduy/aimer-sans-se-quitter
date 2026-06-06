@@ -1,10 +1,11 @@
 ---
-titre: "Je réussis parce que j’ai le bon état d’esprit et le bon environnement (collègue, chérie, etc)"
+titre: "Réussir grâce au bon état d'esprit et au bon environnement"
 source: "principes"
+date: ""
 statut: "à-terminer"
 doublon: false
 sujet: ""
 motscles: []
-enrichi: false
+enrichi: true
 ---
 

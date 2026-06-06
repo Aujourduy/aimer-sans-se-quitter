@@ -1,27 +1,11 @@
 ---
-titre: "UNE ERREUR QUE J'AI TRAINEE LONGTEMPS"
+titre: "Une erreur que j'ai traînée longtemps : vouloir être aimé sans se montrer"
 source: "corpus"
 date: "3 décembre 2021"
 statut: "brouillon"
 doublon: false
-sujet: ""
-motscles: []
-enrichi: false
+sujet: "L'auteur identifie une contradiction qu'il a longtemps vécue : désirer être aimé pour ce qu'il est tout en refusant de se montrer tel qu'il est — une forme d'honnêteté manquante envers soi-même et l'autre."
+motscles: [authenticité, amour de soi, vulnérabilité, masque, sexualité sensible]
+enrichi: true
 ---
-Je voulais bien être aimé pour qui j'étais mais je ne voulais pas me montrer tel que j'étais. Maintenant, je trouve ça tellement bizarre de faire ça...
-
-Duy Dang
-Inspirateur de Sexualité sensible
-www.sexualite-sensible.fr
-
--------------------------------------------------------------------
-
-*** PLUS D'INFOS ***
-
-1/ Tu as depuis longtemps une envie irrésistible et profonde de vivre les instants de grâce d'une sexualité authentique et sensible ? C'est par ici :  www.sexualite-sensible.fr
-
-2/ Pour recevoir des conseils sur la sexualité sensible, connaître mon actualité,  inscris-toi  😉 sur www.conseils-pour-amants-sensibles.fr
-
-3/ Pour lire mes autres posts 😘, abonne-toi à mon profil pro https://www.facebook.com/inspirateur.des.amants.sensibles
-
-4/ Mon groupe privé de partages amicaux, sensuels et charnels entre personnes désireuses d'une sexualité authentique et sensible : www.la-tribu-des-amants-sensibles.fr
+Je voulais bien être aimé pour qui j'étais mais je ne voulais pas me montrer tel que j'étais. Maintenant, je trouve ça tellement bizarre de faire ça…

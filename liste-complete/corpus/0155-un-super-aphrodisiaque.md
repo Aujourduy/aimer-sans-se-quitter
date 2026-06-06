@@ -1,30 +1,12 @@
 ---
-titre: "UN SUPER APHRODISIAQUE"
+titre: "Un super aphrodisiaque : ne rien attendre de sa partenaire"
 source: "corpus"
 date: "6 décembre 2021"
 statut: "brouillon"
 doublon: false
-sujet: ""
-motscles: []
-enrichi: false
+sujet: "L'auteur révèle avoir longtemps sous-estimé le pouvoir aphrodisiaque de ne rien attendre de sa partenaire : offrir une liberté totale sans attente de retour est l'une des postures les plus puissantes dans la sexualité sensible."
+motscles: [attente, liberté, désir, lâcher-prise, sexualité sensible]
+enrichi: true
 ---
 J'ai longtemps sous-estimé l'effet de ne rien attendre de ma partenaire.
 Cette liberté offerte est un très puissant aphrodisiaque.
-
-Cela ne parlera sans doute pas à tout le monde, mais si tu t'y reconnais, donne-moi ton avis.  
-
-Duy Dang 
-Inspirateur de Sexualité sensible
-www.sexualite-sensible.fr
-
--------------------------------------------------------------------
-
-*** PLUS D'INFOS ***
-
-1/ Tu as depuis longtemps une envie irrésistible et profonde de vivre les instants de grâce d'une sexualité authentique et sensible ? C'est par ici : www.sexualite-sensible.fr
-
-2/ Pour recevoir des conseils sur la sexualité sensible, connaître mon actualité, inscris-toi 😉 sur www.conseils-pour-amants-sensibles.fr
-
-3/ Pour lire mes autres posts 😘, abonne-toi à mon profil pro https://www.facebook.com/inspirateur.des.amants.sensibles
-
-4/ Mon groupe privé de partages amicaux, sensuels et charnels entre personnes désireuses d'une sexualité authentique et sensible : www.la-tribu-des-amants-sensibles.fr

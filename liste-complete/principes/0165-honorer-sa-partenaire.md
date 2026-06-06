@@ -1,10 +1,11 @@
 ---
-titre: "Honorer sa partenaire"
+titre: "Chercher des synonymes pour « faire l'amour »"
 source: "principes"
-statut: "brouillon"
+date: ""
+statut: "à-terminer"
 doublon: false
-sujet: ""
-motscles: []
-enrichi: false
+sujet: "Note de travail : l'auteur cherche des synonymes de « sexualité » et de « faire l'amour » pour enrichir son vocabulaire sur la connexion intime."
+motscles: [vocabulaire, sensualité, langage, sexualité sensible]
+enrichi: true
 ---
-Actuellement, je cherche des synonymes de sexualité, faire l’amour
+Actuellement, je cherche des synonymes de sexualité, faire l'amour.

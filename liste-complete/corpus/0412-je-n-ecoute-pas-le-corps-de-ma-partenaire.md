@@ -1,26 +1,20 @@
 ---
-titre: "Je n'écoute pas le corps de ma partenaire."
+titre: "J'écoute mon corps relié au sien"
 source: "corpus"
 date: "24 novembre 2023"
 statut: "brouillon"
 doublon: false
-sujet: ""
-motscles: []
-enrichi: false
+sujet: "Dans la danse comme dans l'amour, l'écoute de soi est la porte d'entrée vers l'autre : être présent à son propre corps suffit pour créer une vraie connexion."
+motscles: [écoute, corps, présence, danse, sensualité]
+enrichi: true
 ---
 J'écoute mon corps qui est relié au sien.
 
 C'est vrai quand je danse.
 C'est vrai quand je fais l'amour.
 
-C'est la même ouverture, la même attention. Alors oui, la musique change. Le désir est différent. Mais le corps reste le même. L'accueil est le même.  
+C'est la même ouverture, la même attention. Alors oui, la musique change. Le désir est différent. Mais le corps reste le même. L'accueil est le même.
 
-Ici. 
+Ici.
 
 Maintenant.
-
-Si tu veux pratiquer, viens à notre prochain atelier La Voie de la Danse, Réveiller sa Sensualité en co-animation avec @[1048337975:2048:Martine Shakti]
-
-C'est dimanche 26/11/2023
-Résa sur : 
-https://www.billetweb.fr/reveiller-sa-sensualite

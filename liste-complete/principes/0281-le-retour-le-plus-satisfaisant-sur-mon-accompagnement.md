@@ -1,14 +1,15 @@
 ---
 titre: "Le retour le plus satisfaisant sur mon accompagnement"
 source: "principes"
+date: ""
 statut: "brouillon"
 doublon: "corpus/0269-le-retour-le-plus-satisfaisant.md"
-sujet: ""
-motscles: []
-enrichi: false
+sujet: "Le témoignage le plus significatif reçu après un groupe d'accompagnement : une participante affirme qu'elle peut désormais être heureuse sans sexualité, tout en sentant que de belles expériences l'attendent."
+motscles: [accompagnement, sexualité sensible, présence, sérénité, témoignage]
+enrichi: true
 ---
-Hier c’était la fin de l’accompagnement du groupe de Février. Cela fait un an que je propose cet accompagnement et c’est la première fois que je reçois ce retour. 
+Hier c'était la fin de l'accompagnement du groupe de Février. Cela fait un an que je propose cet accompagnement et c'est la première fois que je reçois ce retour.
 
-Une participante nous a déclaré qu’avec cet accompagnement, maintenant elle pouvait très bien vivre heureuse sans sexualité. C’était vraiment ok si elle ne devait plus jamais faire l’amour. En même temps, elle sent que de très belles expériences et explorations sont à venir.
+Une participante nous a déclaré qu'avec cet accompagnement, maintenant elle pouvait très bien vivre heureuse sans sexualité. C'était vraiment ok si elle ne devait plus jamais faire l'amour. En même temps, elle sent que de très belles expériences et explorations sont à venir.
 
-Mon but n’est pas d’accompagner les participants pour qu’ils vivent une sexualité authentique et sensible. Mon but est de les accompagner pour qu’ils deviennent suffisamment présents, légers, sereins et à l’écoute pour pouvoir expérimenter une sexualité authentique et sensible.
+Mon but n'est pas d'accompagner les participants pour qu'ils vivent une sexualité authentique et sensible. Mon but est de les accompagner pour qu'ils deviennent suffisamment présents, légers, sereins et à l'écoute pour pouvoir expérimenter une sexualité authentique et sensible.

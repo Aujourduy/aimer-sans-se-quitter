@@ -1,10 +1,11 @@
 ---
-titre: "Je n’obtiens pas parce que je le veux mais parce que je ne le tolère plus"
+titre: "Obtenir non par le vouloir, mais par l'intolérance au statu quo"
 source: "principes"
+date: ""
 statut: "à-terminer"
 doublon: false
 sujet: ""
 motscles: []
-enrichi: false
+enrichi: true
 ---
 
