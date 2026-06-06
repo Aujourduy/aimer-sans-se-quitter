@@ -1,11 +1,11 @@
 ---
-titre: "FORMATION A > 600 EUROS"
+titre: "Question — vendre une formation à plus de 600 euros sans appel téléphonique"
 source: "corpus"
 date: "3 décembre 2022"
-statut: "brouillon"
+statut: "à-terminer"
 doublon: false
-sujet: ""
-motscles: []
-enrichi: false
+sujet: "L'auteur interroge sa communauté sur la possibilité de vendre automatiquement une formation à plus de 600 euros, sans passer par un rendez-vous téléphonique."
+motscles: [accompagnement, sexualité sensible]
+enrichi: true
 ---
-Est-ce que parmi vous, il y en a qui ont des formations à plus de 600 euros et qui arrive à vendre en automatique sans rendez-vous téléphonique ?
+Est-ce que parmi vous, il y en a qui ont des formations à plus de 600 euros et qui arrivent à vendre en automatique sans rendez-vous téléphonique ?

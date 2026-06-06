@@ -1,15 +1,13 @@
 ---
-titre: "Voilà, je le dis, je l'assume."
+titre: "Voilà, je le dis, je l'assume — pour vivre un grand Amour"
 source: "corpus"
 date: "11 décembre 2022"
-statut: "brouillon"
+statut: "à-terminer"
 doublon: false
-sujet: ""
-motscles: []
-enrichi: false
+sujet: "Court post de positionnement associant l'affirmation de soi à la promesse de vivre un grand Amour."
+motscles: [amour, sexualité sensible, amour de soi]
+enrichi: true
 ---
-@[100070375365062:2048:Duy Dang]
-Révélateur d'Amants Sensibles
+Voilà, je le dis, je l'assume.
 
-Pour vivre Un Grand Amour
-www.sexualite-sensible.fr
+Pour vivre un grand Amour.

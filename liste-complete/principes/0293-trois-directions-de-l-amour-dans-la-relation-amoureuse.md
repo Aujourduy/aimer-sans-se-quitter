@@ -1,50 +1,47 @@
 ---
-titre: "Trois directions de l’amour dans la relation amoureuse"
+titre: "Trois directions de l'amour dans la relation amoureuse"
 source: "principes"
+date: ""
 statut: "brouillon"
 doublon: "corpus/0293-trois-directions-de-l-amour-dans-la-relation-amoureuse.md"
-sujet: ""
-motscles: []
-enrichi: false
+sujet: "La relation amoureuse se joue sur trois axes : être aimé par l'autre (position victime), aimer l'autre (position sauveur), et s'aimer soi-même dans la relation (position sauvé). Seul ce troisième axe permet légèreté et authenticité."
+motscles: [amour de soi, relation amoureuse, victime, sauveur, authenticité, couple]
+enrichi: true
 ---
-Une analyse qui s’élabore sur les directions de l’amour dans une relation et surtout les dérives quand c’est excessif et non équilibré.
+Une analyse qui s'élabore sur les directions de l'amour dans une relation, et surtout les dérives quand c'est excessif et non équilibré.
 
-1. L’amour ressenti par ma partenaire pour moi. 
+1. L'amour ressenti par ma partenaire pour moi.
 
-2. L’amour que je ressens pour ma partenaire.
+2. L'amour que je ressens pour ma partenaire.
 
-3. L’amour que je ressens pour moi dans cette relation.
+3. L'amour que je ressens pour moi dans cette relation.
 
-S’il n’y a que le (1)
+S'il n'y a que le (1)
 
-C’est le fameux “Il m’aime. Elle m’aime” qui est le saint graal pour certaines personnes. Cela nourrit l’envie d’être aimé. A tel point, que certaines personnes restent dans une relation néfaste parce qu’elles s’y sentent aimées, ou du moins considérées. C’est la question “Est-ce que tu m’aimes ? ”
+C'est le fameux « Il m'aime. Elle m'aime » qui est le saint graal pour certaines personnes. Cela nourrit l'envie d'être aimé. À tel point que certaines personnes restent dans une relation néfaste parce qu'elles s'y sentent aimées, ou du moins considérées. C'est la question : « Est-ce que tu m'aimes ? »
 
-C’est la position de victime. 
+C'est la position de victime.
 
-S’il n’y a que le (2)
+S'il n'y a que le (2)
 
-“Je l’aime”, “je ferai tout ou presque, pour elle”. Puisque je l’aime, ça justifie tout, mes efforts, mes sacrifices. Cela peut amener à “je sais mieux qu’elle ou que lui ce qu’il lui faut”. C’est la question “Est-ce que tu vois que je t’aime ? ” 
+« Je l'aime », « je ferai tout ou presque pour elle ». Puisque je l'aime, ça justifie tout, mes efforts, mes sacrifices. Cela peut amener à : « Je sais mieux qu'elle ou que lui ce qu'il lui faut. » C'est la question : « Est-ce que tu vois que je t'aime ? »
 
-C’est la position du sauveur. 
+C'est la position du sauveur.
 
 Et pour finir le (3)
 
-Attention, il y a une différence entre le (1) où je me sens aimé par l’autre, l’autre me renvoie une image positive de moi et la (3) où je me vois mieux tel que je suis et j’aime qui je suis avec les prétendues qualités et les soi-disants défauts. L’amour de soi n’est pas la même chose que l’amour de l’image de soi.
+Attention, il y a une différence entre le (1) où je me sens aimé par l'autre, l'autre me renvoie une image positive de moi, et le (3) où je me vois mieux tel que je suis et j'aime qui je suis avec les prétendues qualités et les soi-disant défauts. L'amour de soi n'est pas la même chose que l'amour de l'image de soi.
 
-Étonnamment, quand j’ai de l’amour pour moi-même tout va bien. Les choses sont légères. Je ne demande pas à être aimé. Je ne demande pas à être reconnu dans mon amour.  
+Étonnamment, quand j'ai de l'amour pour moi-même, tout va bien. Les choses sont légères. Je ne demande pas à être aimé. Je ne demande pas à être reconnu dans mon amour.
 
 Je ne me force plus. Je peux faire des efforts mais je ne me force plus.
 
-C’est la position du “sauvé”.
+C'est la position du « sauvé ».
 
+Parfois, les gens ne regardent que les deux premiers points pour décider de rester ou non dans une relation. Pour certaines personnes, envisager le troisième point permet de mieux comprendre pourquoi la relation est problématique et de traiter spécifiquement ce point.
 
-Parfois, les gens ne regardent que les deux premiers points pour décider de rester ou non dans une relation. Pour certaines personnes, envisager le troisième point permet de mieux comprendre pourquoi la relation est problématique et de traiter spécifiquement ce point. 
+Parce que le but c'est le (3), les deux premiers ne sont que des moyens pour essayer d'y arriver.
 
-Parce que le but c’est le (3), les deux premiers ne sont que des moyens pour essayer d’y arriver.
+J'ai conscience que la formulation de ce texte n'est pas complètement aboutie et qu'elle mérite de s'élaborer encore.
 
-
-J’ai conscience que la formulation de ce post n’est pas complètement aboutie et qu’elle mérite de s’élaborer encore. Alors je suis preneur de toute remarque et suggestion par rapport à cette analyse.
-
-Vouloir vivre une sexualité authentique et sensible quand on n’est que dans le (1) et le (2) me semble compliqué. 
-
-Si tu veux réellement aller vers cette sexualité, je peux t’y accompagner pour te faire gagner du temps et de l’énergie bref éviter les nuits blanches et les mouchoirs.
+Vouloir vivre une sexualité authentique et sensible quand on n'est que dans le (1) et le (2) me semble compliqué.

@@ -1,14 +1,11 @@
 ---
-titre: "Voilà, je le dis, je l'assume."
+titre: "Voilà, je le dis, je l'assume"
 source: "corpus"
 date: "11 décembre 2022"
-statut: "brouillon"
+statut: "à-terminer"
 doublon: false
-sujet: ""
-motscles: []
-enrichi: false
+sujet: "Court post de positionnement, sans contenu textuel substantiel au-delà de la signature."
+motscles: [sexualité sensible]
+enrichi: true
 ---
-@[100070375365062:2048:Duy Dang]
-Révélateur d'Amants Sensibles
-
-www.sexualite-sensible.fr
+Voilà, je le dis, je l'assume.

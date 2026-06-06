@@ -1,15 +1,15 @@
 ---
-titre: "Soit on a le choix soit on n'a pas le choix"
+titre: "Soit on a le choix, soit on n'a pas le choix"
 source: "principes"
-statut: "brouillon"
+date: ""
+statut: "à-terminer"
 doublon: false
 sujet: ""
 motscles: []
-enrichi: false
+enrichi: true
 ---
-Donc on part ou on arrête d'être en colère contre l'autre qui n pas de choix 
+Donc on part ou on arrête d'être en colère contre l'autre qui n'a pas le choix.
 
-Faux sseins fausse relations
+Faux seins, fausses relations.
 
-
-Ce que les femmes ne disent pas
+Ce que les femmes ne disent pas.

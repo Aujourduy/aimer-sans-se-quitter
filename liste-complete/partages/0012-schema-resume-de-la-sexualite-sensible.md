@@ -1,11 +1,10 @@
 ---
 titre: "Schéma résumé de la sexualité sensible"
 source: "partages"
-theme: "Sur la sexualité"
+date: ""
 statut: "à-terminer"
 doublon: false
 sujet: ""
-motscles: []
-enrichi: false
+motscles: [sexualité sensible]
+enrichi: true
 ---
-
