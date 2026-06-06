@@ -1,29 +1,32 @@
 ---
-titre: "L’amour de l’autre, l’amour de soi"
+titre: "L'amour de soi avant l'amour de l'autre : Nasreddin et les astres"
 source: "partages"
-theme: "Sur soi"
+date: ""
 statut: "brouillon"
 doublon: false
-sujet: ""
-motscles: []
-enrichi: false
+sujet: "Par la sagesse de Nasreddin sur la lune et le soleil, l'auteur illustre que chercher la joie dans une relation (la lune) sans avoir d'abord développé sa propre lumière intérieure (le soleil) est une erreur. L'amour de soi est le préalable à toute relation épanouissante."
+motscles: [amour de soi, désir, couple, présence, confiance, sexualité sensible]
+enrichi: true
 ---
 Un jour on demanda à Nasreddin :
 
-- Dis-nous, Nasreddin, lequel est le plus utile entre la Lune et le Soleil ? - La lune bien sûr, répondit-il immédiatement. - Et pourquoi ? - Parce que la lune brille dans la nuit, quand il fait noir, là où on a le plus besoin de lumière.
+— Dis-nous, Nasreddin, lequel est le plus utile entre la Lune et le Soleil ?
+— La lune bien sûr, répondit-il immédiatement.
+— Et pourquoi ?
+— Parce que la lune brille dans la nuit, quand il fait noir, là où on a le plus besoin de lumière.
 
-C’est vrai, n’est-ce pas ? Oui, c’est vrai que la lune est utile pour apporter la lumière dans la nuit.
+C'est vrai, n'est-ce pas ? Oui, c'est vrai que la lune est utile pour apporter la lumière dans la nuit.
 
-C’est faux aussi, puisque la lumière du jour est apportée par le soleil. En fait, le jour c’est la nuit quand le soleil est là.
+C'est faux aussi, puisque la lumière du jour est apportée par le soleil. En fait, le jour c'est la nuit quand le soleil est là.
 
 Sans compter que la lumière de la lune est le reflet du soleil. Donc pas de soleil, pas de lune qui brille.
 
-Quel rapport avec l’amour et la sexualité.
+Quel rapport avec l'amour et la sexualité ?
 
-Et bien, quand je propose un projet de site de rencontre, je reçois énormément de demandes. Comme ces gens, longtemps je voulais trouver la lumière de la lune pour illuminer ma vie. La lune c’est la relation fantasmée. C’est l’espoir d’une source de joie venant de l’extérieur.
+Eh bien, quand je propose un projet de site de rencontre, je reçois énormément de demandes. Comme ces gens, longtemps je voulais trouver la lumière de la lune pour illuminer ma vie. La lune c'est la relation fantasmée. C'est l'espoir d'une source de joie venant de l'extérieur.
 
-Le soleil, c’est ma propre joie intérieure. C’est une vie remplie de beautés, de paix, d’épanouissements et de satisfactions. Et quand j’ai trouvé mon soleil, alors sa lumière se réfléchira sur la lune en une relation harmonieuse et épanouissante.
+Le soleil, c'est ma propre joie intérieure. C'est une vie remplie de beautés, de paix, d'épanouissements et de satisfactions. Et quand j'ai trouvé mon soleil, alors sa lumière se réfléchira sur la lune en une relation harmonieuse et épanouissante.
 
-Beaucoup de personnes, moi le premier pendant des années, ont ce réflexe de chercher une lune dans la nuit au lieu de chercher à faire briller d’abord notre soleil. Et quand notre soleil brille, c’est là que nous devenons attirants, attractifs pour les autres.
+Beaucoup de personnes, moi le premier pendant des années, ont ce réflexe de chercher une lune dans la nuit au lieu de chercher à faire briller d'abord notre soleil. Et quand notre soleil brille, c'est là que nous devenons attirants, attractifs pour les autres.
 
-En premier lieu, devenir l’astre qui brille au lieu de le chercher.
+En premier lieu, devenir l'astre qui brille au lieu de le chercher.
