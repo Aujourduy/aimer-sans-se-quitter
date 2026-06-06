@@ -1,10 +1,10 @@
 ---
-titre: "Dans plusieurs conceptions de l’humain, on parle des trois dimensions de l’être humain. Le mental, l’émotion et le physique et le sexe. En présentant"
+titre: "Les trois dimensions de l'humain et la place de la sexualité"
 source: "principes"
+date: ""
 statut: "à-terminer"
 doublon: false
 sujet: ""
 motscles: []
-enrichi: false
+enrichi: true
 ---
-

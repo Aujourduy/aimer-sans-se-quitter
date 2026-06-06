@@ -1,10 +1,10 @@
 ---
-titre: "Un peine de coeur, ce n’est pas parce que tu l’aimes trop mais simplement que tu ne t’aime pas assez"
+titre: "Une peine de cœur : pas parce que tu l'aimes trop, mais parce que tu ne t'aimes pas assez"
 source: "principes"
+date: ""
 statut: "à-terminer"
 doublon: false
 sujet: ""
 motscles: []
-enrichi: false
+enrichi: true
 ---
-

@@ -1,15 +1,10 @@
 ---
-titre: "Pour recevoir ma pépite \"L'essentiel de la sexualité authentique pour les amants sensibles\" simple et rapide à lire :"
+titre: "Partage — Fiche mémo : l'essentiel de la sexualité authentique"
 source: "corpus"
 date: "12 septembre 2024"
-statut: "brouillon"
+statut: "à-terminer"
 doublon: false
-sujet: ""
-motscles: []
-enrichi: false
+sujet: "Post de partage minimal pointant vers la fiche mémo sur la sexualité authentique."
+motscles: [sexualité authentique, fiche mémo]
+enrichi: true
 ---
-https://www.duydangdeclics.fr/fiche-memo/accueil
-
-Belle journée,
-
-@[100070375365062:2048:Duy Dang]
