@@ -1,10 +1,10 @@
 ---
-titre: "Pas besoin de s’aimer plus  On a besoin de moins se juger"
+titre: "Pas besoin de s'aimer plus — on a besoin de moins se juger"
 source: "principes"
-statut: "brouillon"
+statut: "à-terminer"
 doublon: false
 sujet: ""
-motscles: []
-enrichi: false
+motscles: [amour de soi, jugement]
+enrichi: true
 ---
-Voilà, c’est dit
+Voilà, c'est dit.

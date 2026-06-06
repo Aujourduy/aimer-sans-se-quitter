@@ -1,13 +1,10 @@
 ---
-titre: "Voilà l'événement sur Facebook"
+titre: "Partage — Invitation à un événement Facebook"
 source: "corpus"
 date: "10 février 2023"
-statut: "brouillon"
+statut: "à-terminer"
 doublon: false
-sujet: ""
-motscles: []
-enrichi: false
+sujet: "Publication Facebook consistant uniquement en des mentions d'utilisateurs, sans texte de fond."
+motscles: [danse, stage, amants sensibles]
+enrichi: true
 ---
-@[100005543265558:2048:Capucine LH]
-@[825760054:2048:Laure Kypriotis]
-@[100000235725089:2048:Mathilde Treguer]
