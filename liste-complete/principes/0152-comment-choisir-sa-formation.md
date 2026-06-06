@@ -1,14 +1,15 @@
 ---
 titre: "Comment choisir sa formation"
 source: "principes"
-statut: "brouillon"
+date: ""
+statut: "à-terminer"
 doublon: false
 sujet: ""
 motscles: []
-enrichi: false
+enrichi: true
 ---
 Outils : autonomie
 
-Liberté du formateur : Exemplarité
+Liberté du formateur : exemplarité
 
-Transformation \>\> Emotions
+Transformation >> émotions

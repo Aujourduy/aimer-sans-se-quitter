@@ -1,10 +1,9 @@
 ---
-titre: "Aikido, systema, visé plus loin que ce qu’on veut atteindre"
+titre: "Aikido, systema : viser plus loin que ce qu'on veut atteindre"
 source: "principes"
 statut: "à-terminer"
 doublon: false
 sujet: ""
 motscles: []
-enrichi: false
+enrichi: true
 ---
-
