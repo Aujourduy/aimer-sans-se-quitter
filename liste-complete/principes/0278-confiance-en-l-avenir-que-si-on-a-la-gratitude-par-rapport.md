@@ -1,12 +1,9 @@
 ---
-titre: "Confiance en l’avenir que si on a la gratitude par rapport au passé"
+titre: "Confiance en l'avenir et gratitude pour le passé"
 source: "principes"
-statut: "brouillon"
+statut: "à-terminer"
 doublon: false
 sujet: ""
-motscles: []
-enrichi: false
+motscles: [gratitude, confiance, présence, amour de soi]
+enrichi: true
 ---
-Oui a lavenilavenir cest dabird ouiu a mon passe
-
-Pas dz passe choisi cescest pas e co fiznce en lave
