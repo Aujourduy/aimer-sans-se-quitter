@@ -13,4 +13,4 @@ Entre faire l’amour avec une personne légère, joyeuse et qui ne connaît rie
 
 Dernièrement avec ma partenaire, il y a eu une baisse de libido, d’envie. En nous posant, en regardant la situation de manière plus approfondie, nous nous sommes rendu compte qu’il y avait moins de légèreté dans notre relation. En clarifiant les choses, en retrouvant de la légèreté, la libido est revenue très fort.
 
-Souvent, nous faisons attention à la propreté de notre corps pour faire l’amour avec un corps propre, débarrassé de saletés. Est-ce que nous pensons aussi à la propreté de nos émotions pour offrir à notre partenaire un esprit clair et léger ?
+Souvent, nous faisons attention à la propreté de notre corps pour faire l’amour avec un corps propre, débarrassé de saletés. Est-ce que nous pensons aussi à la propreté de nos émotions pour offrir à notre partenaire un esprit clair et léger ?

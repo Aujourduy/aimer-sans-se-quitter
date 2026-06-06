@@ -14,7 +14,7 @@ Pendant près de 10 ans, j’étais coach-formateur en entreprise notamment en c
 
 Dans ce cabinet, on ne regardait pas le taux de satisfaction des clients mais le taux de sur-satisfaction, c'est-à-dire quand le participant répondait qu’il a reçu PLUS qu’il voulait. Mon taux personnel de sur-satisfaction était de 30%. Un très bon taux.
 
-Comment je faisais ça ? En bouleversant 
+Comment je faisais ça ? En bouleversant 
 
 Les participants avaient plusieurs présentations à faire et à la fin de chaque présentation, j’avais 30 secondes pour faire le feeed-back. C’est un de mes moments préférés parce que quand je trouvais le mot juste, cela déclenchait un insight, une prise de conscience, un bouleversement dans l’esprit. C’était quand j’arrivais à nommer une qualité que la personne n’avait pas conscience qu’elle avait et l’espérait au fond de son coeur et de son âme d’avoir.  
 
@@ -30,9 +30,9 @@ Et cette méthode a une efficacité redoutable. La vérité vue ne peut plus êt
 
 C’est ce principe que j’utilise dans mon programme d’accompagnement et aussi dans le stage “Danseurs Sauvages / Amants Sensibles”. Mon but c’est de te révéler de manière simple, rapide et pérenne ta véritable grandeur.
 
-Comment c’est possible ? Comme le magicien d’Oz.
+Comment c’est possible ? Comme le magicien d’Oz.
 
-Comment c’est possible ? Beaucoup ont compté 16 carrés, 16 petits carrés sur le dessin. Certains ont vu aussi le grand carré. Donc, il y a 16 petits carrés 1x1. Il y a aussi le grand carré 4x4. Et il y a aussi les 9 carrés 2x2 et 4 carrés 3x3.
+Comment c’est possible ? Beaucoup ont compté 16 carrés, 16 petits carrés sur le dessin. Certains ont vu aussi le grand carré. Donc, il y a 16 petits carrés 1x1. Il y a aussi le grand carré 4x4. Et il y a aussi les 9 carrés 2x2 et 4 carrés 3x3.
 
 Maintenant que tu as vu les carrés 2x2 et 3x3, la prochaine fois tu t'en rappelera définitivement.
 

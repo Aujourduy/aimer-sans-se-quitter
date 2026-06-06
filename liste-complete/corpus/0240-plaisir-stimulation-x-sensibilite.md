@@ -12,11 +12,11 @@ Une petite formule mathématique pour le plaisir … oh, joli jeu de mot ;-)
  
 Le plaisir est égal à la stimulation multipliée par la sensibilité. On voit l’effet du zéro. S’il y a zéro stimulation, il y a zéro plaisir. Mais s’il y a zéro sensibilité, il y a aussi zéro plaisir.
  
-Le plaisir ou plutôt l’intensité du plaisir dépend non seulement de la stimulation mais aussi de notre sensibilité. Par exemple, le délice procuré par la dopamine, l’hormone du plaisir par excellence, dépend de la quantité de dopamine présente dans le cerveau mais les scientifiques ont observé que certaines personnes pouvaient ressentir beaucoup de plaisir avec un taux très faible de dopamine. Pourquoi et comment ? 
+Le plaisir ou plutôt l’intensité du plaisir dépend non seulement de la stimulation mais aussi de notre sensibilité. Par exemple, le délice procuré par la dopamine, l’hormone du plaisir par excellence, dépend de la quantité de dopamine présente dans le cerveau mais les scientifiques ont observé que certaines personnes pouvaient ressentir beaucoup de plaisir avec un taux très faible de dopamine. Pourquoi et comment ? 
  
 Chez ces personnes, le plaisir est déclenché à partir d’un seuil de dopamine bien plus bas que la moyenne. Cela est valable aussi pour la vision. Pour voir, on a besoin de lumière et d’un oeil sensible à la lumière. Plus la sensibilité de l’oeil est élevée, mieux on peut voir même dans la nuit. C’est par exemple le système des lunettes à vision nocture pour les militaires.
  
-Souvent on oublie que le plaisir est aussi lié à la sensibilité, alors on associe plaisir à stimulation. Je cherche à avoir plus de plaisir ? Alors je vais chercher plus de stimulation. C’est particulièrement vrai dans la sexualité où on voit pléthore d’accessoires, de techniques et de pratiques. Il n’y a rien de mal à utiliser tout cela. Personnellement, j’ai des accessoires, j’ai des pratiques qui augmentent l’excitation et le plaisir mais ce n’est que la moitié des possibilités.
+Souvent on oublie que le plaisir est aussi lié à la sensibilité, alors on associe plaisir à stimulation. Je cherche à avoir plus de plaisir ? Alors je vais chercher plus de stimulation. C’est particulièrement vrai dans la sexualité où on voit pléthore d’accessoires, de techniques et de pratiques. Il n’y a rien de mal à utiliser tout cela. Personnellement, j’ai des accessoires, j’ai des pratiques qui augmentent l’excitation et le plaisir mais ce n’est que la moitié des possibilités.
  
 L’autre possibilité, c’est d’augmenter notre sensibilité. Augmenter notre sensibilité jusqu’à recevoir le regard de notre partenaire comme une vague de caresses traversant tout notre être. Augmenter notre sensibilité jusqu’à ressentir la proximité du corps de notre partenaire comme la chaleur lourde et humide d’un été tropicale.
  
@@ -37,23 +37,23 @@ Inspirateur de Sexualité sensible
 www.sexualite-sensible.fr
 
 /**** FLASH INFOS ****/ 
-Journée exceptionnelle à Paris Danse-Méditation-Yoga-Travail de libération pour créer un déclic dans ton cheminement vers la sexualité sensible. Regarde voir si le programme résonne avec toi : https://www.facebook.com/events/1319700161877029/
+Journée exceptionnelle à Paris Danse-Méditation-Yoga-Travail de libération pour créer un déclic dans ton cheminement vers la sexualité sensible. Regarde voir si le programme résonne avec toi : https://www.facebook.com/events/1319700161877029/
 
 Pour démarrer ton voyage vers une sexualité sensible en Avril, regarde sur www.sexualite-sensible.fr si tu sens l'appel d'une intuition profonde.
 
 -------------------------------------------------------------------
 *** PLUS D'INFOS ***
 
-1/ Tu veux avancer vers une sexualité authentique et sensible ? 
-C'est par ici : www.sexualite-sensible.fr
+1/ Tu veux avancer vers une sexualité authentique et sensible ? 
+C'est par ici : www.sexualite-sensible.fr
 
-2/ Des conseils ? C'est là : www.conseils-pour-amants-sensibles.fr
+2/ Des conseils ? C'est là : www.conseils-pour-amants-sensibles.fr
 
-3/ D'autres posts ? Abonne-toi à mon profil pro :  https://www.facebook.com/inspirateur.des.amants.sensibles
+3/ D'autres posts ? Abonne-toi à mon profil pro :  https://www.facebook.com/inspirateur.des.amants.sensibles
 
-4/ Mon groupe privé des personnes désireuses d'une sexualité authentique et sensible ? Voilà : www.la-tribu-des-amants-sensibles.fr
+4/ Mon groupe privé des personnes désireuses d'une sexualité authentique et sensible ? Voilà : www.la-tribu-des-amants-sensibles.fr
 
-5/ Si tu veux faire une donation : 
+5/ Si tu veux faire une donation : 
 https://lydia-app.com/collect/sexualite-sensible/fr
 
 6/ N'hésite pas à faire une demande en ami Facebook, il y a encore de la place.

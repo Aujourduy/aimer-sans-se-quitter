@@ -16,9 +16,9 @@ Si je reste chez moi à méditer sur la médaille d’or, ressentir le succès, 
  
 La sexualité authentique et sensible est possible pour tout le monde mais il ne suffit pas de le vouloir. Il ne suffit pas d’espérer. Il ne suffit pas de faire des rencontres. Faire des rencontres, c’est pareil que se placer sur la ligne de départ. Ce n’est pas ça qui va me faire finir le marathon. La sexualité sensible est un marathon, oui. Cela demande beaucoup d’efforts. Des efforts pour être honnête. Des efforts pour exprimer des choses qui nous rendent vulnérables. Des choses qui dévoilent nos peurs et nos blessures.
  
-Pour finir le marathon, il faut être un athlète : renoncer à une alimentation trop sucrée, grasse ou salée; avoir un entraînement pour une bonne musculature; développer des capacités respiratoires,. 
+Pour finir le marathon, il faut être un athlète : renoncer à une alimentation trop sucrée, grasse ou salée ; avoir un entraînement pour une bonne musculature ; développer des capacités respiratoires,. 
  
-Pour vivre une sexualité sensible, il faut être un amant sensible : renoncer aux contes de fées de princes et princesses charmants; avoir un entraînement pour être complètement authentique; développer des capacités à accueillir les émotions désagréables pour les sublimer; démontrer le courage de s’exposer.
+Pour vivre une sexualité sensible, il faut être un amant sensible : renoncer aux contes de fées de princes et princesses charmants ; avoir un entraînement pour être complètement authentique ; développer des capacités à accueillir les émotions désagréables pour les sublimer ; démontrer le courage de s’exposer.
  
 On ne finit pas un marathon parce qu’on veut, même de toutes ses forces. On finit un marathon parce qu’on est marathonien, qu’on mange comme un marathonien, qu’on s’entraîne comme un marathonien.
   
@@ -38,21 +38,21 @@ Inspirateur de Sexualité sensible
 www.sexualite-sensible.fr
 
 /**** FLASH INFOS ****/ 
-Journée exceptionnelle à Paris Danse-Méditation-Yoga-Travail de libération pour créer un déclic dans ton cheminement vers la sexualité sensible. Regarde voir si le programme résonne avec toi : https://www.facebook.com/events/1319700161877029/
+Journée exceptionnelle à Paris Danse-Méditation-Yoga-Travail de libération pour créer un déclic dans ton cheminement vers la sexualité sensible. Regarde voir si le programme résonne avec toi : https://www.facebook.com/events/1319700161877029/
 
 -------------------------------------------------------------------
 *** PLUS D'INFOS ***
 
-1/ Tu veux avancer vers une sexualité authentique et sensible ? 
-C'est par ici : www.sexualite-sensible.fr
+1/ Tu veux avancer vers une sexualité authentique et sensible ? 
+C'est par ici : www.sexualite-sensible.fr
 
-2/ Des conseils ? C'est là : www.conseils-pour-amants-sensibles.fr
+2/ Des conseils ? C'est là : www.conseils-pour-amants-sensibles.fr
 
-3/ D'autres posts ? Abonne-toi à mon profil pro :  https://www.facebook.com/inspirateur.des.amants.sensibles
+3/ D'autres posts ? Abonne-toi à mon profil pro :  https://www.facebook.com/inspirateur.des.amants.sensibles
 
-4/ Mon groupe privé des personnes désireuses d'une sexualité authentique et sensible ? Voilà : www.la-tribu-des-amants-sensibles.fr
+4/ Mon groupe privé des personnes désireuses d'une sexualité authentique et sensible ? Voilà : www.la-tribu-des-amants-sensibles.fr
 
-5/ Si tu veux faire une donation : 
+5/ Si tu veux faire une donation : 
 https://lydia-app.com/collect/sexualite-sensible/fr
 
 6/ N'hésite pas à faire une demande en ami Facebook, il y a encore de la place.

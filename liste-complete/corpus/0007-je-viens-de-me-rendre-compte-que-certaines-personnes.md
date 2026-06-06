@@ -8,5 +8,5 @@ sujet: ""
 motscles: []
 enrichi: false
 ---
-Je viens de me rendre compte que certaines personnes entendent 'sensible' de "sexualité sensible" comme douloureux et non comme perceptible et délicat !
-Et vous, qu'évoque pour vous le mot "sensible" dans "sexualité sensible" ?
+Je viens de me rendre compte que certaines personnes entendent 'sensible' de "sexualité sensible" comme douloureux et non comme perceptible et délicat !
+Et vous, qu'évoque pour vous le mot "sensible" dans "sexualité sensible" ?

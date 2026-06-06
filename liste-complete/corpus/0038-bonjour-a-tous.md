@@ -8,4 +8,4 @@ sujet: ""
 motscles: []
 enrichi: false
 ---
-Très heureux de vous voir intégrer le groupe. Voici les stats à sur les membres à cette heure : 28.09.2021 à 17h00
+Très heureux de vous voir intégrer le groupe. Voici les stats à sur les membres à cette heure : 28.09.2021 à 17h00

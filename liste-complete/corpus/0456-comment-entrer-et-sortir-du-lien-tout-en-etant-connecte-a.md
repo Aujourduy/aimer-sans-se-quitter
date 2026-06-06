@@ -15,7 +15,7 @@ Revenir à ton corps, à ton coeur et à ton âme.
 Baigné de mille sensations.
 Être.
 
-Être à l'écoute de ta musique intérieure !
+Être à l'écoute de ta musique intérieure !
 
 Viens exprimer, libérer ce qui se VIE en toi tout en étant en lien.
 Une danse connectée à soi.

@@ -20,7 +20,7 @@ Elle était perdue. Elle ne savait plus quoi faire, où aller ni par quel bout p
  
 Elle avait peur de ne pas être entendue dans ses besoins, dans ses paroles. Elle craignait de rester toujours malheureuse par rapport à ça.
  
-Elle ne savait pas si c'était elle qui avait un problème ou si cela venait de son partenaire. Était-ce normal ? Était-ce légitime de vouloir de l'attention, de la tendresse, de prendre le temps pour laisser le désir fleurir ? Était-ce possible de ne pas vouloir faire la course au plaisir à tout prix ?
+Elle ne savait pas si c'était elle qui avait un problème ou si cela venait de son partenaire. Était-ce normal ? Était-ce légitime de vouloir de l'attention, de la tendresse, de prendre le temps pour laisser le désir fleurir ? Était-ce possible de ne pas vouloir faire la course au plaisir à tout prix ?
  
 Elle se sentait dévalorisée, rejetée voire parfois jetée. Elle n'avait plus d'estime pour sa féminité. Elle en devenait souvent agressive. 
  
@@ -36,7 +36,7 @@ Ce qu'elle voulait c'était de ne plus être considérée comme un objet. Elle v
  
 Aujourd'hui, elle se sent respectée comme une femme à part entière. Elle a retrouvé une grande confiance interieure en tant que femme. Elle a développé une grande énergie. Elle a entrepris de faire le ménage dans toute sa maison, surtout la cave et le grenier qu’elle avait délaissé depuis des années. Pour elle, ce nettoyage extérieur, traiter les choses mis de côté est aussi un nettoyage intérieur. Regarder, trier, ranger ou jeter ce qui doit l’être.
  
-Ses proches se sont rendus compte de cette nouvelle énergie. Aurélie rayonne tellement de vibration qu'une amie lui a dit que le gros hug qu'elles avaient fait dernièrement l'avait guérie une blessure très ancienne ! 
+Ses proches se sont rendus compte de cette nouvelle énergie. Aurélie rayonne tellement de vibration qu'une amie lui a dit que le gros hug qu'elles avaient fait dernièrement l'avait guérie une blessure très ancienne ! 
  
  
 Maintenant elle se sent précieuse.
@@ -59,13 +59,13 @@ www.sexualite-sensible.fr
 
 *** PLUS D'INFOS ***
 
-1/ Mon accompagnement ? C'est par ici : www.sexualite-sensible.fr
+1/ Mon accompagnement ? C'est par ici : www.sexualite-sensible.fr
 
-2/ Des conseils ? C'est là : www.conseils-pour-amants-sensibles.fr
+2/ Des conseils ? C'est là : www.conseils-pour-amants-sensibles.fr
 
-3/ D'autres posts ? Abonne-toi à mon profil pro :  https://www.facebook.com/inspirateur.des.amants.sensibles
+3/ D'autres posts ? Abonne-toi à mon profil pro :  https://www.facebook.com/inspirateur.des.amants.sensibles
 
-4/ Mon groupe privé des personnes désireuses d'une sexualité authentique et sensible ? Voilà : www.la-tribu-des-amants-sensibles.fr
+4/ Mon groupe privé des personnes désireuses d'une sexualité authentique et sensible ? Voilà : www.la-tribu-des-amants-sensibles.fr
 
-5/ Si tu veux faire une donation : 
+5/ Si tu veux faire une donation : 
 https://lydia-app.com/collect/sexualite-sensible/fr

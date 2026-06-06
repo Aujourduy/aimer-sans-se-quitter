@@ -13,7 +13,7 @@ Vivre le corps-plaisir
 
 Charnel
 
-Galipettes, accouplement, union, se mélanger, s’enlacer, se mitonner, se butiner, s’envoyer en l’air, grimper au rideau, se câliner, faire des fariboles, se lutiner… il y en a tant… et on peut encore en inventer !
+Galipettes, accouplement, union, se mélanger, s’enlacer, se mitonner, se butiner, s’envoyer en l’air, grimper au rideau, se câliner, faire des fariboles, se lutiner… il y en a tant… et on peut encore en inventer !
 
 connexion intime"
 

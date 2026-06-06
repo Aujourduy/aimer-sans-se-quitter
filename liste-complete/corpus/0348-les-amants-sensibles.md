@@ -8,13 +8,13 @@ sujet: ""
 motscles: []
 enrichi: false
 ---
-Qui ? Quoi ? Comment ?
+Qui ? Quoi ? Comment ?
 
 Tout ce que vous avez toujours voulu savoir sur les relations amoureuses authentiques et la sexualité sensible sans jamais oser le demander.
 
 Webinaire gratuit sur Zoom.
 
-Inscription sur : https://forms.gle/vWYPXPUAPXdf2tXJ9
+Inscription sur : https://forms.gle/vWYPXPUAPXdf2tXJ9
 
 Animé par Duy DANG,
 Révélateur d'Amants Sensibles

@@ -24,14 +24,14 @@ Ce que je veux c’est ma vérité, c’est ma liberté. Je les avais déjà au 
 
 Chaque fois que la sexualité ne m’a pas donné pleinement satisfaction, ne m’a pas entièrement nourri c’était parce que je n’avais pas osé ma vérité ou je n’avais pas honoré ma liberté.
 
-Voici ma question : est-ce qu’il y a eu une seule expérience sexuelle insatisfaisante pour toi où il s’agissait d’autre chose qu'un manque de vérité ou de liberté ?
+Voici ma question : est-ce qu’il y a eu une seule expérience sexuelle insatisfaisante pour toi où il s’agissait d’autre chose qu'un manque de vérité ou de liberté ?
 
 Oui, la sexualité sensible est une belle destination mais parce qu’en réalité c’est aussi le départ. C’est mon centre, l’endroit qui m’appelle, l’endroit où je me sens chez moi. Le seul endroit où je peux réellement aimer et être aimé.
 
 Duy Dang 
 Inspirateur de Sexualité 
 
-Mon accompagnement repose sur l’utilisation d’outils variés, conçus pour :
+Mon accompagnement repose sur l’utilisation d’outils variés, conçus pour :
 • Ouvrir de nouvelles perspectives sur soi-même et ses relations.
 • Favoriser une écoute sensorielle profonde pour reconnecter à son corps.
 • Accompagner une décharge émotionnelle, une libération traumatique et des empreintes psycho-émotionnelles en offrant un cadre sûr et bienveillant.

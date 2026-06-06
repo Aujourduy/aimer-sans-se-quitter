@@ -20,7 +20,7 @@ Ce n’était pas qu’il y avait quelque chose que je ne voulais pas dire. C’
 
 Tout d’abord, j’ai pu tout déposer. Ensuite, elle a tout accueilli. Finalement, nous avons fait l’amour joyeusement et intensément alors que juste avant il n’y avait pas du tout de désir.
 
-Si vous avez fait plusieurs fois l’expérience : déposer une vérité + sentir le désir monter juste après + faire l’amour avec une grande sensibilité et intensité, vous comprenez que la recherche d’une sexualité sensible est liée à la recherche de l’acceptation de sa vérité.
+Si vous avez fait plusieurs fois l’expérience : déposer une vérité + sentir le désir monter juste après + faire l’amour avec une grande sensibilité et intensité, vous comprenez que la recherche d’une sexualité sensible est liée à la recherche de l’acceptation de sa vérité.
 
 La vérité permet l’amour de soi-même.
 
@@ -32,7 +32,7 @@ La vérité permet de déployer son désir.
 
 Pendant plusieurs années, j’animais des constellations familiales. Souvent à la fin d’une constellation, quand les noeuds se dénouent je ressentais profondément que ces quatre mots pointaient exactement sur le même endroit. Ces mots sont Amour, Vérité, Conscience et Acceptation. 
 
-Ça peut paraître bizarre que des mots si différents désignent une même direction. C’est comme si quand je pointais mon doigt vers le nord, le sud, l’est et l’ouest cela indiquait la même direction. Non, mais attendez un peu, comme la Terre est ronde, que je pointe vers n’importe quelle direction, je pointe toujours vers moi en fait !!! Ha ha ha
+Ça peut paraître bizarre que des mots si différents désignent une même direction. C’est comme si quand je pointais mon doigt vers le nord, le sud, l’est et l’ouest cela indiquait la même direction. Non, mais attendez un peu, comme la Terre est ronde, que je pointe vers n’importe quelle direction, je pointe toujours vers moi en fait !!! Ha ha ha
 
 Duy DANG
 Inspirateur de Sexualité sensible
@@ -40,10 +40,10 @@ www.sexualite-sensible.fr
 
 -------------------------------------------------------------------
 
-1/ Tu as depuis longtemps une envie irrésistible et profonde de vivre les instants de grâce d'une sexualité authentique et sensible ? C'est par ici :  www.sexualite-sensible.fr
+1/ Tu as depuis longtemps une envie irrésistible et profonde de vivre les instants de grâce d'une sexualité authentique et sensible ? C'est par ici :  www.sexualite-sensible.fr
 
 2/ Pour recevoir des conseils sur la sexualité sensible, connaître mon actualité,  inscris-toi  😉 sur www.conseils-pour-amants-sensibles.fr
 
 3/ Pour lire mes autres posts 😘, abonne-toi à mon profil pro https://www.facebook.com/inspirateur.des.amants.sensibles
 
-4/ Mon groupe privé de partages amicaux, sensuels et charnels entre personnes désireuses d'une sexualité authentique et sensible : www.la-tribu-des-amants-sensibles.fr
+4/ Mon groupe privé de partages amicaux, sensuels et charnels entre personnes désireuses d'une sexualité authentique et sensible : www.la-tribu-des-amants-sensibles.fr

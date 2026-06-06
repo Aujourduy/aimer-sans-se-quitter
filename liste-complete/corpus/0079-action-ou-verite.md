@@ -23,11 +23,11 @@ C’est le moment où nous commençons le jeu. Parce que j’avais déjà posé 
  
 Parfois, c’est une émotion qui s’est déjà exprimée mais pas avec toute l’importance qu’elle revêt réellement. On a dit qu’on était contrarié alors qu’au fond on rageait mais on a minimisé pour ne pas la blesser l’autre ou se montrer mesquin.  
  
-Donc chacun cherche, écoute ce qui se passe en lui et le partage à son partenaire. C’est le moment des vérités ! C’est inconfortable. Il faut trouver des partenaires avec assez de conscience et de courage pour jouer sinon ça ne marche pas.
+Donc chacun cherche, écoute ce qui se passe en lui et le partage à son partenaire. C’est le moment des vérités ! C’est inconfortable. Il faut trouver des partenaires avec assez de conscience et de courage pour jouer sinon ça ne marche pas.
  
-Quand est-ce qu’on s’arrête ? Quand on a trouvé la ou les vérités qui étaient coincées dans notre cœur et qu’on a pu les partager. Comment on sait qu’il n’y a plus rien de coincé/caché ? Quand l’excitation arrive progressivement dans les sexes sans aucune stimulation et dans une complète immobilité des corps. Pas de baiser, pas de caresse mais l’énergie du désir se met à vibrer.  Et là, on passe à l’action.
+Quand est-ce qu’on s’arrête ? Quand on a trouvé la ou les vérités qui étaient coincées dans notre cœur et qu’on a pu les partager. Comment on sait qu’il n’y a plus rien de coincé/caché ? Quand l’excitation arrive progressivement dans les sexes sans aucune stimulation et dans une complète immobilité des corps. Pas de baiser, pas de caresse mais l’énergie du désir se met à vibrer.  Et là, on passe à l’action.
  
-J’ai parlé de ce jeu à plusieurs personnes et elles m’ont toutes dit : “Ah oui, je comprends mieux maintenant.” Elles ont vécu des situations similaires mais leur partenaire ne voulaient pas ou ne pouvaient pas jouer. Quand on est amant sensible, on est sensible. On est parfois capable de ressentir qu’il y a une difficulté chez son partenaire sans que celui-ci ne s’en rende lui-même compte. 
+J’ai parlé de ce jeu à plusieurs personnes et elles m’ont toutes dit : “Ah oui, je comprends mieux maintenant.” Elles ont vécu des situations similaires mais leur partenaire ne voulaient pas ou ne pouvaient pas jouer. Quand on est amant sensible, on est sensible. On est parfois capable de ressentir qu’il y a une difficulté chez son partenaire sans que celui-ci ne s’en rende lui-même compte. 
  
 A plusieurs reprises, mon excitation s’est arrêtée parce que ma partenaire n’avait pas formulé ce qu’elle avait sur le cœur. Ce n’était pas forcément un sujet grave ou important. Mais une sexualité sensible exige un niveau d’authenticité bien supérieure.
  
@@ -41,9 +41,9 @@ www.sexualite-sensible.fr
 
 -------------------------------------------------------------------
 
-PS : Pour aller plus loin et voir ce que je propose comme accompagnement www.sexualite-sensible.fr
+PS : Pour aller plus loin et voir ce que je propose comme accompagnement www.sexualite-sensible.fr
 
-PPS : Quelques infos complémentaires
+PPS : Quelques infos complémentaires
 
 1/ Pour la lettre d'infos de mon actualité, les prochains séminaires, les accompagnements individuels ou collectifs,  inscrivez-vous  😉sur https://sites.google.com/.../sexualie-sensible/lettre-dinfos
 

@@ -11,11 +11,11 @@ Tu l’as vu, j’ai vraiment ralenti le rythme des publications ces dernières 
 
 Il y a encore des choses à finaliser mais j’ai déjà les grandes lignes de la nouvelle vision que je vais proposer sur la sexualité, sur la personne et sur le couple. Et voici la première d’entre elles.
 
-Jusqu’à la semaine dernière, j’avais adopté le modèle que l’humain avait 3 dimensions : le mental, l’émotion et le corps. Le sexe, la sexualité faisant parti du corps … parce qu’un sexe c’est un organe. Mais en fait, ce n’est pas parce que ça s’exprime par le corps que c’est le corps. Ce n’est pas parce que la pensée, dans l’état de nos connaissances, s’élaborent dans le cerveau que le mental fait partie du corps. Ce n’est pas parce que les émotions se manifestent par des ressentis physiques que les émotions font partie du corps.
+Jusqu’à la semaine dernière, j’avais adopté le modèle que l’humain avait 3 dimensions : le mental, l’émotion et le corps. Le sexe, la sexualité faisant parti du corps … parce qu’un sexe c’est un organe. Mais en fait, ce n’est pas parce que ça s’exprime par le corps que c’est le corps. Ce n’est pas parce que la pensée, dans l’état de nos connaissances, s’élaborent dans le cerveau que le mental fait partie du corps. Ce n’est pas parce que les émotions se manifestent par des ressentis physiques que les émotions font partie du corps.
 
 Donc ce n’est pas parce que la sexualité s’exprime par le sexe organique que cela fait parti du corps.
 
-En fait, la sexualité s’exprime dans le sexe (pénis/vulve/vagin) mais aussi par d’autres voies. Il y a une multitude expressions de la sexualité qui ne passent pas par le sexe : le baiser, la danse, le regard, le toucher, le chant, la poésie, la peinture. En réalité, souvent ce qu’on appelle sensualité, c’est la sexualité qui se manifeste en dehors du sexe.
+En fait, la sexualité s’exprime dans le sexe (pénis/vulve/vagin) mais aussi par d’autres voies. Il y a une multitude expressions de la sexualité qui ne passent pas par le sexe : le baiser, la danse, le regard, le toucher, le chant, la poésie, la peinture. En réalité, souvent ce qu’on appelle sensualité, c’est la sexualité qui se manifeste en dehors du sexe.
 
 Quelque chose d'unique que la sexualité par rapport au mental, émotions et corps, c’est que la sexualité est directement liée à la lignée. C’est l’énergie de la vie au sens biologique, au sens du vivant. La survie de l’espèce, qui de par de nombreux exemples, surpasse la survie de l'individu. Des mâles qui se mettent en danger de mort pour pouvoir procréer. Des oiseaux qui construisent des nids décorés. Des poissons qui dessinent des mandalas. Des mamans seiches qui meurent d’épuisement. Des saumons quittent l’océan et remontent leur rivière natale pour s’accoupler.
 

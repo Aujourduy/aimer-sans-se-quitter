@@ -13,9 +13,9 @@ Duy DANG
 Révélateur de Sexualité sensible
 
 --------------------------------------------------------------------
-PS : Le RECRUTEMENT pour mon accompagnement à la Sexualité sensible pour la rentrée a commencé. Un groupe de 6 femmes et un groupe de 6 hommes. Pour les personnes intéressées, contactez-moi en message privé.
+PS : Le RECRUTEMENT pour mon accompagnement à la Sexualité sensible pour la rentrée a commencé. Un groupe de 6 femmes et un groupe de 6 hommes. Pour les personnes intéressées, contactez-moi en message privé.
 
-PPS : Quelques infos complémentaires
+PPS : Quelques infos complémentaires
 
 1/ Pour la lettre d'infos de mon actualité, les prochains séminaires, les accompagnements individuels ou collectifs,  inscrivez-vous  😉sur www.sexualite-sensible.fr
 

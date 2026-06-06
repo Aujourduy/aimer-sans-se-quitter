@@ -19,4 +19,4 @@ Ma présence était là pour elle, autour d’elle, à l’envelopper d’une do
 Quand tout le corps, tout l’être s’ouvre à la sensibilité, le corps entier est érogène. Il n’y a pas besoin de technique, il n’y a pas de savoir-faire. Tout est poésie. Tout est beauté. Alors le moindre contact, le moindre souffle devient source de délice. 
 C’est vraiment ce que transmet dans les 3 premiers piliers de mon accompagnement “Vivre un grand Amour”
 
-Pour plus d’infos, t’inscrire à la newsletter, assister au prochain webinaire, prendre rendez-vous pour un entretien diagnostic gratuit : www.duy-dang.fr
+Pour plus d’infos, t’inscrire à la newsletter, assister au prochain webinaire, prendre rendez-vous pour un entretien diagnostic gratuit : www.duy-dang.fr

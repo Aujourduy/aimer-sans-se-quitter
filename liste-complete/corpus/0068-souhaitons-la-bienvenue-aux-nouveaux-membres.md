@@ -22,7 +22,7 @@ Roger Muller
 
 (Je viens de tester la fonctionnalité Facebook, message de bienvenue. C'est très pratique zn fait ;-) m
 
-Voici quelques indications : 
+Voici quelques indications : 
 
 1/ Épinglés en haut de la page du groupe vous trouverez les 5 vidéos du défi le Tournant.
 

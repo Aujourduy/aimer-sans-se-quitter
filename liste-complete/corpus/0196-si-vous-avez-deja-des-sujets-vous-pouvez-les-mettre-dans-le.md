@@ -10,4 +10,4 @@ enrichi: false
 ---
 Si vous avez déjà des sujets, vous pouvez les mettre dans le fil de discussion pour que j'axe la préparation du webinaire selon vos besoins 😃 
 
-Avez-vous des questions ou des thèmes que vous voulez voir abordés ?
+Avez-vous des questions ou des thèmes que vous voulez voir abordés ?

@@ -28,7 +28,7 @@ C’était très difficile à vivre. J’étais jeune, à l’armée, on parlait
 
 -
 
-Pourquoi cela est arrivé ? Pourquoi je n’ai pas quitté ma chérie à ce moment là ? Il y a les premières réponses du moment et les vraies réponses qui sont arrivées 30 ans après. Et j’y reviendrai plus tard.
+Pourquoi cela est arrivé ? Pourquoi je n’ai pas quitté ma chérie à ce moment là ? Il y a les premières réponses du moment et les vraies réponses qui sont arrivées 30 ans après. Et j’y reviendrai plus tard.
 
 -
 
@@ -44,24 +44,24 @@ C’est grâce à ce cheminement que ma sexualité a radicalement changé, évol
 
 -
 
-Est-ce que j’ai plus d’orgasmes ? Non
+Est-ce que j’ai plus d’orgasmes ? Non
 
 -
 
-Est-ce que je jouis plus souvent ou  plus fort ? Non plus.
+Est-ce que je jouis plus souvent ou  plus fort ? Non plus.
 
 -
 
-Mais alors qu’est-ce qui a changé réellement dans ma sexualité ? 
+Mais alors qu’est-ce qui a changé réellement dans ma sexualité ? 
 
 -
 
-Cela tient en deux mots : Vérité et Liberté.
+Cela tient en deux mots : Vérité et Liberté.
 
 -
 
 Un des retours de mes amantes est qu’avec moi elles se sentent 
-complètement libres. Libres d’être une reine, une déesse, un ange. Libre d’être une c.ch.nn. une p.rv.rs., une g.rc., une s.l.p. ou une p.t..n. Libres d’être gentilles, douces, méditatives. Libre d’être bestiales, sauvages, violentes, gourmandes. Tout est accueilli, aimé et honoré. Parce que je suis pareil ! Ha ha ha
+complètement libres. Libres d’être une reine, une déesse, un ange. Libre d’être une c.ch.nn. une p.rv.rs., une g.rc., une s.l.p. ou une p.t..n. Libres d’être gentilles, douces, méditatives. Libre d’être bestiales, sauvages, violentes, gourmandes. Tout est accueilli, aimé et honoré. Parce que je suis pareil ! Ha ha ha
 
 -
 
@@ -69,11 +69,11 @@ C’est cette liberté que je me suis offerte en assumant qui je suis au moment 
 
 -
 
-En définitive, le plus important et précieux pour moi dans la sexualité c’est : La liberté d’être. Oser ma Vérité. Honorer ma Liberté. Beaucoup de personnes se disent libres et authentiques avec leur partenaire. Très peu le sont en fait. Beaucoup de personnes cherchent à avoir plus de plaisir dans la sexualité alors qu’intérieurement, elles cherchent à se sentir aimée pour qui elles sont réellement. A 100%. Je le sais parce que c’était mon cas.
+En définitive, le plus important et précieux pour moi dans la sexualité c’est : La liberté d’être. Oser ma Vérité. Honorer ma Liberté. Beaucoup de personnes se disent libres et authentiques avec leur partenaire. Très peu le sont en fait. Beaucoup de personnes cherchent à avoir plus de plaisir dans la sexualité alors qu’intérieurement, elles cherchent à se sentir aimée pour qui elles sont réellement. A 100%. Je le sais parce que c’était mon cas.
 
 -
 
-Je cherchais des techniques pour avoir et donner plus de plaisir, des plaisirs différents, plus intenses. Mais cette quête était sans fin. Je disais que c’était une exploration, mais cette exploration avait un but : la libération. Me sentir libre. Me sentir aimé. Sans condition. Sans compromis.
+Je cherchais des techniques pour avoir et donner plus de plaisir, des plaisirs différents, plus intenses. Mais cette quête était sans fin. Je disais que c’était une exploration, mais cette exploration avait un but : la libération. Me sentir libre. Me sentir aimé. Sans condition. Sans compromis.
 
 -
 
@@ -121,7 +121,7 @@ De la honte que j’avais par rapport au début difficile dans ma sexualité, qu
 
 -
 
-Quand je vois tout ce que je vis aujourd’hui grâce à l’expérience difficile et douloureuse, je ressens une immense gratitude. Cela était douloureux : Oui. Beaucoup de désespoirs, de doutes, de chagrins : Oui. Mais par rapport aux bénéfices actuels, cela en valait vraiment le coût. Si c’était à refaire pour en arriver ici, je le referai volontiers.
+Quand je vois tout ce que je vis aujourd’hui grâce à l’expérience difficile et douloureuse, je ressens une immense gratitude. Cela était douloureux : Oui. Beaucoup de désespoirs, de doutes, de chagrins : Oui. Mais par rapport aux bénéfices actuels, cela en valait vraiment le coût. Si c’était à refaire pour en arriver ici, je le referai volontiers.
 
 -
 

@@ -7,7 +7,7 @@ sujet: ""
 motscles: []
 enrichi: false
 ---
-Dans une jolie mare, il y avait un petit groupe de têtards. Tous venaient de sortir de leur œuf depuis quelques jours seulement. Il y en avait des plus ou moins agiles, des plus ou moins rapides. Romain était dans la moyenne. Normal sans plus. Romain était un grand romantique. Il cherchait l'âme sœur dès ses premiers jours de vie, interrogeant les représentantes de la gente féminine pour découvrir celle qui répondrait le mieux à ses valeurs. Il la trouva après de nombreuses rencontres. Il dut aller à l'autre bout de la mare pour la trouver mais enfin, elle était là : Julie. Des formes bien proportionnées. Un peu ronde. Toute mignonne avec de petites nageoires rigolotes. D'un rouge éclatant. C'était bizarre mais ce n'était pas grave pour Romain. Ça la rendait unique. Il ne sut pas dire ce que c'était et d'ailleurs peu lui importait. Il l'aimait. Voilà tout.
+Dans une jolie mare, il y avait un petit groupe de têtards. Tous venaient de sortir de leur œuf depuis quelques jours seulement. Il y en avait des plus ou moins agiles, des plus ou moins rapides. Romain était dans la moyenne. Normal sans plus. Romain était un grand romantique. Il cherchait l'âme sœur dès ses premiers jours de vie, interrogeant les représentantes de la gente féminine pour découvrir celle qui répondrait le mieux à ses valeurs. Il la trouva après de nombreuses rencontres. Il dut aller à l'autre bout de la mare pour la trouver mais enfin, elle était là : Julie. Des formes bien proportionnées. Un peu ronde. Toute mignonne avec de petites nageoires rigolotes. D'un rouge éclatant. C'était bizarre mais ce n'était pas grave pour Romain. Ça la rendait unique. Il ne sut pas dire ce que c'était et d'ailleurs peu lui importait. Il l'aimait. Voilà tout.
 
 Julie était un poisson rouge. Mais, à cet âge-là, ça ne faisait pas beaucoup de différence. C'étaient tous les deux des petites boules avec des nageoires en forme d'éventail. Bon, l'éventail n'était pas orienté pareil, mais cela importait peu.
 
@@ -49,15 +49,15 @@ Ils vécurent heureux longtemps … mais pas ensemble.
 
 …
 
-« Les personnages et les situations de ce récit étant purement fictifs ou presque, toute ressemblance avec des personnes ou des situations existantes ou ayant existé ne saurait être que fortuite ou presque ».
+« Les personnages et les situations de ce récit étant purement fictifs ou presque, toute ressemblance avec des personnes ou des situations existantes ou ayant existé ne saurait être que fortuite ou presque ».
 
-Et si la faute venait de nulle part ?
+Et si la faute venait de nulle part ?
 
-Et si le destin d'un têtard était de quitter la mare pour vivre à l'air dit libre ? Sur la terre dite ferme.
+Et si le destin d'un têtard était de quitter la mare pour vivre à l'air dit libre ? Sur la terre dite ferme.
 
-Et si le destin d'un poisson rouge était de rester dans la mare ? Dans l'eau natale.
+Et si le destin d'un poisson rouge était de rester dans la mare ? Dans l'eau natale.
 
-A qui la faute alors? Peut-être à personne. Parce que ça devait se passer comme ça. On ne peut pas demander à un têtard de grandir dans l'eau où il est né. On ne peut pas demander à un poisson rouge de grandir ailleurs que dans l'eau de sa mare.
+A qui la faute alors ? Peut-être à personne. Parce que ça devait se passer comme ça. On ne peut pas demander à un têtard de grandir dans l'eau où il est né. On ne peut pas demander à un poisson rouge de grandir ailleurs que dans l'eau de sa mare.
 
 Les donneurs de leçons diront qu'il fallait que Romain épouse un têtard et Julie un poisson rouge. Mais alors, ils n'auraient pas eu ce bonheur. Ce bonheur a duré le temps qu'il a duré, mais c'était un bonheur unique. De toute façon, aucune autre demoiselle de la mare ne plaisait à Romain comme aucun autre poisson ne trouvait grâce aux yeux de Julie.
 

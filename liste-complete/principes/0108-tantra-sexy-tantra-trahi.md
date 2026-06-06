@@ -19,9 +19,9 @@ C’est clair que c’est plus plaisant de montrer des corps sexy. C’est plus 
 
 Je ne dis pas que le contenu de ces stages sont mauvais mais il y a clairement un message contradictoire, je dirais même une trahison. Quel que soit le type de tantra enseigné, on nous parlera de conscience, de sexualité sacrée, de connexion à l’être et on nous jette des photos clichées du sexy, pour réveiller nos pulsions sexuelles.
 
-Vous n’avez pas besoin de plus. Vous n’avez pas besoin d’avoir plus de formes, plus de muscles, plus de seins, plus de ventre plat, plus de jeunesse, plus de lèvres pulpeuses. Stop !
+Vous n’avez pas besoin de plus. Vous n’avez pas besoin d’avoir plus de formes, plus de muscles, plus de seins, plus de ventre plat, plus de jeunesse, plus de lèvres pulpeuses. Stop !
 
-STOP ! STOP ! et STOOOOOP !
+STOP ! STOP ! et STOOOOOP !
 
 Vous n’avez pas besoin de plus. Vous en avez assez.
 

@@ -17,10 +17,10 @@ Des extraits des témoignages de participant.e.s
 " ... Je me sens enrichie, portée par tous ces partages enrichissants, émotionnants, qui font écho très fort ..."
 https://www.facebook.com/amour.charnel.sensible/posts/138950285127483
 
-" ... A toi qui hésite à participer à ce que Duy propose, je te dirais qu être au contact de quelqu'un de congruent, spontané, généreux et qui veut transmettre est un merveilleux cadeau ! ..."
+" ... A toi qui hésite à participer à ce que Duy propose, je te dirais qu être au contact de quelqu'un de congruent, spontané, généreux et qui veut transmettre est un merveilleux cadeau ! ..."
 https://www.facebook.com/amour.charnel.sensible/posts/138900631799115
 
-"... Pour finir j'ai envie de dire aux personnes qui hésitent à réaliser ce défi que ce sont 5 journées merveilleuses à traverser et qui permettent de réaliser qu'est-ce-que nous avons à améliorer pour devenir un meilleur amant sensible à l'écoute de soi et des autres !! ..." 
+"... Pour finir j'ai envie de dire aux personnes qui hésitent à réaliser ce défi que ce sont 5 journées merveilleuses à traverser et qui permettent de réaliser qu'est-ce-que nous avons à améliorer pour devenir un meilleur amant sensible à l'écoute de soi et des autres !! ..." 
 https://www.facebook.com/amour.charnel.sensible/posts/138897428466102
 
 "... cela me redonne foi en moi mais également en une possible rencontre authentique ..."
@@ -33,7 +33,7 @@ https://www.facebook.com/amour.charnel.sensible/posts/138876935134818
 
 Il y a 5 vidéos lives disponibles dans le groupe privé facebook Les amants sensibles.
 
-Pour y participer :
+Pour y participer :
 
 1. Likez ce post et commentez "Défi le Tournant"
 
@@ -47,9 +47,9 @@ Sensiblement,
 Frère-Révélateur de Sexualité sensible
 
 -------------------------------------------------------------------
-PS : Pour les personnes intéressées par un accompagnement pour atteindre une sexualité authentique et sensible, contactez-moi en message privé.
+PS : Pour les personnes intéressées par un accompagnement pour atteindre une sexualité authentique et sensible, contactez-moi en message privé.
 
-PPS : Quelques infos complémentaires
+PPS : Quelques infos complémentaires
 
 1/ Pour la lettre d'infos de mon actualité, les prochains séminaires, les accompagnements individuels ou collectifs,  inscrivez-vous  😉sur www.sexualite-sensible.fr
 

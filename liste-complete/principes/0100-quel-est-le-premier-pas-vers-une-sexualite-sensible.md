@@ -7,4 +7,4 @@ sujet: ""
 motscles: []
 enrichi: false
 ---
-Comme le disait Lao Tseu, un voyage de mille lieu commence par un pas : la pause.
+Comme le disait Lao Tseu, un voyage de mille lieu commence par un pas : la pause.

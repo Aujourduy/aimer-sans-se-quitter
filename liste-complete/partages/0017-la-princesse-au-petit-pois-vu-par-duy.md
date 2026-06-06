@@ -24,9 +24,9 @@ Je me suis écouté. Je me suis étudié. J’ai observé mes pensées, mes peur
 
 Depuis, un seul matelas me suffit amplement. Je n’ai plus
 
-besoin de grands orgasmes, de nouveautés etc. Tout est bien à chaque fois. Pleinement satisfaisant. Profondément joyeux. Totalement nourrissant. Mais phénomène étrange, c’est que depuis que je ne cherche plus ça n’arrête pas d’arriver ! Des expériences merveilleuses.
+besoin de grands orgasmes, de nouveautés etc. Tout est bien à chaque fois. Pleinement satisfaisant. Profondément joyeux. Totalement nourrissant. Mais phénomène étrange, c’est que depuis que je ne cherche plus ça n’arrête pas d’arriver ! Des expériences merveilleuses.
 
-Maintenant, je comprends mieux ce petit pois. C’est une petite voix qui me murmurait : “Mon ami, ce n’est pas ça. Tu mérites mieux.” ou “Mon ami, tu n’es pas encore arrivé. Il y a du grandiose pour toi.” En définitive ce que cette voix a toujours répété, et que j’entends distinctement aujourd’hui, c’était : “Mon ami, tu mérites le grand luxe. Tu connais le raffinement. C’est ta nature que de vivre le merveilleux. Continue et tu trouveras. Cela t’est destiné parce que tu es une vraie princesse.”
+Maintenant, je comprends mieux ce petit pois. C’est une petite voix qui me murmurait : “Mon ami, ce n’est pas ça. Tu mérites mieux.” ou “Mon ami, tu n’es pas encore arrivé. Il y a du grandiose pour toi.” En définitive ce que cette voix a toujours répété, et que j’entends distinctement aujourd’hui, c’était : “Mon ami, tu mérites le grand luxe. Tu connais le raffinement. C’est ta nature que de vivre le merveilleux. Continue et tu trouveras. Cela t’est destiné parce que tu es une vraie princesse.”
 
 D’ailleurs le second titre du conte c’est La Princesse sur le pois ou La Vraie Princesse.
 
@@ -34,6 +34,6 @@ Aujourd’hui, il se pourrait que je sois devenu un petit pois. Oui, maintenant 
 
 Ton petit pois. Peut-être, mon ami que je suis ton petit pois.
 
-Alors laisse-moi te dire ceci :
+Alors laisse-moi te dire ceci :
 
 Mon amie, tu es une vraie princesse. Mon ami, tu es un vrai prince.

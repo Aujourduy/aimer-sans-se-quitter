@@ -17,13 +17,13 @@ Une analyse qui s’élabore sur les directions de l’amour dans une relation e
 
 S’il n’y a que le (1)
 
-C’est le fameux “Il m’aime. Elle m’aime” qui est le saint graal pour certaines personnes. Cela nourrit l’envie d’être aimé. A tel point, que certaines personnes restent dans une relation néfaste parce qu’elles s’y sentent aimées, ou du moins considérées. C’est la question “Est-ce que tu m’aimes ? ”
+C’est le fameux “Il m’aime. Elle m’aime” qui est le saint graal pour certaines personnes. Cela nourrit l’envie d’être aimé. A tel point, que certaines personnes restent dans une relation néfaste parce qu’elles s’y sentent aimées, ou du moins considérées. C’est la question “Est-ce que tu m’aimes ? ”
 
 C’est la position de victime. 
 
 S’il n’y a que le (2)
 
-“Je l’aime”, “je ferai tout ou presque, pour elle”. Puisque je l’aime, ça justifie tout, mes efforts, mes sacrifices. Cela peut amener à “je sais mieux qu’elle ou que lui ce qu’il lui faut”. C’est la question “Est-ce que tu vois que je t’aime ? ” 
+“Je l’aime”, “je ferai tout ou presque, pour elle”. Puisque je l’aime, ça justifie tout, mes efforts, mes sacrifices. Cela peut amener à “je sais mieux qu’elle ou que lui ce qu’il lui faut”. C’est la question “Est-ce que tu vois que je t’aime ? ” 
 
 C’est la position du sauveur. 
 

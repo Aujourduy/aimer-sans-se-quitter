@@ -10,15 +10,15 @@ enrichi: false
 ---
 Cette proposition est uniquement destinée aux membres du groupe.
 
-Je propose des séances de coaching gratuites sur le thème que tu veux : sexualité, relationnel, professionnel, amoureux ou autre.
+Je propose des séances de coaching gratuites sur le thème que tu veux : sexualité, relationnel, professionnel, amoureux ou autre.
 
 Tu peux candidater pour une ou plusieurs séances. 
 
-Pour candidater : 
+Pour candidater : 
 
-1/ Commenter le post : "Je profite"
+1/ Commenter le post : "Je profite"
 
-2/ Remplir le formulaire suivant : https://forms.gle/8cfenTVC87vkWRZF6
+2/ Remplir le formulaire suivant : https://forms.gle/8cfenTVC87vkWRZF6
 
 3/ Accepter que la séance soit enregistrée et diffusée à titre pédagogique dans mon espace membres. Seules les personnes inscrites à la formation pourront y avoir accès.
 

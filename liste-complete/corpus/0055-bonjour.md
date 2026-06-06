@@ -14,7 +14,7 @@ Il y a aussi de membres en Suisse, Belgique, Tunisie et Québec.
 
 C'est complètement gratuit.
 
-Pour vous inscrire :
+Pour vous inscrire :
 
 1/ Like le post et mets en commentaire "Bonne idée".  Oui, dans le groupe, on se tutoie parce que s'y livre de manière sincère et bienveillante.
 
@@ -30,9 +30,9 @@ Sensiblement,
 Frère-Révélateur de Sexualité sensible
 
 -------------------------------------------------------------------
-PS : Pour les personnes intéressées par un accompagnement pour atteindre une sexualité authentique et sensible, contactez-moi en message privé.
+PS : Pour les personnes intéressées par un accompagnement pour atteindre une sexualité authentique et sensible, contactez-moi en message privé.
 
-PPS : Quelques infos complémentaires
+PPS : Quelques infos complémentaires
 
 1/ Pour la lettre d'infos de mon actualité, les prochains séminaires, les accompagnements individuels ou collectifs,  inscrivez-vous  😉sur www.sexualite-sensible.fr
 

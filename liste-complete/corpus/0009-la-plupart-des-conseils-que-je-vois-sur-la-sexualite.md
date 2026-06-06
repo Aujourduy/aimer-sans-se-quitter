@@ -14,11 +14,11 @@ Si vous avez un petit enfant qui vous a massé, qui vous a papouillé, vous comp
 
 Ceux qui ne vous parlent que du faire sans parler de l’être, ce que je vois énormément même chez les formateurs de tantra, de sexualité sacrée, sont soit inconscients soit ignorants des difficultés réels des gens.
 
-Être sans peur : c’est lâcher les peurs de décevoir, de blesser, de ne pas jouir, de ne pas faire jouir, d’être quitté, de ne pas être à la hauteur, de ne pas mériter ce dont on a envie, de ne pas recevoir ce qu’on veut.
+Être sans peur : c’est lâcher les peurs de décevoir, de blesser, de ne pas jouir, de ne pas faire jouir, d’être quitté, de ne pas être à la hauteur, de ne pas mériter ce dont on a envie, de ne pas recevoir ce qu’on veut.
 
 Être sans reproche, mais vis-à-vis de l’autre. Ne rien lui reprocher. Ne rien demander. Ne rien reprocher ne signifie pas que je n’ai pas le droit d’être déçu. Bien sûr des fois je suis déçu mais c’est léger. Comme quand je suis déçu qu’il pleuve mais je ne fais pas de reproche au ciel. Ne rien demander ne signifie pas que je n’ai pas le droit d’avoir des envies. Bien sûr, j’ai des envies. J’ai envie de telles caresses, de tels baisers, de telles positions, de faire telle expérience avec toi. Je les exprime, je les communique, parce que je suis sans peur. Si l’autre a vraiment ces envies, nous les partageons et explorons ensemble. Sinon, rien. Nous profitons seulement de ce qui nous plaît vraiment à tous les deux.
 
-Une sexualité magnifique se résume à ça : Être sans peur et sans reproche.
+Une sexualité magnifique se résume à ça : Être sans peur et sans reproche.
 
 Je n’ai aucune expérience où j’étais sans peur et sans reproche qui n’était pas parfaite.
 A contrario, toutes les expériences où quelque chose n’allait pas, c’était parce qu’il y avait de la peur chez moi ou/et des reproches envers ma partenaire.
@@ -37,7 +37,7 @@ Ceci est mon expérience et mon analyse. Peut-être qu’il y a des situations o
 
 Je ne dis pas que c’est inutile d’avoir des connaissances sur l’anatomie, sur des techniques et des pratiques … mais c’est très secondaire. C’est intéressant. En plus, ça rassure d’apprendre de nouvelles choses parce qu’on a l’impression d’avancer. Mais des fois on avance en rond. On tourne en rond tenu par la laisse de sa peur, ses peurs profondes. 
 
-SI j’avais qu’un seul conseil à vous donner pour vivre une sexualité sensible c’est : 
+SI j’avais qu’un seul conseil à vous donner pour vivre une sexualité sensible c’est : 
 
 Ne cherchez pas à mieux faire mais cherchez à être sans peur et sans reproches.
 
@@ -46,9 +46,9 @@ La lumière existe, j’y ai cru, j’ai marché vers elle, je l’ai vu et j’
 Duy DANG
 Révélateur de Sexualité sensible
 
-PS : Le recrutement pour mon accompagnement à la Sexualité sensible pour la rentrée a commencé. Un groupe de 6 femmes et un groupe de 6 hommes. Pour les personnes intéressées, contactez-moi en message privé.
+PS : Le recrutement pour mon accompagnement à la Sexualité sensible pour la rentrée a commencé. Un groupe de 6 femmes et un groupe de 6 hommes. Pour les personnes intéressées, contactez-moi en message privé.
 
-PPS : Quelques infos complémentaires
+PPS : Quelques infos complémentaires
 
 1/ Pour la lettre d'infos de mon actualité, les prochains séminaires, les accompagnements individuels ou collectifs,  inscrivez-vous  😉sur www.sexualite-sensible.fr
 

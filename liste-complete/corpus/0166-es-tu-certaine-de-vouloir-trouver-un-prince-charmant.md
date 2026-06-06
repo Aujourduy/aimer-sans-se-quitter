@@ -20,11 +20,11 @@ Le mot princesse, dans une autre langue et une autre culture signifierait peut-�
 
 Ces princesses sont de pauvres femmes sans repère, sans valeur, qui cherche à être choisie par un prince pour avoir de l'importance, pour exister.
 
-Cendrillon cherche à être vue au bal pour se marier. Elle ne connaissait même pas le prince, ne l'avait jamais vu et se donne tout ce mal pour se faire belle ? Le prince lui pouvait choisir parmi un groupe de filles à marier. Mais chaque fille, voulait se marier à qui ? A un inconnu. La seule chose qu'elle savait de lui c'était que c'était un prince ... elle voulait en réalité épouser une situation. Il n'y a rien de mal à vouloir de sortir de la misère financière ou affective. C'est juste que je ne veux pas qu'une femme choisit ma situation plutôt que moi.
+Cendrillon cherche à être vue au bal pour se marier. Elle ne connaissait même pas le prince, ne l'avait jamais vu et se donne tout ce mal pour se faire belle ? Le prince lui pouvait choisir parmi un groupe de filles à marier. Mais chaque fille, voulait se marier à qui ? A un inconnu. La seule chose qu'elle savait de lui c'était que c'était un prince ... elle voulait en réalité épouser une situation. Il n'y a rien de mal à vouloir de sortir de la misère financière ou affective. C'est juste que je ne veux pas qu'une femme choisit ma situation plutôt que moi.
 
-La belle au bois dormant a épousé celui qui l'a réveillée, le prince, son sauveur. Genre il y a un mec qui l'embrasse pendant qu'elle dormait !!! Quand on parle du consentement, il est où là ? Même s'il est beau, même si c'est le prince. Dans le code pénal, il y a le délit de "viol conjugal". Ça signifie qu'il faut un consentement. Ce n'est pas quand l'homme veut, où il veut et comme il veut. Bon, là il n'y a pas pénétration, mais légalement c'est une agression sexuelle.
+La belle au bois dormant a épousé celui qui l'a réveillée, le prince, son sauveur. Genre il y a un mec qui l'embrasse pendant qu'elle dormait !!! Quand on parle du consentement, il est où là ? Même s'il est beau, même si c'est le prince. Dans le code pénal, il y a le délit de "viol conjugal". Ça signifie qu'il faut un consentement. Ce n'est pas quand l'homme veut, où il veut et comme il veut. Bon, là il n'y a pas pénétration, mais légalement c'est une agression sexuelle.
 
-Pour Blanche Neige, c'est pire : elle était dans le comma. Dans la version Disney, le prince l'embrasse, dans la version de Grimm le prince décide de ramener son corps chez lui. Genre l'amitié entre Blanche Neige et les sept nains qui ont pris soin d'elle, qui l'ont accueillie chez eux, qui la nourrissent et elle qui prenait soin de la maison, leur cuisinait des plats pour les nourrir quand ils rentrent du travail, cette amitié était négligeable, balayé par le premier beau gosse prince venu.
+Pour Blanche Neige, c'est pire : elle était dans le comma. Dans la version Disney, le prince l'embrasse, dans la version de Grimm le prince décide de ramener son corps chez lui. Genre l'amitié entre Blanche Neige et les sept nains qui ont pris soin d'elle, qui l'ont accueillie chez eux, qui la nourrissent et elle qui prenait soin de la maison, leur cuisinait des plats pour les nourrir quand ils rentrent du travail, cette amitié était négligeable, balayé par le premier beau gosse prince venu.
 
 Chaque fois qu'on utilise l'expression "prince charmant", il y a tout cet imaginaire qui risque de colorer la toile de fond. 
 
@@ -46,10 +46,10 @@ www.sexualite-sensible.fr
 
 *** PLUS D'INFOS ***
 
-1/ Tu as depuis longtemps une envie irrésistible et profonde de vivre les instants de grâce d'une sexualité authentique et sensible ? C'est par ici : www.sexualite-sensible.fr
+1/ Tu as depuis longtemps une envie irrésistible et profonde de vivre les instants de grâce d'une sexualité authentique et sensible ? C'est par ici : www.sexualite-sensible.fr
 
 2/ Pour recevoir des conseils sur la sexualité sensible, connaître mon actualité, inscris-toi 😉 sur www.conseils-pour-amants-sensibles.fr
 
 3/ Pour lire mes autres posts 😘, abonne-toi à mon profil pro https://www.facebook.com/inspirateur.des.amants.sensibles
 
-4/ Mon groupe privé de partages amicaux, sensuels et charnels entre personnes désireuses d'une sexualité authentique et sensible : www.la-tribu-des-amants-sensibles.fr
+4/ Mon groupe privé de partages amicaux, sensuels et charnels entre personnes désireuses d'une sexualité authentique et sensible : www.la-tribu-des-amants-sensibles.fr

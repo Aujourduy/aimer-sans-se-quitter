@@ -8,6 +8,6 @@ sujet: ""
 motscles: []
 enrichi: false
 ---
-Atelier à venir de La Voie de la Danse, le dimanche 26/11/2023, de 11h à 13h : Réveiller sa Sensualité en co-animation avec @[1048337975:2048:Martine Shakti]
+Atelier à venir de La Voie de la Danse, le dimanche 26/11/2023, de 11h à 13h : Réveiller sa Sensualité en co-animation avec @[1048337975:2048:Martine Shakti]
 
 https://www.billetweb.fr/reveiller-sa-sensualite

@@ -12,7 +12,7 @@ Entrer en relation avec l'autre en restant connecté à soi
 
 La danse connectée des amants sensibles. 
 
-Comment entrer en lien avec l'autre tout étant connecté à soi ? 
+Comment entrer en lien avec l'autre tout étant connecté à soi ? 
 
 Parfois la communication par les mots est difficile, on n'arrive pas à exprimer ses besoins, ce qu'on ressent, à mettre ses limites et être quand même en lien à l'autre. 
 
@@ -60,7 +60,7 @@ Dimanche 11/06/2023 de 15h00 à 17h30, Studio des Rigolees à Paris.
 
 Tarif 30-40 euros
 
-Info et résa : https://www.billetweb.fr/danse-des-amants-sensibles
+Info et résa : https://www.billetweb.fr/danse-des-amants-sensibles
 
 Danseurs @[1048337975:2048:Martine Shakti] @[100070375365062:2048:Duy Dang]
 Vidéo @[588659843:2048:Emmanuel Frey]

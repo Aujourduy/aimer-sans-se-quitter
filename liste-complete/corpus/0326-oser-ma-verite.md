@@ -11,4 +11,4 @@ enrichi: false
 Exercer ma Liberté
 Déployer ma Vitalité & ma Sexualité
 
-Et le premier pas de mon nouveau voyage pour vivre  un amour authentique et une sexualité sensible c'est ici : www.sexualite-sensible.fr
+Et le premier pas de mon nouveau voyage pour vivre  un amour authentique et une sexualité sensible c'est ici : www.sexualite-sensible.fr

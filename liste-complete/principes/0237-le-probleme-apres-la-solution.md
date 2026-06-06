@@ -7,4 +7,4 @@ sujet: ""
 motscles: []
 enrichi: false
 ---
-Après un stage sur la sexualité …. le problème de comment rencontrer un.e tel.le partenaire ?
+Après un stage sur la sexualité …. le problème de comment rencontrer un.e tel.le partenaire ?

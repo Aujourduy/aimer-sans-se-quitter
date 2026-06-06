@@ -10,11 +10,11 @@ enrichi: false
 ---
 Si je suis irrité ou en colère contre une personne, la colère m'appartient et est de ma responsabilité. Elle traduit le fait que JE me suis "abusé", "forcé" à être quelqu'un que que je ne suis pas. Je ne suis pas un idéal de gentillesse ni de disponibilité. Ma patience à des limites, surtout avec la n-ième personne. 
 
-Ce que je peux faire c'est :
+Ce que je peux faire c'est :
 
-1/ Envoyer un message du type : Merci pour nos discussions. Cela m a permis d'apprendre des choses sur moi même. Pour des raisons qui me sont complètement personnelles, je n'ai plus envie d'échanger avec toi. Merci de ne plus m envoyer de message. Bonne continuation dans ton voyage. 
+1/ Envoyer un message du type : Merci pour nos discussions. Cela m a permis d'apprendre des choses sur moi même. Pour des raisons qui me sont complètement personnelles, je n'ai plus envie d'échanger avec toi. Merci de ne plus m envoyer de message. Bonne continuation dans ton voyage. 
 
-2. Si la personne m'envoie un message pour chercher à comprendre, se justifier ou quoique ce soit : 
+2. Si la personne m'envoie un message pour chercher à comprendre, se justifier ou quoique ce soit : 
 Je bloque le profil
 
 Mon espace, même numérique, m'appartient. Ma messagerie, mon téléphone, mon mail, ma page etc. C'est chez moi. Les personnes qui y viennent sont des invités pas des locataires. J'accueille qui je veux, quand je veux, comme je veux sans la nécessité de me justifier. Idem pour les refus. 

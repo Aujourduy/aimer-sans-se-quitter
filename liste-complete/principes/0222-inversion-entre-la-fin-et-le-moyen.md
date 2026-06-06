@@ -19,7 +19,7 @@ Yannick Noah disait qu’il n’était pas heureux parce qu’il avait gagné ma
 
 Zig Ziglar disait qu’une fois le sommet du succès atteint, on se rend compte que ce qu’on a obtenu était beaucoup moins précieux que qui on était devenu grâce au voyage. 
 
-En définitive, on désire D parce qu’on veut être E : heureux, en paix, dans la joie.
+En définitive, on désire D parce qu’on veut être E : heureux, en paix, dans la joie.
 
 Quel est l’utilité de voir cela.
 

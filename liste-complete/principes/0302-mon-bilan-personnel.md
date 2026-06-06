@@ -11,6 +11,6 @@ Je suis heureux dans ma sexualité. Serein, débordant d’amour et de bien-êtr
 
 Pas de compulsion, pas de manque. Tout va toujours bien.
 
-Niveau de nichage :
+Niveau de nichage :
 
-Niveau d’expertise :bbbbb
+Niveau d’expertise :bbbbb

@@ -8,6 +8,6 @@ sujet: ""
 motscles: []
 enrichi: false
 ---
-Pour avoir un entretien gratuit et sans engagement qui va t'apporte de la clarté par rapport à ta situation et tes objectifs, découvre mon approche spécifique sur :
+Pour avoir un entretien gratuit et sans engagement qui va t'apporte de la clarté par rapport à ta situation et tes objectifs, découvre mon approche spécifique sur :
 
 www.sexualite-sensible.fr

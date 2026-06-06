@@ -10,4 +10,4 @@ enrichi: false
 ---
 Bon d'accord, je n'ai pas beaucoup écrit de post cette dernière semaine mais j'avais une bonne raison. Les amants sensibles en site avec localisation, recherche à proximité, chat.
 
-Je me remets à l'écriture de post demain !
+Je me remets à l'écriture de post demain !

@@ -32,13 +32,13 @@ C’est ce cheminement qui m’a permis de développer la légèreté, l’auton
 
 Toute cette expérience m’a enseigné les principes fondamentaux pour entrer en lien avec une femme, pour vivre la sensualité quand elle se présente. La même chose se passe aussi évidemment vis à vis d’un homme.
 
-Comment construire la confiance en soi ?
+Comment construire la confiance en soi ?
 
-Comment donner confiance à l’autre ? Aux autres ?
+Comment donner confiance à l’autre ? Aux autres ?
 
-Quels indices démontrent un intérêt réciproque ? Une envie de se rapprocher ?
+Quels indices démontrent un intérêt réciproque ? Une envie de se rapprocher ?
 
-Quelles sont les différentes façons de se connecter à l’autre pour qu’il se sente libre et respecté ?
+Quelles sont les différentes façons de se connecter à l’autre pour qu’il se sente libre et respecté ?
 
 C’est ce que je vais partager avec toi dans notre prochain atelier “La Voie de la Danse” dont le thème est justement “Entrer et sortir du lien” que je vais animer avec @[1048337975:2048:Martine Shakti]. Justement une des femmes avec qui il y a eu plusieurs de ces rencontres magiques dans la danse et qui ont abouti à une belle relation d’amitié entre nous.
 
@@ -55,4 +55,4 @@ Studio Kim Kan
 Tarif 25/15 euros pour l’atelier
 70 euros pour les 3 ateliers
 
-Réservation sur : https://www.billetweb.fr/entrer-et-sortir-du-lien
+Réservation sur : https://www.billetweb.fr/entrer-et-sortir-du-lien

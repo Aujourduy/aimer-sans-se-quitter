@@ -42,5 +42,5 @@ Moment présent, moment merveilleux.
 => Si tu veux pratiquer, viens à notre prochain atelier de La Voie de la Danse, Réveiller sa Sensualité en co-animation avec @[1048337975:2048:Martine Shakti]
 
 C'est dimanche 26/11/2023
-Résa sur: 
+Résa sur : 
 https://www.billetweb.fr/reveiller-sa-sensualite

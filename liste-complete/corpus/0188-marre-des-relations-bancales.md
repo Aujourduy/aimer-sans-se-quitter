@@ -20,7 +20,7 @@ Elle était perdue. Elle ne savait plus quoi faire, où aller ni par quel bout p
  
 Elle avait peur de ne pas être entendue dans ses besoins, dans ses paroles. Elle craignait de rester toujours malheureuse par rapport à ça.
  
-Elle ne savait pas si c'était elle qui avait un problème ou si cela venait de son partenaire. Était-ce normal ? Était-ce légitime de vouloir de l'attention, de la tendresse, de prendre le temps pour laisser le désir fleurir ? Était-ce possible de ne pas vouloir faire la course au plaisir à tout prix ?
+Elle ne savait pas si c'était elle qui avait un problème ou si cela venait de son partenaire. Était-ce normal ? Était-ce légitime de vouloir de l'attention, de la tendresse, de prendre le temps pour laisser le désir fleurir ? Était-ce possible de ne pas vouloir faire la course au plaisir à tout prix ?
  
 Elle se sentait dévalorisée, rejetée voire parfois jetée. Elle n'avait plus d'estime pour sa féminité. Elle en devenait souvent agressive. 
  
@@ -36,7 +36,7 @@ Ce qu'elle voulait c'était de ne plus être considérée comme un objet. Elle v
  
 Aujourd'hui, elle se sent respectée comme une femme à part entière. Elle a retrouvé une grande confiance intérieure en tant que femme. Elle a développé une grande énergie. Elle a entrepris de faire le ménage dans toute sa maison, surtout la cave et le grenier qu’elle avait délaissé depuis des années. Pour elle, ce nettoyage extérieur, traiter les choses mis de côté est aussi un nettoyage intérieur. Regarder, trier, ranger ou jeter ce qui doit l’être.
  
-Ses proches se sont rendus compte de cette nouvelle énergie. Aurélie rayonne tellement de vibration qu'une amie lui a dit que le gros hug qu'elles avaient fait dernièrement l'avait guérie une blessure très ancienne ! 
+Ses proches se sont rendus compte de cette nouvelle énergie. Aurélie rayonne tellement de vibration qu'une amie lui a dit que le gros hug qu'elles avaient fait dernièrement l'avait guérie une blessure très ancienne ! 
  
  
 Maintenant elle se sent précieuse.
@@ -47,7 +47,7 @@ Ils partagent une intimité profondément nourrissante et explorent ensemble de 
  
 Donc, si tu es comme Aurélie il y a quelque temps, garde espoir. Je sais la valeur de ce que je partage ici comme principes, comme analyses et comme conseils pour vous. Mais je crois que le plus précieux n’est pas écrit avec des mots mais avec les blancs, avec les silences, dans tous ces posts. Le plus précieux, et ce dont j’avais eu le plus besoin, c’est l'espoir. C’est l’espoir de croire que c’est possible. Que tu sois accompagnée par moi ou quelqu’un d'autre, l'important c’est de faire confiance à ta petite voix qui te murmure “Je suis précieuse. Je mérite de vivre la sexualité à laquelle j’aspire. Je peux être F.E.M.M.E sans être jugée, ignorée ou dénigrée. Je peux être F.E.M.M.E en étant respectée, chérie et précieuse.”
  
-Tout ceci est bien sûr aussi vrai pour les hommes : H.O.M.M.E Tu peux vivre la sexualité la plus noble, la plus précieuse et la plus épanouissante que tu désires au plus profond de toi. Il n’y a pas d’obligation de vivre une belle sexualité nourrissante. Il y a des gens qui peuvent être heureux autrement. Moi, non. Moi, c’est mon sacerdoce. 
+Tout ceci est bien sûr aussi vrai pour les hommes : H.O.M.M.E Tu peux vivre la sexualité la plus noble, la plus précieuse et la plus épanouissante que tu désires au plus profond de toi. Il n’y a pas d’obligation de vivre une belle sexualité nourrissante. Il y a des gens qui peuvent être heureux autrement. Moi, non. Moi, c’est mon sacerdoce. 
  
 Donc femme ou homme, ton désir profond et intime de ce que tu veux vivre dans la sexualité est possible. C’est possible. Tu peux y arriver si tu te donnes les moyens. 
 
@@ -59,13 +59,13 @@ www.sexualite-sensible.fr
 
 *** PLUS D'INFOS ***
 
-1/ Mon accompagnement ? C'est par ici : www.sexualite-sensible.fr
+1/ Mon accompagnement ? C'est par ici : www.sexualite-sensible.fr
 
-2/ Des conseils ? C'est là : www.conseils-pour-amants-sensibles.fr
+2/ Des conseils ? C'est là : www.conseils-pour-amants-sensibles.fr
 
-3/ D'autres posts ? Abonne-toi à mon profil pro :  https://www.facebook.com/inspirateur.des.amants.sensibles
+3/ D'autres posts ? Abonne-toi à mon profil pro :  https://www.facebook.com/inspirateur.des.amants.sensibles
 
-4/ Mon groupe privé des personnes désireuses d'une sexualité authentique et sensible ? Voilà : www.la-tribu-des-amants-sensibles.fr
+4/ Mon groupe privé des personnes désireuses d'une sexualité authentique et sensible ? Voilà : www.la-tribu-des-amants-sensibles.fr
 
-5/ Si tu veux faire une donation : 
+5/ Si tu veux faire une donation : 
 https://lydia-app.com/collect/sexualite-sensible/fr

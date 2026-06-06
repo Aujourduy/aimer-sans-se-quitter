@@ -8,6 +8,6 @@ sujet: ""
 motscles: []
 enrichi: false
 ---
-Après l'amour, que dites-vous ?
+Après l'amour, que dites-vous ?
 
-"C'était bon", "C'était bien" ou "C'était beau" ?
+"C'était bon", "C'était bien" ou "C'était beau" ?

@@ -36,4 +36,4 @@ C’est le dimanche 17 Décembre de 11h00 à 13h00, à Studion Bleu, Paris 9e.
 
 Martine Shakti et Duy Dang
 
-Infos et résa : https://www.billetweb.fr/se-reconcilier-avec-son-passe-danser-son-present-pour-accueillir-son-futur
+Infos et résa : https://www.billetweb.fr/se-reconcilier-avec-son-passe-danser-son-present-pour-accueillir-son-futur

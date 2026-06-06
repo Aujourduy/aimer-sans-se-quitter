@@ -11,7 +11,7 @@ Il y a tant d’articles de magazines, de vidéos et de livres qui expliquent co
 
 Il y a tellement de gens, moi y compris pendant des années, qui ont une conception erronée des interactions autour de la sexualité.
 
-Voici ce que je croyais :
+Voici ce que je croyais :
 
 1/ La sexualité épanouir & nourrissante
 
@@ -27,7 +27,7 @@ Voici ce que je croyais :
 
 4/ Le sentiment de bien-être profond
 
-Mais en réalité voici ce que j’ai découvert, c’est que cette chaîne a été prise à l’envers. Voici comment ça se passe, et pourquoi tant de personnes restent insatisfaites, frustrées avec un sentiment d’incomplétude. Il faut développer :
+Mais en réalité voici ce que j’ai découvert, c’est que cette chaîne a été prise à l’envers. Voici comment ça se passe, et pourquoi tant de personnes restent insatisfaites, frustrées avec un sentiment d’incomplétude. Il faut développer :
 
 a/ L’AUTONOMIE AFFECTIVE
 

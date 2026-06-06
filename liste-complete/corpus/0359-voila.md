@@ -15,4 +15,4 @@ Dites-moi, s'il vous plaît, quels ressentis vous inspirent cette formulation.
 Belle journée,
 Duy
 
-PS : Vous avez vu les petites vidéos que j'ai commencé à publier sur mon profil ?
+PS : Vous avez vu les petites vidéos que j'ai commencé à publier sur mon profil ?

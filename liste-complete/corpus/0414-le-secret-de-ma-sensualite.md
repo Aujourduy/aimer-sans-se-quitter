@@ -27,7 +27,7 @@ Je verse l'écoute vers l'intérieur encore et encore, jusque cela déborde sur 
 
 Martine est l'une des danseuse les plus sensuelles que je connaisse. Et je fais parti des danseurs les plus sensuels que je connaisse aussi. Donc, l'atelier sur la sensualité que nous allons proposer ensemble annonce pleins de promesse. 😁😚
 
-Sur la photo pour illustrer mes propos, j'étais avec A. nous reposant de notre folle improvisation. Notre danse s'est arrêtée à l'extérieur mais elle continuait à l'intérieur sous la forme d'un feu d'artifice de sensations : des respirations encore fortes qui se calment, le poids des membres déposés sur le corps de l'autre, le contact de nos peaux, la transpiration sous nos dos qui mouillent le parquet, la moiteur de l'orage qui vient de terminer dans la chaleur de Bali.
+Sur la photo pour illustrer mes propos, j'étais avec A. nous reposant de notre folle improvisation. Notre danse s'est arrêtée à l'extérieur mais elle continuait à l'intérieur sous la forme d'un feu d'artifice de sensations : des respirations encore fortes qui se calment, le poids des membres déposés sur le corps de l'autre, le contact de nos peaux, la transpiration sous nos dos qui mouillent le parquet, la moiteur de l'orage qui vient de terminer dans la chaleur de Bali.
 
 La sensualité n'est pas dans le faire mais dans la présence à ce qui est là.
 
@@ -38,4 +38,4 @@ C'est un moment dans l'éternité.
 
 @[100070375365062:2048:Duy Dang]
 
-PS : Il y aura un stage d'été en 2024 : Amants Sensibles - Danseurs Sauvages dans le Var en co-animation avec @[765503546:2048:Alexandra Béatrice Claire] . Pour les personnes intéressés, m'envoyer votre email en mp pour recevoir les infos.
+PS : Il y aura un stage d'été en 2024 : Amants Sensibles - Danseurs Sauvages dans le Var en co-animation avec @[765503546:2048:Alexandra Béatrice Claire] . Pour les personnes intéressés, m'envoyer votre email en mp pour recevoir les infos.

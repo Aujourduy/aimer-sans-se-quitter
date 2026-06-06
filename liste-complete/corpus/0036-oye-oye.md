@@ -8,9 +8,9 @@ sujet: ""
 motscles: []
 enrichi: false
 ---
-Il y a tellement de demandes pour le groupe de rencontres tantriques que j'ai atteint le quota Facebook pour les commentaires sur le post !!!  😄
+Il y a tellement de demandes pour le groupe de rencontres tantriques que j'ai atteint le quota Facebook pour les commentaires sur le post !!!  😄
 
-Si c'est possible !
+Si c'est possible !
 
 Grand merci à toutes les personnes qui m'ont encouragé 😍🙏😍
 

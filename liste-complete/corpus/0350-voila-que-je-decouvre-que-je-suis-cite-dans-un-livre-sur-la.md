@@ -12,4 +12,4 @@ enrichi: false
 
 @[100070375365062:2048:Duy Dang]
 
-PS : Pour les curieux, voici la version entière sur mon FB : https://www.facebook.com/profile/100070375365062/search/?q=orgasme%20de%20la%20vall%C3%A9e
+PS : Pour les curieux, voici la version entière sur mon FB : https://www.facebook.com/profile/100070375365062/search/ ?q=orgasme%20de%20la%20vall%C3%A9e

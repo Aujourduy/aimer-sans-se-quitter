@@ -16,14 +16,14 @@ Je ressens de la colère contre l’autre, les autres, ceux à qui je n’ai pas
 
 Dans la sexualité, dans la vie de couple, familiale, professionnelle, il y avait les mêmes peurs. Peur de décevoir, d’être rejeté, de perdre la relation. Je voulais préserver la relation amoureuse, la famille, la sexualité. Mais en acceptant par faiblesse, je n’ai préservé la relation qu’en surface. Les apparences sont sauves mais au dedans, en mon for intérieur il s’est créé une fissure. Je voulais garder la relation avec l’autre mais j’ai sacrifié la relation avec moi-même. 
 
-Comment vivre une belle relation amoureuse quand mon cœur se resserre pour tranquilliser l’autre ? Comment s’épanouir dans la sexualité quand ma vérité se cache pour ne pas déranger l’autre ? Comment espérer que l’autre m’aime pour qui je suis quand je n’arrive pas à me montrer complètement sincère et authentique. 
+Comment vivre une belle relation amoureuse quand mon cœur se resserre pour tranquilliser l’autre ? Comment s’épanouir dans la sexualité quand ma vérité se cache pour ne pas déranger l’autre ? Comment espérer que l’autre m’aime pour qui je suis quand je n’arrive pas à me montrer complètement sincère et authentique. 
 C’est impossible. 
 
 Il faut de la force pour dire non. Mais quand on n’a pas eu la force de le faire par le passé, ce n’est pas la peine de s’en vouloir ou en vouloir à son partenaire. On peut, on le fait, mais ce n’est pas la peine et ça engendre beaucoup de peine. 
 
-On ne peut pas transformer un ‘Oui’ du passé en un ‘Non’ du passé. Mais on peut le transformer en un ‘Oui’ du présent pour ce qui s’est passé. Ce qui s’est passé devait arriver comme ça. Je n’avais pas la force de dire non ? Et bien, ce n’est pas grave. Ce dont j’ai besoin aujourd’hui c’est la sagesse de dire ‘Oui’ à ce qui s’est passé. Accueillir l’expérience, les émotions, la colère peut-être, la tristesse peut-être, voire même le désespoir qui sait.
+On ne peut pas transformer un ‘Oui’ du passé en un ‘Non’ du passé. Mais on peut le transformer en un ‘Oui’ du présent pour ce qui s’est passé. Ce qui s’est passé devait arriver comme ça. Je n’avais pas la force de dire non ? Et bien, ce n’est pas grave. Ce dont j’ai besoin aujourd’hui c’est la sagesse de dire ‘Oui’ à ce qui s’est passé. Accueillir l’expérience, les émotions, la colère peut-être, la tristesse peut-être, voire même le désespoir qui sait.
 
-La sagesse de voir et de reconnaître ma faiblesse dans le passé. La sagesse de reconnaître que la stratégie n’a pas marché. Je voulais sauver la relation à mon détriment mais une relation ne peut être belle quand on doit renoncer à soi-même. Parce que quand j’aurai renoncé à moi-même, que restera-t-il de la relation ? Une coquille creuse qu’on essaie de préserver parce qu’on y a trop investi ? C’est un effort qui va encore me couter de moi-même.
+La sagesse de voir et de reconnaître ma faiblesse dans le passé. La sagesse de reconnaître que la stratégie n’a pas marché. Je voulais sauver la relation à mon détriment mais une relation ne peut être belle quand on doit renoncer à soi-même. Parce que quand j’aurai renoncé à moi-même, que restera-t-il de la relation ? Une coquille creuse qu’on essaie de préserver parce qu’on y a trop investi ? C’est un effort qui va encore me couter de moi-même.
 
 Définitivement, je ne peux pas être heureux dans une relation si je dois renoncer à moi-même. Reconnaître cette vérité, c’est cela qui m’a donné la force aujourd’hui de dire non à ce qui ne me convient pas. 
 
@@ -41,6 +41,6 @@ www.sexualite-sensible.fr
 
 -------------------------------------------------------------------
 
-1/ Tu as depuis longtemps une envie irrésistible et profonde de vivre les instants de grâce d'une sexualité authentique et sensible ? C'est par ici :  www.sexualite-sensible.fr
+1/ Tu as depuis longtemps une envie irrésistible et profonde de vivre les instants de grâce d'une sexualité authentique et sensible ? C'est par ici :  www.sexualite-sensible.fr
 
 2/ Pour recevoir des conseils sur la sexualité sensible, connaître mon actualité,  inscris-toi  😉 sur www.conseils-pour-amants-sensibles.fr

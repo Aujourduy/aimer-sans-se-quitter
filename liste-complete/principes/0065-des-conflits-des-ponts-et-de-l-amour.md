@@ -21,6 +21,6 @@ Sur ce pont, ce n’est pas la vérité qui voyage mais l’amour.
 
 "Juger, c'est de toute évidence ne pas comprendre puisque, si l'on comprenait, on ne pourrait pas juger." André Malraux. Quand le conflit vient, c’est que mon juge intérieur se met en route. Alors plutôt que de condamner et de dire que l’autre a tort, je peux essayer de mieux le comprendre.
 
-Pour terminer, deux citations de Thich Nhat Hanh, que vous ne trouverez pas sur internet parce que ce n’est pas dans ses livres mais sur des affichettes dans son centre le village des Pruniers : "Écoute à nouveau pour comprendre” et “Regarder profondément pour aimer”
+Pour terminer, deux citations de Thich Nhat Hanh, que vous ne trouverez pas sur internet parce que ce n’est pas dans ses livres mais sur des affichettes dans son centre le village des Pruniers : "Écoute à nouveau pour comprendre” et “Regarder profondément pour aimer”
 
 Sur ce pont, ce n’est pas la vérité qui voyage mais l’amour.

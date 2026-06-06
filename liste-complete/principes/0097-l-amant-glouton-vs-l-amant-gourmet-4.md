@@ -14,7 +14,7 @@ Si votre amant a au moins 2 de ces caractéristiques
 * quand vous abordez le sujet, il est fuyant ou sur la défensive  
 * Il vous accuse d’être trop exigeante, dominatrice, castratrice
 
-Si vous avez au moins 3 de ces caractéristiques :
+Si vous avez au moins 3 de ces caractéristiques :
 
 * vous avez très peur d’être abandonnée ou rejetée   
 * vous vous sentez tendue quand vous aborder le sujet  

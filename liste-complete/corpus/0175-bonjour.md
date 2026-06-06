@@ -10,7 +10,7 @@ enrichi: false
 ---
 J accompagne les personnes évoluant vers une sexualité authentique et sensible. 
 
-Ma devise :
+Ma devise :
 
 Ose ta Vérité 
 Cultive ta Liberté 

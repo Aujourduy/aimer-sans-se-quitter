@@ -12,7 +12,7 @@ Voici la première version du manifeste des amants sensibles. Je suis ouvert à 
 
 ===============================
 
-MANIFESTE : 
+MANIFESTE : 
 
 Nous, amants sensibles, nous croyons en une relation amoureuse authentique et une sexualité sensible.
 
@@ -39,18 +39,18 @@ On en parlera dans le prochain webinaire, plus d'infos en dessous.
 Duy,
 Révélateur d’Amants Sensibles
 
-NB : Je m'adresse tantôt aux femmes, tantôt aux hommes mais biens sûr que cela s'adresse aux deux genres mais je ne dédouble pas les accords de genre pour ne pas alourdir le texte. Il faut lire pour les femmes et les hommes et vice et versa 🙂
+NB : Je m'adresse tantôt aux femmes, tantôt aux hommes mais biens sûr que cela s'adresse aux deux genres mais je ne dédouble pas les accords de genre pour ne pas alourdir le texte. Il faut lire pour les femmes et les hommes et vice et versa 🙂
 Pour sortir de cette frustration et avancer réellement vers tes aspirations d'une relation authentique et d'une sexualité sensible, je t'invite à mon prochain webinaire. 
 ------------------------------------------------------
 *   PROCHAIN WEBINAIRE GRATUIT  *
 ------------------------------------------------------
-Pour t'aider à avancer vers une relation authentique et sexualité sensible, viens à mon prochain webinaire gratuit : https://forms.gle/vWYPXPUAPXdf2tXJ9 
+Pour t'aider à avancer vers une relation authentique et sexualité sensible, viens à mon prochain webinaire gratuit : https://forms.gle/vWYPXPUAPXdf2tXJ9 
 ------------------------------------------------------
 *   PROCHAIN STAGE PRESENTIEL   *
 ------------------------------------------------------
-Mon prochain stage en présentiel : 
+Mon prochain stage en présentiel : 
 www.aujourduy.com
 --------------------------------
 *   LA NEWSLETTER   *
 --------------------------------
-Lettre d'information  : www.conseils-pour-amants-sensibles.fr
+Lettre d'information : www.conseils-pour-amants-sensibles.fr

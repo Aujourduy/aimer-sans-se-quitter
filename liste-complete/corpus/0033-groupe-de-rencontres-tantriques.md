@@ -12,7 +12,7 @@ Bonjour, suite aux nombreux échanges, je me suis rendu compte qu'il est parfois
 
 Il est plus facile en attendant LA rencontre, de faire UNE rencontre. De trouver une personne avec qui faire une promenade, sympathique d'une journée ou une randonnée de quelques jours. Mais qui partage quand même nos aspirations, nos envies d'une sexualité authentique et sensible.
 
-C'est donc un groupe privé destiné aux personnes :
+C'est donc un groupe privé destiné aux personnes :
 
 1. Désirant vivre une sexualité authentique et sensible
 2. Ouvertes à une belle relation éphémère

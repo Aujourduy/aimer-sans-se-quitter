@@ -10,7 +10,7 @@ enrichi: false
 ---
 Suite à l'engouement et la richesse des échanges sur le post "4 types d'amant.e.s", j'ai décidé de vous proposer un webinaire pour en parler plus en détails.
 
-Le thème sera : 
+Le thème sera : 
 
 Comment avancer vers une sexualité authentique et sensible avec votre partenaire en tenant compte de son type, de là où il/elle est actuellement, pour ne plus vous épuiser. 
 

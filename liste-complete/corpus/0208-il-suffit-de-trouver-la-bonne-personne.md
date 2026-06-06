@@ -30,15 +30,15 @@ Derniers jours pour démarrer ton voyage vers la sexualité sensible. Regarde su
 -------------------------------------------------------------------
 *** PLUS D'INFOS ***
 
-1/ Mon accompagnement ? C'est par ici : www.sexualite-sensible.fr
+1/ Mon accompagnement ? C'est par ici : www.sexualite-sensible.fr
 
-2/ Des conseils ? C'est là : www.conseils-pour-amants-sensibles.fr
+2/ Des conseils ? C'est là : www.conseils-pour-amants-sensibles.fr
 
-3/ D'autres posts ? Abonne-toi à mon profil pro :  https://www.facebook.com/inspirateur.des.amants.sensibles
+3/ D'autres posts ? Abonne-toi à mon profil pro :  https://www.facebook.com/inspirateur.des.amants.sensibles
 
-4/ Mon groupe privé des personnes désireuses d'une sexualité authentique et sensible ? Voilà : www.la-tribu-des-amants-sensibles.fr
+4/ Mon groupe privé des personnes désireuses d'une sexualité authentique et sensible ? Voilà : www.la-tribu-des-amants-sensibles.fr
 
-5/ Si tu veux faire une donation : 
+5/ Si tu veux faire une donation : 
 https://lydia-app.com/collect/sexualite-sensible/fr
 
 6/ N'hésite pas à faire une demande en ami Facebook, il y a encore de la place.

@@ -25,7 +25,7 @@ Ce que je veux c’est ma vérité, c’est ma liberté. Je les avais déjà au 
  
 Chaque fois que la sexualité ne m’a pas donné pleinement satisfaction, ne m’a pas entièrement nourri c’était parce que je n’avais pas osé ma vérité ou je n’avais pas honoré ma liberté.
  
-Voici ma question : est-ce qu’il y a eu une seule expérience sexuelle insatisfaisante pour toi où il s’agissait d’autre chose qu'un manque de vérité ou de liberté ?
+Voici ma question : est-ce qu’il y a eu une seule expérience sexuelle insatisfaisante pour toi où il s’agissait d’autre chose qu'un manque de vérité ou de liberté ?
  
 Oui, la sexualité sensible est une belle destination mais parce qu’en réalité c’est aussi le départ. C’est mon centre, l’endroit qui m’appelle, l’endroit où je me sens chez moi. Le seul endroit où je peux réellement aimer et être aimé.
 
@@ -33,21 +33,21 @@ Duy Dang
 Inspirateur de Sexualité sensible 
 www.sexualite-sensible.fr
 
-PS : En présentiel sur Paris, une journée intense c’est là :  https://www.facebook.com/events/1319700161877029/
+PS : En présentiel sur Paris, une journée intense c’est là :  https://www.facebook.com/events/1319700161877029/
 
 -------------------------------------------------------------------
 *** PLUS D'INFOS ***
 
-1/ Tu veux avancer vers une sexualité authentique et sensible ? 
-C'est par ici : www.sexualite-sensible.fr
+1/ Tu veux avancer vers une sexualité authentique et sensible ? 
+C'est par ici : www.sexualite-sensible.fr
 
-2/ Des conseils ? C'est là : www.conseils-pour-amants-sensibles.fr
+2/ Des conseils ? C'est là : www.conseils-pour-amants-sensibles.fr
 
-3/ D'autres posts ? Abonne-toi à mon profil pro :  https://www.facebook.com/inspirateur.des.amants.sensibles
+3/ D'autres posts ? Abonne-toi à mon profil pro :  https://www.facebook.com/inspirateur.des.amants.sensibles
 
-4/ Mon groupe privé des personnes désireuses d'une sexualité authentique et sensible ? Voilà : www.la-tribu-des-amants-sensibles.fr
+4/ Mon groupe privé des personnes désireuses d'une sexualité authentique et sensible ? Voilà : www.la-tribu-des-amants-sensibles.fr
 
-5/ Si tu veux faire une donation : 
+5/ Si tu veux faire une donation : 
 https://lydia-app.com/collect/sexualite-sensible/fr
 
 6/ N'hésite pas à faire une demande en ami Facebook, il y a encore de la place.

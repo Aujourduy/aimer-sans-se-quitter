@@ -16,7 +16,7 @@ Certaines relations ont duré des années, certaines quelques nuits seulement. M
 
 Chacune des idées présente une graine de connaissance qui, si elle résonne en vous et pour peu que vous l'arrosez d'ouverture, d'attention et d'observation vous donnera un arbre aux fruits délicieux.
 
-Pour recevoir cette synthèse, cliquez ici : https://www.duydangdeclics.fr/fiche-memo/accueil
+Pour recevoir cette synthèse, cliquez ici : https://www.duydangdeclics.fr/fiche-memo/accueil
 
 Authentiquement et sensiblement votre,
 @[100070375365062:2048:Duy Dang]

@@ -14,7 +14,7 @@ Ayons un peu d’empathie pour le papillon qui sort de sa chrysalide et qui ouvr
 
 Imagine, tu as passé ta vie en tant que chenille à ramper sur le sol, à sentir du solide sous tes pieds. En plus, les chenilles n’ont pas deux pieds comme les humains, quatre comme les mammifères ou même six comme les insectes. Quand on regarde la chenille, on voit qu’elle a plein de pieds. Donc, chenille, tu as toujours été en contact avec le sol sous tes nombreux pieds.
 
-Quand tu sens un truc dans ton dos, les ailes mais tu ne sais pas ce que c’est vu que c’est la première fois que tu les sens, tu as juste envie de remuer tes épaules. Et là, Baaaam ! Le sol se dérobe sous toi. Parce que pour un observateur, il voit le papillon décoller. Mais pour le papillon, il voit le sol, il sent le sol tomber dans le vide. Qu’est-ce que tu ferais à sa place ? En tout cas, moi j'arrêterai immédiatement de faire le truc qui fait tomber le sol, qui dérobe le solide, les appuis sous mes pieds. Et chaque fois que je laisserai l’envie de remuer les épaules (et les ailes que je ne vois pas), que je m’aperçois que ça fait disparaître la terre sous moi, je stopperai net. 
+Quand tu sens un truc dans ton dos, les ailes mais tu ne sais pas ce que c’est vu que c’est la première fois que tu les sens, tu as juste envie de remuer tes épaules. Et là, Baaaam ! Le sol se dérobe sous toi. Parce que pour un observateur, il voit le papillon décoller. Mais pour le papillon, il voit le sol, il sent le sol tomber dans le vide. Qu’est-ce que tu ferais à sa place ? En tout cas, moi j'arrêterai immédiatement de faire le truc qui fait tomber le sol, qui dérobe le solide, les appuis sous mes pieds. Et chaque fois que je laisserai l’envie de remuer les épaules (et les ailes que je ne vois pas), que je m’aperçois que ça fait disparaître la terre sous moi, je stopperai net. 
 
 Je chercherai à résoudre ce problème de perte de repères, de perte de l’ancrage au sol, de perte de mes appuis. J’essaierai de trouver un thérapeute pour résoudre ce problème, ce grave problème existentiel. Avec un peu de malchance, j’en trouverai un qui veut bien essayer de me guérir pour que je puisse retrouver ma sécurité, mes repères d’avant. Mais ce n’est pas ce que mon Être désire.
 
@@ -27,5 +27,5 @@ Si tu es un papillon qui est sorti de sa chrysalide depuis quelques jours, quelq
 @[100070375365062:2048:Duy Dang]
 Révélateur d'Amants Sensibles
 
-Mes meilleurs posts et mes propositions sont sur :
+Mes meilleurs posts et mes propositions sont sur :
 www.duy-dang.fr

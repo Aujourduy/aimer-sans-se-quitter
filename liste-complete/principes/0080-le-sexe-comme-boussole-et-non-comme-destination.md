@@ -17,13 +17,13 @@ Et puis, c’est arrivé. Une fois, puis une autre et encore une autre. Le momen
 
 De l’extérieur, ça pouvait être doux, sauvage, violent ou subtil mais de l’intérieur c’était tout cela en même temps. Il n’y avait plus de mot, seulement de la justesse, de la vérité et de l’amour.
 
-C’est vraiment difficile à décrire parce qu’aucune description ne pourrait vraiment être juste. C’est un peu comme atteindre le pôle nord. La description du pôle nord est complètement ennuyeuse : c’est blanc partout.  Vous savez seulement quand vous y êtes parce que la boussole n’indique plus la direction du nord … parce que vous y êtes. Il n’y a plus de direction privilégiée pour l’aiguille.
+C’est vraiment difficile à décrire parce qu’aucune description ne pourrait vraiment être juste. C’est un peu comme atteindre le pôle nord. La description du pôle nord est complètement ennuyeuse : c’est blanc partout.  Vous savez seulement quand vous y êtes parce que la boussole n’indique plus la direction du nord … parce que vous y êtes. Il n’y a plus de direction privilégiée pour l’aiguille.
 
 Toutes les directions sont importantes. Il n’y a nulle part d’autre où vous voudriez arriver parce que vous savez, vous sentez intimement que vous êtes au bon endroit. Vous êtes à votre place dans l’Univers. A la croisée de votre individualité, celle de votre partenaire et du cosmos. Vous vous rendez compte de l’amour que vous avez pour votre partenaire et qu'il vous a rempli du sien. Pas un amour romantique et fleur bleue pour la vie. Mais un amour profond et immense dans l'ici et maintenant.
 
 Une expérience qui marquera définitivement la ligne du temps.
 
-Deux êtres se sont donnés totalement l’un à l’autre dans ce moment qui est un bout d’éternité. Peu importe la durée future de la relation, comment elle évoluera; à cet instant, votre partenaire et vous avez gravé de votre sceau le monde par la rencontre véritable de vos corps, de vos sexes, de vos êtres.
+Deux êtres se sont donnés totalement l’un à l’autre dans ce moment qui est un bout d’éternité. Peu importe la durée future de la relation, comment elle évoluera ; à cet instant, votre partenaire et vous avez gravé de votre sceau le monde par la rencontre véritable de vos corps, de vos sexes, de vos êtres.
 
 Vous  serez à jamais différent … l’Univers aussi.
 

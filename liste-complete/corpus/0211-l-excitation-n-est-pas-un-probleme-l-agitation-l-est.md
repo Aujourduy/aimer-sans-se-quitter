@@ -12,9 +12,9 @@ Récemment je discutais avec une femme qui disait que tant qu’elle était dans
  
 Il y a souvent confusion entre l’excitation et l’agitation.
  
-L’excitation est physiologique : un pénis en érection, une vulve mouillée et chaude, des sensations, des modifications corporelles.
+L’excitation est physiologique : un pénis en érection, une vulve mouillée et chaude, des sensations, des modifications corporelles.
  
-L’agitation est psychologique : un comportement compulsif pour éviter de ressentir des sensations ou des émotions. Parfois un homme excité va chercher à tout prix à faire quelque chose. Il a besoin d’être dans l’action. Il n’arrive pas à rester tranquille et détendu. En fait, c’est typiquement un comportement de réponse à la peur. La peur crée l’agitation. Peur de ne pas jouir, peut de ne pas aller au bout, peur de ne pas être à la hauteur, …
+L’agitation est psychologique : un comportement compulsif pour éviter de ressentir des sensations ou des émotions. Parfois un homme excité va chercher à tout prix à faire quelque chose. Il a besoin d’être dans l’action. Il n’arrive pas à rester tranquille et détendu. En fait, c’est typiquement un comportement de réponse à la peur. La peur crée l’agitation. Peur de ne pas jouir, peut de ne pas aller au bout, peur de ne pas être à la hauteur, …
  
 Quand on est bien avec une chose, on en profite, on prend le temps de savourer, on se délecte.
  
@@ -35,13 +35,13 @@ www.sexualite-sensible.fr
 -------------------------------------------------------------------
 *** PLUS D'INFOS ***
 
-1/ Tu veux changer de sexualité ? C'est par ici : www.sexualite-sensible.fr
+1/ Tu veux changer de sexualité ? C'est par ici : www.sexualite-sensible.fr
 
-2/ Des conseils ? C'est là : www.conseils-pour-amants-sensibles.fr
+2/ Des conseils ? C'est là : www.conseils-pour-amants-sensibles.fr
 
-3/ D'autres posts ? Abonne-toi à mon profil pro :  https://www.facebook.com/inspirateur.des.amants.sensibles
+3/ D'autres posts ? Abonne-toi à mon profil pro :  https://www.facebook.com/inspirateur.des.amants.sensibles
 
-4/ Mon groupe privé des personnes désireuses d'une sexualité authentique et sensible ? Voilà : www.la-tribu-des-amants-sensibles.fr
+4/ Mon groupe privé des personnes désireuses d'une sexualité authentique et sensible ? Voilà : www.la-tribu-des-amants-sensibles.fr
 
-5/ Si tu veux faire une donation : 
+5/ Si tu veux faire une donation : 
 https://lydia-app.com/collect/sexualite-sensible/fr

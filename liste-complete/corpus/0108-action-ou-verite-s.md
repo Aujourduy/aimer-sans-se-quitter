@@ -23,31 +23,31 @@ C’est le moment où nous commençons le jeu. Parce que j’avais déjà posé 
  
 Parfois, c’est une émotion qui s’est déjà exprimée mais pas avec toute l’importance qu’elle revêt réellement. On a dit qu’on était contrarié alors qu’au fond on rageait mais on a minimisé pour ne pas la blesser l’autre ou se montrer mesquin.  
  
-Donc chacun cherche, écoute ce qui se passe en lui et le partage à son partenaire. C’est le moment des vérités ! C’est inconfortable. Il faut trouver des partenaires avec assez de conscience et de courage pour jouer sinon ça ne marche pas.
+Donc chacun cherche, écoute ce qui se passe en lui et le partage à son partenaire. C’est le moment des vérités ! C’est inconfortable. Il faut trouver des partenaires avec assez de conscience et de courage pour jouer sinon ça ne marche pas.
  
-Quand est-ce qu’on s’arrête ? Quand on a trouvé la ou les vérités qui étaient coincées dans notre cœur et qu’on a pu les partager. Comment on sait qu’il n’y a plus rien de coincé/caché ? Quand l’excitation arrive progressivement dans les sexes sans aucune stimulation et dans une complète immobilité des corps. Pas de baiser, pas de caresse mais l’énergie du désir se met à vibrer.  Et là, on passe à l’action.
+Quand est-ce qu’on s’arrête ? Quand on a trouvé la ou les vérités qui étaient coincées dans notre cœur et qu’on a pu les partager. Comment on sait qu’il n’y a plus rien de coincé/caché ? Quand l’excitation arrive progressivement dans les sexes sans aucune stimulation et dans une complète immobilité des corps. Pas de baiser, pas de caresse mais l’énergie du désir se met à vibrer.  Et là, on passe à l’action.
  
-J’ai parlé de ce jeu à plusieurs personnes et elles m’ont toutes dit : “Ah oui, je comprends mieux maintenant.” Elles ont vécu des situations similaires mais leur partenaire ne voulaient pas ou ne pouvaient pas jouer. Quand on est amant sensible, on est sensible. On est parfois capable de ressentir qu’il y a une difficulté chez son partenaire sans que celui-ci ne s’en rende lui-même compte. 
+J’ai parlé de ce jeu à plusieurs personnes et elles m’ont toutes dit : “Ah oui, je comprends mieux maintenant.” Elles ont vécu des situations similaires mais leur partenaire ne voulaient pas ou ne pouvaient pas jouer. Quand on est amant sensible, on est sensible. On est parfois capable de ressentir qu’il y a une difficulté chez son partenaire sans que celui-ci ne s’en rende lui-même compte. 
  
 A plusieurs reprises, mon excitation s’est arrêtée parce que ma partenaire n’avait pas formulé ce qu’elle avait sur le cœur. Ce n’était pas forcément un sujet grave ou important. Mais une sexualité sensible exige un niveau d’authenticité bien supérieure.
  
 Le cadeau merveilleux de ce “jeu”, c’est qu’à chaque fois, il me fait découvrir une vérité profonde à l’intérieur de ma partenaire ou à l’intérieur de moi. Je rends grâce à ce processus parce qu’il nous permet de mieux nous connaître avec ma partenaire, d’avoir une relation encore plus intime. L’expression “relation intime” prend alors tout son sens et toute sa beauté. 
 
-Est-ce que ça te parle ? Donne-nous ton avis en commentaire.
+Est-ce que ça te parle ? Donne-nous ton avis en commentaire.
 
 @[100070375365062:2048:Duy Dang]
 Inspirateur de Sexualité sensible
 www.sexualite-sensible.fr
 
-*** Précision : Pour être complètement claire, parce que plusieurs personnes me l ont demandé, ce n'est pas un vrai jeu : "Action et Vérité.s" C'était juste un titre qui m'a inspiré pour ce post parce que le moment d'intimité de vient un moment d'action ou de vérités.  ***
+*** Précision : Pour être complètement claire, parce que plusieurs personnes me l ont demandé, ce n'est pas un vrai jeu : "Action et Vérité.s" C'était juste un titre qui m'a inspiré pour ce post parce que le moment d'intimité de vient un moment d'action ou de vérités.  ***
 
 -------------------------------------------------------------------
 *** LES INFOS ***
 
-1/ Tu as depuis longtemps une envie irrésistible et profonde de vivre les instants de grâce d'une sexualité authentique et sensible ? C'est par ici :  www.sexualite-sensible.fr
+1/ Tu as depuis longtemps une envie irrésistible et profonde de vivre les instants de grâce d'une sexualité authentique et sensible ? C'est par ici :  www.sexualite-sensible.fr
 
 2/ Pour recevoir des conseils sur la sexualité sensible, connaître mon actualité,  inscris-toi  😉 sur www.conseils-pour-amants-sensibles.fr
 
 3/ Pour lire mes autres posts 😘, abonne-toi à mon profil pro https://www.facebook.com/inspirateur.des.amants.sensibles/
 
-4/ LE groupe privé Facebook de partages amicaux, sensuels et charnels entre personnes désireuses d'une sexualité authentique et sensible : www.la-tribu-des-amants-sensibles.fr
+4/ LE groupe privé Facebook de partages amicaux, sensuels et charnels entre personnes désireuses d'une sexualité authentique et sensible : www.la-tribu-des-amants-sensibles.fr

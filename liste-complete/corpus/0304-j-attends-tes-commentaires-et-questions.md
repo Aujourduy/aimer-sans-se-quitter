@@ -8,7 +8,7 @@ sujet: ""
 motscles: []
 enrichi: false
 ---
-Pour ce post, pas envie d'écrire longuement mais un désir ardent de partager un point essentiel pour moi : ce tableau récapitulatif.
+Pour ce post, pas envie d'écrire longuement mais un désir ardent de partager un point essentiel pour moi : ce tableau récapitulatif.
 
 J'attends tes commentaires et tes questions pour échanger et faire mûrir ensemble cette conception de la sexualité sensible.
 

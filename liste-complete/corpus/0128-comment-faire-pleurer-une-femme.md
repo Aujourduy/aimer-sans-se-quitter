@@ -26,13 +26,13 @@ C’est surtout un lâcher prise qui lui permet de laisser exprimer son côté a
 
 On ne voit pas ça dans les films. On en parle rarement, peu savent que cela existe et encore moins qui le vivent. Maintenant que vous savez que c’est possible, forcément votre esprit sera ouvert à cela. Vous n’avez pas besoin de le chercher. On n’a pas besoin d’aller vers, c’est simplement quelque chose qui vient quand on est dans une grande confiance, intimité et complicité. 
 
-Alors comment faire pleurer une femme ? 
+Alors comment faire pleurer une femme ? 
 
 Je peux seulement donner quelques pistes. Pas forcément suffisantes mais nécessaires.
 
-Pas d’attente : ni de jouir, ni de plaisir. Juste rester présent à ce qui se passe. Cela laissera à votre partenaire toute la liberté d’explorer et d’accueillir ce qui arrive.  
+Pas d’attente : ni de jouir, ni de plaisir. Juste rester présent à ce qui se passe. Cela laissera à votre partenaire toute la liberté d’explorer et d’accueillir ce qui arrive.  
 
-Pas de fuite : restez présent, regardez et accueillez toutes les émotions qui viennent à vous. C’est ok d’avoir peur, c’est ok de sentir la tristesse monter, c’est ok de voir arriver la colère.
+Pas de fuite : restez présent, regardez et accueillez toutes les émotions qui viennent à vous. C’est ok d’avoir peur, c’est ok de sentir la tristesse monter, c’est ok de voir arriver la colère.
 
 Laissez pleurer votre amante, laissez la crier, vomir, hurler, se débattre. Vous pouvez la prendre dans vos bras, pour la soutenir mais non pour la calmer, non pour l’apaiser, non pour la réconforter. En cherchant à la calmer, à l’apaiser ou la réconforter, vous lui signifiez que l’expérience est négative. Vous la censurez dans l’expression de sa nature sauvage. Peut-être lui tenir fermement les mains, pour l’empêcher de se faire mal, oui mais sans intention de la calmer. Au contraire, je peux la tenir fermement pour lui montrer ma force, ma puissance, ma solidité face à ses émotions et lui prouver qu’elle peut tout faire, je serai plus fort qu’elle physiquement et émotionnellement. 
 
@@ -48,12 +48,12 @@ www.sexualite-sensible.fr
 
 -------------------------------------------------------------------
 
-1/ Tu as depuis longtemps une envie irrésistible et profonde de vivre les instants de grâce d'une sexualité authentique et sensible ? C'est par ici :  www.sexualite-sensible.fr
+1/ Tu as depuis longtemps une envie irrésistible et profonde de vivre les instants de grâce d'une sexualité authentique et sensible ? C'est par ici :  www.sexualite-sensible.fr
 
 2/ Pour recevoir des conseils sur la sexualité sensible, connaître mon actualité,  inscris-toi  😉 sur www.conseils-pour-amants-sensibles.fr
 
 3/ Pour lire mes autres posts 😘, abonne-toi à mon profil pro https://www.facebook.com/inspirateur.des.amants.sensibles
 
-4/ Mon groupe privé de partages amicaux, sensuels et charnels entre personnes désireuses d'une sexualité authentique et sensible : www.la-tribu-des-amants-sensibles.fr
+4/ Mon groupe privé de partages amicaux, sensuels et charnels entre personnes désireuses d'une sexualité authentique et sensible : www.la-tribu-des-amants-sensibles.fr
 
 5/ Pour la photo "https://crello.com/fr/unlimited/stock-photos/137216558/stock-photo-young-woman-crying/" Photo Gros plan portrait de jeune belle femme pleurant isolée sur noir créé par IgorTishenko

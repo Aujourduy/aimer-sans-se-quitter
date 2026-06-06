@@ -7,7 +7,7 @@ sujet: ""
 motscles: []
 enrichi: false
 ---
-L’expression “expansion de la conscience” donne bien une idée aux personnes qui ne connaissent pas l’expérience, ça parle à leur imaginaire, mais induit en erreur d’interprétation pour celles qui veulent la pratiquer. Elle sous-entend un mouvement vers quelque chose à l’extérieur. Pour les néophytes, ce qui importe c’est de percevoir sur une plus longue distance, dans un espace physique ou vibratoire plus vaste. En réalité, on n’agrandit pas la perception dans l’espace mais on affine et concentre la perception vers l’intérieur : le ici. 
+L’expression “expansion de la conscience” donne bien une idée aux personnes qui ne connaissent pas l’expérience, ça parle à leur imaginaire, mais induit en erreur d’interprétation pour celles qui veulent la pratiquer. Elle sous-entend un mouvement vers quelque chose à l’extérieur. Pour les néophytes, ce qui importe c’est de percevoir sur une plus longue distance, dans un espace physique ou vibratoire plus vaste. En réalité, on n’agrandit pas la perception dans l’espace mais on affine et concentre la perception vers l’intérieur : le ici. 
 
 Prenons l’exemple du télescope. On dit qu'un télescope est fait pour regarder ce qui est loin, très loin. En vrai c'est faux, c'est pour regarder le près, précisément, très précisément.
 

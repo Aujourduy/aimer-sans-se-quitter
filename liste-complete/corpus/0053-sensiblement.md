@@ -11,9 +11,9 @@ enrichi: false
 Duy Dang
 Frère-Révélateur de Sexualité sensible
 -------------------------------------------------------------------
-PS : Pour les personnes intéressées par un accompagnement pour atteindre une sexualité authentique et sensible, contactez-moi en message privé.
+PS : Pour les personnes intéressées par un accompagnement pour atteindre une sexualité authentique et sensible, contactez-moi en message privé.
 
-PPS : Quelques infos complémentaires
+PPS : Quelques infos complémentaires
 
 1/ Pour la lettre d'infos de mon actualité, les prochains séminaires, les accompagnements individuels ou collectifs,  inscrivez-vous  😉sur www.sexualite-sensible.fr
 

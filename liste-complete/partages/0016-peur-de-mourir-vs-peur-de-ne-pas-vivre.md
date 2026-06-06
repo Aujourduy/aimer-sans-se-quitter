@@ -10,11 +10,11 @@ enrichi: false
 ---
 Pendant des années, je croyais que c’était la même chose. Je croyais que mourir et ne pas vivre c’était blanc bonnet et bonnet blanc. En fait, non. C’est très différent.
 
-J’avais une liste de choses que je voulais faire avant de mourir. Il y avait des stages : la PNL; marcher sur le feu avec Anthony Robbins; le stage de Dale Carnegie ( méthode de l’auteur de “Comment se faire des amis”); rencontrer et recevoir l’enseignement de Thich Nhat Hanh, reprendre contact avec mon père que j’avais perdu de vue depuis 10 ans, faire l’amour en me sentant
+J’avais une liste de choses que je voulais faire avant de mourir. Il y avait des stages : la PNL ; marcher sur le feu avec Anthony Robbins ; le stage de Dale Carnegie ( méthode de l’auteur de “Comment se faire des amis”) ; rencontrer et recevoir l’enseignement de Thich Nhat Hanh, reprendre contact avec mon père que j’avais perdu de vue depuis 10 ans, faire l’amour en me sentant
 
 de vue depuis 10 ans, faire l amour en me sentant pleinement libre d’être, en étant présent à moi-même, présent à l’autre et présent à la Vie, retourner au Viêt- Nam après l’avoir quitté en boat-people 20 ans auparavant.
 
-Il y a 8 ans, j’ai réalisé la dernière chose de cette liste. C’était un moment de joie et de vide en même temps : “Ah, c’est ça quand on a réalisé ces grandes envies”. C’est formidable, je me suis dis que comme j’ai pu faire tout ça, je pourrais tout faire dans la vie. Il y avait aussi ce sentiment de paix profonde et de vide. Il n’y avait plus rien d’urgent ni d’existentiel. Rien à accomplir, rien à réparer. Si je devais mourir dans les 6 mois, il n’y aurait pas vraiment quelque chose que je devais faire à tout prix.
+Il y a 8 ans, j’ai réalisé la dernière chose de cette liste. C’était un moment de joie et de vide en même temps : “Ah, c’est ça quand on a réalisé ces grandes envies”. C’est formidable, je me suis dis que comme j’ai pu faire tout ça, je pourrais tout faire dans la vie. Il y avait aussi ce sentiment de paix profonde et de vide. Il n’y avait plus rien d’urgent ni d’existentiel. Rien à accomplir, rien à réparer. Si je devais mourir dans les 6 mois, il n’y aurait pas vraiment quelque chose que je devais faire à tout prix.
 
 J’ai compris que j’ai vécu tout ce qu’il y avait sur ma “bucket list”, la liste des choses qu’on veut faire avant de mourir. J’en ai fait une deuxième mais cela n’a pas du tout la même importance. Ce sera du bonus si cela se fait, aucun regret sinon. Alors que pour la première, c’était des choses que j'aurais regretté de ne pas avoir réalisées sur mon lit de mort.
 
@@ -26,6 +26,6 @@ Ne pas lutter contre “la peur de la mort”, mais nourrir et remplir la vie de
 
 Une de mes questions fortes en coaching “Si tu dois
 
-mourir dans 6 mois, est-ce qu’il y aurait quelque chose de vraiment important que tu veux absolument faire ou vivre avant de mourir ?”
+mourir dans 6 mois, est-ce qu’il y aurait quelque chose de vraiment important que tu veux absolument faire ou vivre avant de mourir ?”
 
 Si connaître l’expérience de “faire l’amour” comme description littérale, comme ressenti profond, comme expérience existentielle et mystique et non comme expression pour dire pudiquement “relation sexuelle” fait partie de ta bucket list, des choses que tu veux vivre dans cette vie, parce que faire l’Amour, vivre pleinement l’Amour dans l’esprit, le coeur et le corps est réellement important pour toi, je t’encourage à mettre ton énergie et tes actions pour y arriver. Parce que c’est beau, c’est précieux, c’est profond et nous donne une reliance indéfectible à la Vie.

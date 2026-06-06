@@ -11,7 +11,7 @@ Il s’agit de sexualité féminine et masculine. J’utilise des stéréotypes 
 
 L’homme grain de raisin. La sexualité de l’homme est simple. Voyons un peu.
 
-Il a un schéma simple : Excitation-pénétration-éjaculation.
+Il a un schéma simple : Excitation-pénétration-éjaculation.
 
 Son organe sexuel est à l’extérieur, complètement visible, simple à nettoyer.
 
@@ -19,7 +19,7 @@ Pour castrer  un bœuf, un cheval ou un mouton c’est simple. On pince fermemen
 
 ### **L’amant glouton vs l’amant gourmet (5)**
 
-Les erreurs classiques d’un maître aimant avec un chien peureux :
+Les erreurs classiques d’un maître aimant avec un chien peureux :
 
 	le caresser pour le réconforter
 
@@ -45,7 +45,7 @@ Conséquences négatives
 
 	épuisement et découragement
 
-	tension permanente allée/retours : je t’aime/je te déteste
+	tension permanente allée/retours : je t’aime/je te déteste
 
 Causes possibles
 

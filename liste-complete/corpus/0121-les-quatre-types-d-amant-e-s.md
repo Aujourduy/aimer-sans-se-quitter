@@ -19,9 +19,9 @@ En faisant la synthèse des entretiens sur la sexualité sensible que j’ai eu,
 4. Celui qui ne peut pas. C’est le lapin. Il n’a pas d’ailes donc il ne vole pas et il ne pourra jamais, jamais voler. Un point c’est tout.   
 Maintenant, voilà le problème de beaucoup de femmes ici. Il y a surtout des hommes lapins et des hommes coqs. Mais vous, ce que vous voulez c’est un homme qui vole comme vous ou mieux encore plus haut. L’idéal c’est de trouver un aigle. Dans la pratique c’est difficile pour ne pas dire très très difficile. Et le pire, c’est pour les femmes qui ont fait des stages sur la sexualité parce que ça les a transformées en aigles et elles ne veulent plus voler qu’avec des aigles. Comme les aigles sont rares, elles sont très déçues et même pour certaines encore plus frustrées qu’avant la formation parce que maintenant qu’elles savent ce que c’est de voler à haute altitude, voler bas devient encore plus fastidieux voire impossible.
 
-Voici un des thèmes abordés dans mon accompagnement : Comment voler avec un aigle. 
+Voici un des thèmes abordés dans mon accompagnement : Comment voler avec un aigle. 
 
-La réponse est simple. Aussi simple que la réponse de Nasreddin à son fils qui lui demandait si c’était vrai qu’Allah était tout puissant et pouvait tout accomplir, même faire passer un chameau dans le trou d’un aiguille. Il répondit : “Oui, mon fils. En effet, Allah est tout puissant. En réalité, ce problème est vraiment simple. Soit il agrandit le trou, soit il rapetisse le chameau.” 
+La réponse est simple. Aussi simple que la réponse de Nasreddin à son fils qui lui demandait si c’était vrai qu’Allah était tout puissant et pouvait tout accomplir, même faire passer un chameau dans le trou d’un aiguille. Il répondit : “Oui, mon fils. En effet, Allah est tout puissant. En réalité, ce problème est vraiment simple. Soit il agrandit le trou, soit il rapetisse le chameau.” 
 
 Donc mesdames, si vous voulez voler avec un aigle, soit vous trouvez un aigle, soit vous trouvez un homme qui deviendra un aigle. Pas d’autre solution.
 
@@ -40,13 +40,13 @@ Si vous cherchez à évoluer dans votre sexualité, je vous conseille fortement 
 
 Ce n'est pas un modèle d'analyse sérieuse comme le MBTI, ProcessCom, HumanDesign, ComColor et autres typologies de personnalités. 
 
-C'est très caricatural en effet et j'assume. Ce n'est pas rigoureux ni exhaustif. C'est surtout une image a but pédagogique. Ça se voulait aussi humoristique mais certains n'ont pas compris. On voit bien dans le dessin que le plus mignon, c'est le lapin !
+C'est très caricatural en effet et j'assume. Ce n'est pas rigoureux ni exhaustif. C'est surtout une image a but pédagogique. Ça se voulait aussi humoristique mais certains n'ont pas compris. On voit bien dans le dessin que le plus mignon, c'est le lapin !
 
 Tout ça n'est pas sérieux ... mais ça n'empêche pas que cela puisse être un peu vrai quand même ;) 
 
 Pour les personnes intéressées, je proposerai un webinaire sur cette thématique, le jeudi 23 septembre 2021 de 20h00 à 21h30.
 
-Voici le lien pour vous inscrire :
+Voici le lien pour vous inscrire :
 https://www.billetweb.fr/les-quatre-types-damant-e-s
 Belle et joyeuse journée,
 
@@ -56,10 +56,10 @@ www.sexualite-sensible.fr
 
 -------------------------------------------------------------------
 
-1/ Tu as depuis longtemps une envie irrésistible et profonde de vivre les instants de grâce d'une sexualité authentique et sensible ? C'est par ici :  www.sexualite-sensible.fr
+1/ Tu as depuis longtemps une envie irrésistible et profonde de vivre les instants de grâce d'une sexualité authentique et sensible ? C'est par ici :  www.sexualite-sensible.fr
 
 2/ Pour recevoir des conseils sur la sexualité sensible, connaître mon actualité,  inscris-toi  😉 sur www.conseils-pour-amants-sensibles.fr
 
 3/ Pour lire mes autres posts 😘, abonne-toi à mon profil pro https://www.facebook.com/inspirateur.des.amants.sensibles/
 
-4/ Mon groupe privé de partages amicaux, sensuels et charnels entre personnes désireuses d'une sexualité authentique et sensible : www.la-tribu-des-amants-sensibles.fr
+4/ Mon groupe privé de partages amicaux, sensuels et charnels entre personnes désireuses d'une sexualité authentique et sensible : www.la-tribu-des-amants-sensibles.fr

@@ -21,7 +21,7 @@ Oser se montrer pour avoir une chance d'être vraiment aimé
 
 Changer d’état d’esprit cela peut prendre beaucoup de temps et parfois en un seul instant. C’est le but de mes fables philosophies de la vie moderne
 
-"Il ne s'agit pas d'enlever la douleur. Il s'agit de traverser le tunnel sombre de l'expérience et pouvoir y mettre suffisamment de clarté et d'ouverture pour voir et arriver à la lumière au bout du tunnel!" Tout est dit!! 💖
+"Il ne s'agit pas d'enlever la douleur. Il s'agit de traverser le tunnel sombre de l'expérience et pouvoir y mettre suffisamment de clarté et d'ouverture pour voir et arriver à la lumière au bout du tunnel !" Tout est dit !! 💖
 
 Je te rappelle plus tes espoirs enfouis, je donne plus de légitimité aux murmures que je n’enseigne de nouvelles choses.
 

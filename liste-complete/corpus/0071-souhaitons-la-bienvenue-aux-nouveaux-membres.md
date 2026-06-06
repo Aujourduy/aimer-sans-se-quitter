@@ -19,7 +19,7 @@ Lionel Pariente,
 Daya Daya,
 Catherine Le Courriard Parenthousiasme
 
-Bonjour et bienvenus aux nouveaux amant.e.s sensibles (la liste en commentaire). Les infos utiles : 
+Bonjour et bienvenus aux nouveaux amant.e.s sensibles (la liste en commentaire). Les infos utiles : 
 
 1/ Épinglés en haut de la page du groupe vous trouverez les 5 vidéos du défi le Tournant.
 

@@ -7,7 +7,7 @@ sujet: ""
 motscles: []
 enrichi: false
 ---
-L’enfer est pavé de bonnes intentions et vouloir protéger ma partenaire en est une. C’est le dilemme entre le confort et la vérité. Le choix de la vérité est difficile. Parce qu’il peut créer colère, frustration, douleur, jalousie, peur. Est-ce que j’ai envie d’amener ça à ma partenaire ? Non. 
+L’enfer est pavé de bonnes intentions et vouloir protéger ma partenaire en est une. C’est le dilemme entre le confort et la vérité. Le choix de la vérité est difficile. Parce qu’il peut créer colère, frustration, douleur, jalousie, peur. Est-ce que j’ai envie d’amener ça à ma partenaire ? Non. 
 
 Alors je choisis de ne pas le dire. De manière plus ou moins consciente. J’évite ainsi de créer un inconfort chez ma partenaire même si ça doit me créer une gêne, chez moi. L’un dans l’autre, je choisis de me taire et d'assumer mon inconfort qui doit être bien plus petit que celui que j’aurai créé chez elle en abordant le sujet. 
 

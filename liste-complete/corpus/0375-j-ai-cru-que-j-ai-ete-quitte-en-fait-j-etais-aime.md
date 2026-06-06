@@ -39,9 +39,9 @@ Depuis des années, j'ai reçu tous ces amours, tout cet amour en cadeau. Je le 
 Duy,
 Révélateur d'Amants Sensibles
 
-PS : Pour changer ma vie, j'ai commencé par changer ma vision sur elle. C'est ce que je propose dans mon accompagnement "Vivre un grand Amour" au niveau du coeur et de la sexualité.
+PS : Pour changer ma vie, j'ai commencé par changer ma vision sur elle. C'est ce que je propose dans mon accompagnement "Vivre un grand Amour" au niveau du coeur et de la sexualité.
 Sur mon site, tu y trouveras les infos.
 
-Pour lire d'autres posts, des fables, t'inscrire à la newsletter, assister au prochain webinaire, participer au stage "Danseurs Sauvages / Amants Sensibles", prendre rendez-vous pour un coaching diagnostic gratuit & sans engagement et plus c'est ici : www.duy-dang.fr
+Pour lire d'autres posts, des fables, t'inscrire à la newsletter, assister au prochain webinaire, participer au stage "Danseurs Sauvages / Amants Sensibles", prendre rendez-vous pour un coaching diagnostic gratuit & sans engagement et plus c'est ici : www.duy-dang.fr
 
-PPS : Partage avec tes amis pour leur rappeler d'ouvrir ou de ré-ouvrir leurs cadeaux d'amour délaissés depuis leurs ruptures.
+PPS : Partage avec tes amis pour leur rappeler d'ouvrir ou de ré-ouvrir leurs cadeaux d'amour délaissés depuis leurs ruptures.

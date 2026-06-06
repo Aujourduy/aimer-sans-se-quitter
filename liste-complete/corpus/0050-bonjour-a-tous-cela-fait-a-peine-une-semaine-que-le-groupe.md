@@ -8,7 +8,7 @@ sujet: ""
 motscles: []
 enrichi: false
 ---
-Je vous présente un petit bilan :
+Je vous présente un petit bilan :
 1. Quelques stats
 2. Les rencontres dans le groupe
 3. Règles de publication
@@ -31,7 +31,7 @@ Certains membres ont déjà fait leur présentation mais je trouve que  cela n'e
 
 Il n'y aucune obligation juste des propositions pour faciliter les rencontres entre membres.
 
-Faire ou refaire un post de présentation :
+Faire ou refaire un post de présentation :
 
 * Nom
 
@@ -51,7 +51,7 @@ Quelques conseils de base, ici ceux sont des humains. Ce n'est pas parce qu'un h
 
 Voici des choses qui me conviennent. C'est mon fonctionnement. Ni un modèle à suivre, ni des vérités universelles. Ça peut juste donner l'exemple pour les personnes qui s'y retrouvent. 
 
-Personnellement, je ne dis jamais à une femme qu'elle me plaît avant d'être certain de pouvoir recevoir les trois réponses suivantes : je lui plaît (rare), silence (rare), je ne lui plait pas (souvent). Idem pour le désir physique. Si je ne suis pas en mesure d'accueillir le "non", je suis en attente du "oui" et son refus nous créerait un malaise. Et je ne demande jamais à l'autre de se positionner. C'est sa liberté d'exprimer ou non sa vérité. Moi, j'exprime ma vérité, c'est mon boulot, et ça s'arrête là. 
+Personnellement, je ne dis jamais à une femme qu'elle me plaît avant d'être certain de pouvoir recevoir les trois réponses suivantes : je lui plaît (rare), silence (rare), je ne lui plait pas (souvent). Idem pour le désir physique. Si je ne suis pas en mesure d'accueillir le "non", je suis en attente du "oui" et son refus nous créerait un malaise. Et je ne demande jamais à l'autre de se positionner. C'est sa liberté d'exprimer ou non sa vérité. Moi, j'exprime ma vérité, c'est mon boulot, et ça s'arrête là. 
 
 ==========================================
 3. Règles de publication
@@ -84,6 +84,6 @@ Voilà tous les points que je voulais partager avec vous ce soir. continuons à 
 @[100070375365062:2048:Duy Dang]
 Frère Révélateur de Sexualité sensible
 
-PS : Likez si vous l'avez lu et ajoutez un commentaire si vous avez des commentaires ou/et suggestions
+PS : Likez si vous l'avez lu et ajoutez un commentaire si vous avez des commentaires ou/et suggestions
 
-PPS : Avec ces informations structurées, je pense que nous sommes à même d'accueillir de nombreux membres dans le groupe. N'hésitez pas à inviter vos amis mais rappelez leur que l'administrateur est super chiant pour le formulaire d'adhésion ;-)
+PPS : Avec ces informations structurées, je pense que nous sommes à même d'accueillir de nombreux membres dans le groupe. N'hésitez pas à inviter vos amis mais rappelez leur que l'administrateur est super chiant pour le formulaire d'adhésion ;-)

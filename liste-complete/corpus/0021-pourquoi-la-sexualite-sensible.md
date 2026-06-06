@@ -8,4 +8,4 @@ sujet: ""
 motscles: []
 enrichi: false
 ---
-Parce que nous sommes des êtres de Liberté, de Vérité, d'Amour et de Conscience, non ?
+Parce que nous sommes des êtres de Liberté, de Vérité, d'Amour et de Conscience, non ?

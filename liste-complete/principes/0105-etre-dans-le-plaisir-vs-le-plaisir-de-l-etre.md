@@ -11,7 +11,7 @@ Des posts, vidéos et articles sur comment donner plus de plaisir à votre parte
 
 
 
-PS : Si vous voulez aller plus loin dans cette démarche, je propose une visioconférence sur ce thème jeudi prochain. Pour plus d’infos, mettez ‘Visio’ dans les commentaires.
+PS : Si vous voulez aller plus loin dans cette démarche, je propose une visioconférence sur ce thème jeudi prochain. Pour plus d’infos, mettez ‘Visio’ dans les commentaires.
 
 déliminaires très longs 
 

@@ -8,11 +8,11 @@ sujet: ""
 motscles: []
 enrichi: false
 ---
-Un jour on demanda à Nasreddin :
+Un jour on demanda à Nasreddin :
 
-- Dis-nous, Nasreddin, lequel est le plus utile entre la Lune et le Soleil ? - La lune bien sûr, répondit-il immédiatement. - Et pourquoi ? - Parce que la lune brille dans la nuit, quand il fait noir, là où on a le plus besoin de lumière.
+- Dis-nous, Nasreddin, lequel est le plus utile entre la Lune et le Soleil ? - La lune bien sûr, répondit-il immédiatement. - Et pourquoi ? - Parce que la lune brille dans la nuit, quand il fait noir, là où on a le plus besoin de lumière.
 
-C’est vrai, n’est-ce pas ? Oui, c’est vrai que la lune est utile pour apporter la lumière dans la nuit.
+C’est vrai, n’est-ce pas ? Oui, c’est vrai que la lune est utile pour apporter la lumière dans la nuit.
 
 C’est faux aussi, puisque la lumière du jour est apportée par le soleil. En fait, le jour c’est la nuit quand le soleil est là.
 

@@ -51,7 +51,7 @@ Belle journée,
 
 Duy
 
-PS : 
+PS : 
 
 Pour les femme sensible aux énergies, avec une activité tournée vers les autres (médecin, infirmière, masseuse, coach, naturo, mère au foyer, astrologue, mère de famille, …), qui a déjà cheminé personnellement pendant plusieurs années (thérapies, stages, spiritualités, …), avec au moins une fin de relation douloureuse et avec une pratique artistique régulière (danse, chant, poterie, poésie, photo, …) qui veulent trouver joies et beautés dans la relation, dans l'amour, dans la sexualité, contactez-moi pour une séance de clarification complètement offerte et sans engagement.
 https://

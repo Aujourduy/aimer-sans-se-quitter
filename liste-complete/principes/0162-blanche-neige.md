@@ -10,7 +10,7 @@ enrichi: false
 Nains \= mi homme  
 Ramener au royaume du prince, chute, recrache la pomme
 
-Enseignement : Espace de liberté \>\>\> méthode tantra, taoiste ou autre
+Enseignement : Espace de liberté \>\>\> méthode tantra, taoiste ou autre
 
 technique de thérapies, transformation \>\>\> émotion
 

@@ -8,7 +8,7 @@ sujet: ""
 motscles: []
 enrichi: false
 ---
-Pour la danse qui a été filmée il n'y avait : 
+Pour la danse qui a été filmée il n'y avait : 
 Aucune consigne
 Aucune concertation 
 Aucun mot

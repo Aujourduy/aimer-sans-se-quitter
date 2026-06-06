@@ -12,6 +12,6 @@ La sexualité sensible nous offre de la beauté, de la fraîcheur, de la solidit
 
 Adaptation personnelle des paroles de Thich Nhat Hanh, j'ai remplacé "amour véritable" par "sexualité sensible".
 
-Ça sonne tellement juste. Qu'en pensez-vous ?
+Ça sonne tellement juste. Qu'en pensez-vous ?
 
 Duy

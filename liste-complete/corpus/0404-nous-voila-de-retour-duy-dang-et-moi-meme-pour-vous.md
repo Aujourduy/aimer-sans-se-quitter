@@ -10,7 +10,7 @@ enrichi: false
 ---
 Grâce à la danse et nos propositions, nous allons explorer en profondeur notre rapport au lien en y apportant de la fluidité, du mouvement.
 
-Comment entrer et sortir du lien, tout en étant connecté à soi ?
+Comment entrer et sortir du lien, tout en étant connecté à soi ?
 Parfois la communication par les mots est difficile, on n'arrive pas à exprimer ses besoins, ce que l'on ressent, à mettre ses limites et être quand même en lien avec l'autre.
 Le temps d'une vague musicale nous allons te guider à lâcher le monde des mots pour entrer au cœur de toi-même.
 Revenir à ton corps, à ton coeur et à ton âme.
@@ -18,7 +18,7 @@ Revenir à ton corps, à ton coeur et à ton âme.
 Baigné de mille sensations.
 Être.
 
-Être à l'écoute de ta musique intérieure !
+Être à l'écoute de ta musique intérieure !
 
 Viens exprimer, libérer ce qui se VIE en toi tout en étant en lien.
 Une danse connectée à soi.
@@ -43,7 +43,7 @@ Vêtements souples pour être à l'aise
 Pieds nus.
 Cadre bienveillant, confidentiel et ludique.
 
-Infos et réservation : https://www.billetweb.fr/entrer-et-sortir-du-lien
+Infos et réservation : https://www.billetweb.fr/entrer-et-sortir-du-lien
 Nos autres ateliers sont sur http://www.lavoiedeladanse.fr
 
 Dans la joie de danser ensemble,

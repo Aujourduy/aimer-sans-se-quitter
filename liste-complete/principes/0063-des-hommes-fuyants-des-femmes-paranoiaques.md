@@ -13,29 +13,29 @@ Je répète qu’il s’agit que de certains hommes et de certaines femmes. Pas 
 
 1/ La femme a peur. 
 
-La pensée plus ou moins inconsciente qui l’angoisse c’est : “Je ne peux pas être aimée“ 
+La pensée plus ou moins inconsciente qui l’angoisse c’est : “Je ne peux pas être aimée“ 
 
-Cela se traduit par la pensée plus ou moins consciente : ”Il ne m’aime pas”. Parfois, à la place d’aimer c’est respecter, considérer ou donner de l’importance.
+Cela se traduit par la pensée plus ou moins consciente : ”Il ne m’aime pas”. Parfois, à la place d’aimer c’est respecter, considérer ou donner de l’importance.
 
-La tendance : interpréter ce que dit, fait, ne dit pas ou ne fait pas son partenaire comme preuve de la pensée “Il ne m’aime pas”.
+La tendance : interpréter ce que dit, fait, ne dit pas ou ne fait pas son partenaire comme preuve de la pensée “Il ne m’aime pas”.
 
-La réponse à cette peur : communiquer, chercher à comprendre, poser des questions, donner des conseils.
+La réponse à cette peur : communiquer, chercher à comprendre, poser des questions, donner des conseils.
 
-Une piste à explorer pour cette femme : arrêter de se centrer sur elle et s’intéresser à son partenaire. En étant curieuse à l’intérieure mais pas forcément sur l’extérieur. Quand une entomologiste étudie les fourmis, elle ne pose pas des tas de questions. Elle ne va pas interagir avec les fourmis en faisant sans arrêts des expériences comme mettre un sucre, boucher la fourmilière ou je ne sais pas quoi encore. Elle reste tranquille, elle les observe de loin avec les yeux mais de près avec son cœur. Quand elle pense les avoir assez bien compris, de temps en temps, elle tente une petite expérience pour vérifier son hypothèse.
+Une piste à explorer pour cette femme : arrêter de se centrer sur elle et s’intéresser à son partenaire. En étant curieuse à l’intérieure mais pas forcément sur l’extérieur. Quand une entomologiste étudie les fourmis, elle ne pose pas des tas de questions. Elle ne va pas interagir avec les fourmis en faisant sans arrêts des expériences comme mettre un sucre, boucher la fourmilière ou je ne sais pas quoi encore. Elle reste tranquille, elle les observe de loin avec les yeux mais de près avec son cœur. Quand elle pense les avoir assez bien compris, de temps en temps, elle tente une petite expérience pour vérifier son hypothèse.
 
 2/ L’homme a peur. 
 
-La pensée plus ou moins inconsciente qui l’angoisse c’est : “Je ne peux pas être aimé“ 
+La pensée plus ou moins inconsciente qui l’angoisse c’est : “Je ne peux pas être aimé“ 
 
-Cela se traduit par la pensée plus ou moins consciente : ”Je ne suis pas à la hauteur”. Parfois, à la place c’est de ne pas être assez bien, assez fort, assez solide.
+Cela se traduit par la pensée plus ou moins consciente : ”Je ne suis pas à la hauteur”. Parfois, à la place c’est de ne pas être assez bien, assez fort, assez solide.
 
-La tendance : interpréter ce que dit, fait, ne dit pas ou ne fait pas sa partenaire comme preuve de la pensée “Je ne suis pas à la hauteur”.
+La tendance : interpréter ce que dit, fait, ne dit pas ou ne fait pas sa partenaire comme preuve de la pensée “Je ne suis pas à la hauteur”.
 
-La réponse à cette peur : s’isoler, éviter le dialogue et la confrontation, des réponses évasives et minimales.
+La réponse à cette peur : s’isoler, éviter le dialogue et la confrontation, des réponses évasives et minimales.
 
-Une piste à explorer pour cet homme : arrêter de se centrer sur lui-même et s’intéresser à sa partenaire. La vérité n’est pas toujours facile à dire mais elle est nécessaire pour l’évolution. Le déni, ne pas reconnaître la vérité, ce qui revient un peu à ne pas le dire à l’autre, est la première des cinq phases du deuil énoncées par Elisabeth Kübler-Ross. Tant qu’on reste dans cette phase, on évite la colère et la tristesse des phases suivantes. C’est vrai. Mais on n’évolue pas et on reste figé dans la situation problématique. Parfois, il faut désinfecter la plaie et la nettoyer pour qu’elle ne s’infecte pas. Ça fait mal sur le coup mais ça évite l’infection après.
+Une piste à explorer pour cet homme : arrêter de se centrer sur lui-même et s’intéresser à sa partenaire. La vérité n’est pas toujours facile à dire mais elle est nécessaire pour l’évolution. Le déni, ne pas reconnaître la vérité, ce qui revient un peu à ne pas le dire à l’autre, est la première des cinq phases du deuil énoncées par Elisabeth Kübler-Ross. Tant qu’on reste dans cette phase, on évite la colère et la tristesse des phases suivantes. C’est vrai. Mais on n’évolue pas et on reste figé dans la situation problématique. Parfois, il faut désinfecter la plaie et la nettoyer pour qu’elle ne s’infecte pas. Ça fait mal sur le coup mais ça évite l’infection après.
 
-Ces pistes peuvent aider à mieux gérer la situation. Et il y a une ultra-solution commune vraiment efficace même si elle peut être plus difficile à réaliser. Si j’avais un homme fuyant ou une femme paranoïaque devant moi, je lui dirais quelque chose comme ceci :
+Ces pistes peuvent aider à mieux gérer la situation. Et il y a une ultra-solution commune vraiment efficace même si elle peut être plus difficile à réaliser. Si j’avais un homme fuyant ou une femme paranoïaque devant moi, je lui dirais quelque chose comme ceci :
 
 Premièrement, tu n’es pas mieux que les autres. Pendant des siècles, les gens ont cru que la terre était plate. Ils en étaient convaincus, persuadés, c'était pour eux une vérité absolue et indiscutable. Ils s’étaient trompés. Donc, la prochaine fois que tu me dis que tu es persuadé de quelque chose à 100%, je te répondrai “Peut-être que tu te trompes comme ceux qui croyaient que la terre était plate”. 
 

@@ -10,9 +10,9 @@ enrichi: false
 ---
 aurait pu être la devise pour ce post et cette danse.
 
-Loin des clichés du cinéma, des rencontres instantanées où les partenaires rentrent tout de suite en connexion, il y a une autre possibilité : celle d'entrer dans son royaume d'abord.
+Loin des clichés du cinéma, des rencontres instantanées où les partenaires rentrent tout de suite en connexion, il y a une autre possibilité : celle d'entrer dans son royaume d'abord.
 
-Occuper mon royaume, prendre possession complètement de mon espace. Certains diront : "Mais tu es dans ta bulle ! Tu ne t'occupes pas de ta partenaire ?!" Ma réponse est " Oui, je suis dans ma bulle. Je l'assume. Je remplis ma bulle de mes mouvements, de ma respiration, de ma présence."
+Occuper mon royaume, prendre possession complètement de mon espace. Certains diront : "Mais tu es dans ta bulle ! Tu ne t'occupes pas de ta partenaire ?!" Ma réponse est " Oui, je suis dans ma bulle. Je l'assume. Je remplis ma bulle de mes mouvements, de ma respiration, de ma présence."
 
 Et c'est avec cette bulle remplie à ras bord de moi que j'amène ma richesse vers ma partenaire. Dans la sexualité comme dans la danse. 
 

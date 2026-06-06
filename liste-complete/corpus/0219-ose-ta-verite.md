@@ -11,4 +11,4 @@ enrichi: false
 Respecte ta Liberté 
 Déploie ta Sexualité 
 
-Et le premier pas de ton nouveau voyage pour vivre une sexualité authentique et sensible est ici : www.sexualite-sensible.fr
+Et le premier pas de ton nouveau voyage pour vivre une sexualité authentique et sensible est ici : www.sexualite-sensible.fr

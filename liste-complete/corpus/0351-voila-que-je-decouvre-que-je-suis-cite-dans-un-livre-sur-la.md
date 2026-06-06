@@ -12,4 +12,4 @@ enrichi: false
 
 @[100070375365062:2048:Duy Dang]
 
-PS : Pour les curieux, voici la version entière sur mon FB : https://www.facebook.com/inspirateur.des.amants.sensibles/posts/pfbid05cHPQ3eviri9kA1rJyrFJKwohvjBfyaRSzEL6cihv9nkEmayqG8Fh1vbExfHsXQQl
+PS : Pour les curieux, voici la version entière sur mon FB : https://www.facebook.com/inspirateur.des.amants.sensibles/posts/pfbid05cHPQ3eviri9kA1rJyrFJKwohvjBfyaRSzEL6cihv9nkEmayqG8Fh1vbExfHsXQQl

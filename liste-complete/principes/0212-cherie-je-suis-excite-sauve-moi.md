@@ -31,7 +31,7 @@ Un homme qui est excité n'est pas en danger et n'a pas besoin d'être sauvé.
 
 Une femme qui est excitée n'est pas en danger et n'a pas besoin d'être sauvée.
 
-Si quelqu'un me dit " Chéri, j'ai faim, mange avec moi !" et si je n'ai pas faim, et que je mange avec lui pour lui faire plaisir, je ne respecterai pas mon estomac. 
+Si quelqu'un me dit " Chéri, j'ai faim, mange avec moi !" et si je n'ai pas faim, et que je mange avec lui pour lui faire plaisir, je ne respecterai pas mon estomac. 
 
 Ma santé physiologique passe par respecter les besoins et les envies à mon estomac avant les besoins et les envies de ma partenaire.
 

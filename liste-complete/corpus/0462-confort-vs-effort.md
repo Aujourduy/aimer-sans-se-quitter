@@ -18,7 +18,7 @@ En réalité ce n’est pas moins donner, c’est juste différencier le don de 
 
 C’est la générosité qui s’exprime, c’est le cœur qui parle, c’est l’amour qui se manifeste. Encore une fois, investir n’est pas grave, faire un effort pour obtenir quelque chose de l’autre non plus, j’ai mes peurs, j’ai des attentes mais si je le fais en disant que c’est un don, que je suis généreux alors je me mens à moi-même et surtout je ne serai plus capable de reconnaître le vrai don.
 
-Une bonne façon de vérifier si c’est un don ou un investissement, si je suis dans le confort ou l’effort, c’est de me demander “Est-ce que je ferai ça si je savais qu’elle me quittera demain/dans un mois ?” 
+Une bonne façon de vérifier si c’est un don ou un investissement, si je suis dans le confort ou l’effort, c’est de me demander “Est-ce que je ferai ça si je savais qu’elle me quittera demain/dans un mois ?” 
 
 Ce n’est pas parce que je suis dans le confort que je ne fais rien. Plusieurs fois, j’ai passé une journée entière à décorer l’appartement de pétales de roses, de bougies, d’encens, de peintures, de tissus de couleur, contre une playlist de 2h de musiques. 
 

@@ -10,9 +10,9 @@ enrichi: false
 ---
 Des fois, on croit que pour avoir des résultats, il faut faire forcément quelque chose de compliqué. En vrai, il y a beaucoup d'exemples de pratiques extrêmement efficaces, qui donnent d'excellents résultats tout en étant d’une grande simplicité.
  
-Mais alors pourquoi tout le monde ne le fait pas ? Parce que c’est difficile ;-) 
+Mais alors pourquoi tout le monde ne le fait pas ? Parce que c’est difficile ;-) 
  
-Faire un jeûne sec, c’est simple. Il suffit d’arrêter de manger et de boire pendant 3 jours. Pour moi, c’était au premier confinement et ça a guéri mon hernie inguinale ! 
+Faire un jeûne sec, c’est simple. Il suffit d’arrêter de manger et de boire pendant 3 jours. Pour moi, c’était au premier confinement et ça a guéri mon hernie inguinale ! 
  
 Marcher sur le feu, c’est très simple. C’était à Londres il y a 17 ans avec Anthony Robbins, il suffisait de se répéter “Cool moss” en boucle. J’ai pu intégrer, pas comprendre mais intégrer, le fait que n’importe quelle croyance, ou peur pouvait être transformée en peu de temps.
  
@@ -33,10 +33,10 @@ www.sexualite-sensible.fr
 -------------------------------------------------------------------
 *** LES INFOS ***
 
-1/ Tu as depuis longtemps une envie irrésistible et profonde de vivre les instants de grâce d'une sexualité authentique et sensible ? C'est par ici :  www.sexualite-sensible.fr
+1/ Tu as depuis longtemps une envie irrésistible et profonde de vivre les instants de grâce d'une sexualité authentique et sensible ? C'est par ici :  www.sexualite-sensible.fr
 
 2/ Pour recevoir des conseils sur la sexualité sensible, connaître mon actualité,  inscris-toi  😉 sur www.conseils-pour-amants-sensibles.fr
 
 3/ Pour lire mes autres posts 😘, abonne-toi à mon profil pro https://www.facebook.com/inspirateur.des.amants.sensibles/
 
-4/ LE groupe privé Facebook de partages amicaux, sensuels et charnels entre personnes désireuses d'une sexualité authentique et sensible : www.la-tribu-des-amants-sensibles.fr
+4/ LE groupe privé Facebook de partages amicaux, sensuels et charnels entre personnes désireuses d'une sexualité authentique et sensible : www.la-tribu-des-amants-sensibles.fr

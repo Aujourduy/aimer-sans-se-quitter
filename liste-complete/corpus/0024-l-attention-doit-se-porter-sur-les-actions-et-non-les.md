@@ -9,5 +9,5 @@ motscles: []
 enrichi: false
 ---
 Ça a tout change. J'ai réussi un super call même si je n'ai pas vendu, je suis très content et fier de moi.
-Avant, j'aurai été déçu et ça aurait rogné ma motivation. Aujourd'hui, je me sens satisfait et motivé !!!
+Avant, j'aurai été déçu et ça aurait rogné ma motivation. Aujourd'hui, je me sens satisfait et motivé !!!
 Grand merci à NLI Team.🙏🙏🙏

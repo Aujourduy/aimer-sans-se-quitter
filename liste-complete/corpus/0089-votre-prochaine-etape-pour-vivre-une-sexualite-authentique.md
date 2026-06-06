@@ -8,4 +8,4 @@ sujet: ""
 motscles: []
 enrichi: false
 ---
-Votre prochaine étape pour vivre une sexualité authentique et sensible est au bout de ce lien : www.sexualite-sensible.fr
+Votre prochaine étape pour vivre une sexualité authentique et sensible est au bout de ce lien : www.sexualite-sensible.fr

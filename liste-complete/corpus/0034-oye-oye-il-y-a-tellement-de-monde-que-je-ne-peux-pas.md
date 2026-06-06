@@ -8,9 +8,9 @@ sujet: ""
 motscles: []
 enrichi: false
 ---
-OYE OYE, Il y a tellement de monde que je ne peux pas répondre à chaque personne. Facebook vient de me bloquer les commentaires 😁😁😁😁😁 !!!
+OYE OYE, Il y a tellement de monde que je ne peux pas répondre à chaque personne. Facebook vient de me bloquer les commentaires 😁😁😁😁😁 !!!
 
-Donc, pour les personnes intéressées :
+Donc, pour les personnes intéressées :
 
 Merci pour vos encouragements.
 

@@ -14,11 +14,11 @@ J'utilise régulièrement cette histoire dans mes coachings et notamment ce mati
 
 https://youtu.be/ySCoDCu0WeM
 
-Si vous avez été touché par cette histoire racontée en 20 min, si vous pensez qu'elle peut vous aider dans votre vie et dans votre sexualité, imaginez ce que vous gagnerez à participer à 2 séances de coaching individuel de 1h30, et un coaching collectif sur 12 semaines !
+Si vous avez été touché par cette histoire racontée en 20 min, si vous pensez qu'elle peut vous aider dans votre vie et dans votre sexualité, imaginez ce que vous gagnerez à participer à 2 séances de coaching individuel de 1h30, et un coaching collectif sur 12 semaines !
 
 Si vous voulez en savoir plus sur le programme d'accompagnement, réservez un rendez-vous téléphonique, complètement gratuit, sans aucun engagement, pour le plaisir de partager et de se découvrir.
 
-Cliquez ce lien :
+Cliquez ce lien :
 https://calendly.com/sexuali.../entretien-sexualite-sensible
 
 et si l'histoire vous a plu, likez et écrivez en commentaire où se trouve votre pommier. 
@@ -32,7 +32,7 @@ Frère-Révélateur de Sexualité sensible
 
 -------------------------------------------------------------------
 
-PS : Quelques infos complémentaires
+PS : Quelques infos complémentaires
 
 1/ Pour la lettre d'infos de mon actualité, les prochains séminaires, les accompagnements individuels ou collectifs,  inscrivez-vous  😉sur www.sexualite-sensible.fr
 

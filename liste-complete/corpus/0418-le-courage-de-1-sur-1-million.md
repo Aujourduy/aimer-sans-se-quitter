@@ -14,13 +14,13 @@ Ce n'était pas son savoir, même si elle en avait beaucoup.
 
 Ce n'était pas sa perspicacité en tant qu'animatrice. Elle s'est quand même formée directement avec Bert Hellinger le créateur des constellations familiales.
 
-Ce qui était le plus aidant c'était : SON COURAGE.
+Ce qui était le plus aidant c'était : SON COURAGE.
 
 Son courage de dire sa vérité. Son courage de déranger, choquer, outrer les autres si c'était nécessaire.
 
 Le courage, c'est la force de rester là alors que le danger arrive en face.
 
-Pourquoi, je parle de courage ?
+Pourquoi, je parle de courage ?
 
 Parce que remettre en question notre vision du monde est une des choses les plus difficiles. 
 
@@ -40,7 +40,7 @@ Mais après avoir vécu avec une femme sans vraiment osé lui montrer qui j'éta
 
 Quitte à prendre le risque de rester célibataire le reste de ma vie.
 
-J'ai pris le risque de dire ma vérité. Quand je rencontrais une femme je lui disais mes points non négociables :
+J'ai pris le risque de dire ma vérité. Quand je rencontrais une femme je lui disais mes points non négociables :
 Je ne voulais pas de mariage 
 Je ne veux plus d'enfant 
 Je ne m'engage pas à être fidèle
@@ -49,7 +49,7 @@ Je ne suis pas là pour savuer l'autre
 
 Bref, c'est un peu tout le contraire de ce qu'on se promet lors des voeux d'un mariage.
 
-Alors quelle femme voudrait sortir avec moi ?
+Alors quelle femme voudrait sortir avec moi ?
 
 Et pourant, il y en eu une première. Puis une deuxième. Puis d'autres.
 
@@ -67,5 +67,5 @@ Une personne qui accepte réellement les événements ne dit pas qu'elle accepte
 
 Alors pour celles et ceux qui veulent éprouver leur courage pour venir remercier 2023 et le transformer, ça sera dans le prohain atelier La Voie de la Danse où se meleront méditation, coaching et danse. Esprit, Coeur et Corps. Ce dimanche 17 Décembre 2023 Studio Bleu Paris 9e. 
 
-Infos et résa : 
+Infos et résa : 
 https://www.billetweb.fr/se-reconcilier-avec-son-passe-danser-son-present-pour-accueillir-son-futur

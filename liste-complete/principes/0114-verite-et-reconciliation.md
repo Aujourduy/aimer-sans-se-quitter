@@ -19,7 +19,7 @@ Ce n’était pas qu’il y avait quelque chose que je ne voulais pas dire. C’
 
 Tout d’abord, j’ai pu tout déposer. Ensuite, elle a tout accueilli. Finalement, nous avons fait l’amour joyeusement et intensément alors que juste avant il n’y avait pas du tout de désir.
 
-Si vous avez fait plusieurs fois l’expérience : déposer une vérité \+ sentir le désir monter juste après \+ faire l’amour avec une grande sensibilité et intensité, vous comprenez que la recherche d’une sexualité sensible est liée à la recherche de l’acceptation de sa vérité.
+Si vous avez fait plusieurs fois l’expérience : déposer une vérité \+ sentir le désir monter juste après \+ faire l’amour avec une grande sensibilité et intensité, vous comprenez que la recherche d’une sexualité sensible est liée à la recherche de l’acceptation de sa vérité.
 
 La vérité permet l’amour de soi-même.
 
@@ -29,4 +29,4 @@ La vérité permet de retrouver sa puissance.
 
 La vérité permet de retrouver le désir.
 
-Pendant plusieurs années, j’animais des constellations familiales. Souvent à la fin d’une constellation, quand les noeuds se dénouent je ressentais profondément que ces quatre mots pointaient exactement sur le même endroit. Ces mots sont Amour, Vérité, Conscience et Acceptation. Ça peut paraître bizarre que des mots si différents désignent une même direction. C’est comme si quand je pointais mon doigt vers le nord, le sud, l’est et l’ouest cela indiquait la même direction. Non, mais attendez un peu, comme la Terre est ronde, que je pointe vers n’importe quelle direction, je pointe toujours vers moi en fait !!! Ha ha ha
+Pendant plusieurs années, j’animais des constellations familiales. Souvent à la fin d’une constellation, quand les noeuds se dénouent je ressentais profondément que ces quatre mots pointaient exactement sur le même endroit. Ces mots sont Amour, Vérité, Conscience et Acceptation. Ça peut paraître bizarre que des mots si différents désignent une même direction. C’est comme si quand je pointais mon doigt vers le nord, le sud, l’est et l’ouest cela indiquait la même direction. Non, mais attendez un peu, comme la Terre est ronde, que je pointe vers n’importe quelle direction, je pointe toujours vers moi en fait !!! Ha ha ha

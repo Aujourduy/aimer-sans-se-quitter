@@ -18,9 +18,9 @@ Il y avait ce fantasme en toile de fond que les partenaires devaient bien s’ac
 
 Le point le plus important c’est de faire la différence entre une envie et une demande. Par exemple, "caresser le nez” peut être une demande ou une envie. La demande c’est “Caresse-moi le nez s’il te plaît”. L’envie c’est “Pour information, j’ai envie que tu me caresses le nez”. Mais comme le langage est fait aussi pour déguiser la pensée, il peut être diplomatique de déguiser une demande, qui pourrait sembler autoritaire, en l’expression d’une envie, qui paraîtrait plus sympathique. 
 
-L’inconvénient de ces habitudes de langage, c'est qu'on ne sait plus quoi est quoi. Une vraie envie peut alors être interprétée comme une demande. C’est là qu’intervient la méta-communication. Nous allons communiquer sur la communication avec une phrase du type : “Je te dis que c’est une envie et c’est vraiment une envie et pas une demande déguisée.”
+L’inconvénient de ces habitudes de langage, c'est qu'on ne sait plus quoi est quoi. Une vraie envie peut alors être interprétée comme une demande. C’est là qu’intervient la méta-communication. Nous allons communiquer sur la communication avec une phrase du type : “Je te dis que c’est une envie et c’est vraiment une envie et pas une demande déguisée.”
 
-Ensuite, ce n’est pas parce que je dis que ce n’est pas une demande que ça ne l’est pas. Il faut être honnête, je dois vérifier en mon for intérieur que ce n’est pas une demande. Comment puis- je reconnaître une demande ? Une demande part d’un manque, il y a du négatif dès le départ. C’est un trou dans la terre qu’il faut combler. 
+Ensuite, ce n’est pas parce que je dis que ce n’est pas une demande que ça ne l’est pas. Il faut être honnête, je dois vérifier en mon for intérieur que ce n’est pas une demande. Comment puis- je reconnaître une demande ? Une demande part d’un manque, il y a du négatif dès le départ. C’est un trou dans la terre qu’il faut combler. 
 
 Une envie part d’une situation neutre pour aller vers du positif. Le terrain est plat, et la motte de terre sert à mettre en hauteur les fleurs. Une demande c’est pour aller du négatif au neutre. Une envie c’est d' aller du neutre à un positif. Dans les deux cas, votre partenaire vous donne la même brouette de terre.
 

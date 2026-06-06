@@ -7,7 +7,7 @@ sujet: ""
 motscles: []
 enrichi: false
 ---
-La sexualité est une thématique qui m’est très chère et en fin de compte mes posts parlent très peu de la sexualité directement mais abordent tout ce qu’il y a autour. Pourquoi ? Parce que la sexualité est rarement un problème, mis à part quelques pathologies physiologiques. C’est plus que les problèmes autour finissent par déteindre sur la sexualité : toutes nos peurs, nos attentes, nos compulsions, nos blessures affectives.
+La sexualité est une thématique qui m’est très chère et en fin de compte mes posts parlent très peu de la sexualité directement mais abordent tout ce qu’il y a autour. Pourquoi ? Parce que la sexualité est rarement un problème, mis à part quelques pathologies physiologiques. C’est plus que les problèmes autour finissent par déteindre sur la sexualité : toutes nos peurs, nos attentes, nos compulsions, nos blessures affectives.
 
 En médecine chinoise, on te prend le pouls, en fait on te prend plusieurs pouls, pour diagnostiquer les niveaux d’énergie des principaux organes. Quand on dit que le pouls n’est pas bon, en réalité ce n’est pas la circulation du sang dans le poignet le problème, c’est le foie qui est trop chargé ou le coeur qui a trop de feu. Le poul n’a pas de problème. D’ailleurs, on peut très bien vivre sans pouls dans le poignet. Un manchot sans bras peut-être en très bonne santé.
 

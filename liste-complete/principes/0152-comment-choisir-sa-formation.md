@@ -7,8 +7,8 @@ sujet: ""
 motscles: []
 enrichi: false
 ---
-Outils : autonomie
+Outils : autonomie
 
-Liberté du formateur : Exemplarité
+Liberté du formateur : Exemplarité
 
 Transformation \>\> Emotions

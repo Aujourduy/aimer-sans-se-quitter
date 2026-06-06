@@ -19,11 +19,11 @@ J'aurais pu me forcer, être beaucoup plus productif et plus efficace mais je n'
 Cette digression posée, continuons sur le sujet de la communication.
 Plusieurs approches humanistes identifient 3 moteurs de l'être humain. Le mental, l'émotionnel et l'instinctif. Cela se décline aussi en tête, cœur et corps.
 
-Alors qu'en est-il de la discussion sur la sexualité ? Quand une femme parle de sexualité, elle parle souvent de ses besoins émotionnels, de ses aspirations. Elle a besoin d'aimer et de se sentir aimée.
+Alors qu'en est-il de la discussion sur la sexualité ? Quand une femme parle de sexualité, elle parle souvent de ses besoins émotionnels, de ses aspirations. Elle a besoin d'aimer et de se sentir aimée.
 
-Voilà comment beaucoup d'hommes répondent quand leur partenaire leur parle d'explorer une sexualité plus sensible : ils dénigrent la démarche, affirment que ça n'a pas d'intérêt sans même chercher à comprendre, parfois remettent en cause la légitimité de la démarche de leur amante. Ne jugeons pas le comportement de ces hommes, dont j'ai fait partie des années, et analysons froidement leur réponse.
+Voilà comment beaucoup d'hommes répondent quand leur partenaire leur parle d'explorer une sexualité plus sensible : ils dénigrent la démarche, affirment que ça n'a pas d'intérêt sans même chercher à comprendre, parfois remettent en cause la légitimité de la démarche de leur amante. Ne jugeons pas le comportement de ces hommes, dont j'ai fait partie des années, et analysons froidement leur réponse.
 
-Ces hommes réagissent par le déni, qui est une fuite psychologique, ou l'attaque. Qu'est-ce qui provoque la fuite ou l'attaque ? La peur.
+Ces hommes réagissent par le déni, qui est une fuite psychologique, ou l'attaque. Qu'est-ce qui provoque la fuite ou l'attaque ? La peur.
 
 C'est une réaction instinctive, une réaction du corps. Il y a aussi des peurs pour les femmes sur la sexualité mais pas du même ordre. Elles ont peur que ça ne se passe pas bien. Les hommes ont peur que cela n'arrive pas du tout.
 
@@ -35,16 +35,16 @@ Dans l'hypothèse où votre homme a peur, arrêtez d'aborder le sujet de la mêm
 
 Peut-être que le cas de votre homme est désespéré, c'est possible. Mais peut-être que c'est votre approche qui est inadaptée parce que vous pensiez qu'il fonctionnait comme vous, qu'il comprenait vos mots, vos arguments et vos explications. Et peut-être que ce n'est pas le cas. Alors, trouvez des façons de communiquer plus efficacement. Ce que je propose à mes participants vient de mes connaissances de la PNL, de la communication ericksonienne, du Process Comm et un peu de la CNV mais il y en a d'autres.
 
-Pour terminer, voici le témoignage d'une participante à mon accompagnement :
+Pour terminer, voici le témoignage d'une participante à mon accompagnement :
 
-> « Lorsque j'ai commencé à lire les posts de Duy, je me suis dit : “Mais voilà, voilà ce que je veux !” Mais comment l'exprimer, comment l'expliquer ? Comment expliquer à un homme non sensibilisé au développement personnel, méditation, tantra… ce qui pour moi est aussi vital et simple que de respirer ou de marcher ! En m'inscrivant à ce séminaire, je ne savais pas trop ce que j'allais y trouver mais j'étais confiante.
+> « Lorsque j'ai commencé à lire les posts de Duy, je me suis dit : “Mais voilà, voilà ce que je veux !” Mais comment l'exprimer, comment l'expliquer ? Comment expliquer à un homme non sensibilisé au développement personnel, méditation, tantra… ce qui pour moi est aussi vital et simple que de respirer ou de marcher ! En m'inscrivant à ce séminaire, je ne savais pas trop ce que j'allais y trouver mais j'étais confiante.
 >
-> Pour avoir lu ses posts, je savais, je sentais que cette expérience me conviendrait, allait être bénéfique pour moi. Avant ce séminaire, dans ma sexualité, j'étais dans le « faire » et pas dans le « être ».
+> Pour avoir lu ses posts, je savais, je sentais que cette expérience me conviendrait, allait être bénéfique pour moi. Avant ce séminaire, dans ma sexualité, j'étais dans le « faire » et pas dans le « être ».
 >
 > Être soi, c'est facile et pas facile. Les outils simples proposés et pratiqués dans ce séminaire m'ont vraiment permis de me retrouver, de faire la paix et de prendre du recul par rapport à mes expériences passées. J'ai pu définir mes besoins fondamentaux sans lesquels je ne pouvais pas vivre une sexualité épanouie.
 >
-> J'ai pu mettre en pratique avec mon partenaire ce que j'étais en train de découvrir : me relier à moi, à mes besoins et avoir le courage de l'exprimer en prenant en compte son « être ». J'avance en confiance. En confiance avec lui, mais surtout en confiance avec moi-même.
+> J'ai pu mettre en pratique avec mon partenaire ce que j'étais en train de découvrir : me relier à moi, à mes besoins et avoir le courage de l'exprimer en prenant en compte son « être ». J'avance en confiance. En confiance avec lui, mais surtout en confiance avec moi-même.
 >
-> La sexualité n'a de qualité que la qualité d'être moi, honnête et bienveillante avec mon partenaire. En lui ayant exprimé mes besoins, je le découvre et il m'étonne. Un homme n'ayant aucune connaissance, aucune approche de tantra & co. »
+> La sexualité n'a de qualité que la qualité d'être moi, honnête et bienveillante avec mon partenaire. En lui ayant exprimé mes besoins, je le découvre et il m'étonne. Un homme n'ayant aucune connaissance, aucune approche de tantra & co. »
 
 Voilà, j'espère que certaines d'entre vous reprendront espoir pour vivre la sexualité qui vous a toujours inspirées avec leur partenaire.

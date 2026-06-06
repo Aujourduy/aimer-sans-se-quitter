@@ -8,7 +8,7 @@ sujet: ""
 motscles: []
 enrichi: false
 ---
-Pendant des années, j'ai cherché à mieux communiquer et je me suis formé à plusieurs techniques : PNL, Dale Carnegie, ProcessCom, CNV, Comm Color et DISC. Pour les avoir pratiquées de très nombreuses fois, je suis arrivé à la conclusion suivante : ces techniques sont intéressantes, elles donnent des outils mais oublient l'essentiel.
+Pendant des années, j'ai cherché à mieux communiquer et je me suis formé à plusieurs techniques : PNL, Dale Carnegie, ProcessCom, CNV, Comm Color et DISC. Pour les avoir pratiquées de très nombreuses fois, je suis arrivé à la conclusion suivante : ces techniques sont intéressantes, elles donnent des outils mais oublient l'essentiel.
 
 L'essentiel n'est pas l'outil mais la main qui le tient.
 
@@ -30,12 +30,12 @@ Avant toute communication délicate, il faut dissoudre le plus possible les char
 
 Les sages communiquent bien non pas parce qu’ils connaissent des techniques de communication mais parce qu’ils restent sereins.
 
-Le secret de la communication : être en capacité de gérer nos émotions pendant la discussion.
+Le secret de la communication : être en capacité de gérer nos émotions pendant la discussion.
 
 Cela est encore plus vrai dans la communication de sujets sensibles dans la relation amoureuse ou sur la sexualité.
 
 Duy Dang
 Révélateur d'Amants Sensibles
 
-Mes meilleurs posts et mes propositions sont sur :
+Mes meilleurs posts et mes propositions sont sur :
 www.duy-dang.fr

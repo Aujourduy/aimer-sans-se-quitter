@@ -11,11 +11,11 @@ Longtemps j’ai cherché à vivre une “sexualité sacrée”. C’était un b
 
 J’ai vécu plusieurs moments sexuels sublimes, intenses, mystiques. Il y avait le sentiment de Présence à Soi. Il y avait le sentiment de Présence à l’Autre. Il y avait le sentiment de Présence à l’Existence, la Vie, l’Univers. C’était vraiment merveilleux. Et je souhaite à chacun de pouvoir faire cette rencontre. Qui n’est pas restreint à la sexualité, cela peut être dans la danse, la musique, sous une pleine lune, devant le berceau d’un nouveau né.
 
-Ces expériences m’ont fait comprendre que ma vision, amenée par l’expression “sexualité sacrée”, était erronée. Je ne dis pas que l’expression est fausse. C’est ce que je pensais en entendant cette formule qui ne correspond pas à la réalité. J’avais l’impression que la sexualité sacrée est ce qu’on vit dans la sexualité quand elle se sublime. C’est à dire qu’on passe d’une sexualité ordinaire à une sexualité sublimée/sacrée. Et bien sûr, avant d’être dans la sexualité ordinaire, on était dans la vie ordinaire. Donc un schéma comme ça :
+Ces expériences m’ont fait comprendre que ma vision, amenée par l’expression “sexualité sacrée”, était erronée. Je ne dis pas que l’expression est fausse. C’est ce que je pensais en entendant cette formule qui ne correspond pas à la réalité. J’avais l’impression que la sexualité sacrée est ce qu’on vit dans la sexualité quand elle se sublime. C’est à dire qu’on passe d’une sexualité ordinaire à une sexualité sublimée/sacrée. Et bien sûr, avant d’être dans la sexualité ordinaire, on était dans la vie ordinaire. Donc un schéma comme ça :
 
 Moment ordinaire \-\> Sexualité ordinaire \-\> Sexualité sacrée.
 
-Mais ce n’est pas ce que j’ai perçu. Mon expérience c’était qu’il fallait que je me connecte au sacré d’abord, pour vivre cette sexualité sublimée ensuite. C'est-à-dire, que je quitte le moment ordinaire pour aller dans un moment divin, ou plus précisément en ouverture au divin. Puis de cet espace, aller vers la sexualité. Cela ressemble plus à ça :
+Mais ce n’est pas ce que j’ai perçu. Mon expérience c’était qu’il fallait que je me connecte au sacré d’abord, pour vivre cette sexualité sublimée ensuite. C'est-à-dire, que je quitte le moment ordinaire pour aller dans un moment divin, ou plus précisément en ouverture au divin. Puis de cet espace, aller vers la sexualité. Cela ressemble plus à ça :
 
 Moment ordinaire \-\> moment sacré \-\> sacré sexualisé \= sacré qui se déploie dans la sexualité.
 
@@ -31,13 +31,13 @@ Si cela fait sens pour vous que vous êtes dans le divin et non le contraire, qu
 
 Petit rappel des raccourcis intellectuels, dont j’ai été longtemps victime.
 
-Descartes :
+Descartes :
 
 “Je pense donc je suis” 
 
-C’est extrait de “Je doute donc je pense. Je pense donc je suis. Je suis donc Dieu est” Ca en jette quand même un plus que la prétendue pensée cartésienne non ?!
+C’est extrait de “Je doute donc je pense. Je pense donc je suis. Je suis donc Dieu est” Ca en jette quand même un plus que la prétendue pensée cartésienne non ?!
 
-Socrate :
+Socrate :
 
 “Connais-toi toi même”
 
@@ -45,11 +45,11 @@ Vient de l’inscription sur le temple de Delphes
 
 “Connais-toi toi-même et tu connaîtras l’Univers et les dieux.” Je ne sais même pas comment commenter tellement que c’est surprenant.
 
-Biblique :
+Biblique :
 
 “Il faut rendre à César ce qui est César” 
 
-vient de “Il faut rendre à César ce qui appartient à César ; et à Dieu ce qui est à Dieu” Et Dieu dans tout ça ? Non, c’est tout ça qui est dans Dieu.
+vient de “Il faut rendre à César ce qui appartient à César ; et à Dieu ce qui est à Dieu” Et Dieu dans tout ça ? Non, c’est tout ça qui est dans Dieu.
 
 Même si on quitte le sacré et le divin et qu’on passe dans la stratégie militaire.
 

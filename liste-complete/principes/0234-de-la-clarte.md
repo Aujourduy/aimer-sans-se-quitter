@@ -24,9 +24,9 @@ Il y a bien une partie de moi qui sent le malaise, que tout ne pourra pas entrer
 
 C’est la confusion. C’est le conflit interne. C’est les tensions. 
 
-Puis vient le désespoir et la clarté : “Ok, c’est foutu ! “, “Je ne pourrai pas tout faire”, “Je ne pourrai pas avoir une bonne note”, “Je ne pourrai pas tout prendre dans la voiture”. En même temps que c’est douloureux d’un côté, il y a un grand soulagement de l’autre parce que je me sens de retour dans la réalité. “
+Puis vient le désespoir et la clarté : “Ok, c’est foutu ! “, “Je ne pourrai pas tout faire”, “Je ne pourrai pas avoir une bonne note”, “Je ne pourrai pas tout prendre dans la voiture”. En même temps que c’est douloureux d’un côté, il y a un grand soulagement de l’autre parce que je me sens de retour dans la réalité. “
 
-C’est la prise de décision : “Ok, c’est impossible de tout réviser alors quels chapitres je vais sacrifier ?”, “Ok, il y a des sacs que je ne pourrais pas prendre dans la voiture. Lesquels cela me coutera le moins de ne pas avoir ? “ On décide puis on agit, on s’organise avec ce qu’on a réellement, on fait avec la réalité.
+C’est la prise de décision : “Ok, c’est impossible de tout réviser alors quels chapitres je vais sacrifier ?”, “Ok, il y a des sacs que je ne pourrais pas prendre dans la voiture. Lesquels cela me coutera le moins de ne pas avoir ? “ On décide puis on agit, on s’organise avec ce qu’on a réellement, on fait avec la réalité.
 
 Et c’est comme ça que j’ai limité les casses aux examens. Si j’étais resté dans ma confusion à vouloir l’impossible je n’aurai pas avancé dans les révisions et j’aurai tout loupé. Si j’étais resté dans la confusion, la voiture serait encore sur place avec les valises à côté.
 

@@ -12,7 +12,7 @@ Tu vivras des expériences qui t'aideront à te libérer de blessures, de peurs 
 
 Un programme très dense d'exercices de libérations, de méditation de gratitude, de déconstruction des schémas et d'intégration de tes potentiels par la danse et le mouvement.
 
-Pour plus d'infos sur l'événement : 
+Pour plus d'infos sur l'événement : 
 
 Duy DANG 
 Inspirateur de Sexualité sensible

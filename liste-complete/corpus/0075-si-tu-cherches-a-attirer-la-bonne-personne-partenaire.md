@@ -8,9 +8,9 @@ sujet: ""
 motscles: []
 enrichi: false
 ---
-Oui, ce message est vraiment pour toi si tu cherches à attirer le bon ou la bonne partenaire. Voici mon conseil : Arrête de chercher à attirer le bon ou la bonne partenaire.
+Oui, ce message est vraiment pour toi si tu cherches à attirer le bon ou la bonne partenaire. Voici mon conseil : Arrête de chercher à attirer le bon ou la bonne partenaire.
 
-Récemment, j’ai fait un sondage pour savoir ce que mes lecteurs préféraient comme compétence à développer entre :
+Récemment, j’ai fait un sondage pour savoir ce que mes lecteurs préféraient comme compétence à développer entre :
 1/ Séduire la personne en face soi
 2/ Attirer les “bonnes” personnes
 3/ Éloigner les “mauvaises” personnes
@@ -37,16 +37,16 @@ Certains d’entre vous vont retomber dans une autre relation décevante puis un
  
 Je vais être dur mais vous avez besoin de l’entendre. Les perles rares sont rares. Et ces perles rares ne vont pas se battre pour t’avoir. Ca n’existe plus les tournois où les prétendants se battaient pour gagner le cœur de la dame. D’ailleurs dans Robin des bois, Robin des bois ne s’est absolument pas battu pour la belle Marianne. Elle était déjà amoureuse de lui avant le tournoi. Elle l’avait choisi avant le tournoi. La perle rare ne va pas se battre contre les mauvais partenaires pour t’obtenir. C’est à toi de la choisir et d’aller vers elle. Mais pour cela, tu as besoin d’être disponible et pas au prise dans une relation malheureuse qui te pompe ton temps, ton énergie et ta joie.
  
-Bien sûr, c’est caricatural et extrême dans les images et les propos. Ce n’est absolument pas vrai à 100%. C’est peut-être vrai à 70%, 30% voire seulement à 10%. Et même, si c’était faux à 90% et vrai que dans 10% des cas, la question à te poser c’est est-ce que ces 10% sont vrais pour moi ? Est-ce que je suis déçu de mes relations ? Est-ce que c’était vraiment la/les bonne.s personne.s pour moi ? Est-ce que je pouvais vivre une sexualité sensible avec elle ?
+Bien sûr, c’est caricatural et extrême dans les images et les propos. Ce n’est absolument pas vrai à 100%. C’est peut-être vrai à 70%, 30% voire seulement à 10%. Et même, si c’était faux à 90% et vrai que dans 10% des cas, la question à te poser c’est est-ce que ces 10% sont vrais pour moi ? Est-ce que je suis déçu de mes relations ? Est-ce que c’était vraiment la/les bonne.s personne.s pour moi ? Est-ce que je pouvais vivre une sexualité sensible avec elle ?
  
 Peut-être que comme la grande majorité des gens, tu as cherché à utiliser une mauvaise stratégie. Alors, il est peut-être temps d’essayer une autre façon de procéder. 
 
 @[100070375365062:2048:Duy Dang]
 Inspirateur de Sexualité sensible
 
-PS : Pour aller plus loin et voir ce que je propose comme accompagnement www.sexualite-sensible.fr
+PS : Pour aller plus loin et voir ce que je propose comme accompagnement www.sexualite-sensible.fr
 
-PPS : Quelques infos complémentaires
+PPS : Quelques infos complémentaires
 
 1/ Pour la lettre d'infos de mon actualité, les prochains séminaires, les accompagnements individuels ou collectifs,  inscrivez-vous  😉sur www.sexualite-sensible.fr
 

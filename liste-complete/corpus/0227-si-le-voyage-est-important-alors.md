@@ -23,4 +23,4 @@ Duy DANG
 Inspirateur de Sexualité sensible
 
 -----------------------
-PS : Si tu veux avancer plus vite, je propose une journée en immersion intensive à Paris le 30 avril 2022 et un accompagnement vers la sexualité sensible en 12 semaines. Pour plus d’infos, envoie-moi un message.
+PS : Si tu veux avancer plus vite, je propose une journée en immersion intensive à Paris le 30 avril 2022 et un accompagnement vers la sexualité sensible en 12 semaines. Pour plus d’infos, envoie-moi un message.

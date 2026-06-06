@@ -17,7 +17,7 @@ Cette femme aimait son partenaire et ne voulait pas renier cet amour en le quitt
 
 Les personnes qui s’attachent à l’idée que l’amour est plus fort que tout vont vouloir rester dans la relation tant qu’il y a des sentiments. Mais la relation se détériore. La liste des reproches s’agrandit. Finalement, la colère et l’exaspération auront noyé l’affection et on arrive à la haine, la rancœur. Parce que la décision qui était de reconnaître la fin de la relation même quand l’amour est là était trop difficile à assumer. 
 
-Je ne dis pas qu’il faut quitter quelqu’un qu’on aime. Ni quitter quelqu’un qu’on aime plus. La question est “Est-ce que je me sens mieux avec que sans cette personne ?”. C’est cela qui doit déterminer le choix.
+Je ne dis pas qu’il faut quitter quelqu’un qu’on aime. Ni quitter quelqu’un qu’on aime plus. La question est “Est-ce que je me sens mieux avec que sans cette personne ?”. C’est cela qui doit déterminer le choix.
 
 Parfois on quitte une personne qu’on aime encore. C’est la vie et c’est juste comme ça. Reconnaître cette vérité autorise à reconnaître tout l’amour qu’on a encore pour cette personne.
 

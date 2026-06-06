@@ -24,9 +24,9 @@ Mais elle n’est que temporaire. Après le désir prend une nouvelle forme. Qua
 
 En mettant notre énergie vers l’intérieur plutôt qu’à l’extérieur, nous nous trouvons, nous nous acceptons de plus en plus. Nous nous aimons aussi. C’est là que se trouve ma richesse. En moi, pas en l’autre. Parce que chez l’autre je ne vois que deux choses. Ce que j’aime et ce que je n’aime pas. Ce que j’aime chez l’autre, c’est ce que je reconnais de moi en lui. Ce que je n’aime pas chez l’autre, c’est ce que je n’ai pas encore accepté en moi.
 
-On raconte que le trésor des hommes a été caché par les dieux à l’endroit le plus inaccessible du monde : chez lui, au plus profond de son cœur.
+On raconte que le trésor des hommes a été caché par les dieux à l’endroit le plus inaccessible du monde : chez lui, au plus profond de son cœur.
 
-Il y a cette expression : “extase sexuelle”. Extase, étymologiquement, vient d’“ex” (en dehors) et stase (se tenir). Signifiant le plaisir qui submerge quand on est transporté hors de soi. C’est une vision excentrique. Vers l’extérieur. Vers l’autre. Vers des objets ou des situations externes. Alors je voudrais te parler d’”instase sexuelle.” Le mot instase existe. Il désigne bien la démarche d’intériorisation intense qui amène au sublime. Le mouvement concentrique. C’est bien ce dont il s’agit. Se retrouver. 
+Il y a cette expression : “extase sexuelle”. Extase, étymologiquement, vient d’“ex” (en dehors) et stase (se tenir). Signifiant le plaisir qui submerge quand on est transporté hors de soi. C’est une vision excentrique. Vers l’extérieur. Vers l’autre. Vers des objets ou des situations externes. Alors je voudrais te parler d’”instase sexuelle.” Le mot instase existe. Il désigne bien la démarche d’intériorisation intense qui amène au sublime. Le mouvement concentrique. C’est bien ce dont il s’agit. Se retrouver. 
 
 À l’intérieur de soi. De se rendre compte que je suis merveilleux. 
 
@@ -42,6 +42,6 @@ L’extase c’est quand on est transporté à l’extérieur de soi dans l‘un
 
 L’instase c’est quand l’univers s’est transporté à l’intérieur de soi.
 
-Alors oui, il y a des orgasmes. Plus ou moins forts. Des orgasmes vaginaux ou clitoridiens. Des orgasmes énergétiques. Des feux d’artifice. De grands feux d’artifice. Mais rappelle-toi, aussi long et magnifique que peut être un feu d’artifice avec un spectacle musical et pyrotechnique, cela ne sera jamais aussi grandiose qu’une belle nuit étoilée d’été. Et que la plus magnifique des nuits étoilées sera toujours moins immense que la conscience qui la perçoit et l’englobe : Toi.
+Alors oui, il y a des orgasmes. Plus ou moins forts. Des orgasmes vaginaux ou clitoridiens. Des orgasmes énergétiques. Des feux d’artifice. De grands feux d’artifice. Mais rappelle-toi, aussi long et magnifique que peut être un feu d’artifice avec un spectacle musical et pyrotechnique, cela ne sera jamais aussi grandiose qu’une belle nuit étoilée d’été. Et que la plus magnifique des nuits étoilées sera toujours moins immense que la conscience qui la perçoit et l’englobe : Toi.
 
-Pour lire d'autres posts, plus d’infos, t’inscrire à la newsletter, assister au prochain webinaire, participer au stage "Danseurs Sauvages / Amants Sensibles", prendre rendez-vous pour un coaching diagnostic gratuit & sans engagement : www.duy-dang.fr
+Pour lire d'autres posts, plus d’infos, t’inscrire à la newsletter, assister au prochain webinaire, participer au stage "Danseurs Sauvages / Amants Sensibles", prendre rendez-vous pour un coaching diagnostic gratuit & sans engagement : www.duy-dang.fr

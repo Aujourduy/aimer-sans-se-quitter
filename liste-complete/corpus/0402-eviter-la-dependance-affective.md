@@ -14,7 +14,7 @@ enrichi: false
 
 Viens expérimenter dans la danse ces principes pour sortir et surtout ne plus entrer dans la dépendance affective.
 
-Info et résa : https://www.billetweb.fr/danse-des-amants-sensibles
+Info et résa : https://www.billetweb.fr/danse-des-amants-sensibles
 
 @[100070375365062:2048:Duy Dang]
 Révélateur d'Amants Sensibles

@@ -10,7 +10,7 @@ enrichi: false
 ---
 Il y a un an jour pour jour, je me suis retrouvé dans le même atelier de danse que la femme qui venait d’arrêter notre relation deux jours avant. Elle était avec son nouveau chéri dans cet atelier.
 
-Voici ce que j’ai écrit à l'époque dans mon journal : 
+Voici ce que j’ai écrit à l'époque dans mon journal : 
 
 “ Au moment de la rupture, elle m’avait dit qu’elle ne m’avait pas quitté pour lui. Elle devait aller avec lui pour vivre ce qu’elle avait à vivre, avec lui. J’ai entendu mais je n’avais pas compris. J’étais triste. J’étais en colère. J’étais jaloux.
 
@@ -36,7 +36,7 @@ L’amour est gratuit. L’amour est libre. L’amour est sans raison. On aime p
 
 J’ai été quitté encore d’autres fois. Mais ce soir, j’ai compris que toutes ces fois où je me suis dit que j’étais quitté,  en fait je n’étais pas quitté. J’étais aimé. Mais seulement d’un autre endroit du monde et de leur coeur.
 
-Pour lire d'autres posts, plus d’infos, t’inscrire à la newsletter, assister au prochain webinaire, participer au stage "Danseurs Sauvages / Amants Sensibles", prendre rendez-vous pour un coaching diagnostic gratuit & sans engagement : www.duy-dang.fr
+Pour lire d'autres posts, plus d’infos, t’inscrire à la newsletter, assister au prochain webinaire, participer au stage "Danseurs Sauvages / Amants Sensibles", prendre rendez-vous pour un coaching diagnostic gratuit & sans engagement : www.duy-dang.fr
 
 Duy,
 Révélateur d'Amants Sensibles

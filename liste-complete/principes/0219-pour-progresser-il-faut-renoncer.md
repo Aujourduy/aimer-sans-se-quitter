@@ -7,7 +7,7 @@ sujet: ""
 motscles: []
 enrichi: false
 ---
-C’est très clair dans le sport en particulier mais c’est aussi vrai dans des domaines artistiques : il y a deux temporalités. Le court terme et le long terme. 
+C’est très clair dans le sport en particulier mais c’est aussi vrai dans des domaines artistiques : il y a deux temporalités. Le court terme et le long terme. 
 
 Le court terme, c’est la performance. C’est faire de son mieux dans l’instant présent. C’est le match de championnat. C’est le grand marathon. C’est la représentation à l’opéra. C’est le spectacle de fin d’année. On donne tout ce qu’on a. On fait son maximum et on reçoit aussi le maximum.
 

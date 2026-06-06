@@ -17,11 +17,11 @@ Le coeur a ses raisons que la raison ignore comme disait Pascal.  Il est parfois
 
 La deuxième chose importante que j’ai envie de partager avec toi, c’est le principe du miroir. Le “c’est celui qui dit qui est”. Peut-être effectivement que la formulation du reproche parle surtout de celui qui l’exprime. Ce qu’on reproche à l’autre c’est ce qu’on a pas encore assumé, accepté de soi-même. Parce que “Je humain, et rien d’humain ne m’est étranger” de Térence.
 
-Quand les reproches arrivent, je t’invite à ces deux questions :
+Quand les reproches arrivent, je t’invite à ces deux questions :
 
-“Est-ce que le reproche explique la distance dans la relation ou est-ce que le reproche justifie à posteriori une distance qui est déjà là et qui n’est pas assumée ?”
+“Est-ce que le reproche explique la distance dans la relation ou est-ce que le reproche justifie à posteriori une distance qui est déjà là et qui n’est pas assumée ?”
 
-“Même si les reproches sont justifiés, en quoi et sous quelles formes ils décrivent celui qui les formule ?” 
+“Même si les reproches sont justifiés, en quoi et sous quelles formes ils décrivent celui qui les formule ?” 
 
 L’amour, comme la vie, vient et repart sans explication, sans justification, même si nos esprits essaient d’en formuler des théories.
 

@@ -14,11 +14,11 @@ Il avait un jeu de jambes légendaire. Il disait “Je vole comme un papillon et
  
 Quand on est ignorant comme moi, on se dit que ce qui importe chez un boxeur ce sont ces poings. C’est d’apprendre à donner des coups forts, rapides et précis. La technique des coups avant tout. Les jambes c’est secondaire pourvu qu’on arrive à se déplacer correctement. Eh bien non. Ali dit d’abord qu’il vole comme un papillon, que son jeu de jambes vient en premier. À y réfléchir, ça devient évident qu’on imagine deux boxeurs avec un qui a perdu une jambe et un autre qui a perdu un bras. Celui qui va gagner c’est celui qui a gardé ses jambes.
  
-Pourquoi les jambes sont-elles si importantes ?  Parce qu’elles permettent de maîtriser le contact au sol. Elles permettent de revenir à l’équilibre après avoir été bousculé par un coup. Elles permettent de garder la stabilité dans le mouvement.
+Pourquoi les jambes sont-elles si importantes ?  Parce qu’elles permettent de maîtriser le contact au sol. Elles permettent de revenir à l’équilibre après avoir été bousculé par un coup. Elles permettent de garder la stabilité dans le mouvement.
  
-Mais quel rapport avec la sexualité sensible ???
+Mais quel rapport avec la sexualité sensible ???
  
-Beaucoup de personnes à mes webinaires ou dans les commentaires des posts me demandent “Comment on fait ceci ?”, “Comment on fait cela ?”. Ils veulent connaître des “trucs”, quelle action, quoi dire pour avoir une sexualité sensible. C’est comme s’ils me demandaient comment donner un coup de poing pour mettre ko le boxeur en face. C’est légitime. C’est une démarche peu efficiente. Bien sûr qu’il y aura des progrès réels. Apprendre à donner un coup de poing quand on est boxeur. Apprendre à donner un massage ou des caresses quand on est amant. Cela fait toujours progresser. Mais on ne travaille pas sur l’essentiel.
+Beaucoup de personnes à mes webinaires ou dans les commentaires des posts me demandent “Comment on fait ceci ?”, “Comment on fait cela ?”. Ils veulent connaître des “trucs”, quelle action, quoi dire pour avoir une sexualité sensible. C’est comme s’ils me demandaient comment donner un coup de poing pour mettre ko le boxeur en face. C’est légitime. C’est une démarche peu efficiente. Bien sûr qu’il y aura des progrès réels. Apprendre à donner un coup de poing quand on est boxeur. Apprendre à donner un massage ou des caresses quand on est amant. Cela fait toujours progresser. Mais on ne travaille pas sur l’essentiel.
  
 L’essentiel c’est notre relation au sol pour le boxeur et à soi pour l’amant. Elle permet de revenir à l’équilibre après avoir été bousculé par un coup ou par une émotion. Elle permet de garder la stabilité dans le mouvement dans notre combat ou dans nos ébats.
  
@@ -26,7 +26,7 @@ Tout entraînement efficace à la boxe doit faire travailler les jambes, tout ac
 
 Le chemin que je propose peut sembler plus ingrat mais il est plus efficace pour devenir réellement un boxeur ou un amant sensible.
 
-NB : Je m'adresse tantôt aux femmes, tantôt aux hommes mais biens sûr que cela s'adresse aux deux genres mais je ne dédouble pas les accords de genre pour ne pas alourdir le texte. Il faut lire pour les femmes et les hommes et vice et versa :-)
+NB : Je m'adresse tantôt aux femmes, tantôt aux hommes mais biens sûr que cela s'adresse aux deux genres mais je ne dédouble pas les accords de genre pour ne pas alourdir le texte. Il faut lire pour les femmes et les hommes et vice et versa :-)
 
 Pour sortir de cette frustration et avancer réellement vers tes aspirations d'une relation authentique et d'une sexualité sensible, je t'invite à mon prochain webinaire. 
 
@@ -37,11 +37,11 @@ Révélateur d’Amants Sensibles
 *   PROCHAIN WEBINAIRE GRATUIT  *
 ------------------------------------------------------
 
-Pour t'aider à avancer vers une relation authentique et sexualité sensible, viens à mon prochain webinaire gratuit : https://forms.gle/vWYPXPUAPXdf2tXJ9 
+Pour t'aider à avancer vers une relation authentique et sexualité sensible, viens à mon prochain webinaire gratuit : https://forms.gle/vWYPXPUAPXdf2tXJ9 
 
 ------------------------------------------------------
 *   PROCHAIN STAGE PRESENTIEL   *
 ------------------------------------------------------
 
-Mon prochain stage en présentiel : 
+Mon prochain stage en présentiel : 
 www.aujourduy.com

@@ -8,17 +8,17 @@ sujet: ""
 motscles: []
 enrichi: false
 ---
-La sensualité : le plaisir des sens, des sensations.
+La sensualité : le plaisir des sens, des sensations.
  
 Dans cet atelier nous allons réveiller cette sensualité qui sommeille à l’intérieur de chacun de nous et l'exprimer à travers la danse.
  
-Prendre le temps, ralentir, suivre nos instincts et goûter la sensualité au quotidien, c'est l'essence même de la vie ! 
+Prendre le temps, ralentir, suivre nos instincts et goûter la sensualité au quotidien, c'est l'essence même de la vie ! 
  
 Nous allons apprendre ou réapprendre à écouter le langage du corps, car il nous parle en termes de sensations. 
  
 La sensualité n’est pas forcément liée à la sexualité, c'est avant tout un éveil des sens comme sentir la rosée du matin, entrevoir les premiers rayons du soleil, sentir le vent caresser ses cheveux, le soleil réchauffer sa peau, savourer un fruit juteux, entendre la douce mélodie d’un ruisseau.
  
-Nous allons parcourir le monde des cinq sens : le toucher, la vue, le goût, l’odorat et l'ouïe dans le mouvement. 
+Nous allons parcourir le monde des cinq sens : le toucher, la vue, le goût, l’odorat et l'ouïe dans le mouvement. 
  
 Accueillir les frémissements, la volupté, les ondulations, les courbes, les odeurs, le toucher, les matières, les textures, les vibrations. 
  

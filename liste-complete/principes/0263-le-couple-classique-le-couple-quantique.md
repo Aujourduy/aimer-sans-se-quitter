@@ -19,9 +19,9 @@ Couple quantique, une sexualité basée sur la connexion et la joie
 
 De ce changement découle directement ou indirectement tous les autres
 
-Couple classique, le temps : longue durée, voire toute la vie
+Couple classique, le temps : longue durée, voire toute la vie
 
-Couple quantique, le temps : intensité du moment présent
+Couple quantique, le temps : intensité du moment présent
 
 Couple classique, posture intérieure, le mendiant qui est en manque et qui mendie
 

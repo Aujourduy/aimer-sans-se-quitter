@@ -8,7 +8,7 @@ sujet: ""
 motscles: []
 enrichi: false
 ---
-Comment entrer en lien avec l'autre tout étant connecté à soi ?
+Comment entrer en lien avec l'autre tout étant connecté à soi ?
 Parfois la communication par les mots est difficile, on n'arrive pas à exprimer ses besoins, ce qu'on ressent, à mettre ses limites et être quand même en lien à l'autre.
 Le temps d'une danse nous allons te guider à lâcher le monde des mots pour entrer au cœur de toi-même.
 Revenir à ton corps, à ton coeur et à ton âme. Baigné de mille sensations.
@@ -41,10 +41,10 @@ Studio Kim Kan
 46 rue des Rigoles
 75020 Paris 
 
-Tarif normal : 40 euros
-Tarif early bird : 30 euros
+Tarif normal : 40 euros
+Tarif early bird : 30 euros
 
-Billetterie sur : https://www.billetweb.fr/danse-des-amants-sensibles
+Billetterie sur : https://www.billetweb.fr/danse-des-amants-sensibles
 
 Belle journée remplie de beauté et de vie
 
