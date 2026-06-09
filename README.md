@@ -295,19 +295,32 @@ directement dans la balise correspondante (entre les `>` et `<`).
 ## Audit éditorial (copywriting)
 
 Pour retravailler les pages en copywriting (avec une IA), le dossier
-`audit-md/` contient un export **markdown propre** de chaque page principale :
-contenu éditorial seul (titres, paragraphes, CTA, liens), sans CSS ni HTML
-technique. Pratique pour relire et réécrire page par page.
+`audit-md/` contient un export **markdown propre** de chaque page : contenu
+éditorial seul (titres, paragraphes, CTA, liens), sans CSS ni HTML technique.
+Pratique pour relire et réécrire page par page.
 
-| Fichier | Page |
+| Fichier | Page / contenu |
 | --- | --- |
 | `audit-md/accueil.md` | Accueil (`/`) |
 | `audit-md/a-propos.md` | À propos (`/a-propos`) |
 | `audit-md/accompagnement.md` | Accompagnement (`/accompagnement`) |
 | `audit-md/conversation-exploratoire.md` | Conversation exploratoire (`/conversation-exploratoire`) |
+| `audit-md/ecrits.md` | Écrits — page sommaire (`/textes`) : intro + cartes des thématiques |
+| `audit-md/section-amour-presence.md` | Présentation du thème « Amour et présence » (`/textes/amour-presence`) |
+| `audit-md/section-desir-verite.md` | Présentation du thème « Désir et vérité » |
+| `audit-md/section-peur-masque.md` | Présentation du thème « Peur et masque » |
+| `audit-md/section-fables-paradoxes.md` | Présentation du thème « Fables et paradoxes » |
+| `audit-md/section-desir-intimite.md` | Présentation du thème « Désir et intimité » (+ intro du registre intime) |
 
-La page **Écrits** (`/textes`) n'y figure pas : ses contenus sont déjà des
-`.md` dans `src/content/textes/`.
+Le **corps des ~116 textes** n'y figure pas : il vit déjà sous forme de `.md`
+dans `src/content/textes/`. `audit-md/` ne couvre que le **copy de présentation**
+(intro de page, libellé + description de chaque thème).
+
+> ⚠️ **Réinjection — où vit le contenu.** Le copy des **sections** n'est pas
+> dans un `.astro` mais dans `src/lib/categories.ts` (`CATEGORY_LABELS` +
+> `CATEGORY_DESCRIPTIONS`, et `DESIR_INTIMITE_INTRO` pour le registre intime) :
+> modifier là met à jour la page Écrits **et** les pages de section d'un coup.
+> Le détail du mapping fichier→source figure dans `audit-md/_PROMPT.md`.
 
 **Régénérer cet export** après une modification importante des pages : relancer
 le prompt enregistré dans `audit-md/_PROMPT.md` (à partir du HTML construit dans
