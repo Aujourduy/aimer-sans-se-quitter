@@ -64,6 +64,8 @@ modifier, puis « Commit changes ». On peut aussi créer un fichier
 > (en bas à droite) active une bulle qui, au survol/tap d'un élément, affiche
 > son identifiant de bloc (`data-dbg`), ses **classes** et ses propriétés CSS.
 > Pratique pour savoir exactement quelle classe ou quelle variable changer.
+> _(Actuellement **masqué** : pour le réactiver, dé-commenter l'import et la
+> balise `<DebugMode />` dans `src/layouts/Base.astro`.)_
 
 > ⚠️ **Coordination.** Comme les modifications de l'assistant et les vôtres
 > vont toutes sur `main`, faites toujours `git pull` avant d'éditer, et évitez
@@ -287,7 +289,29 @@ directement dans la balise correspondante (entre les `>` et `<`).
 
 > 💡 Le **mode debug** (bouton « $ », en bas à droite du site) affiche
 > l'identifiant de chaque bloc (ex. `accompagnement__cta`) : pratique pour
-> repérer quel fichier et quel bloc éditer.
+> repérer quel fichier et quel bloc éditer. _(Actuellement **masqué** —
+> voir `src/layouts/Base.astro`, le montage `<DebugMode />` est commenté.)_
+
+## Audit éditorial (copywriting)
+
+Pour retravailler les pages en copywriting (avec une IA), le dossier
+`audit-md/` contient un export **markdown propre** de chaque page principale :
+contenu éditorial seul (titres, paragraphes, CTA, liens), sans CSS ni HTML
+technique. Pratique pour relire et réécrire page par page.
+
+| Fichier | Page |
+| --- | --- |
+| `audit-md/accueil.md` | Accueil (`/`) |
+| `audit-md/a-propos.md` | À propos (`/a-propos`) |
+| `audit-md/accompagnement.md` | Accompagnement (`/accompagnement`) |
+| `audit-md/conversation-exploratoire.md` | Conversation exploratoire (`/conversation-exploratoire`) |
+
+La page **Écrits** (`/textes`) n'y figure pas : ses contenus sont déjà des
+`.md` dans `src/content/textes/`.
+
+**Régénérer cet export** après une modification importante des pages : relancer
+le prompt enregistré dans `audit-md/_PROMPT.md` (à partir du HTML construit dans
+`dist/`, donc faire `npm run build` avant).
 
 ## Portrait (photo)
 
