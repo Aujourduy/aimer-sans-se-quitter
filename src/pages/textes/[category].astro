@@ -17,8 +17,11 @@ export async function getStaticPaths() {
     params: { category: cat },
     props: {
       category: cat,
+      // Les textes d'entrée (entry) restent mis en avant sur la page sommaire,
+      // mais apparaissent aussi dans la liste de leur catégorie (ils en font
+      // partie) — d'où l'absence de filtre sur `entry` ici.
       items: all
-        .filter((t) => t.data.category === cat && !t.data.entry)
+        .filter((t) => t.data.category === cat)
         .sort((a, b) => a.data.order - b.data.order),
     },
   }));
