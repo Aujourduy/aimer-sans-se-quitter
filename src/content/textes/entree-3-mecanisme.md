@@ -6,7 +6,7 @@ category: "amour-presence"
 entry: true
 entryRole: "mecanisme"
 order: 3
-draft: true
+draft: false
 draftReason: "accord + anonymat cliente requis"
 ---
 
