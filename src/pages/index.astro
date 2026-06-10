@@ -1,23 +1,17 @@
 ---
 import Base from '../layouts/Base.astro';
 import Button from '../components/Button.astro';
-import { url } from '../lib/url';
 ---
 
 <Base
   description="Quand votre manière d’aimer vous éloigne de vous-même. Un accompagnement relationnel privé, qui part des textes."
 >
+  <div class="home">
   <section class="hero" data-dbg="accueil__hero">
     <h1 data-dbg="accueil__hero-titre">Aimer sans se quitter</h1>
     <p class="hero-lede" data-dbg="accueil__hero-accroche">
       Quand votre manière d’aimer vous éloigne de vous-même.
     </p>
-    <div class="btn-group" data-dbg="accueil__hero-actions">
-      <Button href="/textes" variant="principal">Commencer par un texte</Button>
-      <Button href="/accompagnement" variant="secondaire"
-        >Découvrir l’accompagnement</Button
-      >
-    </div>
   </section>
 
   <section class="lecture" data-dbg="accueil__intro">
@@ -32,23 +26,34 @@ import { url } from '../lib/url';
     </p>
   </section>
 
-  <section class="lecture" data-dbg="accueil__invitation">
+  <section class="lecture" data-dbg="accueil__pourquoi">
     <p>
-      Vous pouvez commencer par lire. Ou, si quelque chose est déjà clair pour
-      vous, demander une <a href={url('/conversation-exploratoire')}
-        >conversation exploratoire</a
-      >.
+      Depuis plusieurs années, une même question revient dans mon travail :
     </p>
+    <p>Comment rester avec soi-même lorsque l’on aime quelqu’un ?</p>
+    <p>Voici quelques traces de cette recherche.</p>
+    <p>Des textes écrits au fil du temps à une amie inconnue.</p>
+    <p>Je ne cherche pas à expliquer l’amour.</p>
+    <p>J’essaie de voir plus clairement ce qu’il révèle.</p>
   </section>
 
-  <section class="lecture" data-dbg="accueil__commencer">
-    <h2>Commencer ici</h2>
-    <ol class="steps">
-      <li><a href={url('/textes')}>Commencer par un texte</a></li>
-      <li><a href={url('/accompagnement')}>Comprendre l’accompagnement</a></li>
-      <li>
-        <a href={url('/conversation-exploratoire')}>Demander une conversation</a>
-      </li>
-    </ol>
+  <section class="lecture" data-dbg="accueil__entrer">
+    <div class="btn-group" data-dbg="accueil__entrer-actions">
+      <Button href="/textes" variant="principal">Entrer par un texte</Button>
+    </div>
   </section>
+  </div>
 </Base>
+
+<style>
+  /* Accueil : hero aligné à gauche sur la même colonne de lecture que le texte
+     (même bord gauche), comme les autres pages. */
+  .home :global(.hero) {
+    max-width: var(--lecture);
+    padding-top: 4rem;
+  }
+  /* Air entre les blocs et avant le bouton. */
+  .home :global([data-dbg='accueil__entrer']) {
+    margin-top: 2rem;
+  }
+</style>

@@ -1,24 +1,82 @@
 # Conversation exploratoire
 
-Objectif de la page :
-Public visé :
-Action souhaitée :
-Doute principal de la lectrice :
+<!--
 
-## Section : Titre
+RÔLE DE LA PAGE
+
+Dernière étape avant la prise de rendez-vous.
+
+La lectrice a déjà :
+
+- lu plusieurs textes
+- découvert le regard
+- compris le cadre
+- vu le prix
+
+Cette page n'a pas pour rôle de convaincre.
+
+Elle explique simplement ce qui va se passer.
+
+-->
 
 # La conversation exploratoire
 
-## Section : Corps
+Nous prendrons un temps pour regarder ce qui vous amène aujourd'hui.
 
-Ce n’est pas un appel de vente. C’est un moment pour regarder, sans engagement, ce qui vous amène — et sentir, de part et d’autre, si ce travail est juste pour vous, maintenant.
+Ce qui se répète.
 
-On n’y cherche pas à vous convaincre. On y vérifie une chose simple : est-ce le bon cadre, au bon moment.
+Ce qui vous trouble.
 
-CTA : Réserver la conversation → https://tidycal.com/duy-dang/conversation-exploratoire
+L'endroit où vous sentez qu'il y a quelque chose à voir mais où vous ne voyez pas encore clairement.
 
-Quelques questions vous seront posées au moment de la réservation, pour que nous arrivions tous les deux préparés.
+Nous verrons également si ce cadre est juste pour vous.
 
-## Inventaire des CTA
+Et si ce moment est le bon.
 
-- CTA : Réserver la conversation → https://tidycal.com/duy-dang/conversation-exploratoire
+<!--
+
+Ne pas parler d'appel de vente.
+
+Ne pas parler d'absence de pression.
+
+Ne pas se justifier.
+
+Le reste du site transmet déjà cela.
+
+Cette page reste centrée sur le regard.
+
+-->
+
+---
+
+Quelques questions vous seront posées au moment de votre demande.
+
+Elles nous permettront d'arriver tous les deux préparés.
+
+<!--
+
+Simple précision pratique.
+
+Pas davantage.
+
+-->
+
+---
+
+CTA : Demander une conversation exploratoire → https://tidycal.com/duy-dang/conversation-exploratoire
+
+<!--
+
+CTA unique.
+
+Le verbe "Demander" est volontaire.
+
+Il est plus cohérent avec l'univers du site que :
+
+- Réserver
+- Planifier
+- Booker
+
+Il garde une dimension humaine plutôt qu'administrative.
+
+-->

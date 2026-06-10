@@ -52,6 +52,13 @@ const categories = CATEGORY_ORDER.map((cat) => ({
       Fragments sur l’amour, le désir, la peur, le corps et les endroits où
       l’on se perd.
     </p>
+    <div class="textes-intro" data-dbg="textes__intro">
+      <p>Ces textes sont nés d’une même question :</p>
+      <p>Comment rester avec soi-même lorsque l’on aime quelqu’un ?</p>
+      <p>Voici quelques traces de cette recherche.</p>
+      <p>Des textes écrits au fil des années à une amie inconnue.</p>
+      <p>Vous pouvez commencer n’importe où.</p>
+    </div>
   </section>
 
   {
@@ -95,6 +102,7 @@ const categories = CATEGORY_ORDER.map((cat) => ({
               slug={t.id}
               featured={true}
               verified={t.data.verifieParDuy}
+              draft={t.data.draft ?? false}
             />
           ))}
         </div>
@@ -112,7 +120,7 @@ const categories = CATEGORY_ORDER.map((cat) => ({
             <p class="intime-intro">{DESIR_INTIMITE_INTRO}</p>
           )}
           <a class="cat-card-link" href={url(`/textes/${cat.category}`)}>
-            Voir les écrits
+            Explorer cette section
           </a>
         </article>
       ))

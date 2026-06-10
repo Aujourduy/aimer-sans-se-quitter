@@ -13,6 +13,7 @@ npm install      # une seule fois
 npm run dev      # http://localhost:4321
 npm run build    # construit dans dist/
 npm run preview  # prévisualise le build
+npm run relecture # outil de relecture local (voir « Relire et valider les textes »)
 ```
 
 ## Modifier le site soi-même
@@ -196,22 +197,46 @@ title: "…"
 ---
 ```
 
-Un **indicateur visuel s'affiche uniquement en local** (`npm run dev`), jamais
-en production :
+Des **indicateurs visuels s'affichent uniquement en local** (`npm run dev`),
+jamais en production :
 
 - sur **`/textes`** : un tableau de bord « **Relecture — N/116 validés** »,
   déroulable par thématique (avec le compteur de chaque thème), qui liste chaque
   texte avec `✓` / `◯` et un lien direct. Les **brouillons y sont inclus** (et
   visibles aussi sur les pages de thématique en local), pour pouvoir tout relire ;
-- sur chaque **carte de texte** : une pastille verte `✓ validé` ou grise
-  `◯ à valider`.
-
-**Marche à suivre :** `npm run dev` → ouvrir `/textes` pour voir ce qui reste →
-lire un texte, ouvrir son `.md`, passer `verifieParDuy` à `true` → le compteur et
-les pastilles se mettent à jour automatiquement.
+- sur chaque **carte de texte** **et sur la page du texte elle-même** : deux
+  pastilles — `✓ validé` / `◯ à valider` (champ `verifieParDuy`) et
+  `brouillon` / `publié` (champ `draft`). En local, les pages des brouillons
+  sont aussi générées, pour pouvoir les ouvrir et les relire.
 
 > En **production**, rien n'apparaît : ni tableau de bord, ni pastille. C'est un
 > outil de relecture interne, sans effet sur le site en ligne.
+
+#### Outil de relecture cliquable (recommandé) — `npm run relecture`
+
+Pour **relire et valider sans avoir à retrouver le bon `.md`** parmi la centaine
+de fichiers, un petit outil local est fourni :
+
+```bash
+npm run relecture        # → http://localhost:4455 (et URL Tailscale affichée)
+```
+
+Il ouvre une page web (locale, **jamais déployée**) avec, à gauche, tous les
+textes groupés par thématique — avec filtres (À valider, Validés, Brouillons,
+Publiés) et recherche par titre — et à droite le texte en lecture. Deux boutons
+permettent, **d'un clic**, de basculer `verifieParDuy` et `draft` : le champ est
+écrit directement dans le bon fichier `.md` (édition chirurgicale, seule la ligne
+du champ change — le reste du fichier est préservé à l'identique).
+
+> L'outil écoute sur `0.0.0.0` : il affiche au démarrage l'URL **Tailscale**
+> (`http://100.x.x.x:4455`) pour y accéder à distance. Il lit/écrit seulement
+> `src/content/textes/*.md` ; il n'a aucun lien avec le site Astro déployé.
+> Après une session, les `.md` modifiés sont de vrais changements git à
+> **committer** (passer un texte de `draft: true` à `false` le publiera en ligne
+> une fois poussé).
+
+**Marche à suivre :** `npm run relecture` → lire un texte → cliquer « validé »
+et/ou « publié » → committer les `.md` modifiés.
 
 Suivi possible aussi en ligne de commande :
 

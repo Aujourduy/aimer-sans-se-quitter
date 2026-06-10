@@ -7,19 +7,28 @@ interface Props {
   slug: string;
   featured?: boolean;
   verified?: boolean;
+  draft?: boolean;
 }
 
-const { title, excerpt, slug, featured = false, verified = false } = Astro.props;
+const { title, excerpt, slug, featured = false, verified = false, draft = false } = Astro.props;
 ---
 
 <article class={`text-card ${featured ? 'text-card--featured' : ''}`} data-dbg={`texte-carte__${slug}`}>
   {
     import.meta.env.DEV && (
-      <span
-        class={`dev-verif ${verified ? 'dev-verif--ok' : 'dev-verif--todo'}`}
-        title={verified ? 'Relu et validé par Duy' : 'À relire / valider'}
-      >
-        {verified ? '✓ validé' : '◯ à valider'}
+      <span class="dev-verif-group">
+        <span
+          class={`dev-verif ${verified ? 'dev-verif--ok' : 'dev-verif--todo'}`}
+          title={verified ? 'Relu et validé par Duy' : 'À relire / valider'}
+        >
+          {verified ? '✓ validé' : '◯ à valider'}
+        </span>
+        <span
+          class={`dev-draft ${draft ? 'dev-draft--on' : 'dev-draft--off'}`}
+          title={draft ? 'Brouillon (masqué en production)' : 'Publié'}
+        >
+          {draft ? 'brouillon' : 'publié'}
+        </span>
       </span>
     )
   }
@@ -35,22 +44,38 @@ const { title, excerpt, slug, featured = false, verified = false } = Astro.props
   .text-card {
     position: relative;
   }
-  .dev-verif {
+  .dev-verif-group {
     position: absolute;
     top: 0.4rem;
     right: 0.4rem;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+    gap: 0.3rem;
+    z-index: 2;
+  }
+  .dev-verif,
+  .dev-draft {
     font-size: 0.7rem;
     font-weight: 600;
     padding: 0.1rem 0.45rem;
     border-radius: 0.6rem;
     line-height: 1.35;
-    z-index: 2;
   }
   .dev-verif--ok {
     background: #1f7a3d;
     color: #fff;
   }
   .dev-verif--todo {
+    background: #e7e0d4;
+    color: #6b6256;
+    border: 1px solid #cbbfa8;
+  }
+  .dev-draft--on {
+    background: #b08900;
+    color: #fff;
+  }
+  .dev-draft--off {
     background: #e7e0d4;
     color: #6b6256;
     border: 1px solid #cbbfa8;

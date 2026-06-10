@@ -6,14 +6,7 @@ const year = new Date().getFullYear();
 
 <footer class="site-footer" data-dbg="pied">
   <div class="footer-inner">
-    <p class="footer-name">Aimer sans se quitter</p>
-    <nav class="footer-nav" aria-label="Navigation du pied de page" data-dbg="pied__nav">
-      <a href={url('/textes')}>Écrits</a>
-      <a href={url('/a-propos')}>À propos</a>
-      <a href={url('/accompagnement')}>Accompagnement</a>
-      <a href={url('/conversation-exploratoire')}>Conversation exploratoire</a>
-      <a href={url('/mentions-legales')}>Mentions légales</a>
-    </nav>
     <p class="footer-fine">© {year} — Tous droits réservés.</p>
+    <a class="footer-legal" href={url('/mentions-legales')}>Mentions légales</a>
   </div>
 </footer>

@@ -7,11 +7,15 @@
     "dev": "astro dev",
     "build": "astro build",
     "preview": "astro preview",
+    "relecture": "node scripts/relecture.mjs",
     "astro": "astro"
   },
   "dependencies": {
-    "astro": "^5.0.0",
     "@fontsource/eb-garamond": "^5.0.0",
-    "@fontsource/inter": "^5.0.0"
+    "@fontsource/inter": "^5.0.0",
+    "astro": "^5.0.0"
+  },
+  "devDependencies": {
+    "gray-matter": "^4.0.3"
   }
 }

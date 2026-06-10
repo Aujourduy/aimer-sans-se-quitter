@@ -5,7 +5,12 @@ import NavTexte from '../../components/NavTexte.astro';
 import { getCollection, render } from 'astro:content';
 
 export async function getStaticPaths() {
-  const textes = await getCollection('textes', ({ data }) => !data.draft);
+  // En dev, on génère aussi les pages des brouillons pour pouvoir les relire ;
+  // en production, les brouillons restent exclus.
+  const textes = await getCollection(
+    'textes',
+    ({ data }) => !data.draft || import.meta.env.DEV
+  );
   return textes.map((entry) => ({
     params: { slug: entry.id },
     props: { entry },
@@ -14,10 +19,30 @@ export async function getStaticPaths() {
 
 const { entry } = Astro.props;
 const { Content } = await render(entry);
+const verified = entry.data.verifieParDuy;
+const isDraft = entry.data.draft ?? false;
 ---
 
 <Base title={entry.data.title} description={entry.data.excerpt}>
   <article class="lecture" data-dbg="texte">
+    {
+      import.meta.env.DEV && (
+        <div class="dev-verif-group" data-dbg="texte__relecture-dev">
+          <span
+            class={`dev-verif ${verified ? 'dev-verif--ok' : 'dev-verif--todo'}`}
+            title={verified ? 'Relu et validé par Duy' : 'À relire / valider'}
+          >
+            {verified ? '✓ validé' : '◯ à valider'}
+          </span>
+          <span
+            class={`dev-draft ${isDraft ? 'dev-draft--on' : 'dev-draft--off'}`}
+            title={isDraft ? 'Brouillon (masqué en production)' : 'Publié'}
+          >
+            {isDraft ? 'brouillon' : 'publié'}
+          </span>
+        </div>
+      )
+    }
     <h1 class="article-title" data-dbg="texte__titre">{entry.data.title}</h1>
     <div class="prose" data-dbg="texte__corps">
       <Content />
@@ -30,3 +55,40 @@ const { Content } = await render(entry);
     />
   </article>
 </Base>
+
+<style>
+  /* Repères de relecture — rendus uniquement en développement
+     (import.meta.env.DEV), jamais en production. */
+  .dev-verif-group {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4rem;
+    margin-bottom: 1.25rem;
+  }
+  .dev-verif,
+  .dev-draft {
+    font-size: 0.7rem;
+    font-weight: 600;
+    padding: 0.1rem 0.45rem;
+    border-radius: 0.6rem;
+    line-height: 1.35;
+  }
+  .dev-verif--ok {
+    background: #1f7a3d;
+    color: #fff;
+  }
+  .dev-verif--todo {
+    background: #e7e0d4;
+    color: #6b6256;
+    border: 1px solid #cbbfa8;
+  }
+  .dev-draft--on {
+    background: #b08900;
+    color: #fff;
+  }
+  .dev-draft--off {
+    background: #e7e0d4;
+    color: #6b6256;
+    border: 1px solid #cbbfa8;
+  }
+</style>

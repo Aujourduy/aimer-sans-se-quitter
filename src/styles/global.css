@@ -163,11 +163,9 @@ hr {
 /* Pied de page */
 .site-footer { border-top: 1px solid var(--filet); margin-top: 6rem; }
 .footer-inner { max-width: var(--conteneur); margin-inline: auto; padding: 3rem 1.5rem; }
-.footer-name { font-family: var(--serif); font-style: italic; color: var(--bleu); margin-bottom: 0.75rem; }
-.footer-nav { display: flex; flex-wrap: wrap; gap: 0.5rem 1.25rem; font-family: var(--sans); font-size: 0.9rem; margin-bottom: 0.75rem; }
-.footer-nav a { color: var(--sepia); text-decoration: none; }
-.footer-nav a:hover { color: var(--bleu); }
 .footer-fine { font-family: var(--sans); font-size: 0.82rem; color: var(--sepia); margin: 0; }
+.footer-legal { display: inline-block; margin-top: 0.5rem; font-family: var(--sans); font-size: 0.72rem; color: var(--filet); text-decoration: none; }
+.footer-legal:hover { color: var(--sepia); }
 
 /* Hero (accueil) */
 .hero { max-width: var(--hero-max); margin-inline: auto; padding: 7rem 1.5rem 2rem; }

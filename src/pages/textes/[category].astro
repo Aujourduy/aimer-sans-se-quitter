@@ -4,9 +4,9 @@ import TextCard from '../../components/TextCard.astro';
 import { getCollection } from 'astro:content';
 import {
   CATEGORY_LABELS,
-  CATEGORY_DESCRIPTIONS,
+  CATEGORY_SUBTITLES,
+  CATEGORY_INTROS,
   CATEGORY_ORDER,
-  DESIR_INTIMITE_INTRO,
 } from '../../lib/categories';
 
 // Une page par catégorie (cinq au total), générée depuis la collection.
@@ -26,30 +26,33 @@ export async function getStaticPaths() {
 
 const { category, items } = Astro.props;
 const label = CATEGORY_LABELS[category];
-const description = CATEGORY_DESCRIPTIONS[category];
+const subtitle = CATEGORY_SUBTITLES[category];
+const intro = CATEGORY_INTROS[category];
 ---
 
 <Base title={label} description={`Écrits de la thématique « ${label} ».`}>
   <section class="lecture" data-dbg={`theme__${category}`}>
     <h1 data-dbg="theme__titre">{label}</h1>
-    <p class="lede">{description}</p>
-    {
-      category === 'desir-intimite' && (
-        <p class="intime-intro">{DESIR_INTIMITE_INTRO}</p>
-      )
-    }
+    <p class="lede">{subtitle}</p>
+    <div class="theme-intro" data-dbg="theme__intro">
+      {intro.map((p) => <p>{p}</p>)}
+    </div>
     {
       items.length > 0 ? (
-        <div class="text-list">
-          {items.map((t) => (
-            <TextCard
-              title={t.data.title}
-              excerpt={t.data.excerpt}
-              slug={t.id}
-              verified={t.data.verifieParDuy}
-            />
-          ))}
-        </div>
+        <>
+          <hr class="separateur" />
+          <div class="text-list">
+            {items.map((t) => (
+              <TextCard
+                title={t.data.title}
+                excerpt={t.data.excerpt}
+                slug={t.id}
+                verified={t.data.verifieParDuy}
+                draft={t.data.draft ?? false}
+              />
+            ))}
+          </div>
+        </>
       ) : (
         <p class="lede">Aucun écrit publié dans cette thématique pour le moment.</p>
       )

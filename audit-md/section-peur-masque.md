@@ -1,19 +1,73 @@
 # Section — Peur et masque
 
-Objectif de la page :
-Public visé :
-Action souhaitée :
-Doute principal de la lectrice :
+<!--
 
-> Source technique : libellé et description dans `src/lib/categories.ts`
-> (clé `peur-masque`). La liste des textes est générée automatiquement.
+RÔLE DE LA SECTION
 
-## Section : En-tête
+Explorer ce qui nous protège.
+
+Et parfois nous éloigne de nous-mêmes.
+
+Cette section ne parle pas seulement de peur.
+
+Elle parle des stratégies que nous développons pour éviter certaines peurs.
+
+-->
 
 # Peur et masque
 
-Le masque, la peur, le trauma du passé, les reproches.
+Peur, protection, adaptation, reproches et histoires du passé.
+
+---
+
+Nous portons rarement un masque par hasard.
+
+Nous le portons pour protéger quelque chose.
+
+Pour éviter une douleur.
+
+Une honte.
+
+Un rejet.
+
+Une peur ancienne.
+
+Les textes rassemblés ici explorent ces mouvements souvent invisibles.
+
+Les façons dont nous nous adaptons.
+
+Les rôles que nous adoptons.
+
+Les reproches que nous formulons parfois à l'autre pour ne pas regarder ce qui se joue en nous.
+
+Ils ne cherchent pas à faire disparaître la peur.
+
+Ils cherchent à la rendre visible.
+
+Car ce que l'on voit clairement commence déjà à perdre une partie de son pouvoir.
+
+<!--
+
+Phrase centrale :
+
+"Nous portons rarement un masque par hasard."
+
+Le masque est présenté comme une protection.
+
+Pas comme une erreur.
+
+Cela évite toute culpabilisation.
+
+-->
 
 ## Inventaire des CTA
 
-- (aucun CTA propre — la page liste les écrits de la thématique)
+* Aucun CTA propre
+
+<!--
+
+Pas de CTA.
+
+La lecture est déjà l'action.
+
+-->
