@@ -169,7 +169,7 @@ hr {
 
 /* Hero (accueil) */
 .hero { max-width: var(--hero-max); margin-inline: auto; padding: 7rem 1.5rem 2rem; }
-.hero h1 { font-size: 3.4rem; text-transform: lowercase; margin-bottom: 1.25rem; }
+.hero h1 { font-size: 3.4rem; margin-bottom: 1.25rem; }
 .hero-lede { font-size: 1.35rem; color: var(--sepia); max-width: 32ch; margin-bottom: 2.5rem; }
 @media (max-width: 640px) {
   .hero { padding: 4rem 8% 1rem; }
