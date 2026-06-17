@@ -44,6 +44,10 @@ const base = import.meta.env.BASE_URL;
     ></script>
   </head>
   <body>
+    {/* Bandeau temporaire « site en construction » — retirer ce bloc quand le site est finalisé. */}
+    <div class="bandeau-construction" role="status" data-dbg="bandeau-construction">
+      Site en cours de construction — le contenu est en cours de finalisation.
+    </div>
     <Header />
     <main>
       <slot />

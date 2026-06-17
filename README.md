@@ -80,7 +80,9 @@ partout où elle est utilisée — un seul endroit à modifier.
 
 | Variable | Rôle | Exemples de valeurs |
 | --- | --- | --- |
-| `--echelle-texte` | Taille du corps de texte (pas les titres) | `1` = normal · `1.2` = +20 % · `0.9` = −10 % |
+| `--ech-corps` | Échelle du corps de texte | `1` = normal · `1.2` = +20 % · `0.9` = −10 % |
+| `--ech-h1` / `--ech-h2` / `--ech-h3` | Échelle des titres de page | idem (un coefficient par niveau) |
+| `--ech-hero` | Échelle du gros titre + accroche de l'accueil | idem |
 | `--creme` | Fond (jamais blanc pur) | `#F4EFE6` |
 | `--encre` | Couleur du texte | `#1F1B17` |
 | `--bleu` | Couleur signature (titres, boutons, filets) | `#1A2D4A` |
@@ -110,20 +112,49 @@ est donc automatique :
 | Hero — accroche (`.hero-lede`) | `1.35rem` | `1.2rem` |
 | Carte mise en avant (`.text-card--featured`) | `1.45rem` | `1.25rem` |
 
-La variable `--echelle-texte` multiplie **les deux** colonnes : régler `1.2`
-agrandit le texte de 20 % sur ordinateur **et** sur mobile, tout en gardant le
-mobile un peu plus compact (ce qui est voulu, pour la lisibilité).
+Les tailles du tableau ci-dessus sont des **valeurs de base**. Chaque type de
+texte est ensuite multiplié par un **coefficient d'échelle** réglable, distinct
+sur ordinateur et sur mobile (voir ci-dessous).
 
-### Régler la taille du texte
+### Régler la taille du texte (échelles par type, desktop/mobile séparés)
 
-Dans `:root` (`src/styles/global.css`) :
+Cinq coefficients permettent d'agrandir/réduire **chaque type de texte
+indépendamment** : `--ech-corps`, `--ech-h1`, `--ech-h2`, `--ech-h3`,
+`--ech-hero`. Valeur `1` = taille de base · `1.2` = +20 % · `0.9` = −10 %.
+
+Ils sont déclarés **à deux endroits** dans `src/styles/global.css` :
 
 ```css
---echelle-texte: 1.2;   /* 1 = normal · 1.2 = +20 % · 0.9 = -10 % */
+/* 1) Valeurs ORDINATEUR — bloc :root, en haut du fichier */
+:root {
+  --ech-corps: 1;   /* corps de texte */
+  --ech-h1:    1;   /* titres de page */
+  --ech-h2:    1;   /* sous-titres */
+  --ech-h3:    1;   /* sous-sous-titres */
+  --ech-hero:  1;   /* gros titre + accroche de l'accueil */
+}
+
+/* 2) Valeurs MOBILE — dans @media (max-width: 640px), indépendantes */
+@media (max-width: 640px) {
+  :root {
+    --ech-corps: 1;
+    --ech-h1:    1;
+    --ech-h2:    1;
+    --ech-h3:    1;
+    --ech-hero:  1;
+  }
+}
 ```
 
-Ce seul nombre ajuste le corps de texte **sur ordinateur et sur mobile** en même
-temps. Les titres (`h1`/`h2`/`h3`) gardent leur taille propre.
+Régler par exemple `--ech-hero: 1.2;` dans le bloc `:root` agrandit le gros
+titre de l'accueil de 20 % **sur ordinateur uniquement** ; pour faire de même
+sur mobile, changer la valeur correspondante dans le bloc `@media`.
+
+> 💡 **Tester sans recompiler.** Avec `npm run dev`, chaque modification du
+> fichier `.css` **rafraîchit la page automatiquement** (hot-reload) — pas besoin
+> de `npm run build`. Le serveur de dev est aussi joignable depuis un téléphone
+> sur le même réseau / via Tailscale (l'URL réseau s'affiche au démarrage de
+> `npm run dev`), pratique pour régler le rendu mobile en direct.
 
 ### Traits de séparation (.separateur)
 
