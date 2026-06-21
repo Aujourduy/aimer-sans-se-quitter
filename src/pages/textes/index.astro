@@ -8,7 +8,6 @@ import {
   CATEGORY_DESCRIPTIONS,
   CATEGORY_ORDER,
   ENTRY_ROLE_ORDER,
-  DESIR_INTIMITE_INTRO,
 } from '../../lib/categories';
 
 const all = await getCollection('textes', ({ data }) => !data.draft);
@@ -116,11 +115,8 @@ const categories = CATEGORY_ORDER.map((cat) => ({
         <article class="cat-card" data-dbg={`textes__cat-${cat.category}`}>
           <h2 class="cat-card-title">{cat.label}</h2>
           <p class="cat-card-desc">{cat.description}</p>
-          {cat.category === 'desir-intimite' && (
-            <p class="intime-intro">{DESIR_INTIMITE_INTRO}</p>
-          )}
           <a class="cat-card-link" href={url(`/textes/${cat.category}`)}>
-            Explorer cette section
+            Explorer
           </a>
         </article>
       ))

@@ -97,11 +97,6 @@ export const CATEGORY_INTROS: Record<Category, string[]> = {
   ],
 };
 
-// Texte d’accueil du registre intime, affiché sous la carte « Désir et
-// intimité » du sommaire (page « Écrits »).
-export const DESIR_INTIMITE_INTRO =
-  'Plus bas, des textes plus intimes. Ils ne sont pas là pour raconter, mais pour montrer qu’une autre façon d’aimer et de désirer existe — non pas en théorie, mais vécue. Pour que la part de toi qui le pressentait sache qu’elle ne se trompait pas.';
-
 export const CATEGORY_ORDER: Category[] = [
   'amour-presence',
   'desir-verite',

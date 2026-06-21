@@ -4,6 +4,7 @@
   --bleu:       #1A2D4A; /* signature : titre, filet, bouton, exergue */
   --sepia:      #6B6258; /* secondaire : sous-titres, légendes, métadonnées */
   --filet:      #CFC3B4; /* bordures fines */
+  --terre:      #A06A4B; /* accent chaud — EN RÉSERVE, désactivé par défaut (voir §9 du brief) */
 
   /* Séparateurs courts centrés (.separateur + filets entre cartes).
      Modifier ces trois variables change TOUS les traits d'un coup. */
@@ -66,9 +67,10 @@ h1 {
   font-style: italic;
   font-weight: 400;
   font-size: calc(2.8rem * var(--ech-h1));
-  line-height: 1.15;
-  letter-spacing: 0.01em;
+  line-height: 1.12;          /* réglage optique propre du display, distinct du corps */
+  letter-spacing: 0.005em;
   color: var(--bleu);
+  hanging-punctuation: first; /* guillemet/tiret ouvrant déborde dans la marge (là où supporté) */
 }
 h2 {
   font-weight: 600;
@@ -109,6 +111,7 @@ blockquote {
   color: var(--bleu);
   font-size: 1.4rem;
   line-height: 1.4;
+  hanging-punctuation: first; /* guillemet ouvrant déborde optiquement dans la marge */
 }
 @media (max-width: 640px) { blockquote { font-size: 1.25rem; } }
 blockquote p { margin-bottom: 0.8rem; }
@@ -192,6 +195,30 @@ hr {
 .footer-legal { display: inline-block; margin-top: 0.5rem; font-family: var(--sans); font-size: 0.72rem; color: var(--filet); text-decoration: none; }
 .footer-legal:hover { color: var(--sepia); }
 
+/* Fleuron de respiration (brief §8) — une seule marque pour tout le site,
+   réservée aux pages longues (lecture, À propos, Accompagnement), jamais
+   deux par écran, jamais sur l'accueil ni l'index. Rare = forte.
+   Si la terre cuite est activée (§9), décommenter la ligne color ci-dessous. */
+.fleuron {
+  text-align: center;
+  color: var(--sepia);
+  /* color: var(--terre); */ /* §9 : seul point d'activation de la terre cuite */
+  font-family: var(--serif);
+  font-size: 1.4rem;
+  margin: 4rem 0;
+  line-height: 1;
+}
+
+/* Filet pleine mesure (brief §7) — sous le hero, entre deux mouvements
+   d'une page longue. Distinct du hr par défaut (--bleu) : ici --filet, centré. */
+hr.filet {
+  border: none;
+  border-top: 1px solid var(--filet);
+  width: 100%;
+  max-width: var(--lecture);
+  margin: 3rem auto;
+}
+
 /* Hero (accueil) — échelle propre via --ech-hero (titre + accroche). */
 .hero { max-width: var(--hero-max); margin-inline: auto; padding: 7rem 1.5rem 2rem; }
 .hero h1 { font-size: calc(3.4rem * var(--ech-hero)); margin-bottom: 1.25rem; }
@@ -217,13 +244,21 @@ hr {
 }
 .text-card:not(:last-child)::after { content: ""; }
 
-/* Cartes de texte */
+/* Cartes de texte — « table des matières d'une belle revue » (brief §4).
+   Titre seul cliquable, --encre (→ --bleu au survol, sans soulignement criard) ;
+   « Lire » en petite capitale sépia ; air vertical généreux. */
 .text-list { max-width: var(--lecture); }
-.text-card-link { display: block; padding: 28px 0; text-decoration: none; color: inherit; }
-.text-card-title { color: var(--bleu); margin-bottom: 0.4rem; font-weight: 600; }
-.text-card-excerpt { color: var(--sepia); margin-bottom: 0.4rem; }
-.text-card-more { font-family: var(--sans); font-size: 0.85rem; letter-spacing: 0.04em; color: var(--bleu); }
-.text-card-link:hover .text-card-title { text-decoration: underline; text-underline-offset: 3px; }
+.text-card-link { display: block; padding: 1.6rem 0; text-decoration: none; color: inherit; }
+.text-card-title { color: var(--encre); margin-bottom: 0.4rem; font-weight: 600; transition: color 0.2s ease; }
+.text-card-excerpt { color: var(--sepia); margin-bottom: 0.5rem; }
+.text-card-more {
+  font-family: var(--sans);
+  font-size: 0.8rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--sepia);
+}
+.text-card-link:hover .text-card-title { color: var(--bleu); }
 .text-card--featured .text-card-title { font-size: 1.45rem; }
 @media (max-width: 640px) { .text-card--featured .text-card-title { font-size: 1.25rem; } }
 
@@ -237,20 +272,13 @@ hr {
 .cat-card-desc { font-style: italic; color: var(--sepia); margin-bottom: 1rem; }
 .cat-card-link {
   font-family: var(--sans);
-  font-size: 0.9rem;
-  color: var(--bleu);
-  text-decoration: none;
-  letter-spacing: 0.02em;
-}
-.cat-card-link:hover { text-decoration: underline; text-underline-offset: 3px; }
-
-/* Texte d'accueil du registre intime (sous la carte et en haut du thème) */
-.intime-intro {
-  font-style: italic;
+  font-size: 0.8rem;
   color: var(--sepia);
-  max-width: var(--lecture);
-  margin: 1rem 0 1.5rem;
+  text-decoration: none;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
 }
+.cat-card-link:hover { color: var(--bleu); }
 
 /* Parcours numéroté */
 .steps { list-style: none; padding: 0; margin: 1.5rem 0 0; counter-reset: step; max-width: var(--lecture); }
@@ -268,6 +296,9 @@ hr {
 
 /* Pont vers l'accompagnement */
 .pont { border-top: 1px solid var(--bleu); margin-top: 4rem; padding-top: 1.5rem; }
+/* Anti-cumul filet + fleuron (brief §7/§8) : si un fleuron précède le pont,
+   le fleuron fait la séparation — on retire la bordure du pont. */
+.fleuron + .pont { border-top: 0; margin-top: 0; padding-top: 0; }
 .pont-text { font-style: italic; color: var(--bleu); }
 .pont-link { font-family: var(--sans); font-size: 0.9rem; color: var(--bleu); text-decoration: none; }
 .pont-link:hover { text-decoration: underline; }
@@ -281,6 +312,37 @@ hr {
 .prose ul { padding-left: 1.2rem; }
 .prose li { margin-bottom: 0.5rem; }
 .prose blockquote { margin-left: 0; }
+
+/* Lettrine (brief §6) — capitale initiale --bleu en tête du PREMIER paragraphe
+   d'une page de lecture seulement. initial-letter enfonce sur 3 lignes ;
+   repli float pour les navigateurs sans support.
+   Cas français : si un texte ouvre sur un guillemet « ou un tiret —, ::first-letter
+   happe le signe. Pour ces textes, envelopper la vraie lettre dans
+   <span class="lettrine">L</span> (voir README). */
+/* Cible UNIQUEMENT le corps d'une page de lecture (texte__corps), pas toute
+   .prose : sur À propos / Accompagnement, la prose ouvre sur un <h2>, et une
+   lettrine sur leur premier <p> tomberait en plein milieu de page. */
+[data-dbg='texte__corps'] > p:first-of-type::first-letter,
+[data-dbg='texte__corps'] > p:first-of-type .lettrine {
+  -webkit-initial-letter: 3;
+  initial-letter: 3;
+  font-family: var(--serif);
+  font-weight: 400;
+  font-style: normal;
+  color: var(--bleu);
+  margin-right: 0.08em;
+}
+@supports not (initial-letter: 3) {
+  [data-dbg='texte__corps'] > p:first-of-type::first-letter,
+  [data-dbg='texte__corps'] > p:first-of-type .lettrine {
+    float: left;
+    line-height: 0.78;
+    font-size: 3.6em;
+    padding: 0.02em 0.08em 0 0;
+    color: var(--bleu);
+    font-family: var(--serif);
+  }
+}
 
 /* Boutons : la couleur du texte prime, même à l'intérieur d'un bloc .prose. */
 .btn-principal,

@@ -163,6 +163,32 @@ Le trait court centré entre les cartes de textes — et la classe réutilisable
 pilotés par les trois variables `--filet-court-*`. Les modifier change **tous**
 les traits d'un coup.
 
+Le **filet pleine mesure** `<hr class="filet" />` (couleur `--filet`, sur toute
+la largeur de la colonne) sert de respiration franche : il est posé sous le hero
+de l'accueil et peut séparer deux mouvements d'une page longue.
+
+### Gestes éditoriaux : lettrine, fleuron, terre cuite
+
+**La lettrine** (grande capitale `--bleu` en tête de texte) apparaît
+automatiquement sur le **premier paragraphe des pages de lecture**
+(`/textes/…`), et nulle part ailleurs. Elle est calculée en CSS — rien à faire.
+
+> ⚠️ **Cas d'un texte qui ouvre sur un guillemet ou un tiret** (« …, — …).
+> En français, la lettrine happe le signe ouvrant. Pour ces textes, enrober la
+> vraie première lettre dans le `.md` : `<span class="lettrine">L</span>e
+> reste du texte…` — la lettrine portera alors sur le `L`, pas sur le guillemet.
+
+**Le fleuron** (la marque `❧`, centrée, sépia) marque une respiration entre
+deux mouvements d'une page longue (page de texte, À propos, Accompagnement). Il
+est posé via le composant `<Fleuron />`. Règle : **une seule marque par écran**,
+jamais sur l'accueil ni sur la page Écrits, jamais cumulé avec un filet au même
+endroit.
+
+**La terre cuite** (`--terre`, accent chaud) est **en réserve, désactivée par
+défaut**. Si la page paraît trop froide une fois finie, l'activer sur **un seul**
+élément : décommenter la ligne `color: var(--terre);` dans le bloc `.fleuron` de
+`global.css`. Une couleur, un seul endroit — ne pas l'étendre ailleurs.
+
 ## Modifier le contenu du site
 
 Le contenu se range en deux familles : **les textes** (collection markdown qui
@@ -374,7 +400,8 @@ dans `src/content/textes/`. `audit-md/` ne couvre que le **copy de présentation
 
 > ⚠️ **Réinjection — où vit le contenu.** Le copy des **sections** n'est pas
 > dans un `.astro` mais dans `src/lib/categories.ts` (`CATEGORY_LABELS` +
-> `CATEGORY_DESCRIPTIONS`, et `DESIR_INTIMITE_INTRO` pour le registre intime) :
+> `CATEGORY_DESCRIPTIONS` pour la page Écrits, `CATEGORY_SUBTITLES` +
+> `CATEGORY_INTROS` pour le haut de chaque page de thème) :
 > modifier là met à jour la page Écrits **et** les pages de section d'un coup.
 > Le détail du mapping fichier→source figure dans `audit-md/_PROMPT.md`.
 

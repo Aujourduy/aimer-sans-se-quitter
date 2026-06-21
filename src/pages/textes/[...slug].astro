@@ -1,6 +1,7 @@
 ---
 import Base from '../../layouts/Base.astro';
 import Pont from '../../components/Pont.astro';
+import Fleuron from '../../components/Fleuron.astro';
 import NavTexte from '../../components/NavTexte.astro';
 import { getCollection, render } from 'astro:content';
 
@@ -47,6 +48,7 @@ const isDraft = entry.data.draft ?? false;
     <div class="prose" data-dbg="texte__corps">
       <Content />
     </div>
+    <Fleuron />
     <Pont />
     <NavTexte
       slug={entry.id}
