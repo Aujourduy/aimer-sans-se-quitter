@@ -1,0 +1,2091 @@
+# Aimer sans disparaître
+
+_79 textes — généré le 2026-06-23._
+
+
+---
+
+# Amour et présence
+
+
+## Merci de m’avoir quittée
+
+Dernièrement, j’ai discuté avec une ancienne participante qui a subi une rupture. Elle a assez mal vécu la situation pendant un certain temps. Du chagrin, des pensées de victimes, des questions existentielles et une vision pessimiste et douloureuse de l’avenir.
+
+Juste après quelques questions que j’ai posées, elle réalise que cet homme n’était pas un amant sensible. Ils n’étaient pas compatibles. En fait, ce qu’elle avait imaginé pouvoir vivre avec lui était simplement impossible. Ce n’était que dans son mental, parce qu’elle ne connaissait pas suffisamment son partenaire.
+
+Pour la personne qui est quittée, c’est compliqué parce que celui qui part a pris son temps pour réfléchir, pour essayer des choses peut-être, et a fini par faire le deuil de la relation.
+
+La personne quittée peut se sentir victime de l’autre, des hommes ou des femmes, de la vie. Et souvent, il y a trois choses qu’elle ne voit pas tout de suite.
+
+Premièrement, elle retrouve de l’espace, de la liberté et une légèreté sous une forme ou sous une autre. Elle n’a plus à se forcer pour préserver la relation. Tous ces “Si j’avais su, je n’aurais pas fait tous ces efforts …”, justement, elle n’aura plus à le faire dans l’avenir.
+
+Secundo, elle retrouve la vérité, l’authenticité. La vérité est que l’autre ne veut pas de cette relation, et surtout qu’il arrête de faire semblant de vouloir la relation.
+
+Tercio, l’autre a eu le courage d’arrêter la relation tandis que la personne quittée n’a pas osé le faire.
+
+Bien sûr, la fin d’une relation peut être très douloureuse et compliquée suivant les situations. Je ne dis pas que c’est tout rose, tout beau et lumineux … je dis que ça l’est aussi pour peu qu’on y regarde de plus près.
+
+Pour vivre une relation authentique et sensible, il faut le bon ou la bonne partenaire. Ce n’est pas possible avec tout le monde. Se défaire d’un partenaire avec qui cela est incompatible et donner l’espace à un partenaire avec qui cela serait possible.
+
+La fin d’une relation est un nouveau départ, une possibilité de rencontrer un partenaire qui me correspond mieux.  Merci de m’avoir quittée parce que je peux vivre la suite sans toi … et c’est ce dont j’ai besoin même si ça me fait peur, même si c’est douloureux, même s’il y a plein de choses à gérer.
+
+Je te remercie parce qu’au final, j’aime plus ma vérité sans toi que mon confort avec toi.
+
+
+## Il suffit de trouver la bonne personne ?
+
+C’est pour certains le fantasme que les problèmes amoureux, les insatisfactions relationnelles et les frustrations sexuelles vont disparaître dès qu’on aura trouvé la bonne personne, le bon partenaire.
+
+Quand j’aurai trouvé la bonne personne, je me sentirai aimé, désiré. J’aurai confiance en moi, de l’estime pour moi, etc. Je sentirai de la joie, de la légèreté.
+
+Peut-être que c’est le contraire. Peut-être que c’est le fait d’être en joie, d’être vivant, d’être confiant avec de l’élan de vie qui me rend attractif et attirant. Peut-être que c’est le fait d’oser être authentique, d’oser des échanges profonds et intimes qui vont permettre de rencontrer une telle personne.
+
+Au lieu d’attendre de rencontrer la bonne personne pour oser lui révéler qui je suis, je pourrais montrer ma vraie nature à chaque personne que je rencontre, montrer ma vraie lumière, montrer ma vulnérabilité.
+
+Et au lieu de chercher quelqu’un qui m’aime pour qui je suis, je commencerais par m’aimer tel que je suis. Et si je commençais par être heureux avant la rencontre.
+
+Être heureux pour rencontrer au lieu de rencontrer pour être heureux.
+
+
+## Comment l’histoire de sa vie se retourne en 10 minutes
+
+Hier, j’ai eu une cliente en coaching business. C’est une cheffe d’entreprise que j’avais accompagnée il y a 5 ans. Même si j’ai arrêté le coaching perso et pro ces dernières années pour me concentrer sur mon activité de Révélateur d’Amants Sensibles, j’ai accepté de l’accompagner dans cette période de grande transition pour elle.
+
+Elle a une équipe de 4 personnes et beaucoup de mal à assumer son rôle de cheffe d’entreprise.
+
+Souvent, elle se comporte plus comme une amie ou une mère.
+
+Dans le coaching, elle mentionne sa grande peur d’être quittée. Elle le répète plusieurs fois : “C’est toute l’histoire de ma vie que d’être quittée”
+
+C’est pour cela qu’elle fait tout pour que l’autre reste en relation avec elle. Qu’elle se force pour faire plaisir à l’autre aussi bien dans les relations professionnelles que dans les relations amoureuses.
+
+Chaque fois qu’elle dit “C’est l’histoire de ma vie que d’être quittée”, elle a le regard vague, les larmes aux yeux et je sens toute la charge émotionnelle de se sentir quittée, abandonnée.
+
+Alors avec un cœur chaleureux et bienveillant, un esprit froid et implacable, je lui demande combien de fois elle a été abandonnée. Elle me dit immédiatement tout le temps.
+
+Alors j’explique en détail : “Des fois, tu n’arrêtes pas officiellement la relation mais tu sens dans ton cœur que tu t’es désengagée. Ton cœur a quitté ton partenaire même si ton corps reste encore à côté de lui. Vous n’êtes plus ensemble dans le cœur. Vous êtes simplement côté à côté, mais toi tu l’as déjà quitté intérieurement. Alors est-ce que ce cas est déjà arrivé ?”
+
+Elle : “Oui, plein de fois. Je n’assume pas d’arrêter la relation donc je fais ce qu’il faut pour laisser la relation se détériorer et que l’autre prenne la décision de partir.”
+
+Moi :” Est-ce que tu vois que dans ces cas-là c’est toi qui l’as quitté intérieurement ? Ton cœur s’est détourné de lui. Même si tu ne le dis pas, c’est toi qui as pris la décision d’arrêter la relation. C’est d’abord ton choix.”
+
+Elle : “Oui, c’est vrai.”
+
+Moi : “Super. Maintenant, dis-moi est-ce qu’il est déjà arrivé que ce soit toi qui arrêtes la relation et parte physiquement ?”
+
+Elle : “Oui, 4 fois.”
+
+Moi : “Ok, donc tu es une femme qui des fois quitte son chéri, 4 fois. Des fois elle est quittée. Alors combien de fois, tu as été réellement quittée. C’est à dire malgré toi. Toi, tu voulais continuer la relation et lui a arrêté la relation ?”
+
+Elle : “ Je me rappelle d’une fois. C’était très douloureux. Mais il y en a peut-être d’autres, il faut que je regarde en détail”
+
+Là je la regarde et on se marre !!!
+
+Elle est sidérée, décontenancée et perdue. Ha ha !
+
+Je reprends les éléments un par un et je lui démontre comment ce qu’elle voyait de sa vie l’image qu’elle avait d’elle-même était erroné. Je le fais avec joie, avec un petit côté taquin en me moquant gentiment de ce décalage. Je sais comment cela peut être à la fois une immense joie et complètement déstabilisant de voir qu’on a été dans une illusion si négative de soi-même. Merci à toutes mes chéries.
+
+[L’histoire de sa vie qui était qu’”elle était une personne qu’on quitte”]
+
+devient :
+
+[“être une personne qu’on quitte” est l’histoire qu’elle s’est racontée sur sa vie]
+
+pour rester conforme à une image idéale d’une personne innocente, irréprochable, forte et résiliente. La réalité, c’est que c’est une femme, une personne normale, qui des fois quitte l’autre et des fois est quittée. La vie quoi.
+
+Je te laisse imaginer les conséquences pour cette femme de remplacer la croyance “c’est l’histoire de ma vie que d’être quittée” par la vérité qui est : “je suis une personne qui des fois quitte et des fois est quittée”. En plus, chez elle, elle ne se rappelle que d’une seule fois en plus ! Tous les freins, les lourdeurs, les charges émotionnelles liées à ce mensonge. Tout ce qui sera maintenant bien plus facile pour elle parce qu’elle a pu libérer une grande partie de sa peur d’être quittée.
+
+Son coaching n’est évidemment pas terminé parce qu’il y a d’autres éléments à travailler. Mais c’est pour te montrer comment notre esprit peut nous jouer des tours pendant des années voire dizaines d’années et comment on peut en sortir en voyant la réalité de l’illusionniste.
+
+
+## Trois directions de l’amour
+
+Une analyse qui s’élabore sur les directions de l’amour dans une relation et surtout les dérives quand c’est excessif et non équilibré.
+
+1. L’amour ressenti par ma partenaire pour moi.
+
+2. L’amour que je ressens pour ma partenaire.
+
+3. L’amour que je ressens pour moi dans cette relation.
+
+S’il n’y a que le (1)
+
+C’est le fameux “Il m’aime. Elle m’aime” qui est le saint graal pour certaines personnes. Cela nourrit l’envie d’être aimé. À tel point, que certaines personnes restent dans une relation néfaste parce qu’elles s’y sentent aimées, ou du moins considérées. C’est la question “Est-ce que tu m’aimes ? ”
+
+C’est la position de victime.
+
+S’il n’y a que le (2)
+
+“Je l’aime”, “je ferai tout ou presque, pour elle”. Puisque je l’aime, ça justifie tout, mes efforts, mes sacrifices. Cela peut amener à “je sais mieux qu’elle ou que lui ce qu’il lui faut”. C’est la question “Est-ce que tu vois que je t’aime ? ”
+
+C’est la position du sauveur.
+
+Et pour finir le (3)
+
+Attention, il y a une différence entre le (1) où je me sens aimé par l’autre, l’autre me renvoie une image positive de moi et la (3) où je me vois mieux tel que je suis et j’aime qui je suis avec les prétendues qualités et les soi-disant défauts. L’amour de soi n’est pas la même chose que l’amour de l’image de soi.
+
+Étonnamment, quand j’ai de l’amour pour moi-même tout va bien. Les choses sont légères. Je ne demande pas à être aimé. Je ne demande pas à être reconnu dans mon amour.
+
+Je ne me force plus. Je peux faire des efforts mais je ne me force plus.
+
+C’est la position du “sauvé”.
+
+Parfois, les gens ne regardent que les deux premiers points pour décider de rester ou non dans une relation. Pour certaines personnes, envisager le troisième point permet de mieux comprendre pourquoi la relation est problématique et de traiter spécifiquement ce point.
+
+Parce que le but c’est le (3), les deux premiers ne sont que des moyens pour essayer d’y arriver.
+
+J’ai conscience que la formulation de ce post n’est pas complètement aboutie et qu’elle mérite de s’élaborer encore. Alors je suis preneur de toute remarque et suggestion par rapport à cette analyse.
+
+Vouloir vivre une sexualité authentique et sensible quand on n’est que dans le (1) et le (2) me semble compliqué.
+
+Si tu veux réellement aller vers cette sexualité, je peux t’y accompagner pour te faire gagner du temps et de l’énergie bref éviter les nuits blanches et les mouchoirs.
+
+
+## J’ai cru que j’étais quitté, en fait j’étais aimé
+
+Il y a un an jour pour jour, je me suis retrouvé dans le même atelier de danse que la femme qui venait d’arrêter notre relation deux jours avant. Elle était avec son nouveau chéri dans cet atelier.
+
+Au moment de la rupture, elle m’avait dit qu’elle ne m’avait pas quitté pour lui. Elle devait aller avec lui pour vivre ce qu’elle avait à vivre, avec lui. J’ai entendu mais je n’avais pas compris. J’étais triste. J’étais en colère. J’étais jaloux.
+
+Ce soir-là, je les ai vus. J’ai vu mon ex dans les bras de son nouveau chéri. J’ai gardé les yeux ouverts pour voir la réalité. Et la réalité est surprenante. Elle a changé d’énergie. Elle montre une autre manière d’être. Effectivement, elle ne peut pas rester avec moi. Notre relation était bâtie sur une tout autre dynamique. Nous ne pouvons pas rester ensemble. Honnêtement, je n’aurais pas choisi la femme de ce soir comme partenaire.
+
+J’ai compris que ce n’était pas moi qu’elle quittait mais son ancienne elle pour aller vers son nouvel être.
+
+Le cœur apaisé, je ressens maintenant tout l’amour qu’elle a pour moi et combien la décision a été difficile pour elle. Ce n’est pas parce qu’elle part qu’elle me quitte. Simplement elle part. Pour elle. Elle ne m’abandonne pas. Elle n’a pas arrêté de m’aimer. Elle n’a pas renié ce que nous avons partagé de beau.
+
+Mon cœur s’ouvre à son amour.
+
+En écrivant ces mots, j’écoute en boucle « Hercule Poirot - Redemption (Murder on the Orient Express) » sur YouTube. Cette scène m’a toujours beaucoup ému. Tu peux la mettre pour lire la suite, nous serons plus connectés par cette musique commune.
+
+Hercule Poirot s’en va laissant derrière lui les meurtriers à la police. En tant que détective, il a fait ses devoirs en démasquant les meurtriers. Il fait ce qui était juste à faire. Mais en tant qu’homme, il compatit à la douleur des meurtriers qui se sont vengés de la mort de leur enfant. Les larmes ruissellent sur les joues et ses yeux se plissent de douleurs. En tant que croyant, il sort son chapelet et prie pour le salut de leurs âmes.
+
+Parfois ça fait mal de faire ce qui est juste pour soi. On sait qu’on va créer de la douleur. On voudrait ne pas faire souffrir ceux qu’on aime. Mais il n’y a pas d’autre solution que de suivre l’appel de notre âme même si on entend notre cœur hurler de chagrin pour ceux qu’on chérit tant.
+
+Une autre femme a arrêté notre relation pour aller en Australie. Elle y était appelée de tout son être. Elle voulait que j’y aille avec elle mais je devais rester en France. Elle avait dit qu’elle avait beaucoup pleuré. Que c’était très dur. Je compatis pour elle. Oui. Mais je n’ai pas mesuré toute la mesure de ses mots. Elle avait dit pleurer. Elle avait dit de la peine. J’ai entendu le mot “pleuré”, j’ai entendu le mot “peine”. Mais je n’avais pas entendu les mots, qu’elle ait dit ou non peu importe, “Je t’aime fort et ça fait mal dans mon cœur”. Je ne les ai pas entendus parce que je ne croyais pas qu’on pouvait m’aimer si fort. Je ne les ai pas entendus parce que je croyais que vu que j’étais moins bien que l’Australie, je n’étais pas si important que ça. En fait si, une partie de moi les avait compris mais une autre non.
+
+Celle qui disait non, était celle qui avait peur d’être aimée. Parce que quand j’aime, c’est moi l’acteur. C’est moi qui contrôle. C’est moi qui dis “oui”, “non”, “je ne sais pas”. Quand je suis aimé, je suis vulnérable, impuissant. C’est un cadeau merveilleux et pourtant je ne peux rien faire pour contrôler, pour le garder, pour me sécuriser. Je ne peux rien faire pour que ça dure. Je peux donner plus pour qu’elle reste plus mais elle ne m’aimera pas plus. Elle m’appréciera plus mais ne m’aimera pas plus. Tout ce que je vais faire c’est manipuler pour être aimé mais alors ce n’est pas de l’amour.
+
+L’amour est gratuit. L’amour est libre. L’amour est sans raison. On aime puis on trouve les raisons après avec notre tête pour expliquer. C’est comme les achats compulsifs. J’achète d’abord puis j’explique à ma chérie pourquoi c’était une bonne affaire.
+
+J’ai été quitté encore d’autres fois. Mais ce soir, j’ai compris que toutes ces fois où je me suis dit que j’étais quitté, en fait je n’étais pas quitté. J’étais aimé. Mais seulement d’un autre endroit du monde et un autre endroit dans leur cœur.
+
+Depuis des années, j’ai reçu tous ces amours, tout cet amour en cadeau. Je le savais avec ma tête. Mais pas avec le cœur. Je les ai gardés dans leurs boîtes d’origine sans les ouvrir. Aujourd’hui, j’ose les ouvrir. J’ose les regarder en face. J’ose les accueillir dans mon cœur. Il y en a trop. Ça se bouscule dans mon cœur comme les gens dans le métro en heure de pointe. Ça fait mal. Je pleure de douleur physique. Mais contrairement au métro qui est rigide, mon cœur est élastique. Il s’agrandit. Petit à petit. Ce sont des douleurs de croissance.
+
+
+## Comment retrouver confiance en l’homme ?
+
+Question que m’a posée une femme pour la préparation de mon prochain webinaire. C’est une question qui est revenue plusieurs fois alors je vais donner un début de réponse.
+
+Premièrement, c’est une question qui est mal posée.
+
+Il ne faut pas faire confiance en l’homme parce que les hommes sont égoïstes, lâches, fuyants, puérils, obsédés, colériques, violents, inconscients. Moi le premier. Sous une forme ou une autre. Suivant les situations.
+
+Chaque homme est aussi généreux, courageux, dévoué, mûr, patient, doux et en conscience. Cela dépend des situations.
+
+La vraie question n’est pas “Comment avoir confiance en l’homme ?” mais “Comment avoir confiance dans ma capacité à choisir l’homme qui me convient ?”. Avec le sous-entendu que je me suis trompée avant, j’ai fait de mauvais choix. Comment puis-je m’assurer de ne pas refaire les mêmes erreurs ?
+
+Le feu est plus dangereux que l’homme. Mettre ta main au feu te fera plus mal que mettre la main sur un homme. Sauf exception et cas extrême bien sûr. C’est une métaphore. Mais pourquoi tu as moins peur du feu ? Parce que tu sais que si tu sens le chaud du feu, le brûlant du feu tu vas retirer ta main. Alors que d’expérience, tu t’es vue rester dans une relation amoureuse avec un homme alors qu’elle était nocive.
+
+Donc la question n’est pas “Comment retrouver la confiance en l’homme ?” mais “Comment retrouver la confiance en toi face à un homme ?”
+
+En changeant de perspective, tu vas déjà mettre tes énergies dans la bonne direction pour avancer réellement vers ce dont tu as besoin.
+
+
+## Le plus grand malentendu
+
+Le plus grand malentendu c’est que la femme croit qu’elle a besoin d’être aimée et que l’homme croit devoir être à la hauteur.
+
+La femme ne pense pas en termes d’amour, l’homme ne pense pas en termes de compétition. Les deux pensent en termes de manque et espèrent que leur partenaire leur donnera de quoi le combler.
+
+Quand on comprend qu’on est parfait comme on est, pas idéal mais parfait parce que sans idéalisation tout est parfait en tant que tel, on n’attend plus rien de son partenaire et on le laisse libre d’être tel qu’il est … c’est la meilleure voire la seule façon d’aimer. Le reste n’est que marchandage et recherche de compensations.
+
+Tout va bien.
+
+Si tu es une femme, tu es parfaite et tu n’as pas besoin d’être aimée pour avoir le droit d’exister. Tu es une Reine fière, autonome, qui règne sur son royaume. Tu n’as pas besoin de Roi encore moins de Prince. Tu n’es plus une princesse.
+
+Si tu es un homme, tu es parfait et tu n’as pas besoin de prouver quoi que ce soit. Tu es un Roi avec son royaume. Tu n’as pas à prouver ta bravoure en allant traverser des territoires hostiles ou tuer des dragons.
+
+Mes amis, nous sommes parfaits tels que nous sommes. Nous n’avons pas à faire d’efforts pour être aimés ou dignes d’être aimés. Que nous rencontrions ou pas « le bon/la bonne » partenaire ne dépend pas de nous en fait, mais c’est la décision de la Vie.
+
+Comme la Vie a décidé de notre naissance, sans que nous ayons rien à faire, ni à prouver, elle a déjà décidé de notre mort et de nos relations amoureuses passées et futures … il n’y a rien à faire que de profiter.
+
+La Vie nous aime déjà et ça pourrait nous suffire.
+
+
+## Personne ne mérite d’être quitté
+
+On entend les gens expliquer à quel point leur compagnon, compagne a de graves défauts. À tel point, que cela mérite qu’on mette fin à la relation. Quand je dis les gens, je parle aussi de moi bien sûr. De mon vécu, et avec du recul sur mes relations, je me suis rendu compte que personne ne mérite d’être quitté. Ça ne veut pas dire qu’il ne faut pas arrêter une relation mais on peut le faire pour une bonne raison et à cause de la bonne personne.
+
+La bonne personne c’est soi-même. Ce n’est pas contre l’autre mais pour moi. Quand je comprends ça, j’ai beaucoup moins de colère et beaucoup plus d’affection pour l’autre. Je peux partir dans l’amour, le cœur ouvert, le ventre plein de gratitude.
+
+La bonne raison, c’est que je me sens plus heureux sans la relation qu’avec la relation. Parce qu’une relation m’apporte toujours quelque chose : la sécurité, l’affection, la sexualité, le confort, des échanges, la reconnaissance ou autre, parfois j’oublie que cela peut me coûter aussi : la légèreté, la liberté, l’authenticité, l’argent, le confort, l’affection, la sexualité, les échanges ou autre. La bonne raison, c’est quand la balance bénéfice/coût est déficitaire. Comme on appelle cela une relation amoureuse, il y a un réflexe qui veut préserver la relation parce qu’on veut préserver l’amour : Tant qu’il y a de l’amour, je dois continuer la relation.
+
+Mais avec cette vision, on a tendance à rester dans une relation même quand elle est plus coûteuse que bénéfique. Le temps qu’on restera dans la relation va servir à trouver des accusations à charge pour son partenaire. Tout cela parce que je veux rester innocent. Tout cela parce que je veux garder une haute opinion de moi-même.
+
+Souvent, la fin d’une relation est assez claire dans le cœur. Claire dans le cœur, ne signifie pas qu’il faut partir tout de suite. Des fois, il faut préparer, organiser et cela peut prendre des mois voire des années. Mais si c’est clair, c’est léger. Par contre, souvent ce n’est pas clair dans la tête. On essaie de peser le pour et le contre. On essaie de trouver des compromis. Pendant ce temps, le cœur est dans le doute, la lourdeur, la fatigue.
+
+Un fonctionnement efficace pour mon bien-être c’est décider avec le cœur et organiser avec la tête pour faire au mieux.
+
+Malheureusement, souvent je cherche à décider avec la tête pour minimiser mes peurs et je fais des compromis avec mon cœur.
+
+Personne ne mérite d’être quitté mais je mérite de prendre soin de moi et de quitter n’importe qui si cela est nécessaire. Cela ne signifie pas arrêter une relation dès le moindre problème, ceux qui font ça ont souvent des peurs, des frustrations qu’ils essaient de minimiser et décident, se protègent avec la tête. Je prends soin de moi en choisissant ce qui m’est nécessaire.
+
+Décider avec mon cœur puis organiser avec ma tête.
+
+
+## L’amour de l’autre, l’amour de soi
+
+ou
+LE PLUS UTILE ENTRE LA LUNE ET LE SOLEIL
+
+Un jour on demanda à Nasreddin :
+Dis-nous, Nasreddin, lequel est le plus utile entre la Lune et le Soleil ?
+La lune bien sûr, répondit-il immédiatement.
+Et pourquoi ?
+Parce que la lune brille dans la nuit, quand il fait noir, là où on a le plus besoin de lumière.
+
+C’est vrai, n’est-ce pas ? Oui, c’est vrai que la lune est utile pour apporter la lumière dans la nuit.
+
+C’est faux aussi, puisque la lumière du jour est apportée par le soleil. En fait, le jour c’est la nuit quand le soleil est là.
+
+Sans compter que la lumière de la lune est le reflet du soleil. Donc pas de soleil, pas de lune qui brille.
+
+Quel rapport avec l’amour et la sexualité.
+
+Eh bien, quand je propose un projet de site de rencontre, je reçois énormément de demandes. Comme ces gens, longtemps je voulais trouver la lumière de la lune pour illuminer ma vie. La lune c’est la relation fantasmée. C’est l’espoir d’une source de joie venant de l’extérieur.
+
+Le soleil, c’est ma propre joie intérieure. C’est une vie remplie de beautés, de paix, d’épanouissements et de satisfactions. Et quand j’ai trouvé mon soleil, alors sa lumière se réfléchira sur la lune en une relation harmonieuse et épanouissante.
+
+Beaucoup de personnes, moi le premier pendant des années, ont ce réflexe de chercher une lune dans la nuit au lieu de chercher à faire briller d’abord notre soleil. Et quand notre soleil brille, c’est là que nous devenons attirants, attractifs pour les autres.
+
+En premier lieu, devenir l’astre qui brille au lieu de le chercher.
+
+Belle et lumineuse journée,
+
+
+## Le manque et la présence de quelqu’un
+
+Ce qui me manque, c’est ce que je ressens intensément en moi à l’intérieur sans pouvoir le percevoir à l’extérieur. Ce que j’appelle manque, c’est en réalité de la présence intérieure. Je peux le voir, l’entendre, le toucher, le sentir mais de l’intérieur et à l’intérieur.
+
+Quand je mets mon attention sur mon monde intérieur, je peux ressentir cette présence. Je peux même accueillir de l’amour et de la gratitude qui en découlent.
+
+Le sentiment de manque c’est de l’amour et la gratitude en noyau. C’est trop dur pour être mangé. Mais une fois que je donne à ce noyau  de l’attention, de l’écoute, de l’ouverture en me sortant de la posture de victime de la vie, je peux récolter tout le nectar et la pulpe de leurs fruits.
+
+Quelqu’un a déjà mordu par erreur  un noyau de pêche ? Aïe ! Non, un noyau de pêche n’est pas fait pour être mangé. Mais une fois accueilli et reconnu comme noyau de pêche et non comme pêche elle-même, une fois arrosé d’espace, de temps, ce noyau donnera de belles pêches qui sont elles très nourrissantes.
+
+Au lieu de se dire “Tu me manques, tu me manques ! (snif)”, on peut se dire “Je t’aime. Je te remercie”. Il y a des choses qu’on pleure beaucoup plus fort …. mais c’est tellement plus léger parce que ce n’est plus de la tristesse. C’est de l’amour et de la gratitude.
+
+
+## La vie n’est pas une fenêtre mais un miroir
+
+On peut voir la vie comme si on regardait à travers une fenêtre. On voit un monde extérieur, avec des règles, des gens, des éléments propres qui sont différents de notre monde intérieur, nos émotions, nos expériences, nos valeurs.
+
+Mais peut-être qu’en réalité la vie est un miroir. Ce que je vois de beauté, de laideurs, de peines, de joies, de grandeurs et de petitesses sont simplement les reflets des mêmes éléments à l’intérieur de moi.
+
+Pour rencontrer de belles personnes authentiques, sensibles et précieuses, c’est plus facile pour les gens qui se sentent bien, authentiques, sensibles et précieux.
+
+Et si nous rencontrons des femmes ou des hommes décevants, et que cela nous affecte, c’est peut-être que nous nous décevons déjà nous-mêmes.
+
+Une grande partie du travail d’accompagnement est de nettoyer le miroir des participants pour qu’ils voient clairement toute la grandeur et la beauté qu’ils ont en eux, toute la magnificence qui est déjà là.
+
+
+## Excitation vs présence
+
+C’est la fin de la session. Cela fait une heure que l’atelier a commencé. Les groupes se font et se défont sur ce grand parquet. Des danseurs se rencontrent, dansent ensemble et se quittent. Le hasard (ou pas) nous a amené à nous connecter dans la danse. Oui, c’est une belle femme. Oui, c’est une bonne danseuse. D’ailleurs les deux cumulés me créent une appréhension. Cette femme m’impressionne. Mais comme je suis plus passionné par la danse que mon mental, je me laisse fondre dans cette danse.
+
+Nous dansons ensemble longuement. Rien d’acrobatique parce que je suis fatigué et en plus avec mon mal de dos, je ne fais plus de porter sur l’épaule. Rien de collé serré non plus comme cela a pu être avec d’autres femmes à d’autres moments. C’était tranquille comme mouvements mais avec une grande écoute. Durant un bon moment, nous n’étions en contact que par le bras. Des mouvements simples. Des explorations. Des propositions. Des réponses. Un dialogue entre nos bras qui ne veut rien dire. Juste pour exister. Juste pour manifester l’existence. L’existence des bras. L’existence des sensations. L’existence des corps. De nos corps. L’existence de nos êtres.
+
+Dans cette danse, j’ai l’impression que nous y avons mis tout notre cœur sans rien attendre de l’après. C’est la magie de la danse. Un moment où tout est possible mais l’instant d’après tout peut disparaître. Nous le savons. Chaque seconde est unique. Chaque instant est précieux. Chaque contact, chaque sensation est ressenti, accueilli et bu jusqu’à la lie. Parce que nous ne savons pas si nous allons nous revoir. Nous ne savons pas si nous allons redanser ensemble.  Et même si nous nous revoyons, même si nous redansons ensemble encore et encore, ce moment est tellement sublime que nous ne sommes pas sûrs de pouvoir le retrouver. Et honnêtement, pour l’avoir déjà vécu un certain nombre de fois, cette intensité ne se retrouve que rarement.
+
+C’est la beauté de la Présence. Se donner au maximum sans attentes, sans espérer, sans demander. Un don pur à l’autre, à soi et à la vie.
+
+La danse se calme. Le silence vient. Nous restons là debout au milieu de la salle. Dos à dos. Je sens son dos. Bras contre bras. Je sens son bras le long de mon bras. Fesses contre fesses. Je sens ses fesses sur mes fesses. Il y a un contact. Il y a des contacts. Il y a immobilité ou presque. En tout cas, le peu de mouvement qu’il y a, c’est tellement tranquille qu’on dirait de l’immobilité. Comme une respiration. Comme un clignement des yeux. Comme l’écho qui traverse le silence sans le perturber.
+
+Encore une dizaine de minutes, debout, en contact à écouter les perceptions, à recevoir la musique de cette rencontre sur ma peau, à accueillir dans mon corps la vibration de sa présence, la vibration de ma présence, la vibration de notre rencontre … notre présence dans cet espace, notre présence à cet instant.
+
+Cela fait plus de 24h et je sens encore le parfum de cette danse. Je sens la Présence en moi. Je me rends compte combien cela est nourrissant. Combien la présence, la qualité de présence est primordiale et c’est au fond ce que je cherche dans une sexualité authentique et sensible. Parfois, souvent même, on cherche l’excitation, le plaisir parce qu’on oublie l’essentiel : la présence.
+
+Beaucoup de propositions sur la sexualité parlent de l’excitation, du désir, retrouver la flamme dans le couple etc. Et c’est vrai qu’on peut faire des choses pour développer l’excitation :  des lingeries, des mots doux ou crus, des jeux, des accessoires, des situations, des caresses, des techniques pour faire jouir. Mais tellement peu de présence parce qu’on ne peut pas faire la présence, on ne peut pas aller vers la présence. C’est comme le silence. C’est le Silence. La présence est déjà là et il n’y a rien à faire pour la retrouver sinon que de ne pas faire ce qui nous en éloigne.
+
+Si tu as envie de transformer ta sexualité je te propose de prendre trois respirations profondes. Fais-le vraiment. Pas pour moi mais pour toi-même. Pour gagner en clarté. Vas-y pour les trois respirations avant de lire la suite.
+
+…
+
+Peut-être que tu as envie d’avoir plus de désir, plus de plaisir avec ton ou ta partenaire. Et c’est tout à fait respectable. Je pose juste cette question. Est-ce que tu veux réellement plus d’excitation ou plus de présence. Paradoxalement, quand on se focalise sur l’excitation et le plaisir on a moins de présence. Par contre, quand on est plus dans la présence, on ressent plus d’excitation, sous une forme plus profonde, et plus de plaisir. Le plaisir de vivre.
+
+ Dans le sujet de la sexualité, l’Excitation occupe une place importante dans la préoccupation des gens. Beaucoup de livres, vidéos, formations expliquent comment susciter le désir chez son ou sa partenaire, ce qui revient à créer ou amener de l’excitation. Ceux-ci parlent de vêtements, de lingerie, de danse, de regard, de techniques et de zones à caresser, d’autres parlent de jeux du regard, de mouvement des lèvres, de mots doux (ou crus) à susurrer à son oreille.
+
+On parle trop peu de la Présence. Pourtant c’est elle qui est vraiment nourrissante pour soi et pour l’autre.
+
+
+## Peur de mourir vs peur de ne pas vivre *(brouillon)*
+
+Pendant des années, je croyais que c’était la même chose. Je croyais que mourir et ne pas vivre c’était blanc bonnet et bonnet blanc. En fait, non. C’est très différent.
+
+J’avais une liste de choses que je voulais faire avant de mourir. Il y avait des stages : la PNL ; marcher sur le feu avec Anthony Robbins ; le stage de Dale Carnegie (méthode de l’auteur de “Comment se faire des amis”); rencontrer et recevoir l’enseignement de Thich Nhat Hanh, reprendre contact avec mon père que j’avais perdu de vue depuis 10 ans, faire l’amour en me sentant pleinement libre d’être, en étant présent à moi-même, présent à l’autre et présent à la Vie, retourner au Viêt-Nam après l’avoir quitté en boat-people 20 ans auparavant.
+
+Il y a 8 ans, j’ai réalisé la dernière chose de cette liste. C’était un moment de joie et de vide en même temps : “Ah, c’est ça quand on a réalisé ces grandes envies”. C’est formidable, je me suis dit que comme j’ai pu faire tout ça, je pourrais tout faire dans la vie. Il y avait aussi ce sentiment de paix profonde et de vide. Il n’y avait plus rien d’urgent ni d’existentiel. Rien à accomplir, rien à réparer. Si je devais mourir dans les 6 mois, il n’y aurait pas vraiment quelque chose que je devais faire à tout prix.
+
+J’ai compris que j’ai vécu tout ce qu’il y avait sur ma “bucket list”, la liste des choses qu’on veut faire avant de mourir. J’en ai fait une deuxième mais cela n’a pas du tout la même importance. Ce sera du bonus si cela se fait, aucun regret sinon. Alors que pour la première, c’était des choses que j’aurais regretté de ne pas avoir réalisées sur mon lit de mort.
+
+Je ne dis pas que je n’ai pas peur de mourir si je me retrouve en face de la mort. En tout cas, contrairement à il y a 8 ans, quand j’y pense maintenant je ne vois pas ce que je pourrais vraiment manquer.
+
+C’est là que j’ai réalisé que ce que j’appelle “la peur de la mort”  est en réalité “la peur de ne pas vivre” et comme j’ai pu vivre ce qui était important pour moi, cette peur, la peur de ne pas vivre, ces peurs de ne pas accomplir ce dont j’avais intensément envie ne sont plus là.
+
+Ne pas lutter contre “la peur de la mort”, mais nourrir et remplir la vie de ce qui est important, de ce dont on a envie, pour laisser “la peur de ne pas vivre” disparaître d’elle-même.
+
+Une de mes questions fortes en coaching “Si tu dois mourir dans 6 mois, est-ce qu’il y aurait quelque chose de vraiment important que tu veux absolument faire ou vivre avant de mourir ?”
+
+Si connaître l’expérience de “faire l’amour” comme description littérale, comme ressenti profond, comme expérience existentielle et mystique et non comme expression pour dire pudiquement “relation sexuelle” fait partie de ta bucket list, des choses que tu veux vivre dans cette vie, parce que faire l’Amour, vivre pleinement l’Amour dans l’esprit, le cœur et le corps est réellement important pour toi, je t’encourage à mettre ton énergie et tes actions pour y arriver. Parce que c’est beau, c’est précieux, c’est profond et nous donne une reliance indéfectible à la Vie.
+
+
+## Qu’est-ce que ça veut dire partenaire ? *(brouillon)*
+
+C’était il y a déjà quelque temps. J’étais avec une femme. Il y avait les caresses, l’excitation, la danse de nos corps. Pas métaphoriquement, nous dansions littéralement ensemble dans une chorégraphie sensuelle et sexuelle. Le niveau du désir était bien haut, la respiration, les soupirs et les modifications physiologiques. Pourtant, elle s’est arrêtée et m’a dit : “Duy, je nous sentais plus dans l’écoute la dernière fois.” Et bam, un petit coup pour réveiller le gars qui vous écrit des posts et propose des séminaires sur la sexualité sensible.
+
+Pour accueillir sa venue, j’avais préparé des bougies, des huiles essentielles, de l’encens, de la musique et une décoration. Ce faisant, je suis resté dans l’énergie de l’organisation, l’action, le faire, l’agitation de la préparation. Je n’avais pas pris le temps de me déposer, de revenir au silence.
+
+Dans nos échanges, il y avait de l’écoute de l’un et l’autre mais il n’y a pas l’écoute du silence. Pas cette fois-ci. Je n’étais pas vraiment silencieux. Je ne le réalise que maintenant, parce qu’elle a pointé notre/mon “faire”. Je n’étais pas complètement relâché, détendu.
+
+C’était vrai. Elle avait raison. J’étais un peu déçu par moi-même. Moi, mes textes, mes livrets qui expliquent aux autres la présence, l’écoute et là je n’y étais pas. J’étais pris par l’élan de l’organisation. En voulant bien faire, je suis tombé dans le piège du bouillonnement intérieur. Je pose des mots dessus. Je reconnais qu’elle a vu juste. Je lui partage mon effervescence des préparatifs. Cette effervescence est encore là au moment où je lui parle. Ce n’est pas complètement  redescendu.
+
+Je me décolle un peu d’elle. Plusieurs respirations profondes. Ressentir et accueillir mon agitation. Examiner nos échanges avec cet éclairage.
+
+Je reviens au silence. Dans mon silence. Là, je sens un soulagement. Je ne suis pas parfait. Et surtout, je n’ai pas besoin de l’être parce que nous sommes deux. La qualité de l’écoute : je ne suis pas seul à l’assurer. Les égarements inconscients, les schémas automatiques : je ne suis pas le seul à pouvoir les surveiller. Nous sommes deux. Une équipe. C’est ma partenaire. Partenaire signifie allié. Oui, c’est une alliée pour combattre les ennemis : Nos peurs, nos schémas, nos automatismes, nos agitations. Nous nous sommes alliés pour faire grandir la lumière, la conscience … l’écoute du silence. Je trouve l’apaisement. Le calme. Le silence.
+
+Nous nous retouchons. Progressivement le contact s’approfondit. C’est autre chose. Une subtilité, une sensibilité à couper le souffle. Du plaisir intense en étant juste au contact. Si peu de mouvements, si peu de force et pourtant tellement puissant et dense. Envie de fondre. Envie de crier. Au final, un moment de pure présence dans la sensualité.
+
+En plus d’un moment de plaisir intense et intime, c’est aussi un voyage ensemble vers plus de conscience. J’ai beaucoup de reconnaissance pour le courage que ma partenaire a eu pour refuser le moyen et viser le sublime.  Éclairer les zones d’ombre est de la responsabilité de celui qui les voit (et ce n’est pas toujours moi !) Cela peut sembler difficile au début, mais ça sera de plus en plus facile par la suite.
+
+Nous ne sommes pas dans une relation de transaction : « Je te donne du plaisir en échange tu me donnes du plaisir ». Nous ne sommes pas face à face mais côte à côte. Nous essayons de faire face à nos aveuglements. Nous sommes partenaires de conscience et d’amour.  En fin de compte, nous nous sommes alliés pour avancer ensemble vers notre lumière, ma lumière … la Lumière.
+
+
+## De la nourriture relationnelle à la relation nourrissante *(brouillon)*
+
+On parle de relations nourrissantes. Qu’elles soient amicales, amoureuses, sexuelles ou autres ; les relations peuvent être nourrissantes. Qu’est-ce qu’un aliment nourrissant ? Un aliment qui va nous apporter ce dont nous avons besoin pour être bien, pour être mieux. Une plus grande forme, une plus grande joie, une plus grande vitalité.
+
+Hier, je suis allé au salon Marjolaine. A ce salon tout est bio. On veut éviter les produits chimiques, les pesticides qui peuvent nuire à notre corps, nuire à notre bien être.
+
+Il y a des personnes qui prennent soin de ce qu’elles mangent. Elles sont strictes sur ce qui entre dans leur corps mais ne font pas assez attention à ce qui entre dans leur cœur, dans leur pensée, dans le sexe. Dans le bouddhisme, les émotions, les pensées et les sensations sont aussi une alimentation, une nourriture dont nous devons prendre soin.
+
+Entretenir une relation avec une personne qui ne nous respecte pas, pour qui nous n’avons pas de considération, envers qui nous avons une longue liste de reproches c’est comme nous empiffrer de chips, de pâtisseries, de charcuteries pour essayer de combler une sensation de vide. Ce n’est pas respectueux vis-à-vis de notre corps, ce n’est pas respectueux vis-à-vis de notre sexe, ce n’est pas respectueux vis-à-vis de notre cœur.
+
+Chacun fait ce qu’il peut, ce qu’il a à faire et il n’y a pas de jugement sur les comportements addictifs. Simplement, regarder les choses en face, reconnaître les conséquences de nos actes. Nous faisons ceci, c’est bon pour notre corps. Nous faisons cela, c’est mauvais pour notre corps. C’est vrai aussi pour notre cœur et pour notre sexe. Alors oui, un esprit sain dans un corps sain. Et pour les amants sensibles, c’est aussi un sexe sain dans un cœur sain. Bien nourrir notre cœur, bien nourrir notre sexe de joies, de respects, d’affections, de considérations. Si ce n’est pas le cas, nous pouvons envisager de changer de sexualité, ce qui ne signifie pas forcément changer de partenaire. Changer d’alimentation ne signifie pas forcément changer les aliments. Peut-être les cuire moins, peut-être en manger moins ou dans des proportions différentes, peut-être les laisser germer avant etc.
+
+Pour nous amants sensibles, notre boussole pour une sexualité authentique et sensible c’est ce qui vibre après la sexualité : la joie, l’affection, le respect et la célébration de notre partenaire et de nous-mêmes.
+
+
+## Mère Teresa et les lépreux *(brouillon)*
+
+Elle s’occupait des lépreux, les soignait, faisait leur toilette. Un jour quelqu’un lui a demandé comment elle faisait pour ne pas trouver cela répugnant. Elle répondit qu’elle aussi trouvait cela dégoûtant, mais elle acceptait de ressentir cette sensation de dégoût pour pouvoir s’occuper des malades.
+
+Alors oui, ce n’est pas glamour de parler de dégoût, de répugnance dans un texte de sexualité mais vous savez quoi ? Je m’en fiche du glamour. Ce qui m’importe c’est de parler d’amour. Quelle preuve d’amour, de grandeur d’âme chez mère Teresa pour ne pas fuir le désagrément et privilégier le contact, la présence.
+
+Pour ceux qui ont des enfants et qui ont changé les couches, vous savez de quoi je parle. Les couches sales, ça ne sent pas bon. Mais on reste présent avec notre bébé. On ouvre la couche, on retire les crottes, on nettoie leurs petites fesses avec une crème pour préserver la douceur de leur peau.
+
+Qu’est-ce qui fait qu’une personne peut manquer de présence dans la sexualité, se mettre en mode automatique, des mouvements techniques pour avoir de l’excitation, du plaisir, du relâchement ? Sans être vraiment là, en connexion avec sa partenaire … ni avec elle-même d’ailleurs.
+
+C’est simplement un mécanisme de défense, de protection. Elle se protège. Elle vit une situation stressante. Elle fuit sa vulnérabilité. Elle évite de ressentir ses peurs et ses blessures. Alors implicitement, elle demande à l’autre de ne pas la déranger. De faire la même chose. Ne pas montrer de vulnérabilité. Cacher les blessures. Faire semblant de ne pas avoir peur. Feindre que tout va bien et que tout est parfait.
+
+C’est ce que j’ai fait durant des années. Avec des femmes que j’aimais.
+
+Aujourd’hui encore, j’ai des blessures. J’ai des peurs. Pendant les moments d’intimité sexuelle, des fois je me pose des questions sur ce que je dois faire, j’ai envie de faire, si ça va lui plaire, si je peux en parler, si ça va lui déplaire, l’agacer, couper son envie. Mais une chose a profondément changé : J’ai la volonté de tout accueillir en moi et de partager avec elle. Seulement, la volonté ne me suffit pas. J’ai aussi des outils. Des pratiques qui m’ont permis de dépasser ces peurs, de laisser remonter les blessures. C’est comme cela que je peux rester présent à moi, avec toutes les sensations. Alors je peux aussi rester présent à ma partenaire et pouvoir tout accueillir d’elle. Je n’aime pas tout en elle mais je peux tout accueillir. En tout cas je m’efforce de le faire. Tout, même ce qui réveille mes peurs, mes douleurs, mes questionnements. Je lui offre ainsi un espace où elle peut être elle-même. Dans sa totalité.
+
+
+## Le goût du silence *(brouillon)*
+
+La sexualité épanouie est un vaste sujet et je vois beaucoup de formateurs et coachs expliquer toutes les expériences magnifiques et intenses qu’on peut y vivre. Comment c’est génial et combien les orgasmes sont extraordinaires. C’est vrai que je me sens épanoui dans ma sexualité et les expériences sexuelles sont magnifiques, subtiles et puissantes mais le plus important dans ma transformation par rapport à la sexualité n’est pas ce qui est visible, c’est ce qui ne l’est plus : le manque, la frustration, la compulsion, l’agitation.
+
+Comme beaucoup d’hommes, j’avais une vision de la sexualité comme performances. Il fallait faire l’amour tant de fois par semaine, il fallait pratiquer telle et telle technique, il fallait, il fallait … sinon je ne me sentais pas à la hauteur, sinon je ne me sentais pas viril, sinon je ne me sentais pas homme pleinement masculin. À l’époque je croyais qu’une sexualité épanouie c’était une check-list avec des cases à cocher.
+
+Aujourd’hui, au contraire, je définirai une sexualité épanouie comme l’absence de check-list. Ne plus rien chercher, ne plus rien chercher, ne plus rien attendre, ne plus rien demander et ne plus rien imposer. Tout va bien. Quand il n’y a plus de demande, formelle ou informelle, à ma partenaire ou à la vie, consciente ou inconsciente, alors tout va bien. Il n’y a plus de tension. Il y a l’apaisement. Avant quand je n’avais pas fait l’amour dans la semaine avec ma partenaire c’était la catastrophe. Les périodes de célibat étaient un poignard qui lacérait mon estime personnelle et m’angoissait. Maintenant, je peux passer plus d’un an sans faire l’amour ce n’est plus un problème. Les relations vécues m’ont tellement nourri profondément que je me sens encore baigné dans le cocon de notre amour physique. Je me sens heureux dans ma sexualité même si je n’ai pas de partenaire.
+
+Dans cette tranquillité, chaque expérience devient alors intense. Le moindre contact, la plus petite danse avec une inconnue devient une expérience sensuelle merveilleuse.
+
+Un bon repas n’est pas seulement agréable en bouche, il doit aussi nous vivifier, stimuler notre métabolisme. Il s’évalue après le repas, pendant la digestion, lors d’une activité physique pendant les heures voire le jour qui suit. La belle musique nous laisse méditatifs après la dernière note. On dit que le silence après du Mozart est encore du Mozart. C’est une très belle expression. Une expérience belle et nourrissante remplit le vide qui la suit. Le silence après une belle rencontre sexuelle n’est pas vide. Il est dense. Il emplit l’espace, nous comble de bonheur. C’est une sensation, une impression subtile et délicate, un parfum dans l’air si fin qu’on ne peut pas le décrire, une musique silencieuse dont on ne pourrait pas donner la note.
+
+Il ne suffit pas que la sexualité ait été intense, que l’orgasme ait été grandiose. Ce qui compte c’est combien de temps cela me nourrit et pendant combien d’heures, de jours, de semaines, de mois je reste bercé par la plénitude. Se concentrer sur l’orgasme est une erreur. C’est comme n’écouter que le goût de la nourriture. Ça peut rendre addict. Dans les compulsions alimentaires, je mange, c’est bon mais je sens encore le vide. Je cherche à me remplir par le goût : du salé, du sucré ou du gras. Mais ça ne suffit pas, le vide est toujours là. On continue à manger alors que l’estomac est plein. Mais la bouche, elle a encore faim. C’est la preuve qu’on n’a pas été nourri au bon endroit.
+
+Ce qui importe, ce n’est pas que j’ai atteint le septième ciel ou le huitième voire le neuvième. Ce qui m’importe c’est combien de temps je continue à planer après. Il vaut mieux atteindre juste le premier ciel et planer très longtemps que d’arriver au septième ciel pour retomber à pic juste après.
+
+Vraiment, la densité du silence après le partage sexuel, la fragrance qui entoure les deux corps sont précieux. Ce sont eux qui m’indiquent à quel point nous nous sommes aimés.
+
+
+## Je pleure de joie aux funérailles
+
+Lors des quatre dernières funérailles, j’ai énormément pleuré. J’étais peut-être la personne qui pleurait le plus dans l’assemblée. Des gros sanglots à en faire exploser la poitrine. Des larmes coulant à torrent. Ça impressionne beaucoup. Je ne me retiens pas. Au contraire.
+
+Mon secret ? Un pas de plus.
+
+Avancer un pas de plus au cœur du chagrin.
+
+C’est assez simple à comprendre en fait. Quand on perd quelqu’un, plus la personne nous était chère, plus nous sommes tristes. Mais posons la question : “Qu’est-ce que ça veut dire exactement que cette personne était chère pour moi ?”
+
+Ma réponse c’est : “Une personne importante pour moi”. Mais alors, qu’est-ce que ça veut dire “importante pour moi” ? Ça veut dire que c’est une personne qui a compté. Une personne avec qui j’ai passé de bons moments. Avec qui et par qui j’ai appris des choses sur la vie, sur moi, sur les gens. Une personne sans qui ma vie n’aurait pas été pareille. Ma vie n’aurait pas été telle qu’elle a été. Le temps que j’ai passé avec cette personne, ses paroles, ses histoires ont changé ma vision du monde, ma façon de vivre mes expériences.
+
+Dans mes idées, il y a de ses idées. Dans mes mots, il y a de ses mots. Évidemment, ce ne sont pas ses idées ni ses mots. Mais il y a comme un parfum, un arrière-goût sur le palais, un son dans le silence. Mon cœur a été nourri par cette personne. Si nous sommes ce que nous mangeons alors nous sommes aussi ceux que nous aimons. Comme la nourriture qui pénètre nos cellules, nos muscles, nos os et notre sang, les rencontres pénètrent notre cœur, notre souffle, notre esprit, nos émotions.
+
+Elle est morte. Son corps n’est plus là. Je ne lui parlerai plus jamais. Je ne l’entendrai plus. Ses expressions, ses mimiques, ses tics envolés à jamais. La nostalgie. Un serrement dans le cœur. La respiration qui se raccourcit. Le chagrin monte. Les larmes arrivent et le monde se vide. L’espace qu’elle occupait se vide. Elle est partie. Là devant moi, reste sa forme mais sans elle. Je sais que je ne la retrouverai pas. Plus jamais je ne retrouverai dans ce monde un échange avec elle. Ni dans son salon, ni à sa table, ni sur l’escalier du jardin. Tous les endroits où nous avons passé du temps ensemble : elle n’y sera plus. Toutes ses paroles : elle ne les dira plus. Toutes ces formes d’elle sont vides, ne sont qu’illusions. Tant de souvenirs qui resurgissent. Tout ceci n’est pas réel. Ça accentue le vide, le creux, le trou dans mon cœur. Mais attendez ! Attendez un peu !
+
+Ces souvenirs ne sont pas réels comme expériences mais ce sont des souvenirs réels d’expériences. Ce visage que je vois, il n’est pas devant moi et c’est vrai que je ne le verrai plus jamais à l’extérieur … mais à l’intérieur de moi, il est bien présent. Ces paroles, ses paroles je les entends bien ici, maintenant. Oui, je me rappelle d’elle. Oh mon dieu ! Elle est là ! En moi ! Dans ma mémoire. Je me rappelle de ces échanges, de ses conseils. Je me rappelle avoir compris des choses importantes grâce à elle. Dans ma mémoire, dans mon monde, elle est là. Encore là. Et elle sera toujours là.
+
+Automatiquement, j’ouvre l’album de souvenirs … qui devient l’album des gratitudes. Je prends le temps de regarder chaque photo, chaque souvenir, des évocations, des reproches, tout, absolument tout. Et là je comprends ! Je comprends l’impact de ce souvenir à l’éclairage de mes expériences ultérieures. Je vois que ça a été à l’origine d’autres choses. Le jour de cette scène, je ne savais pas. Je ne savais pas que des années après mon parcours a été influencé par ces paroles, ces remarques, ces préoccupations. Des années de cheminement, des années de vies, de parcours, d’émotions qui ont pris racine dans ces photos souvenirs. Alors c’est un grand remerciement. Un énorme merci. Je lui dis merci.
+
+Je ne te dis pas un merci pour ce qui s’est passé mais un grand merci pour tout ce qui s’est passé après. Tout ce qui s’est passé depuis. Grâce à toi …. ou du moins en partie grâce à toi. Tellement de joies, d’aventures, de chagrins, d’amours, de déboires …. un grand merci pour cette vie que j’ai vécue depuis nos rencontres. Toi, mon grand-père, ma grande-mère, mon père, mon ami …. j’ai vécu tellement et tellement de choses. Et toi, tu fais partie de cette vie. De ma vie. Aujourd’hui encore. Et pour toujours.
+
+Chaque photo souvenir devient l’occasion de remercier. Enfin remercier pour tout ce que tu m’as apporté. Je vois à quel point j’étais ignorant. Je n’avais pas fait le lien entre toi et ce qui s’est passé après dans ma vie. Aujourd’hui, je vois plus clair. Oh mon dieu comme tu as été précieux. Comme tu es précieux. Et tellement présent dans ma vie. Dans mon travail, dans ma quête, dans mes émotions. Il n’y a pas de vide !!! Au contraire, c’est une déferlante de gratitude qui arrive. J’ai l’impression que ma poitrine va exploser tellement je te suis reconnaissant de tout ce cadeau.
+
+Hier je n’ai pas pris la peine de te remercier pour la poignée de graines que tu m’as donnée. Aujourd’hui, je te remercie pour ces graines mais aussi pour les arbres qu’elles ont donné et aussi les fleurs, les fruits qui m’ont nourri, nourri ma famille et mes amis. Et tout d’un coup je comprends l’importance que tu as dans ma vie, dans ma façon d’être … en fait dans tout.
+
+Merci, merci, merci. Tellement merci. Je t’aime. Profondément. Abyssalement. Et c’est là que les larmes viennent à torrent. Des larmes de gratitudes. Des larmes d’amour. Des gouttes qui condensent les émotions, tellement d’émotion qu’il y a pression. Une pression dans la poitrine. Mais pas une pression qui rapetisse. Une pression qui grandit. Presque une explosion lente que j’essaie de contenir. Et puis merde, qu’elle sorte cette pression. C’est là que viennent des sanglots. Si fort qu’ils me font mal aux côtes. Mais tellement doux parce qu’ils expriment tout cet amour, toute cette reconnaissance, toute cette présence en moi.
+
+C’est très étrange. De la douleur dans le physique. De la douceur dans le psychique. Mais c’est comme ça.
+
+Je sais maintenant que je n’ai pas besoin de t’avoir avec moi parce que je t’ai déjà en moi. Tout ce qui est vraiment important de toi est déjà en moi. Tu n’es pas avec moi mais tu es une partie de moi.
+
+Chaque larme est une fleur que je dépose sur l’autel de ma gratitude et de mon amour pour toi. Comme tu vois, il y en a beaucoup. Ah ah ah. Dehors, les autres ont l’air désolé pour moi. Mais ici avec toi, je suis si content de pleurer. Comment leur dire ? Comment leur expliquer que je suis heureux. Je suis si heureux d’exprimer par ces larmes et ces sanglots toute ma gratitude. Les autres sont en train de te dire au revoir ou adieu. Moi je souris, ça ne se voit pas parce que je sanglote mais je souris.
+
+Moi je te dis “Bonjour, je te vois enfin. Ici. Désolé de t’avoir fait attendre. Bienvenu chez toi, en moi …”
+
+Pour celles et ceux qui se demanderaient quel est le rapport avec la sexualité sensible, la réponse est simple. Quand je fais l’amour c’est avec tout mon être. Quand je suis dans le chagrin du deuil comme dans la gratitude de la personne partie. Faire l’amour avec le chagrin ou la gratitude ? Dans la mesure du possible, avec la gratitude, cela a meilleur goût . Et ma mission, c’est de rendre la gratitude possible.
+
+
+## De la jalousie dans une simple soupe
+
+Le moment du repas est un moment très solennel au village des pruniers, c’est un centre de retraite de Thich Nhat Hanh, décédé il y a une semaine. C’était durant mon deuxième séjour dans le centre, il y a plus de 10 ans, on était en début de soirée, j’étais allé chercher de la soupe dans un bol. Me voilà assis dans le cercle en attendant le retour des autres personnes du groupe pour commencer à manger.
+
+Voilà qu’un frère s’installe à côté de moi avec un bol de curry. Cela sentait délicieusement le parfum du curry et de la noix de coco. Pour rajouter à tout ça, ce frère me précise que c’est une fameuse spécialité d’ici. Et me voilà piégé avec mon bol de soupe ordinaire à côté d’une personne qui déguste un excellent plat. Je sentais les regrets de ne pas avoir attendu ou mieux regardé pour prendre ce curry. Je me sentais dépité de devoir manger cette soupe quelconque à la place d’un merveilleux plat. Je me demandais si je pouvais aller chercher le curry moi aussi. Mais je n’avais pas l’estomac pour tout manger et jeter la nourriture aurait été inacceptable ici.
+
+Pendant que je mangeais, mon esprit faisait des allers-retours entre ma soupe et le curry. Quand je portais mon attention sur le curry, j’étais jaloux. Vraiment jaloux. Puis quand je portais mon attention sur ma nourriture, que je mangeais en ayant conscience de chaque saveur et de chaque sensation dans ma bouche et non du curry dans ma tête, tout allait bien. J’étais tantôt jaloux du curry, tantôt satisfait de ma soupe. C’était vraiment intéressant comme les sensations étaient  changeantes seulement par ce à quoi je pensais.
+
+Ce jour-là, j’avais vraiment compris, intégré que la jalousie n’était pas due au curry mais à mon imaginaire d’un curry qui aurait pu être dans ma bouche. La jalousie vient de l’imaginaire que je pourrais vivre autre chose que mon présent et être à la place de la personne dont je suis jaloux.
+
+Cette expérience de soupe était un excellent entraînement pour la jalousie amoureuse. Ma chérie voyait de temps en temps d’autres hommes et les premières fois ça me piquait beaucoup jusqu’à ce que je me rende compte que mon mental faisait la même chose qu’avec le curry. C’était mon imaginaire qui me faisait souffrir parce qu’en réalité, je ne sais pas réellement ce que ma partenaire a vécu avec ses amants. Des fois c’était bien, des fois c’était décevant. Mais quand j’y pensais, j’imaginais toujours qu’elle vivait un truc extra-ordinaire alors que moi, ce que j’étais en train de vivre était banal et ennuyeux. Mais ça, c’était parce que si je vivais un truc intéressant, je n’aurais pas le temps ni l’énergie pour penser à ma chérie.
+
+Ça prend un certain temps pour mettre à distance mon imaginaire et revenir à la réalité.
+
+Soyons clairs, je ne dis pas du tout qu’il faut une relation ouverte, admettre l’infidélité ou au contraire il faut une fidélité dans le couple. Chaque personne et chaque couple choisit et vit en fonction de ses valeurs, choix et priorités.
+
+Ceci est juste une invitation lors de la prochaine sensation de jalousie, regarder d’où vient l’émotion. Et l’émotion vient de la pensée, du film projeté par le mental et non par la réalité. Bien sûr que cela peut réveiller des peurs, des angoisses, des blessures anciennes et profondes. Mais rester vigilants sur le fait que ces blessures étaient déjà là en moi. Ce n’est pas l’autre qui me fait mal. Ça fait mal parce que je donne de l’importance à mon imaginaire et que j’évite de regarder en face toutes ces blessures.
+
+Voir d’où vient réellement la souffrance est déjà un grand pas vers la guérison.
+
+
+## C’est un privilège de danser avec toi
+
+La danse est un réel espace de pratique méditative pour moi. Écouter chaque partie de mon corps, les doigts, la hanche, la tête. Percevoir une tension, une gêne, le début d’un mouvement. C’est un moment d’attention, solennel, précieux. Alors toutes les interactions avec les autres personnes le deviennent aussi : solennelles et précieuses.
+
+Au détour d’un regard, d’un geste, peut-être qu’une envie d’aller vers toi apparaît.
+
+Il y a une attirance physique envers toi, un désir pour toi. Alors je redouble d’attention, d’écoute. Des peurs surgissent. Peur d’être jugé par toi, peur d’être rejeté par toi, peur d’être condamné par les autres. Alors j’écoute profondément ces peurs. Je danse avec. J’y respire. Je bouge dedans. En conscience. Dans l’écoute. Dans l’écoute profonde de cet instant.
+
+Avant de me rapprocher de toi, je te fais ma révérence intérieurement parce que toi aussi tu es dans un espace précieux et sacré. Tu es là pour ton plaisir, pour te nourrir. Tu n’es pas venu pour les autres, il n’y a plus de code social ni de politesse. Ici chacun est là pour soi. C’est ton temps. C’est ta danse. C’est ton monde.
+
+Avant de venir à toi, je reste loin de toi. Je suis là. À 2 mètres. Je ne te regarde pas. C’est trop intrusif. Te regarder risque de changer ta danse malgré toi. Le regard est directif, sélectif, actif. L’écoute est passive, accueillante, plus ouverte.
+
+J’écoute. Ta danse, ta maison. Y a-t-il assez de place pour accueillir ma danse ou alors ton espace est déjà plein de choses ? Il n’y a pas d’urgence. Je n’ai pas besoin de venir chez toi. Je n’ai pas soif. Je n’ai pas faim. C’est une visite amicale. Peut-être que ce n’est pas le moment alors je continuerai mon voyage.
+
+Maintenant je danse un peu avec toi, toujours de loin. Sans te regarder. Sans même être face à toi. Surtout pas. L’énergie de mon cœur n’est pas vers toi mais à côté de toi. Mon regard, mon cœur, mon désir, rien n’est vers toi mais tout est ouvert à toi. Je ne t’envoie rien. Je reçois tout de toi. Je danse avec toi subtilement. Je ne singe pas tes gestes. Je ne copie rien de toi. Je m’inspire de ta danse. Je réponds à ta danse. À ma façon. Avec ma propre danse.
+
+Il y en a qui disent qu’il faut faire clairement la demande pour savoir si une personne veut danser avec soi. Avec toi, je ne le ferai pas. Je respecte trop ta danse, ton espace. Te poser la question, c’est te demander une réponse. Je ne te demanderai rien. Te poser une question, c’est te demander d’interrompre ta danse pour me répondre. Non, je ne veux pas interrompre ta relation à ta danse. Ne rien interrompre. Préserver la continuité, la fluidité, ta fluidité. Tu es libre de me dire si tu veux danser avec moi ou pas. Peut-être que tu as besoin de temps. Je ne sais pas. Je suis libre de mon envie de danser avec toi. Tout est léger, tout est joyeux. Si nous ne dansons pas ensemble, j’aurai déjà dansé avec mes peurs. C’est déjà un cadeau.
+
+Entends-tu ma danse ? Perçois-tu mon envie de danser avec toi ?
+
+Ça y est. Je sens que ton mouvement répond à mon geste. Est-ce vraiment une réponse ou une simple coïncidence. Je ne sais pas. Je ne suis pas sûr. J’attends encore un peu. Dans l’ouverture de tout est possible. Tu as compris et tu veux danser avec moi. Ou alors tu danses ta danse et ce n’était qu’un hasard. J’écoute ma danse, mes peurs, mes questions, mes doutes et mes envies. J’écoute l’intensité de ce moment d’incertitude. J’écoute profondément l’intérieur de moi.
+
+Maintenant, il y a eu plusieurs réponses de ta danse à ma danse. Oui, je crois que tu danses avec moi. Je ne suis pas sûr encore alors je fais des propositions. Les perçois-tu ? Est-ce que tu y réponds ? Oui, tu y réponds. Encore et encore. Nous sommes bien en train de danser ensemble. À grande distance. Nous allons nous rapprocher. Lentement. Doucement. Pour préserver la danse de chacun. Ne rien brusquer. Tout est fluide. Tout est lent à l’intérieur de nous. Même si à l’extérieur, nous pouvons danser le chaos comme des excités, à l’intérieur il y a présence, il y a écoute, il y a accueil l’un de l’autre. Nous ne nous saluerons pas, nous avons déjà passé du temps ensemble. Nous sommes déjà intimes. Je ne te regarde toujours pas. La vision de tes yeux m’y plongera et je ne veux pas perdre cette écoute, cette présence en moi.
+
+Nous dansons ensemble. Nous partageons nos espaces, nos volumes. Mes bras visitent les creux formés par ta danse. Mes formes creuses reçoivent tes mains, ta tête. Ne pas se toucher. Préserver l’intensité du moment. Nos corps sont proches mais il reste une distance entre nous. Il reste une vingtaine de centimètres entre nous. Pas que nous ayons peur du contact. C’est simplement que nous prenons notre temps. Et puis, à vrai dire nous n’avons pas besoin de contact entre nos corps parce que nous sommes déjà en contact avec nos danses. Je sens ton désir à ta respiration, à tes mouvements. Nos danses s’entremêlent. Nos danses se caressent.
+
+Notre danse se développe, se cherche. Comment exprimer le plaisir d’être ensemble, le désir l’un pour l’autre ? C’est une écoute de chaque seconde. Qu’y a-t-il ici maintenant ? Où est mon désir ? Où est ma peur ? Où est mon plaisir ? Où est ma gêne ? Où est ma force d’assumer cette danse parmi la foule ? Où est la grâce de te rencontrer ? La gratitude de recevoir ta danse, ta confiance et ta présence.
+
+Progressivement, inexorablement nos corps viennent à se toucher. Ma main qui se pose sur ton dos. Mon dos qui se pose sur ta main. Des contacts qui arrivent progressivement. De plus en plus souvent. Puis le contact devient permanent. Je te sens. Je sens que tu me sens. Nous dansons dans ce désir mutuel. Dans la liberté du moment. Parce que c’est une danse. Juste une danse. Rien qu’une danse. Avec ça, rien. Après ça, rien. Je ne te demanderai rien. Je n’attendrai rien de toi. Tu le sais. Tu le sens. C’est pour ça que tu te lâches, que tu t’abandonnes complètement. Parce que tu as confiance. Parce que tu es dans l’ouverture. Il n’y a pas d’enjeu. Il n’y a rien à perdre. Tu sais que tu ne vas pas me perdre … parce que tu ne m’as jamais eu. Ni avant, ni après. Je suis libre. Alors toi aussi tu es libre.
+
+Ta liberté, je la sens. Parce que je sens ton abandon sur mon corps. Je sens le relâchement de ton poids. Juste par ton laisser aller, tu me donnes quelque chose de précieux. Ta totale confiance. Ton total relâchement. Dans le désir. Dans le plaisir. Quelque chose que tu n’as peut-être jamais pu vivre avec un mari, un amant, un chéri … parce qu’il y avait de la peur, il y avait un enjeu. Avec lui, il y avait une tension, même minime, vers le futur. Une tension due au passé. Ici, avec moi il n’y a que le présent, rien d’autre. Absolument rien d’autre alors tu peux t’abandonner à toute l’intensité du présent. Dans le ressenti. Dans l’écoute profonde.
+
+Notre danse va durer un certain temps. Le temps que la musique change. Le temps qu’une consigne du prof arrive. Le temps que l’intensité devienne trop forte. Alors notre danse s’agrandit, s’agrandit encore. Le corps dansé devient petit à petit deux corps dansant. Encore un dernier geste, un dernier contact, une dernière respiration pour se dire au revoir, pour se dire adieu. Tout va bien. Rien ne manque. Rien ne manquera parce que tout est bien.
+
+Bien sûr, nous allons passer à autre chose. Tellement de choses autres. J’oublierai cette danse. J’oublierai cet instant. Ma mémoire n’est pas assez précise pour se rappeler de tout. Mon cœur non plus. Mais c’est inutile parce que quelque chose en moi a déjà changé. Quelque chose DE moi a changé. Cet instant est comme une goutte d’eau dans un lac. On ne voit jamais la goutte d’eau du lac. On ne ramasse jamais une goutte d’eau dans un lac … mais il n’y a pas de lac sans gouttes d’eau. Il n’y a pas de danse sans ces échanges. Il n’y a pas de vie sans moments de vie.
+
+C’est juste que parfois j’ai l’esprit plus clair pour reconnaître une goutte d’eau dans un lac. Grâce à la méditation. Grâce à la danse. Grâce à toi.
+
+Ce fut un privilège de danser avec toi.
+
+Texte dédié à toutes les femmes qui ont partagé avec moi ces danses divines et aux hommes et femmes qui veulent les vivre.
+
+
+## Aime-toi toi-même avant d’aimer l’autre
+
+aurait pu être la devise pour ce post et cette danse.
+
+Loin des clichés du cinéma, des rencontres instantanées où les partenaires rentrent tout de suite en connexion, il y a une autre possibilité : celle d’entrer dans son royaume d’abord.
+
+Occuper mon royaume, prendre possession complètement de mon espace. Certains diront : « Mais tu es dans ta bulle ! Tu ne t’occupes pas de ta partenaire ?! » Ma réponse est « Oui, je suis dans ma bulle. Je l’assume. Je remplis ma bulle de mes mouvements, de ma respiration, de ma présence. »
+
+Et c’est avec cette bulle remplie à ras bord de moi que j’amène ma richesse vers ma partenaire. Dans la sexualité comme dans la danse.
+
+Je pratique la danse 2 à 4 fois par semaine depuis 10 ans et beaucoup des principes que je vous partage viennent de cette expérience, de ces expériences. Je ne partage pas ce qu’on m’a enseigné, même si j’ai eu de très grands enseignants. Je partage ce que j’ai personnellement vécu suffisamment de fois pour en tirer mes conclusions.
+
+Ce n’est pas de la danse de couple où je demande à une femme si elle veut danser avec moi et si oui, nous commencerions à danser ensemble. Je ne demande jamais si une femme, ou un homme, veut danser avec moi.
+
+Avant de danser avec une femme (ou de faire l’amour), ou de danser avec un homme, je prends soin d’occuper mon espace et ma danse de mon être. Je suis dans l’écoute de mon mouvement, de mon rythme, de ma danse, de mes envies. D’instant en instant. Je suis en amour de ce qui se passe, ici, maintenant, en moi, en la vie. Je vis le moment présent en moi.
+
+Ensuite, je laisse l’extérieur entrer. J’écoute l’extérieur. Les autres danses, les autres danseurs, ma partenaire.
+
+Peut-être que nos danses pourraient se rencontrer. Peut-être pas maintenant. Il n’y a pas d’enjeux. Je me laisse guider par ma danse en gardant ma présence à mon corps, pour ressentir mon essence. Il n’y a jamais d’obligation de danser ensemble ni de faire l’amour. Ma connexion à moi-même est plus précieuse que danser avec cette danseuse ou que faire l’amour.
+
+Paradoxalement, c’est quand chacun reste en connexion à soi-même, en s’aimant ce qu’il vit d’abord que la rencontre prendra toute sa beauté, sa vérité, sa puissance.
+
+Au cas où tu te poses la question, oui, c’est possible on peut prendre un temps pour soi, pour rentrer en soi avant de faire l’amour. Chacun reste de son côté le temps dont il a besoin. Ensuite, on écoute la danse des corps dans le moment.
+
+C’est un principe valable pour la danse, la sexualité et bien sûr tous les autres types de relation.
+
+
+## On n’a pas besoin de s’aimer plus, il suffit de moins se juger
+
+Voilà, rien à rajouter au titre ;-)
+J’attends vos réactions et commentaires.
+
+
+## Voici pourquoi tes relations sont foireuses *(brouillon)*
+
+Dans le milieu développement personnel et spirituel il y a deux principes qui sont souvent mal utilisés ensemble.
+
+D’un côté, on dit que l’important c’est l’être, pas l’avoir.
+
+D’un autre côté, on parle du principe de l’attraction qui dit que si on pense fortement et souvent à ce qu’on désire, cela arrive.
+
+Certaines femmes, et certains hommes aussi bien sûr mais je ne le répéterai pas à chaque fois pour ne pas alourdir le texte, utilisent ce principe pour trouver le partenaire qui répondra à leurs attentes. Elles pensent à toutes les qualités qu’elles recherchent chez un amant sensible et les écrivent sur une feuille. Elles font un tableau de visualisation en imaginant comment elles se sentiraient en étant en relation avec un tel homme.
+
+Tu vois le problème ? Elles mettent le focus sur l’homme, sur l’extérieur.
+
+Elles désirent avoir alors qu’elles considèrent que l’important c’est être.
+
+Ce qui est vraiment efficace c’est désirer être. Donc leur question ne devrait pas “Où et comment trouver un amant sensible ?” mais “Comment devenir une amante sensible ?”
+
+Au lieu de désirer rencontrer un amant sensible, désirer devenir une amante sensible. Ce n’est pas parce qu’elles ont vécu une expérience de sexualité sensible qu’elles sont des amantes sensibles. Le fait de vivre une sexualité sensible montre qu’elles ont de la sensibilité et sont capables de la recevoir.
+
+Comme une personne peut devenir riche en recevant un héritage ou gagner au loto. C’est très différent d’une personne qui travaille, investit pour devenir riche. Pour créer sa propre richesse matérielle. Warren Buffett, Elon Musk ou Khan Vo Anh (avec qui j’ai travaillé et qui a fait fortune en France dans l’immobilier d’investissement), si tu confisquais toute leur fortune, 10 ans après ils redeviendraient millionnaires.
+
+Dernièrement, j’ai contacté d’anciennes participantes pour avoir de leurs nouvelles. Elles m’ont toutes dit que mon accompagnement les avait transformées dans l’être. Elles se rendent compte maintenant pourquoi avant, elles avaient des fois une sexualité sensible et des fois (souvent en fait) des relations très insatisfaisantes … voire néfastes.
+
+Avant c’était des Princesses, et leurs relations dépendaient du Prince. Maintenant elles sont des Reines, la qualité de leur sexualité dépend uniquement d’elles.
+
+C’est rare que je donne des conseils, j’essaie plutôt de simplement mettre les choses en perspective, mais après avoir discuté avec plus de personnes, j’ai été tellement touché par leurs désespérances, leurs renoncements à vivre une belle sexualité nourrissante. Là c’est mon petit coup de gueule, bienveillant : “Arrête de chercher un homme bien. Cherche d’abord à être la femme que cet homme cherche.”
+
+Attention, il ne s’agit pas du tout de chercher à plaire. Une personne,  femme ou homme, qui cherche à plaire n’est pas centrée, n’est pas Reine dans son royaume. Cela traduit plus ou moins un manque de confiance, la peur du manque, la peur de ne pas plaire et la dépendance affective. Si une femme veut un Roi, il faut qu’elle devienne Reine. Si un homme veut une Reine, il faut qu’il devienne Roi d’abord.
+
+Deviens Reine, conquiers ton royaume, reconquiers ton royaume,
+
+Si tu cherches à devenir riche, arrête de jouer au loto ou au casino. Tu vas te ruiner. Ruiner ton argent. Ruiner ta santé. Ruiner ton amour propre. Ruiner ton respect pour toi-même. Ruiner ta confiance en toi. Ruiner ta joie de vivre. Ruiner ta sensibilité.
+
+Pour devenir riche, apprends un métier lucratif ou comment investir efficacement.
+
+Pour revenir à la sexualité sensible, je répète mon conseil : “Arrête de chercher un homme bien. Cherche d’abord à être la femme que cet homme cherche.”
+
+Pour devenir Reine ou Roi, contacte-moi.
+
+Peut-être que ce post n’est pas pour toi mais pour une bonne amie ou un bon ami qui en a besoin.
+
+
+---
+
+# Désir et vérité
+
+
+## La force de dire non, la faiblesse d’accepter & la sagesse de dire oui
+
+Il n’est pas toujours facile de dire non, que ce soit dans la sexualité, dans la relation de couple, ou ailleurs. Souvent, sur le moment je ne m’en suis pas rendu compte. C’est après, que je prends conscience que cela ne me convenait pas. Sur l’instant, je voulais bien faire, faire plaisir, être conciliant, me montrer aimant. J’espérais que cet effort que je donne se transformerait en quelque chose de plus positif pour moi.
+
+Souvent, je ne me rends pas compte sur le moment que je voulais dire non. J’ai accepté de manière automatique, compulsive … pour ainsi dire inconsciente. Après, je rumine, je ressasse, j’élabore les scénarios alternatifs. Tout ce que l’autre aurait dû dire ou faire pour prendre soin de moi, de mes besoins. Ou ce que j’aurais dû dire et faire.
+
+Je ressens de la colère contre l’autre, les autres, ceux à qui je n’ai pas eu la force de dire non. Parce que c’est ça la vérité. Je n’ai pas eu la force de dire non. J’avais peur de décevoir, peur de perdre l’harmonie, peur de casser la relation. Alors j’ai accepté ce qu’on me demandait, ce qu’on me proposait, sans voir, sans réaliser, sans entendre la petite voix qui disait non à l’intérieur de ma tête.
+
+Dans la sexualité, dans la vie de couple, familiale, professionnelle, il y avait les mêmes peurs. Peur de décevoir, d’être rejeté, de perdre la relation. Je voulais préserver la relation amoureuse, la famille, la sexualité. Mais en acceptant par faiblesse, je n’ai préservé la relation qu’en surface. Les apparences sont sauves mais au dedans, en mon for intérieur il s’est créé une fissure. Je voulais garder la relation avec l’autre mais j’ai sacrifié la relation avec moi-même.
+
+Comment vivre une belle relation amoureuse quand mon cœur se resserre pour tranquilliser l’autre ? Comment s’épanouir dans la sexualité quand ma vérité se cache pour ne pas déranger l’autre ? Comment espérer que l’autre m’aime pour qui je suis quand je n’arrive pas à me montrer complètement sincère et authentique. C’est impossible.
+
+Il faut de la force pour dire non. Mais quand on n’a pas eu la force de le faire par le passé, ce n’est pas la peine de s’en vouloir ou en vouloir à son partenaire. On peut, on le fait, mais ce n’est pas la peine et ça engendre beaucoup de peine.
+
+On ne peut pas transformer un ‘Oui’ du passé en un ‘Non’ du passé. Mais on peut le transformer en un ‘Oui’ du présent pour ce qui s’est passé. Ce qui s’est passé devait arriver comme ça. Je n’avais pas la force de dire non ? Et bien, ce n’est pas grave. Ce dont j’ai besoin aujourd’hui c’est la sagesse de dire ‘Oui’ à ce qui s’est passé. Accueillir l’expérience, les émotions, la colère peut-être, la tristesse peut-être, voire même le désespoir qui sait.
+
+La sagesse de voir et de reconnaître ma faiblesse dans le passé. La sagesse de reconnaître que la stratégie n’a pas marché. Je voulais sauver la relation à mon détriment mais une relation ne peut être belle quand on doit renoncer à soi-même. Parce que quand j’aurai renoncé à moi-même, que restera-t-il de la relation ? Une coquille creuse qu’on essaie de préserver parce qu’on y a trop investi ? C’est un effort qui va encore me coûter de moi-même.
+
+Définitivement, je ne peux pas être heureux dans une relation si je dois renoncer à moi-même. Reconnaître cette vérité, c’est cela qui m’a donné la force aujourd’hui de dire non à ce qui ne me convient pas.
+
+La paix avec le passé est essentielle pour être heureux, pour vivre la joie et la légèreté dans la relation intime. Cela peut être long, difficile mais absolument nécessaire.
+
+Une formation sur la sexualité devrait toujours commencer par une réconciliation avec le passé avant de proposer des explorations sur des pratiques sexuelles sinon c’est une construction sur du sable … c’est beau, c’est plaisant mais ça ne résistera pas ni au temps ni aux secousses de la vie.
+
+
+## Je t’aime et je te quitte
+
+C’est une des plus belles leçons que j’ai apprises en animant des constellations familiales. Quand on anime une constellation, on se trouve dans un espace sans jugement, avec beaucoup de clarté et honnêtement je me trouvais vraiment intelligent et sage dans cet espace. Malheureusement, quand les constellations familiales étaient finies, je perdais la plupart du temps cette clarté et cette sagesse. Mais cette fois-là, la vision claire est restée.
+
+Une femme était dans un grand conflit. Elle était très amoureuse de son amant mais la relation la faisait énormément souffrir. Elle n’arrivait pas à se décider à quitter son partenaire. Cela la torturait d’être dans cette indécision. Et là j’ai compris le piège dans lequel elle était. Elle avait la croyance “Tant que j’aime quelqu’un, je dois rester avec lui”. Donc, plus je l’aime fort plus je dois rester avec lui.
+
+Mais la réalité c’est qu’aimer n’est absolument pas une bonne raison pour rester avec quelqu’un. C’est quand on idéalise l’amour qu’on pense ça. Il y a une seule bonne raison de rester avec quelqu’un c’est que je suis plus heureux en restant avec lui que de vivre sans lui. Être heureux est le bon critère, aimer ne l’est pas. Parce que dans certaines situations, vivre avec cette personne nous fait souffrir même si nous l’aimons très fort. Il y a plein de raisons pour lesquelles nous sommes malheureux dans la relation avec une personne. C’est simplement que cette relation ne nous convient pas. Ça ne veut pas dire que nous ne l’aimons pas.
+
+Cette femme aimait son partenaire et ne voulait pas renier cet amour en le quittant. Quand je lui ai dit “Tu as le droit de continuer à l’aimer même si tu le quittes” elle s’est illuminée et a recontacté tout l’amour qu’elle avait pour lui. Elle s’est autorisé ses deux vérités. La première c’était qu’elle aimait profondément. La deuxième c’était que c’était bon pour elle d’arrêter cette relation.
+
+Les personnes qui s’attachent à l’idée que l’amour est plus fort que tout vont vouloir rester dans la relation tant qu’il y a des sentiments. Mais la relation se détériore. La liste des reproches s’agrandit. Finalement, la colère et l’exaspération auront noyé l’affection et on arrive à la haine, la rancœur. Parce que la décision qui était de reconnaître la fin de la relation même quand l’amour est là était trop difficile à assumer.
+
+Je ne dis pas qu’il faut quitter quelqu’un qu’on aime. Ni quitter quelqu’un qu’on n’aime plus. La question est “Est-ce que je me sens mieux avec que sans cette personne ?”. C’est cela qui doit déterminer le choix.
+
+Parfois on quitte une personne qu’on aime encore. C’est la vie et c’est juste comme ça. Reconnaître cette vérité autorise à reconnaître tout l’amour qu’on a encore pour cette personne.
+
+« Je t’aime et je te quitte. » C’est une phrase qui honore l’amour que je ressens pour toi, et la vérité et la liberté que je m’accorde … pour moi.
+
+
+## La fin d’une relation, ce séisme (presque) inévitable
+
+Pour celles et ceux qui ont déjà vécu la fin d’une relation importante, elle peut se révéler être une période très déstabilisante voire traumatisante. Comment un être avec qui j’ai passé tant de temps, avec qui j’ai eu des échanges si intimes psychologiquement, physiquement, sexuellement peut se montrer aussi différent du jour au lendemain ? Comment se fait-il qu’après plusieurs mois ou années, je me sens si incompris dans mes blessures, ma solitude, mes peurs, mes attentes ? Pourquoi est-ce que j’ai l’impression de m’en prendre plein la figure ?
+
+La réponse est simple : les petits mensonges, les sous-entendus et les petits efforts de chacun se sont accumulés tout au long de la relation. La fin de la relation, c’est le moment du bilan obligatoire. Jusque là, il y avait encore l’espoir que les choses vont se faire, que j’aurai ce que je veux de toi si je te donne ce que je crois que tu veux de moi.
+
+Le joueur compulsif n’est pas malheureux tant qu’il joue. Tant qu’il joue, il a l’espoir du gain. À chaque pièce qu’il met dans la machine à sous, il savoure par anticipation le gain qu’il va recevoir. Ce jackpot qui va combler sa vie. Ce gros lot qui a effacé tout l’argent qu’il a mis dans la fente. Mais au moment où il s’arrête, tout ce rêve va s’effondrer. L’argent sera bel et bien perdu. Le temps qu’il a passé au casino aussi. Tous les problèmes qu’il voulait résoudre par l’argent vont arriver inévitablement. On comprend mieux aussi pourquoi il joue, et perd autant. A chaque pièce, il se demande “Est-ce que je prends le risque de perdre cette pièce avec la possibilité de gagner le gros lot, ou est-ce que j’arrête et je dois assumer le fait d’avoir perdu mille euros ?” C’est très tentant dans ce cas de remettre juste une pièce. Le problème, c’est que maintenant il se demande “Est-ce que j’arrête et je dois assumer la perte de mille et un euros, ou alors je joue juste un euro avec la possibilité de tout récupérer et d’avoir un pactole ?” Le choix est malheureusement encore évident.
+
+Le jour où la relation s’arrête, c’est le jour où on ferme la machine à espérer. Bye bye le projet de couple parfait. Au revoir ma sécurité affective, financière, sociale. On doit faire les bilans, on peut même dire on fait ses comptes. On se rend des comptes. Chacun présentant à l’autre l’addition de tous ses efforts, toutes les frustrations endurées, tout ce qui a été accepté pour atteindre la vision d’une relation heureuse. Tout ce que je ne t’ai pas dit sur moi, mes vraies attentes, tout ce que j’ai fait pour toi, je vais te le montrer maintenant.
+
+Réclamer mon dû. Je vais te révéler mon vrai visage parce que je ne peux plus le cacher, je ne veux plus me cacher. Et voilà comment deux personnes qui se sont réellement aimées en arrivent à se détester. S’ajoute à cela le fait que tous les efforts de l’autre semblent dérisoires par rapport aux bénéfices que j’ai reçus, parce que j’ai plus tendance à oublier les choses positives mais pas les négatives. Donc je dénigre l’autre dans ses intentions et ses actes. Bien sûr, l’autre fait pareil, en pire même, et là on comprend à quel point le séisme était inévitable.
+
+Alors d’où vient le “presque” dans le titre.
+
+Il y a deux choses qui peuvent éviter ou au moins atténuer ce séisme. Les séismes sont des phénomènes de réajustement des forces de frictions dans la tectonique des plaques. Quand deux plaques s’avancent l’une vers l’autre de plusieurs centimètres par an les contraintes sont considérables et doivent être libérées à un moment ou à un autre.
+
+Voici la première piste pour éviter le gros séisme : accepter les petits plus fréquemment. Accepter que l’autre soit différent de moi, même si nous nous sommes rencontrés à un moment où nous étions en parfaite connexion. Le temps, la vie, le mouvement font que chacun va forcément un peu bouger. Admettre que j’ai des attentes envers l’autre. Les formuler régulièrement. Ce seront des petits moments difficiles, avec des risques de conflits. Mais c’est plus facile de gérer cent petits conflits de difficulté 1 qu’un gros conflit de difficulté 100. Reconnaître que je fais des efforts pour obtenir quelque chose de ma partenaire : le soutien, la sécurité affective, le sexe, l’harmonie du couple, la tranquillité, la complicité, le partage d’activités etc.  Bien sûr que c’est quelque chose de très difficile, on préfère le confort d’un petit mensonge, d’un non-dit, on veut oublier, on se dit que ce n’est rien et quelque part c’est vrai que ce n’est rien. C’est juste un euro à remettre dans la machine à sous … mais un euro après des centaines voire des milliers. Dire les choses, se montrer le plus honnête et le plus authentique possible. C’est difficile sur le coup mais ça permet vraiment de remettre régulièrement les compteurs à zéro ou du moins les baisser significativement.
+
+La deuxième piste c’est de regarder les choses de manière globale. Avertir le joueur qu’une fois qu’il sera pris dans la spirale du jeu, il n’aura plus ses capacités de raisonnement. Lui dire que plus il aura perdu, plus il aura tendance à continuer et s’il perd, plus il perdra. En fait, il ne faut pas jouer pour gagner. Surtout pas. Il faut jouer pour le plaisir de jouer. Partir du principe que l’argent mis dans la machine est perdu. Ce qui est vrai puisque les machines à sous modernes sont programmées pour rendre 80% de sommes perçues. Cela revient à donner à sa partenaire, aimer sa partenaire sans attendre. Et si j’ai des attentes, en prendre conscience, prendre du recul dessus, dans la mesure de mes capacités. Concrètement, c’est se demander à chaque fois que je veux faire ou donner quelque chose : “Est-ce que je le fais par plaisir, envie de lui offrir ce cadeau, ce temps, cette attention parce que je l’aime ? Comme donner de l’affection et de l’énergie à un nouveau-né juste comme ça ?” ou alors “Ne serait-ce pas que je suis en train de lui faire plaisir parce que je veux qu’elle me fasse plaisir en retour ? Je vais lui offrir ce cadeau en échange de son affection, son amour, sa présence ?”
+
+En réalité, dans le deuxième cas, j’investis. C’est brutal comme expression mais c’est vrai. Quand on donne quelque chose parce qu’on attend autre chose de plus bénéfique pour soi, c’est un investissement. Il n’y a pas de honte à le reconnaître. Je suis comme ça, je l’ai été et le serai encore. J’essaie d’être vigilant et de me retenir quand je vois mon impulsion de donner pour recevoir. Pour distinguer un vrai cadeau d’un échange, je me pose la question suivante : ”Si je sais qu’elle va arrêter la relation la semaine prochaine, est-ce que je lui offrirai quand même ce bouquet de fleurs ?” Si la réponse est oui, je lui offre volontiers. Si la réponse est non, j’attends que mes attentes se calment, je soigne mes blessures, mes peurs existentielles. Et si jamais je n’arrive pas à les dépasser, je peux quand même lui donner ces fleurs en prenant conscience que c’est un investissement. En assumant les risques … et peut-être que je pourrais éviter de lui reprocher de ne pas me donner en retour ce que je voulais.
+
+Cette démarche de relation authentique avec soi et avec l’autre demande du temps, de l’énergie et des efforts. S’il y a une chose que j’ai apprise des disputes dans les ruptures, c’est à quel point nous pouvons nous mentir et mentir à l’autre pour obtenir ce que nous voulons. Mais aussi que tous ces mensonges créent inévitablement des tensions qui vont venir exploser un jour ou l’autre. Et même quand elles n’explosent pas, elles nous empêchent de nous laisser aller complètement pour vivre une sexualité légère, subtile et intime. Nous ne sommes pas télépathes mais nous, nos capteurs sensoriels, savons reconnaître la tension quand il y en a une … même quand nous n’en sommes pas conscients ou ne voulons pas l’admettre.
+
+Pour moi, la sexualité heureuse n’a jamais été un but à atteindre mais un indicateur de la qualité de la relation avec ma partenaire. Vivre une sexualité heureuse c’est la cerise sur le gâteau.
+
+Ce qu’il y a de plus beau dans une telle expérience, c’est de se rendre compte que je peux vraiment aimer l’autre pour qui elle est et rester complètement moi-même, léger, intime, puissant, sauvage et subtil.
+
+
+## Ma chérie, j’ai peur
+
+“Ma chérie, j’ai peur que …” : est une phrase qui est ultra puissante mais personne ne nous a conseillé de le dire. On nous a dit, a fait croire qu’il faut dire “Je t’aime”, “Tu es belle”. De jolies phrases pour rassurer, des phrases pour faire plaisir.
+
+Avec du recul, je regrette plus les fois où je n’ai pas avoué “J’ai peur que …” que les fois où je n’ai pas dit “Je t’aime”. Des “je t’aime”, j’en ai dit assez. Des “j’ai peur”, pas assez.
+
+Pour moi, c’est plus facile de dire à ma partenaire que je l’aime que d’avouer mes peurs. Pourtant, parler de mes peurs c’est partager ma réalité, c’est parler de qui je suis. Taire mes peurs, c’est élever un mur de solitude. Alors en plus de devoir gérer la peur, je devais endurer en plus la solitude de porter seul le fardeau et de le cacher.
+
+Quand on dit “je t’aime”, on se rapproche d’un pas. Quand on tait, quand on cache un “j’ai peur”, on s’éloigne d’un pas. Sauf qu’on ne dit pas 10 fois par jour “je t’aime”, par contre on peut cacher 10 fois par jour “j’ai peur”.
+
+Quelles étaient mes peurs ? J’avais peur de ne pas réussir. J’avais peur de lui déplaire. J’avais peur qu’elle me quitte. J’avais peur de la blesser. J’avais peur de la fâcher. J’avais peur qu’elle ne me désire plus.
+
+Aux participants de mon accompagnement, je conseille de toujours partager leurs émotions et surtout leurs peurs.
+
+
+## Quand j’aurai, je serai
+
+« Quand j’aurai trouvé une amoureuse, je serai heureux »
+
+« Quand j’aurai rencontré une personne suffisamment ouverte, je serai plus authentique avec elle »
+
+« Quand j’aurai de la sécurité, je serai plus libre »
+
+« Quand j’aurai résolu mes traumas, je serai capable d’être moi-même »
+
+« Quand j’aurai suffisamment de connaissances, d’argent, de sexualité, de, de, de … encore et encore. »
+
+C’est ce que je croyais pendant des années. Des années à faire des stages dans l’objectif d’être heureux sans avoir besoin du courage de me montrer tel que je suis vraiment, sans dévoiler mes ombres, sans exposer mes hontes. Alors, j’ai accumulé beaucoup de connaissances, beaucoup de principes, beaucoup de stages sur la sexualité et j’ai tourné et tourné encore et encore autour du pot.
+
+Je ne dis pas qu’il ne faut pas faire des stages de développement personnel, de tantra, de constellations familiales et autres supers approches thérapeutiques et spirituelles. Il y a un temps pour cela bien sûr. Évidemment. Mais au bout d’un moment, même si on avance réellement, on tourne quand même autour de l’œil du cyclone.
+
+L’Amour est beau, l’Amour est grand, l’Amour guérit mais la Vérité est la condition nécessaire.
+
+Beaucoup de personnes cherchent l’Amour pour pouvoir se montrer dans leur Vérité. C’est une illusion. On nous vend cette promesse commerciale d’où trouver l’Amour, comment trouver l’Amour, comment attirer le bon partenaire sans nous dire le prix réel à payer : dire la Vérité. Dire ma vérité dès la première rencontre. Dire ma vérité sur mes fantasmes. Dire ma vérité pendant la sexualité. Et là on comprend mieux pourquoi les gens sont prêts à dépenser des années et des années, des milliers et des milliers d’euros si quelqu’un leur promet l’Amour sans s’exposer.
+
+Pas besoin de connaître cent pratiques sexuelles énergétiques ou spirituelles, une ou deux suffisent. Au-delà, pour beaucoup, moi le premier pendant des années, cette quête de connaissances, d’information n’est qu’une tentative d’atteindre l’Amour sans passer par la Vérité absolue.
+
+Tout mon coaching Vivre un Grand Amour au niveau du Cœur et de la Sexualité est basé sur l’efficience qui découle de ce principe : Oser sa Vérité, Déployer sa Liberté, Honorer sa Sexualité.
+
+
+## Sans peur & sans reproche
+
+La plupart des conseils que je vois sur la sexualité, surtout de la part des professions médicales, sont de l’ordre du faire. Comment faire ceci, comment faire cela. Quelles positions explorer. Où trouver et quoi faire avec les zones érogènes. Alors oui, le savoir anatomique est intéressant mais complètement secondaire parce que le faire est complètement dépendant de l’être. Une sexualité sensible c’est 80% de l’être et 20% du faire.
+
+Si vous avez un petit enfant qui vous a massé, qui vous a papouillé, vous comprenez ce que je veux dire. Il n’a aucune connaissance ni technique. Il est simplement dans la joie et la curiosité du contact.
+
+Ceux qui ne vous parlent que du faire sans parler de l’être, ce que je vois énormément même chez les formateurs de tantra, de sexualité sacrée, sont soit inconscients soit ignorants des difficultés réelles des gens.
+
+Être sans peur : c’est lâcher les peurs de décevoir, de blesser, de ne pas jouir, de ne pas faire jouir, d’être quitté, de ne pas être à la hauteur, de ne pas mériter ce dont on a envie, de ne pas recevoir ce qu’on veut.
+
+Être sans reproche, mais vis-à-vis de l’autre. Ne rien lui reprocher. Ne rien demander. Ne rien reprocher ne signifie pas que je n’ai pas le droit d’être déçu. Bien sûr des fois je suis déçu mais c’est léger. Comme quand je suis déçu qu’il pleuve mais je ne fais pas de reproches au ciel. Ne rien demander ne signifie pas que je n’ai pas le droit d’avoir des envies. Bien sûr, j’ai des envies. J’ai envie de telles caresses, de tels baisers, de telles positions, de faire telle expérience avec toi. Je les exprime, je les communique, parce que je suis sans peur. Si l’autre a vraiment ces envies, nous les partageons et explorons ensemble. Sinon, rien. Nous profitons seulement de ce qui nous plaît vraiment à tous les deux.
+
+Une sexualité magnifique se résume à ça : Être sans peur et sans reproche.
+
+Je n’ai aucune expérience où j’étais sans peur et sans reproche qui n’était pas parfaite.
+
+A contrario, toutes les expériences où quelque chose n’allait pas, c’était parce qu’il y avait de la peur chez moi ou/et des reproches envers ma partenaire.
+
+C’est aussi simple que ça.
+
+Il y a des personnes qui ont besoin d’entendre au moins trois fois une chose pour l’intégrer. Enfin, c’est ce que mon ex-femme disait souvent de moi … et bien plus que trois fois.
+
+Bon, ceci c’est mon expérience, mon analyse. Peut-être qu’il y a des situations où vous avez été sans peur et sans reproche et qu’il vous a manqué des connaissances techniques.
+
+Je ne dis pas que c’est inutile d’avoir des connaissances sur l’anatomie, sur des techniques et des pratiques … mais c’est très secondaire. C’est intéressant. En plus, ça rassure d’apprendre de nouvelles choses parce qu’on a l’impression d’avancer. Mais on avance en rond. On tourne en rond tenu par la laisse de sa peur, ses peurs profondes.
+
+Si je n’avais qu’un seul conseil à vous donner pour vivre une sexualité sensible c’est :
+
+Ne cherchez pas à mieux faire mais cherchez à être sans peur et sans reproches.
+
+Ne cherchez pas à mieux faire mais cherchez à être sans peur et sans reproches.
+
+Ne cherchez pas à mieux faire mais cherchez à être sans peur et sans reproches.
+
+Il y a des personnes qui ont besoin d’entendre au moins trois fois une chose pour l’intégrer. Enfin, c’est ce que mon ex-femme disait souvent de moi … et bien plus que trois fois.
+
+La lumière existe, j’y ai cru, j’ai marché vers elle, je l’ai vue et j’y suis arrivé. C’est parce que j’ai marché vers elle que je l’ai vue et non le contraire.
+
+
+## Donner c’est donner ?
+
+La fin d’une relation est une magnifique expérience de vérité. C’est l’occasion de voir nos attentes, nos idéalisations, notre imaginaire sur la relation disparaître en poussière. Nos rêves, nos espoirs s’effondrent.
+
+C’est le moment où je peux voir tout ce que j’attendais de la relation, ce que j’ai investi pour le couple dans le but plus ou moins avoué de recevoir en retour ce que je voulais : attention, fidélité, sexualité, affection, sécurité, enfants, mariage, foyer, confort émotionnel, etc. Tous ces efforts acceptés, toutes ces frustrations endurées pour obtenir ce que je désirais sont devenus inutiles.
+
+C’est comme de regarder un billet de loto après le tirage. C’est juste un bout de papier. Tout l’argent que j’ai mis dans le billet est maintenant perdu. Avant le tirage, il y avait l’espoir. Après le tirage, il y a le regret, l’amertume de la perte. La double perte en fait. La perte du gain espéré. Mais aussi la perte de tout ce que cela a coûté.
+
+À la fin de la relation, on se rend compte aussi de la double perte. La perte du projet de couple, de la vie à deux, de la vie amoureuse, de la vie familiale etc. Il y a aussi la perte de toute cette énergie que j’ai mise pour construire le couple que je voulais. Du travail, des efforts, de la frustration, du temps, de l’énergie, du renoncement … tout ce que j’ai donné dans le couple parce que j’avais de l’espoir. Maintenant que l’espoir s’est envolé, j’ai du regret, de la colère. Et cette phrase qui tourne en boucle “Si j’avais su, je n’aurais pas fait/accepté tout ça !”.
+
+C’est une belle phrase quand je veux bien l’accueillir et recevoir son enseignement. Cette phrase qui m’invite à regarder mes attentes, mes manipulations, mon manque d’honnêteté. Beaucoup de ce que j’ai cru donner était en réalité un investissement. Je donnais dans l’espoir, plus ou moins, avoué de recevoir en retour. C’est normal ? Oui. C’est humain ? Oui. Pour autant, ce n’est pas forcément honnête.
+
+L’enseignement que j’en retire c’est une nouvelle question : “Est-ce que je suis en train de vraiment lui donner ou est-ce un investissement ?” Question plus directe encore : “Est-ce que je lui donnerais tout ça si elle me quittait demain ?”
+
+Une autre formulation est : “Est-ce que je donne pour ce que j’ai vécu avec elle dans le passé ?” Si c’est oui, alors c’est un don, c’est un remerciement. Si c’est non, alors c’est un investissement et c’est à mes risques et périls.
+
+Je ne dis pas de ne pas prendre de risque. La vie c’est du risque. Les relations c’est du risque. On ne peut pas se fier complètement à l’autre. On ne peut pas connaître l’autre de manière parfaite. Déjà qu’on se connaît mal soi-même alors croire qu’on peut connaître parfaitement l’autre est un manque de clarté.
+
+Si je peux me rendre compte que je n’ai pas vraiment donné, je serai moins enclin au regret et à la colère parce que je réaliserai que j’ai simplement joué et j’ai perdu. Quand je suis conscient du risque à mettre une pièce dans une machine à sous, quand je suis conscient que la probabilité que je gagne au loto est infime, il n’y a plus de quoi être en colère ou avoir des regrets de perdre. C’est simplement la vie.
+
+Alors, est-ce que j’ai vraiment donné ?
+
+
+## Confort vs effort
+
+Un principe du yoga traditionnel est le non effort. L’effort vient quand il y a un but à atteindre, cela crée automatiquement une peur de ne pas réussir, ça amène une tension. Cela ne signifie pas ne pas se fatiguer, ne pas transpirer, ne pas avoir des courbatures. Le corps réagit comme il peut suivant son état, sa constitution, son entraînement mais mentalement l’esprit peut rester détendu, garder un sourire intérieur.
+
+Le grand inconvénient de l’effort, c’est que je le fais payer après. C’est que je crée une dette implicite de mon partenaire envers moi. “J’ai fait un effort pour toi alors tu dois faire un effort pour moi. Si tu ne fais pas ce que j’attends de toi (à la hauteur de mes efforts) alors je serai en colère, déçu, blessé etc”. Comme c’est implicite, ma partenaire ne sait même pas forcément que j’ai monté mon niveau d’exigence de ce qu’elle doit faire/être. Un effort, c’est un placement que je fais et je veux un retour sur investissement. C’est ça un effort. C’est le dialogue interne ou extériorisé “J’ai passé tant de temps à faire ça pour toi, à supporter ça de toi, à construire ça pour notre couple et toi tu …” Ce n’est pas grave, c’est comme ça, c’est la vie, c’est humain. Être vigilant, voir le mécanisme. Quand je me rends compte de ce fonctionnement, je peux faire plus attention. Faire plus attention à mes limites, à ma zone de confort, à ma zone d’inconfort. Donner moins peut-être. En réalité ce n’est pas moins donner, c’est juste différencier le don de l’investissement. Quand je vérifie que j’ai vraiment envie de donner, que c’est bien pour l’autre que je le fais et non pour moi alors cela amène le plaisir de donner. C’est la générosité qui s’exprime, c’est le cœur qui parle, c’est l’amour qui se manifeste. Encore une fois, investir n’est pas grave, faire un effort pour obtenir quelque chose de l’autre non plus, j’ai mes peurs, j’ai des attentes mais si je le fais en disant que c’est un don, que je suis généreux alors je me mens à moi-même et surtout je ne serai plus capable de reconnaître le vrai don.
+
+Une bonne façon de vérifier si c’est un don ou un investissement, si je suis dans le confort ou l’effort, c’est de me demander “Est-ce que je ferais ça si je savais qu’elle me quitterait demain/dans un mois ?”
+
+Ce n’est pas parce que je suis dans le confort que je ne fais rien. Plusieurs fois, j’ai passé une journée entière à décorer l’appartement de pétales de roses, de bougies, d’encens, de peintures, de tissus de couleur, contre une playlist de 2h de musiques. Avant d’entreprendre ce projet, je me suis demandé si je le faisais parce qu’elle le méritait ou parce que j’avais envie de quelque chose. Je me suis demandé si je regretterais de lui avoir offert cela si elle me quittait la semaine suivante pour un autre. J’ai attendu que la réponse devienne non pour le faire. Un mois plus tôt, ça aurait été avec des attentes. Là, c’était devenu un cadeau de remerciement, sans demande, sans objectif futur.
+
+Dans la sexualité, c’est utile de rester vigilant. De savoir si je suis en mode effort ou si je suis dans le confort. Certaines positions peuvent me fatiguer à la longue et je passe en mode effort sans me rendre compte. Une certaine pratique comme le sexe oral peut procurer tellement de plaisir à l’autre que j’oublie de m’écouter. Un pote m’a raconté qu’il avait été dans une relation où sa partenaire ne pouvait jouir qu’avec un cunnilingus. Il lui a donné du plaisir avec cette pratique mais à la longue il a eu des crampes à la mâchoire et la langue à tel point qu’il a été dégoûté de cette pratique. Il ne peut plus du tout le faire alors qu’il aimait ça.
+
+Une amie avait accepté la sodomie pour faire plaisir à son partenaire. Ça s’est mal passé, elle en a été traumatisée. Il lui a fallu beaucoup de temps pour renouer avec la sensibilité de son anus et ressentir du plaisir au toucher.
+
+Ce sont des cas extrêmes bien sûr. Mais ils démontrent clairement la dynamique des mécanismes psychologiques sous-jacents.
+
+Aujourd’hui, dans la mesure du possible, je préfère rester dans le confort plutôt que de faire des efforts. Rester dans la zone de confort plutôt qu’aller dans la zone d’inconfort.
+
+Ce n’était pas le cas il y a 30 ans. J’ai été baigné dans le “Quand on veut, on peut”. J’ai été formateur et j’ai expliqué pendant des années que se mettre dans la zone d’inconfort, ça permet de progresser. Depuis plusieurs années, j’ai découvert qu’on peut progresser sans effort, sans se mettre dans la zone d’inconfort.
+
+Voici un exemple sportif de progression sans effort, sans devoir aller dans la zone d’inconfort. Imaginons que je sais faire 10 pompes facilement, entre 11 à 13 c’est difficile, 14 à 15 très dur et 16 c’est le maximum. La façon de progresser à la dure, en dépassant sa zone de confort, c’est de faire un entraînement quotidien à 15 pompes. Au bout de plusieurs jours, ça va aller et quand ça devient confortable, je passe à 16, puis 17 etc. Chaque fois que ça devient facile, je monte d’un cran. En procédant de cette manière, je vais arriver à 20 pompes. Pendant toute cette période, je suis constamment dans l’effort. La deuxième façon de faire, c’est de commencer à faire 10 pompes chaque jour. Mon corps va se développer, la zone de confort va s’agrandir, et 10 deviendra de plus en plus facile. Je pourrai alors passer à 11 pompes tout en restant dans la zone de confort. Quand mes muscles se seront assez développés, je passerai à 12. Toujours en restant dans un confort. Toujours sans effort. Au final, j’arriverai progressivement à 20 aussi en restant dans le confort. Alors que la première stratégie m’a condamné à demeurer dans l’inconfort tout le long du processus.
+
+Rester dans le confort ne signifie pas attendre sans rien faire, c’est éviter de créer des tensions. Si quand je donne, je donne vraiment ça apporte la joie. Si je dis que je donne alors que je suis dans l’effort, j’investis, je crée une double tension. Une tension pour l’attente. Une tension pour le mensonge. Cette dernière, je peux l’éviter en étant honnête avec moi même.
+
+Petite précision qui ne fera pas plaisir, chaque fois que je me dis “Si j’avais su qu’elle allait faire/dire ça, je n’aurais pas fait …” C’était un effort, c’était un investissement, il y avait une attente en contrepartie.
+
+Plus je fais d’effort pour elle, plus le carnet de ses dettes se remplit, plus j’ai d’attentes, plus je me tends. Une tension psychologique empêche la légèreté dans la sexualité, freine l’intimité des corps, entrave le relâchement de l’esprit. Avec le temps le désir peut s’émousser bien sûr, c’est physiologique. Mais la rancœur, la colère, les reproches inscrits dans le carnet concernent beaucoup des efforts que j’ai faits pour lesquels je n’ai pas reçu les bénéfices attendus en retour. Et c’est bien plus nuisible à la libido que le temps qui passe. S’il n’y avait que le temps qui fait baisser la libido alors pourquoi certains couples, qui se séparent, retrouvent une libido si intense. J’ai une hypothèse. Quand un couple se sépare, il arrive qu’on ait fait une croix sur une grande partie des attentes, on a revu à la baisse ses exigences vis-à-vis de l’autre … alors le désir profond revient, se manifeste voire explose.
+
+Il est possible d’éviter l’effort, il est possible de rester dans le confort … dans la sexualité tout particulièrement.
+
+
+## Ce n’est pas parce qu’un reproche est justifié qu’il est juste
+
+Ce n’est pas parce que les reproches sont justifiés qu’ils sont justes.
+
+Un reproche justifié, c’est quand le partenaire énonce une vérité en disant par exemple “ Tu ne prends pas assez soin de toi. Tu fais trop de critiques. etc”
+
+Ce n’est pas forcément juste que c’est forcément un problème. Qui veut tuer son chien, l’accuse de la rage. Il se peut que ces reproches, et d’autres, ne soient que des excuses pour prendre de la distance dans la relation. Alors qu’en réalité, la personne sent la distance grandir dans son cœur et cherche une logique, une raison raisonnable à cette prise de distance.
+
+Le cœur a ses raisons que la raison ignore comme disait Pascal.  Il est parfois difficile d’écouter et de suivre son cœur. Il se peut qu’on culpabilise de changer alors que l’autre n’a rien fait. Il est simplement lui. Et pour ne pas assumer, ne pas s’accuser de trahir cet ancien amour, on va accuser l’autre.
+
+La deuxième chose importante que j’ai envie de partager avec toi, c’est le principe du miroir. Le “c’est celui qui dit qui est”. Peut-être effectivement que la formulation du reproche parle surtout de celui qui l’exprime. Ce qu’on reproche à l’autre c’est ce qu’on n’a pas encore assumé, accepté de soi-même. Parce que “Je suis humain, et rien d’humain ne m’est étranger” de Térence.
+
+Quand les reproches arrivent, je t’invite à ces deux questions :
+
+“Est-ce que le reproche explique la distance dans la relation ou est-ce que le reproche justifie à posteriori une distance qui est déjà là et qui n’est pas assumée ?”
+
+“Même si les reproches sont justifiés, en quoi et sous quelles formes ils décrivent celui qui les formule ?”
+
+L’amour, comme la vie, vient et repart sans explication, sans justification, même si nos esprits essaient d’en formuler des théories.
+
+Accepter la chance quand cela arrive. Sentir la gratitude quand cela part. Parce que ce que je perçois comme un grand vide est simplement un cœur plus grand qui peut aimer plus fort.
+
+
+## Il n’y a rien à devenir *(brouillon)*
+
+Des fois, c’est en répondant à un participant que se révèle à moi une évidence latente. Il y a quelque temps, un participant formulait son envie d’être enfin pleinement un Homme. Il avait le sentiment de ne pas être suffisamment Homme. Dans le même groupe, une femme disait la même chose. Qu’elle n’avait pas appris à être Femme.
+
+Il y a une grosse erreur d’interprétation, une logique erronée. Il ne se sent pas bien dans sa peau. C’est un homme. Il se dit que “être un homme complet”, “être pleinement homme”, “être dans sa puissance masculine”, formes édulcorées de ”être un homme idéal”, “être un homme parfait” ça serait cool, ça sera la solution parce que l’homme parfait, l’homme idéal est heureux.
+
+Mais “l’homme parfait”, “l’homme idéal”, comme “l’homme dans sa puissance”, “l’homme moderne” ou toute autre expression n’existe pas dans le réel. Ce qui existe c’est chacun de nous. Et du coup, on fantasme avec un modèle.
+
+Ce qui importe ce n’est pas “Comment je fais pour être un homme complet”, ce qui n’est qu’une excuse parce que je n’assume pas qui je suis. La question utile voire indispensable c’est “Comment exprimer ce que j’ai envie d’exprimer de moi ?”. Et je n’ai pas besoin de me justifier, de dire que c’est pour être ceci ou cela. C’est juste moi. C’est juste être qui je suis, assumer qui je suis, ce que je veux et ce que je ne veux pas.
+
+En plus, quand la question se pose sous la forme “Comment être un homme parfait ?” Je mets l’accent sur l’être et je sous-entends que je ne suis pas assez bien. Quand je me pose la question “Comment exprimer qui je suis ?” J’honore l’être que je suis déjà. C’est seulement une difficulté du faire, des moyens et non de l’être.
+
+Comment être quelqu’un d’autre ?  C’est un piano qui se demande comment être une guitare. Comment exprimer qui je suis ? C’est un piano à accorder en tant que piano pour faire des sons pianos. Pas parce qu’un piano c’est mieux qu’une guitare. Il n’y a pas de jugement sur les guitares, de condamnation des guitares. Les guitares ont leurs places. J’ai ma place de piano.
+
+Les promesses type “deviens qui tu es” sont très culpabilisatrices parce qu’elles induisent que le tu n’est pas le vrai toi. Mensonges !!! Bullshit pseudo spirituels. Tu es déjà le vrai toi. Tu es déjà qui tu veux être. Tu es déjà le piano que tu cherches à être. C’est seulement que le son qu’on entend n’est pas encore à la hauteur de ce qui est possible.
+
+Il n’y a rien à transformer. Il y a à mieux exprimer.
+
+Oser ma Vérité. Honorer ma Liberté. Déployer mon Être.
+
+
+## Oedipe, le drame des mensonges par omission
+
+La tragédie d’Oedipe a été relatée depuis Sophocle dans le théâtre antique grec jusqu’à la psychanalyse de Freud comme illustration de la condition humaine et de la noirceur de l’inconscience. Les dieux se jouant des humains comme de simples marionnettes.
+
+Mon expérience des constellations familiales m’a appris la vertu de la vérité comme thérapie suprême. La vérité à tout prix, quelle qu’elle soit, aussi difficile qu’elle puisse être est libératrice de la souffrance. Regardons de plus près la succession des événements en nous détachant du côté mélodramatique de l’histoire.
+
+Le premier événement déclencheur fut le moment où Laïos, le roi de Thèbes, alla consulter l’oracle de Delphes. L’oracle lui annonça que son fils le tuera et épousera sa femme, Jocaste.
+
+Très troublé par cette annonce, Laïos décida de ne rien dire à sa femme pour la protéger. Premier mensonge par omission.
+
+Redoutant la procréation du fils parricide, Laïos évita tout contact intime avec son épouse. Ne supportant plus que son mari l’ignore sexuellement malgré des avances répétées, un soir Jocaste s’est mise à séduire son mari tout en l’enivrant. Oubliant l’oracle de Delphes, Laïos honora son épouse d’une nuit d’amour, elle tomba enceinte.
+
+Laïos raconta à sa femme l’oracle et ils décidèrent de faire tuer leur enfant. Ils ordonnèrent à un garde d’emmener le nourrisson dans la forêt pour l’exécuter. Le garde abandonne l’enfant en l’attachant par le pied à un arbre, d’où le nom Œdipe signifiant « pied enflé ». Un paysan recueille l’enfant et l’emmène à Polybe et Mérope qui l’adoptent.
+
+Ils ne dirent jamais à Œdipe qu’il a été trouvé et adopté. Encore un mensonge par omission bien intentionné.
+
+Enfin, Œdipe alla consulter à son tour l’oracle de Delphes qui lui annonça qu’il tuera son père et se mariera avec sa mère. Au lieu d’en parler à ses parents, ce qui aurait pu mettre fin à ces malentendus, il préféra ne rien dire et s’éloigner de ses parents pour éviter les drames annoncés. Ce fut le dernier mensonge par omission bien intentionné qui scella le déroulement la tragédie devenu maintenant inévitable.
+
+Œdipe, ses parents biologiques et ses parents adoptifs ont menti par omission pour protéger des êtres chers et cela les a conduits au drame.
+
+Depuis un certain temps, je m’observe pendant les moments intimes avec ma partenaire et je suis vigilant sur les petits détails, les petites pensées, les petites peurs et les petites questions que je ne formule pas. Ce ne sont pas de gros mensonges, simplement des choses que je ne dis pas. Alors je m’efforce de les verbaliser pour les partager.
+
+Heureusement, nos mensonges par omission ne conduisent pas à de tels drames mais ils nous séparent quand même de nos aimés. La sexualité étant un moment de sensibilité et de vulnérabilité, chaque mensonge est une barrière que je dresse entre ma partenaire et moi. Quand je me rappelle d’Œdipe, je me rappelle qu’il est parfois difficile de dire la vérité mais il est encore plus difficile de vivre dans le mensonge.
+
+Chaque fois que je partage une vérité aussi petite qu’elle soit, je me rapproche de ma partenaire.
+
+
+## Cherchez-vous un Mendiant ou un Roi ? *(brouillon)*
+
+Il y a deux grands archétypes dans la rencontre amoureuse.
+
+Le Mendiant qui est en demande d’amour, d’attention, de reconnaissance, du sexe.
+
+Le Roi qui déborde d’amour, qui offre de l’attention, qui montre de la reconnaissance et propose du sexe.
+
+Alors prenons un moment pour voir qui vous préférez rencontrer : un Mendiant ou un Roi ? Une Reine ou une Mendiante ?
+
+Si vous préférez une Reine ou un Roi, la suite est pour vous.
+
+Oui, une personne qui est en manque, elle est moins attirante. Quelqu’un qui est affamé de sexe, c’est moins excitant. On ne déguste pas un grand vin en étant assoiffé, il faut boire un peu d’eau avant. On ne déguste pas de grands plats le ventre vide, il faut quelques amuse-gueules avant. Alors comment faire quand on est célibataire pour ne pas être en manque ? Pour ne pas aller à la rencontre de l’autre en quémandant ?
+
+La réponse : Changer les besoins en envies.
+
+La différence entre un besoin et une envie. Un besoin non satisfait crée un malaise, une douleur, une souffrance. Une envie, c’est plus léger, on peut gérer. Je ne parle pas d’envie irrésistible mais d’une envie simple. “J’ai envie de boire”. Si je bois maintenant, c’est bien. Si je ne bois pas tout de suite, ce n’est pas grave. Je peux attendre en gardant le sourire et le cœur léger. Quand on est dans le besoin, on souffre. On risque de se jeter sur le ou la première qui passe. On ne peut pas faire le difficile et prendre le temps de vérifier si cette relation va vraiment nous convenir.
+
+Comment transformer nos besoins en envies ? Comment transformer le besoin de rencontrer quelqu’un en envie de rencontrer quelqu’un ? Réponse : en satisfaisant nos besoins nous-mêmes sans attendre l’autre.
+
+Besoin de jouir : On peut se caresser, se masturber, provoquer soi-même un orgasme. Il y a plein d’autres mammifères qui le font, les lapins, les chiens, les dauphins, les singes. Alors pourquoi pas nous ? Il y a des pornos pour tous les goûts, du plus basique au plus sensuel, de la vidéo brute de 5 minutes au long métrage d’une heure. Il y a aussi des sites de textes érotiques pour tous les goûts avec des scénarios, des situations diverses et variées.
+
+Besoin d’être touché : Il y a des ateliers de massage, de câlins, de tantra. On peut le faire avec un ami pour peu que les choses aient été clarifiées et posées. Une fois, à une soirée de tantra, j’ai vu un homme qui était complètement malheureux, avec un regard libidineux sur les femmes et qui a terminé l’atelier avec un sourire radieux, un visage lumineux et le regard léger simplement parce qu’il a reçu sa dose de contact physique humain.
+
+Besoin de sensualité : Il y a la danse pour ça. C’est presque une institution dédiée au contact sensuel sublimé par une expression artistique. Pas toutes les danses mais beaucoup d’entre elles le permettent. Personnellement, j’ai des périodes de célibat qui peuvent dépasser une année sans que cela ne me pose de problème parce que je danse toutes les semaines.
+
+Besoin de relation humaine : Il y a des amis ou des cercles de paroles pour discuter sur nos soucis, nos peurs et nos chagrins. Des cercles de femmes, des cercles d’hommes et des cercles mixtes.
+
+Satisfaire mes besoins c’est de ma responsabilité. Même si ce n’est pas de manière parfaite ou idéale, je peux satisfaire ces différents besoins. Parce qu’alors, je ne serai pas en demande, en souffrance à quémander. Je peux aller vers l’autre en étant déjà complet, autonome, heureux. Je ne suis plus un trou noir sans fond qui aspire l’attention, l’amour mais je suis un soleil qui rayonne ma lumière, mon amour.
+
+Ça donne quand même plus envie non ?
+
+
+## Ce que je veux vraiment *(brouillon)*
+
+Il y avait ce phénomène bizarre qui m’était arrivé plusieurs fois, trop de fois à vrai dire. Les principes que je vous donne ici vous permettront de les éviter.
+
+J’éprouvais de l’insatisfaction dans ma sexualité. Je me disais à moi-même et à ma partenaire, je ne suis pas satisfait parce qu’il manque X dans notre sexualité. Avec ma partenaire, nous cheminons et nous expérimentons X plusieurs fois.
+
+Je vis de la satisfaction mais au bout d’un certain temps, une autre insatisfaction arrive. Je réfléchis, je ressens, je m’écoute et j’en conclus qu’il me manque maintenant Y. Je le partage à ma partenaire. Notre relation évolue vers Y. Nous le vivons. Cela se passe bien jusqu’au jour où je sens qu’il me faut autre chose. Il me faut du Z.
+
+Je l’explique à ma partenaire. Forcément elle se dit qu’effectivement jamais deux sans trois et qu’elle en avait marre. Moi-même, je ne me sentais pas très bien. Je culpabilisais d’être sans cesse dans la demande et surtout, surtout de ne pas être satisfait une fois que j’avais atteint l’objectif. Le problème c’est que je ne savais absolument pas quoi faire pour sortir de ce processus : objectif, cheminement, arrivée, sensation de manque, nouvel objectif. C’était une boucle infernale pour moi et ma partenaire.
+
+Avec du recul, de l’analyse voici ce que j’ai compris de moi-même. Cette approche m’aurait permis d’y voir plus clair et d’éviter les déceptions.
+
+Tout d’abord, ce qui s’est réellement passé. En vérité, ce que je voulais profondément c’était : X, Y, Z, A, B, C et D.
+
+Sauf que j’étais tellement enfermé dans mes schémas que je ne m’autorisais pas à penser cela. Je ne me donnais pas la permission d’espérer tout cela alors que je n’avais même pas le premier X. La seule chose qui était acceptable dans mon esprit c’était de vouloir X. Ma vision était limitée à cela. Une fois que j’ai atteint ce X, j’étais content. Mais après un moment, je ressentais bien que je n’étais pas arrivé, qu’il me manquait quelque chose. Mais quoi ? Alors je cherchais ce qui manque et je trouvais que c’est Y.
+
+Et ce processus se répète ainsi de suite. Si cela vous est arrivé vous savez que c’est très fatigant. On désespère parfois en se demandant s’il faut continuer ou pas. Est-ce qu’on n’est pas en train de courir après une chimère ? Est-ce que ce n’est pas inévitable d’être toujours insatisfait ? Non, ce n’est pas inévitable. Oui vous avez raison de chercher si vous sentez un manque ou une insatisfaction dans votre vie sexuelle.
+
+Donc la première erreur c’est de ne pas admettre nos besoins réels. Nous nous autorisons seulement à reconnaître le premier de ces besoins, le plus immédiat.
+
+Ce que vous pouvez faire, c’est prendre un moment pour vous et d’écrire TOUT, absolument TOUT ce que vous avez envie de vivre et d’expérimenter dans la sexualité. Sans vous juger. Cela peut être audacieux, très osé, anormal, immoral, dérangeant, bizarre etc. Ce n’est pas grave. C’est simplement reconnaître toutes vos envies. C’est oser vous donner la liberté de cela. Parce que si vous-même vous ne vous autorisez pas à être qui vous êtes réellement, comment espérer que quelqu’un d’autre vous accepte totalement.
+
+S’accepter soi-même c’est aussi accepter le fait d’être mal à l’aise avec certains désirs ou fantasmes. Vous avez le droit d’être gêné par telles ou telles envies. Ce n’est pas grave. Mais donnez-vous au moins le droit de les avoir, de les reconnaître comme étant une partie de vous-même.
+
+Il y a aussi une deuxième erreur. C’était de chercher à définir les expériences de l’extérieur. C’était de formuler « J’ai envie de pratiquer cela, faire l’amour comme ceci, etc » En réalité, ce que je voulais vraiment c’est simplement être moi-même pendant l’acte sexuel. Avec toutes mes composantes. Si vous trouvez cela abstrait, je vais entrer dans les détails.
+
+Il y a cinq qualités d’être dans la sexualité : Léger, Intime, Puissant, Sauvage et Subtil.
+
+Prenons par exemple la qualité Puissance. La question à se poser c’est quelle est votre puissance maximale ? Comment vous vous sentez quand vous exprimez toute votre puissance ? Par exemple, un endroit où j’exprime toute ma puissance c’est quand je me défoule sur un punching-ball. C’est ma référence maximale, mon 100% de puissance. Maintenant, quel est votre niveau de puissance quand vous faites l’amour ? Moi, j’étais très garçon bien élevé. J’étais très doux dans la sexualité. Mon niveau de Puissance dans la sexualité par rapport au max c’était plutôt 30%. Maintenant, question qui demande une grande honnêteté, quel niveau de Puissance voulez-vous vivre dans la sexualité. Moi c’est 80%. Attention, cela ne veut pas du tout dire que je vais frapper ma partenaire comme sur le punching-ball à 80% de ma puissance. Non, je reste vigilant et conscient. Si la puissance que je veux exprimer est trop forte pour le contact avec ma partenaire je vais serrer très fort les coussins, ou frapper sur le matelas, ou empoigner le bord du lit ou mordre la couverture. Mais je vais vibrer à 80% de ma puissance et je vais l’offrir à ma partenaire. Je vais incarner ce degré de puissance. Cela va se sentir dans ma respiration, mes mouvements et même dans la délicatesse de mes caresses.
+
+Je vous invite à faire cet auto diagnostic de ce que vous désirez pour votre sexualité. C’est très bénéfique parce que chaque progrès que vous ferez vous rapprochera vraiment de votre objectif et d’avoir cet objectif clair évite d’être dans la situation « c’est bien mais maintenant je veux encore plus ». La réalité c’est qu’au fond de vous, vous avez toujours voulu ce plus. C’est simplement que vous n’avez pas osé l’admettre. Mais je vais vous dire quelque chose. Il y a deux jours, j’ai écrit le manifeste de la façon dont je veux accompagner les personnes désireuses d’évoluer dans leur sexualité (c’est le post précédent). Et c’est devenu très clair dans ma tête et dans mon cœur. Nous sommes des Rois et des Reines. Nous avons le droit de désirer tout ce que nous voulons. Nous méritons le meilleur de la sexualité pour nous-mêmes.
+
+Alors est-ce que vous voulez seulement X ou en réalité ce que vous voulez, et méritez, c’est X,Y,Z,A,B,C et D ?
+
+Et sur les qualités LIPSS (léger, intime, puissance, sauvage et subtil) avez-vous déterminé où vous êtes et à quel degré vous avez envie de vibrer lorsque vous faites l’amour ?
+
+
+## Mes besoins et mes envies sont non négociables *(brouillon)*
+
+Dans une relation, on ne peut pas forcément avoir toujours ce qu’on veut. Le piège c’est de réfléchir à ce que le couple veut avant d’avoir trouvé ce que chacun veut.
+
+Alicia en couple, relation distante. Ils se retrouvent une fois par mois. Questions qui a fait mouche : de combien de temps dans l’idéal tu veux pour vivre le moment sexuel. idéal 3h, besoin  2h (en-dessous je suis insatisfaite), La vie ne me permet pas de les avoir, par exemple je ne peux avoir que 1h30 : Donc, c’est normal que je me sente insatisfaite. Si on commence à discuter avant que je sois au clair, il peut arriver que 1h30 soit tellement évident que c’est le maximum que je ne m’autorise pas à regarder plus loin. Comme c’est logique, ça peut primer sur le ressenti et je m’anesthésie pour ne pas sentir la frustration.
+
+Donc écouter, réfléchir, trouver ma quantité idéale, fréquence, temps, endroit, horaire.
+
+Ensuite le niveau des besoins, le minimum en dessous duquel je serai forcément frustré.
+
+Après seulement, discuter avec son partenaire en ayant ces points importants en tête. Des fois, on n’a pas ce qu’on voudrait, l’idéal. Des fois, on n’a pas ce qu’il nous faut. Le besoin. Mais au moins, on a conscience de l’effort fourni. Ce n’est pas grave de ne pas avoir la quantité de nourriture idéale. Ce n’est pas grave de ne pas avoir sa quantité de nourriture journalière, on peut même jeûner. Mais au moins, on reste vigilant parce qu’on sait qu’on tire sur les réserves et il y aura un point où ça sera irrécupérable.
+
+
+## Comment j’ai su que j’avais besoin de lunettes ? *(brouillon)*
+
+Par hasard. À moins d’avoir une baisse subite de la vue, nous ne nous rendons pas compte que notre vue a baissé. C’est fortuitement, un jour lors d’un contrôle, que j’ai pris conscience que ma vision pouvait être améliorée par des lunettes. Dans la vie générale, ce n’était pas flagrant mais devant les images de test de l’ophtalmologue, c’était sans appel.
+
+Pendant des années, je me sentais assez à l’aise dans ma sexualité. J’ai eu la chance d’avoir des partenaires assez libres et ouvertes. Si on m’avait demandé si je me sentais bloqué dans ma sexualité, j’aurais répondu que non. Je n’étais pas complètement satisfait mais pour moi, ce n’était pas grand-chose. J’aurais dit 1% d’insatisfaction pour 99% de satisfaction. C’est après avoir évolué dans ma sexualité que je me suis rendu compte à quel point j’avais des blocages. De la même manière, c’est en portant des lunettes pour avoir une vision nette qu’on se rend compte qu’on croyait voir clairement mais que ce n’était nullement le cas.
+
+Voici comment je me suis rendu compte que je n’étais pas du tout aussi détendu que je ne le croyais. Il y a une pratique pour développer la connexion avec sa partenaire qui est de parler pendant qu’on fait l’amour. Jusque là, je croyais que je ne parlais pas pendant l’acte parce que je n’en avais pas besoin, pour être plus concentré et mieux en profiter. C’est durant les premières fois que j’ai voulu formuler des phrases pour partager un questionnement ou un sentiment que j’ai vu à quel point cela était dur. J’avais les mots dans la tête. La phrase complète même. Elle restait dans la gorge. Elle se roulait en boule dans la gorge et ne voulait pas sortir. Même lorsque j’ai arrêté le coït et dit à ma partenaire que je voulais lui partager mes émotions, c’était très très difficile. C’est là que j’ai compris qu’il y a beaucoup de choses que je ne fais pas pendant le sexe, pas parce que ça n’avait pas lieu d’être mais parce que je ne m’autorisais pas à le faire.
+
+Voilà pourquoi j’ai élaboré ce test simple pour que chacun puisse se rendre compte par lui même à quel point il se retient, à quel point il brime son élan. À cause du conditionnement, à cause de ce qu’on a cru devoir faire ou ne pas faire pour être un bon amant, pour donner du plaisir, pour recevoir du plaisir.
+
+C’est une analyse sur cinq axes : la légèreté, l’intimité, la puissance, le sauvage et le subtil. Commençons par la légèreté. Cherchez des moments dans votre vie privée ou professionnelle, seul ou avec d’autres personnes où vous avez senti une grande légèreté. Par exemple, peut-être que vous avez eu de grands fous rires, ou simplement de grands éclats de rire. La question maintenant, c’est est-ce que vous avez déjà ri en faisant l’amour ? Si non pourquoi ? Est-ce que vous oseriez essayer ? Je suis sûr que si je demandais cela à des passants, la plupart des gens vont donner de grandes explications, de grandes théories sur les raisons pour lesquelles il ne faut pas rire. Primo, il y a des femmes, j’en connais au moins une, qui éclatent de rire quand elles ont un orgasme. Secundo, cela m’est déjà arrivé d’avoir un rire aux éclats, d’une voix rauque avec ma partenaire, d’une voix rauque et animale que nous ne nous connaissions pas et ça a été un des plus beaux moments de ma vie sexuelle.
+
+Pour l’intimité, c’est par exemple quand vous vous dévoilez à votre ami, votre thérapeute ou votre prêtre. Vous parlez de choses qui vous touchent, qui vous émeuvent. Ce partage en mots, est-ce que cela vous est possible pendant le sexe. Lors d’une promenade avec un ami, je peux m’arrêter, regarder mon compagnon dans les yeux et lui parler de ce que j’ai sur le coeur si cela vient. Le lui dire à ce moment-là et ne pas attendre la fin de la promenade et me retenant pour ne pas le déranger tout en portant le poids de la solitude. Est-ce que j’oserai le faire pendant le sexe ? Arrêter le mouvement, revenir au silence, partager une émotion forte qui est venue sur l’instant ? Ne pas attendre la fin de l’orgasme ?
+
+Pour la puissance, c’est la même chose. Idem pour le sauvage et le subtil.
+
+Pour résumer, cela tient en deux questions : Qu’est-ce que vous faites dans la vie quand vous êtes vivants ? De ça, qu’est-ce qu’il en reste quand vous faites l’amour ? Si vous croyez que c’est par choix, essayez de retrouver cette qualité dans la sexualité. Si vous y arrivez facilement, c’est qu’effectivement c’était un choix. Si c’est plus difficile que vous l’avez imaginé, c’est que vous vous êtes retenu sans vous en rendre compte. Est-ce que pendant que vous faites l’amour vous pouvez rire, pleurer, crier, sangloter, chanter, fredonner, murmurer, sourire, empoigner de toutes vos forces ?
+
+Mon invitation n’est pas que vous développiez une sexualité supra-multi-poly-orgasmique cosmique. C’est simplement de vous autoriser à être pleinement vous dans la sexualité. Mais totalement, sans retenue, dans toutes vos dimensions. Si vous croyez que ce n’est pas possible, je suis là pour témoigner que ça l’est et que vous y avez droit. Si vous croyez que cela est possible, je suis là pour vous soutenir et vous encourager dans votre démarche. Une fois que j’ai pu être vraiment moi-même dans la sexualité, je me suis désintéressé d’une sexualité supra-multi etc etc orgasme. Cela vient mais devient secondaire. C’est une conséquence d’une sexualité heureuse et non un moyen pour y parvenir.
+
+
+## Vérité et réconciliation
+
+Une période exemplaire de l’Afrique du Sud que beaucoup de gens ignorent. Le Comité Vérité et Réconciliation. C’est ce qui a permis à la population noire opprimée sous 43 années d’apartheid de ne pas sombrer dans une explosion de représailles violentes contre leurs bourreaux.
+
+Le deal était simple. Premièrement les victimes sont invitées à s’exprimer devant un forum afin de leur permettre de retrouver leur dignité. Deuxièmement, les auteurs d’exactions sont appelés à avouer leurs forfaits et à exprimer leur repentir devant les victimes et les familles concernées en échange d’une amnistie pleine et entière des crimes. Oui, vous avez bien lu en échange d’une amnistie pleine et entière.
+
+La réconciliation est une autre expression de l’amour, des liens entre les êtres. Se montrer comme victime, vue et reconnue pour retrouver sa dignité. Se montrer comme bourreau, se repentir et s’afficher comme tel pour retrouver le respect. La clé c’est la vérité.
+
+Beaucoup de personnes recherchent l’amour, “LA” relation amoureuse. Peu ont conscience que cela a un prix, celui de la vérité. Vivre une relation authentique est important pour moi et je m’efforce de l’être à chaque instant. Souvent je me crois authentique, j’ai l’impression que je peux tout dire à ma partenaire et de temps en temps, comme la semaine dernière, je me rends compte que non.
+
+Ce n’était pas qu’il y avait quelque chose que je ne voulais pas dire. C’était en fait, quelque chose que je ne savais même pas que je ne voulais pas dire. Je pensais que le sujet était léger et j’allais pouvoir formuler mon ressenti facilement. C’est seulement quand j’ai voulu m’exprimer que j’ai vu toute la charge émotionnelle, toutes les peurs présentes en moi.
+
+Tout d’abord, j’ai pu tout déposer. Ensuite, elle a tout accueilli. Finalement, nous avons fait l’amour joyeusement et intensément alors que juste avant il n’y avait pas du tout de désir.
+
+Si vous avez fait plusieurs fois l’expérience : déposer une vérité + sentir le désir monter juste après + faire l’amour avec une grande sensibilité et intensité, vous comprenez que la recherche d’une sexualité sensible est liée à la recherche de l’acceptation de sa vérité.
+
+La vérité permet l’amour de soi-même.
+
+La vérité permet de se sentir aimé.
+
+La vérité permet de retrouver sa puissance.
+
+La vérité permet de retrouver le désir.
+
+Pendant plusieurs années, j’animais des constellations familiales. Souvent à la fin d’une constellation, quand les nœuds se dénouent je ressentais profondément que ces quatre mots pointaient exactement sur le même endroit. Ces mots sont Amour, Vérité, Conscience et Acceptation. Ça peut paraître bizarre que des mots si différents désignent une même direction. C’est comme si quand je pointais mon doigt vers le nord, le sud, l’est et l’ouest cela indiquait la même direction. Non, mais attendez un peu, comme la Terre est ronde, que je pointe vers n’importe quelle direction, je pointe toujours vers moi en fait !!! Ha ha ha
+
+
+## L’aphrodisiaque le plus méconnu *(brouillon)*
+
+Quand on entend le mot aphrodisiaque, on pense aux aliments, aux vêtements et lingeries, aux positions, aux situations, aux jeux de rôle ou à des pratiques. Mais vous n’avez probablement jamais entendu parler de mon plus grand aphrodisiaque : la vérité. Cet ingrédient a son pendant qui est la liberté d’être.
+
+C’est étonnant mais voici pourquoi j’ai été amené à cette conclusion. Par exemple, à la fin d’une relation quand ce n’est pas la guerre, il arrive souvent que la sexualité entre les deux amants devienne plus intense. Qu’il y ait beaucoup plus de désir. On ne peut pas dire que le temps a usé la libido puisque justement elle revient. Pourquoi ? Et c’est là mon hypothèse : parce que quand vous êtes à la fin d’une relation, il n’y a plus d’enjeux. Vous ne voulez plus faire d’effort. Il n’y a plus rien à espérer, à sauver donc vous osez être vous-même. Qu’est-ce que vous avez à perdre puisque la relation se termine ? Alors vous vous lâchez.
+
+La grande différence entre un couple légitime et un couple illégitime, c’est que dans le deuxième cas les partenaires ne cherchent plus à se montrer parfaits. Ils savent que chacun d’eux est un menteur, qu’ils trompent leur conjoint en actes et en paroles. Et le visage d’un menteur est moins lourd que le masque d’un saint.
+
+Un autre exemple de regain de libido, c’est quand on dévoile une vérité cachée longtemps, infidélité, perte d’argent, etc. Évidemment, il y a une crise liée au choc de la nouvelle, mais après il y a une nouvelle énergie, c’est plus fort sexuellement. Pourquoi ? Parce que mentir consomme de l’énergie. Oui, cacher quelque chose c’est faire tourner un programme en tâche de fond pour ne pas révéler la vérité. Comme tout programme qui tourne en tâche de fond, ça ralentit tous les autres programmes visibles.
+
+En plus, ce n’est pas seulement la libido de la personne qui cache une vérité qui s’affaiblit. C’est la libido du partenaire aussi. Parce qu’en réalité, tout se sait. Nous n’en avons pas forcément conscience mais il y a des indices. Nos inconscients détectent les incohérences, les silences un peu trop longs ou trop courts, les mouvements réflexes, les non-dits, les mal-dits et aussi les sur-dits.
+
+Ce qui se passe pour les gros mensonges vaut aussi pour les petits. Ces petits trucs qu’on n’a pas envie de raconter parce que ce n’est pas très grave, trois fois rien. Mais ces petits oublis s’empilent les uns sur les autres et en plus s’accumulent avec le temps.
+
+Je ne vous dis pas qu’il faut tout dire, tout miser sur la relation authentique. Dans certains cas, ce n’est pas possible. Ça coûte trop cher. Je vous invite seulement à voir ce mécanisme en vous. En votre partenaire aussi. Avec bienveillance. Personne ne ment s’il a la possibilité de dire la vérité s’il n’y avait pas d’inconvénients.
+
+Au bout du compte, ce n’est pas forcément le temps qui use le désir. Peut-être qu’il le fait aussi. Mais c’est surtout ces petites vérités désagréables qu’on n’a pas voulu partager. Cette intimité qu’on n’a plus envie de partager parce qu’on ne se sent pas écouté, compris, aimé vraiment pour qui on est.
+
+Si vous avez une vérité que vous n’arrivez pas encore à partager, je vous suggère de regarder la situation de la façon suivante. Entre choisir l’inconfort de mentir par omission un jour de plus ou d’assumer la crise en révélant la vérité, c’est normal de choisir de se taire. C’est justifié, logique et rationnel. Maintenant, prenons du recul. Entre choisir l’inconfort de mentir chaque jour pendant les 5 prochaines années ou assumer une crise pendant quelques jours voire quelques semaines pour permettre à la relation de vivre les 4,9 prochaines années dans la légèreté, là on hésite beaucoup plus. Or c’est la réalité. Je connais une femme infidèle qui l’a caché à son mari pendant plus de 20 ans. Vous vous rendez compte ce que c’est d’être avec une personne qu’on aime et ne pas pouvoir se montrer tel qu’on est. Pendant 20 ans. En même temps, chaque fois qu’elle se pose la question “je le dis aujourd’hui ou demain ?” La réponse facile est demain, encore demain et toujours demain. Pour la petite histoire, elle a réussi à le dire à son mari et ça a créé une nouvelle base plus solide à leur relation.
+
+Repensez aussi aux fois où tout à coup, en plein milieu de l’acte, le désir s’évapore. Je ne parle pas des moments où on est fatigué, malade, avec des soucis ou après un jeûne, où l’envie est là mais où le corps ne suit pas. Je parle des moments où physiologiquement tout va bien, l’homme assez dur, la femme assez humide puis on ne sait pas pourquoi tout s’arrête. Eh bien, d’après mes expériences, il y a de fortes chances que vous ayez connecté un mensonge par omission. Les esprits n’ont pas voulu le voir ou l’admettre mais les corps l’ont bel et bien ressenti.
+
+Ce n’est pas forcément facile de dire la vérité, mais c’est quand même un excellent aphrodisiaque pour une sexualité heureuse. C’est mon meilleur aphrodisiaque.
+
+
+## La frustration de liberté d’être *(brouillon)*
+
+Mes clients sont des personnes qui vont plutôt bien dans leur vie, ont déjà fait un long parcours d’évolution personnelle. Ces personnes désirent vivre des partages sexuels d’une autre qualité. Elles ne cherchent pas forcément à avoir plus de plaisir, des orgasmes ultra puissants, une jouissance énorme ou du multi-orgasme. Elles cherchent à être libres d’être. Elles cherchent UNE LIBERTÉ D’ÊTRE TOTALE dans la sexualité.
+
+Ce que je propose n’est absolument pas du Tantra même si je montre quelques pratiques. Il ne s’agit pas de vivre une sexualité seulement spirituelle et énergétique. Nous sommes des êtres spirituels et des êtres de lumière. Oui ! Nous sommes des anges. Oui ! Nous sommes aussi un démon ! Parce que nous sommes mi-ange mi-démon. Nous sommes incarnés. Nous sommes aussi des animaux avec de la force, de la puissance, du sauvage, du guerrier, du chasseur, des dents, des griffes, des cris, des hurlements et des muscles vigoureux.
+
+La mâchoire du crocodile fait partie des mâchoires les plus puissantes du règne animal. La tendresse d’une mère fait partie des formes d’amour les plus puissantes sur Terre. La mâchoire d’une maman crocodile peut attraper délicatement ses minuscules bébés avec amour pour les déplacer aussi bien que déchiqueter un zèbre pour l’avaler. À la fois douceur et puissance. C’est ça la liberté sexuelle.
+
+La liberté d’être c’est être qui nous sommes, complètement, sans retenue, sans peur de faire peur, sans peur d’être jugés ou rejetés. D’être subtils et délicats quand c’est l’envie. D’être vigoureux et déchaînés quand c’est l’envie. Pourquoi cette recherche ? Parce que nous sentons au fond de nous que nous sommes proches de cette liberté totale d’être.
+
+Justement nous avons déjà énormément cheminé sur le plan personnel et nous nous sommes aussi libérés de lourdes entraves. Comme la sexualité est un endroit particulier qui concentre la pulsion de vie en même temps que des interdits, des tabous et des blessures, un endroit où sont impliqués directement le corps, les sensations, les émotions, l’affectif et l’esprit, c’est L’ENDROIT où exprimer, où éprouver notre liberté d’être. Nous pressentons que c’est l’endroit pour expérimenter la liberté ultime. Une expérience de liberté totale, une expérience intense, une expérience mystique, une expérience spirituelle, une expérience de Vie.
+
+C’est l’objectif de mon accompagnement. Ça démarre mercredi soir prochain.
+
+
+## Osez ceci, cessez cela : stop à l’impératif *(brouillon)*
+
+Ras le bol des titres de livres, de maximes “Osez ceci”, “Cessez cela”. Des titres accrocheurs, dynamisants certes mais où on doit se forcer. Encore et encore. Stop à l’impératif. Stop aux injonctions. Stop aux ordres.
+
+C’est justement parce que j’ai suivi tellement d’ordres des parents, des professeurs, de la société, des femmes que je me suis oublié, que j’ai arrêté de m’écouter. J’ai voulu bien faire, j’ai voulu être apprécié, j’ai cherché à être reconnu et surtout à être aimé.
+
+Ne rien forcer, ne rien retenir.
+
+Même pas me forcer à me faire du bien. Simplement écouter. Juste s’écouter. Me forcer à me faire du bien, c’est de la violence, c’est assourdir mon écoute.
+
+Il y a un libre
+
+
+## Couple classique / couple quantique
+
+Après un an d’accompagnement vers la sexualité sensible, je me rends compte à quel point cela change la vie des gens et l’ampleur de la remise en question des fondamentaux dans la relation amoureuse.
+
+Il y a un changement total des paradigmes.
+
+Le plus visible des changements de paradigme est dans le domaine de la sexualité.
+Couple classique, une sexualité basée sur le désir et le plaisir
+Couple quantique, une sexualité basée sur la connexion et la joie
+
+De ce changement découlent directement ou indirectement tous les autres
+Couple classique, le temps : longue durée, voire toute la vie
+Couple quantique, le temps : intensité du moment présent
+
+Couple classique, posture intérieure, le manque.
+Couple quantique, posture intérieure, l’abondance.
+
+Couple classique, l’action est basée sur une attente de retour
+Couple quantique, l’action est basée sur un don qui procure le plaisir de donner à une personne
+
+Couple classique, nous sommes deux moitiés d’entité qui se complètent
+Couple quantique, nous sommes deux entités complètes qui créent une synergie
+
+Couple classique, une recherche de confort et de sécurité
+Couple quantique, une recherche de vérité et de liberté
+
+Couple classique, cherche à éradiquer le désagréable pour atteindre/rester dans la tranquillité
+Couple quantique, reconnaît le désagréable comme opportunité de croissance personnelle et honore le chemin
+
+Couple classique, le partenaire est source d’agacements parce qu’il est imparfait
+Couple quantique, le partenaire est source d’agacements parce que la vie offre l’opportunité de grandir
+
+Même si ma pensée est encore à l’état d’ébauche, elle va continuer à s’élaborer, j’ai la certitude que cela résonne à certains d’entre vous. Si c’est ton cas, manifeste-toi s’il te plaît pour que je voie si ça parle réellement aux autres ou si c’est seulement mon chemin personnel. Tu peux liker, commenter et partager pour contribuer à diffuser la vision de ce message.
+
+Précisions par rapport au terme « Couple quantique », j’ai choisi le mot quantique pour deux raisons :
+
+a) parce qu’une grande différence entre la physique relativiste et la physique quantique c’est la notion du temps.
+
+b) parce qu’entre la physique classique et la physique quantique, ce n’est pas une évolution mais une révolution avec des changements fondamentaux.
+
+Maintenant, je suis ouvert à toute suggestion pour un autre mot plus approprié.
+
+Enfin, le couple quantique n’est pas mieux que le couple classique, il y a plein d’inconvénients et plein d’avantages dans les deux cas. La question est « Qu’est-ce qui me convient le mieux ? » et du coup de trouver un partenaire en adéquation avec mon fonctionnement.
+
+
+## On n’obtient pas ce qu’on veut, on obtient de qui on est *(brouillon)*
+
+De la loi d’attraction, de la visualisation créatrice et autres pratiques de préparations mentales.
+
+Dans le domaine du sport de haut niveau, plusieurs expériences ont montré l’efficacité des techniques de préparation mentale. Mais la préparation mentale donne des résultats pour des personnes qui sont déjà des sportifs de haut niveau.
+
+Si je reste chez moi à méditer sur la médaille d’or, ressentir le succès, la gratitude, mais que je ne fais aucune activité physique, je n’atteindrai jamais le podium. Le mental peut être un très grand frein, donc travailler sur notre mental nous libère de ces entraves. Nous pourrons alors utiliser tout notre potentiel mais pas plus que le potentiel présent.
+
+La sexualité authentique et sensible est possible pour tout le monde mais il ne suffit pas de le vouloir. Il ne suffit pas d’espérer. Il ne suffit pas de faire des rencontres. Faire des rencontres, c’est pareil que se placer sur la ligne de départ. Ce n’est pas ça qui va me faire finir le marathon. La sexualité sensible est un marathon, oui. Cela demande beaucoup d’efforts. Des efforts pour être honnête. Des efforts pour exprimer des choses qui nous rendent vulnérables. Des choses qui dévoilent nos peurs et nos blessures.
+
+Pour finir le marathon, il faut être un athlète : renoncer à une alimentation trop sucrée, grasse ou salée ; avoir un entraînement pour une bonne musculature ; développer des capacités respiratoires.
+
+Pour vivre une sexualité sensible, il faut être un amant sensible : renoncer aux contes de fées de princes et princesses charmants ; avoir un entraînement pour être complètement authentique ; développer des capacités à accueillir les émotions désagréables pour les sublimer ; démontrer le courage de s’exposer.
+
+On ne finit pas un marathon parce qu’on veut, même de toutes ses forces. On finit un marathon parce qu’on est marathonien, qu’on mange comme un marathonien, qu’on s’entraîne comme un marathonien.
+
+Pour les femmes et les hommes qui veulent vivre une sexualité sensible, oui c’est possible, oui c’est sublime quand on le vit mais il y a un prix. Il y a des épreuves. Il y a un entraînement. À tout effet, il y a des causes. Vouloir séparer les effets des causes c’est courir vers la déception, la désillusion, la souffrance. Vouloir finir un marathon sans s’y préparer, c’est aller tout droit vers la blessure. Vouloir une sexualité sensible sans s’y préparer, c’est prendre aussi le risque de se blesser.
+
+Je vois des personnes déçues de leur sexualité, déçues de leurs partenaires mais qui continuent à se goinfrer d’illusions sucrées, de gourmandises romantiques et d’espoirs dans la rencontre d’un nouveau partenaire idéal. Elles vont de partenaire en partenaire comme le coureur qui s’inscrit dans des courses successives sans s’entraîner vraiment. Alors oui, chaque nouvelle relation les fera progresser, comme chaque course développera ses capacités physiques. Mais c’est tellement d’énergie et de temps gaspillés. Cela sera tellement plus efficient de suivre un entraînement dédié.
+
+Si quelqu’un sent vraiment le marathonien en lui, ce qu’il peut faire de mieux c’est de suivre un programme complet, efficace et adapté pour pouvoir exprimer le marathonien en lui. Cela lui permettrait d’atteindre ses objectifs de manière plus sûre et plus rapide.
+
+Il ne s’agit pas de vouloir. On n’obtient pas quelque chose parce qu’on le veut.
+
+Il s’agit d’être. On obtient quelque chose parce que c’est l’expression de qui on est.
+
+
+## Une erreur que j’ai traînée longtemps *(brouillon)*
+
+Je voulais bien être aimé pour qui j’étais mais je ne voulais pas me montrer tel que j’étais. Maintenant, je trouve ça idiot mais je n’étais pas malin avant ;-)
+
+
+---
+
+# Peur et masque
+
+
+## Le tigre et le masque
+
+Le voisin de Nasreddine le voyait tous les matins jeter des pincées de sel autour de sa maison. Nasreddine avait la réputation d’être souvent farfelu donc cela ne choquait pas le voisin mais quand même très intrigué, il décide un jour de demander la raison à ce rituel étrange. Nasreddine : « C’est une recette très ancienne. Je fais ça pour éloigner les tigres ». Le voisin s’étonne : « Mais Nasreddine, il n’y a pas de tigre dans ce pays ! »
+
+Nasreddine d’un ton assuré et fier : « Et voilà, tu vois bien que ça marche ! »
+
+Nasreddine (ou Hodja, ou Jiha suivant le pays) était un fou mais était aussi un sage. Regardons cette sagesse. S’il croit sincèrement que jeter du sel permet d’éloigner les tigres il le fera tout le temps. Et si quelqu’un essaie de lui expliquer le contraire que va-t-il se passer ? Au pire, il va se braquer et contre argumenter, au mieux il aura un doute sur le bien-fondé de ses habitudes mais pour lui cela restera une hypothèse. Mettons-nous à sa place, d’un côté il a l’expérience « je jette du sel, je ne vois pas de tigre », de l’autre côté l’hypothèse qu’il se soit trompé « je n’ai pas besoin de jeter du sel pour éloigner les tigres ». Comment vérifier cette hypothèse ? Le seul moyen c’est en arrêtant de jeter du sel. Le prix de cette vérification :
+
+Soit l’hypothèse est vraie et il découvrira une vérité « je n’ai pas besoin de jeter du sel pour éloigner les tigres »; Soit l’hypothèse est fausse « il faut jeter du sel pour éloigner les tigres » et son corollaire « je ne jette pas de sel, le tigre arrive et me mange ». C’est vraiment le choix qui se pose à lui. La liberté ou la mort. Sans savoir ce qui est vrai à priori.
+
+Honnêtement, que ferais-tu à sa place ? As-tu le courage de risquer de tout perdre pour découvrir la vérité ?
+
+Maintenant, voyons où est le sel, où sont les tigres. Jeter le sel c’est porter le masque d’un autre moi.
+
+Dans la sexualité, les magazines parlent de communication, qu’il faut parler avec sa partenaire. A mon avis, ceux qui donnent ces conseils ne l’ont pas fait parce que sinon ils sauraient à quel point c’est difficile. C’est déjà difficile de se dévoiler en général mais encore plus dans la sphère intime où il y a tant de peurs, de tabous, d’héritages cristallisés.
+
+Parce que j’ai appris (ou cru) à faire plaisir pour ne pas être rejeté, pour recevoir de l’affection, de l’amour. Le masque : c’est le super moi. Le moi brillant, courageux, sincère, sûr de lui. C’est l’amant performant, à l’écoute, attentionné qui devine tout, qui sait tout et ne doute de rien. C’est l’idéal masculin, le prince charmant.
+
+Le tigre : c’est la grande douleur du rejet, de l’abandon. C’est le réveil de toutes les blessures du passé que j’avais refoulées. C’est avoir le cœur éclaté en mille morceaux. C’est me dissoudre en sanglots. C’est de me laisser rattraper par les milliers de flèches que j’essayais de fuir depuis des années en courant sans jamais pouvoir m’arrêter. C’est mourir mille fois. Voici le tigre.
+
+Alors, j’arrête de jeter du sel ou pas ? Bien sûr que non. J’ai porté le masque, j’ai jeté du sel partout autour de la maison, dans la maison et même dans tout le quartier. Pendant des années et des années. Jusqu’à l’épuisement. Au-delà de l’épuisement même.
+
+Jusqu’au jour où j’ai réalisé ceci. Je voulais rencontrer une personne qui m’aimerait assez pour me donner le courage de retirer le masque. Je me disais quand on m’aimera vraiment je pourrais alors enlever le masque et me montrer tel que je suis. Mais la vérité c’est que si je garde mon masque je ne pourrai jamais savoir si elle m’aime vraiment. C’est la simple et impitoyable vérité. Logique mathématiquement implacable. Ça ne peut pas se faire dans ce sens : Être aimé puis/pour se montrer. Parce que pour être aimé il faut d’abord se montrer, se dévoiler.
+
+J’ai compris que le choix était entre
+
+1) Garder le masque et ne jamais être aimé à 100% parce qu’il y aura toujours un doute, même minime.
+
+2) Prendre le risque de rencontrer le tigre, de mourir pour avoir une chance (même infime) d’être touché par l’amour.
+
+Ensuite il m’a fallu encore du temps pour oser prendre la deuxième option et passer à l’action. Un jour je me suis lancé. J’ai pris une grande inspiration j’ai plongé. Je me suis entièrement dévoilé. Et tu sais quoi mon ami, il n’y a pas de tigre. Non, il n’y avait pas de tigre pour me dévorer dans la réalité. Les tigres féroces n’existent que dans mon imaginaire. Jamais personne, aucune femme, ne m’a rejeté parce que j’ai soulevé le masque. Au pire, le pire du pire c’était qu’elle me disait :« Je te vois. Tu n’es pas celui que je cherche. Tu n’es pas fait pour moi et je ne suis pas faite pour toi. » Au mieux, j’ai été réellement vu et j’ai été vraiment aimé, sans l’ombre d’un doute.
+
+Honnêtement, je ne peux pas te garantir qu’il n’y a pas de tigre, que tu ne te sentiras pas blessé ou rejeté. Chacun a sa propre vie. Par contre, ce dont je suis certain, c’est que si tu n’enlèves pas ton masque tu ne pourras jamais être sûr d’être vraiment aimé. Tu auras toujours un doute. Un caillou dans la chaussure, inconfortable. Déjà c’est de l’inconfort, des fois ça devient une ampoule … voire plus. En tout cas, c’est dans tes mains, pas celles de ta partenaire. C’est à toi de le reconnaître, de l’enlever. Ce n’est pas facile je le sais. Alors surtout ne t’en veux pas si tu l’as pas encore fait. Donne-toi du temps. Donne-toi du courage. Donne-toi de l’espoir. Ou alors encore plus efficace rencontre le désespoir : réalise que la situation est désespérée mais n’est pas grave.
+
+Et faire l’amour sans masque, entièrement exposé, ouvert totalement à l’autre est vraiment une expérience intense d’amour. Une seule expérience authentique de cette intensité peut effacer des années de trauma et des dizaines de blessures. Parce que tu expérimentes cette vérité profonde que tu es digne d’être aimé tel que tu es sans rien changer avec tes qualités et tes imperfections. Ce n’est plus un savoir livresque, un idéal de magazine ou une intuition. C’est une réalité. Il suffit d’une fois.
+
+En tout cas, si tu as lu jusqu’ici, je suis persuadé que tu seras appelé inévitablement à enlever ton masque un jour dans ta relation amoureuse actuelle ou à venir. Un partage sexuel d’une grande profondeur et une immense intensité sera au rendez-vous, et tu vivras cette authenticité si ce n’est pas encore le cas.
+
+Tout va bien. Garde espoir d’être aimé mais reconnais qu’il faut d’abord retirer le masque pour donner une chance à l’autre de te voir, de te rencontrer et de t’aimer … vraiment.
+
+Tu n’as absolument pas besoin du stage que je propose pour y arriver. Ça se fera. Mais j’ai créé le stage pour que chacun puisse visiter l’espace derrière le masque : le silence. Parce que les peurs ne sont que des blablas entendus et entretenus dans notre esprit. Dans le Silence, il n’y a pas de tigres. Il y a la vie, la beauté. Durant cette journée, je te proposerai de rencontrer le Silence par la danse (ta danse intérieure), par le chant (ton chant de tes entrailles), par la musique. Tu pourras aussi entrer en contact avec les autres en étant d’abord ancré dans ton silence et dans ta présence. Là où il n’y a pas de tigre, il n’y a jamais eu de tigre. Il n’y a pas non plus de sel, ni de maison, ni de ville d’ailleurs, ni de voisin non plus. Il n’y a que toi … c’est-à-dire une immense scène où l’univers prend vie.
+
+Il n’y a que toi sous différentes formes. Comme l’eau peut être nuage, thé, océan ou larmes ; tu seras danse, chant, en relation, en solitaire. Il y a de l’espace derrière le masque. Cette journée est pour toi si tu as envie de le visiter.
+
+Une précision encore. La journée n’est pas faite pour que nous enlevions nos masques donc pas de pression. Tranquille-tranquille. Au plus ça te permettra de prendre moins de temps que moi avant le plongeon. Nous pouvons tout à fait chanter, danser, écouter avec et partager un merveilleux ensemble parce que nous savons que nous avons un masque. Sans nous le cacher. Je porte encore le mien très souvent. Mais l’authenticité c’est de reconnaître que des fois nous l’avons. Et ce qui nous rapproche c’est de savoir qu’il y a une personne derrière le masque. Je danse avec celui qui est derrière le masque. J’entends celle qui chante derrière le masque. Tout va bien ;-) Bon, nous pourrons aussi de temps en temps l’enlever … comme ça … juste pour voir … pour voir s’il n’y a pas de tigre.
+
+
+## C’est cacher qui rend vulnérable
+
+Longtemps, j’ai cru que pour me protéger il fallait cacher ce qui était fragile en moi. Même à ma partenaire. En réalité c’est le fait de cacher quelque chose en moi qui me rend vulnérable.
+
+Achille n’était pas le héros grec doté d’une adresse extraordinaire comme le racontent certains films. Dans la mythologie grecque, sa mère l’avait plongé dans le fleuve de la mort, le Styx. Au contact de l’eau, la peau d’Achille s’est renforcée telle une cuirasse infranchissable. Toute sa peau ? Non, car il restait un endroit qui n’a pas été touché par l’eau : les talons par lesquels sa mère le tenait en le trempant dans la rivière magique. Comme par hasard, c’est à cause de ses talons qu’Achille mourut, blessé par une flèche au seul endroit vulnérable de son corps.
+
+Siegfried est un héros de la mythologie germanique. Il avait réussi à tuer un dragon. En se baignant dans le sang de l’animal, il recouvrit sa peau d’une armure impénétrable. Toute sa peau ? Non, car une feuille était tombée sur son épaule et s’y colla au moment où il plongea dans le sang de la bête. Bien sûr, c’est à l’épaule qu’il fut blessé à mort par une lance ennemie.
+
+Personnellement, je crois au pouvoir de l’amour. J’ai l’expérience qu’il guérit des blessures, rend plus fort et plus solide. Comme l’eau du Styx. Comme le sang du dragon. Mais faut-il encore avoir le courage de montrer son talon, son épaule. Laisser l’autre voir ma vulnérabilité.
+
+Ce que j’avais caché au monde depuis des années parce que c’était trop sensible, trop fragile, trop douloureux peut-être aujourd’hui je pourrais te le montrer. Te laisser voir cette meurtrissure pour que ton regard aimant, rempli de compassion la soigne, la cicatrise. Oui, j’ai très peur. Tant de souvenirs reviennent. Certains très nets, d’autres flous mais les émotions sont bien là. Je respire. Je prends le temps. Je me lance et t’ouvre vraiment mon coeur pour que tu puisses voir les blessures profondes.
+
+Tous les partenaires ne sont pas forcément dignes de votre confiance. Mais si vous en trouvez une à la hauteur, ça vaut peut-être le coup de tenter l’expérience. Même et surtout si c’est par elle que vous avez été blessé. C’est ce que j’aurais pu faire, il y a des années, si j’avais compris cela avant.
+
+L’amour c’est la guérison. La lumière c’est la vérité. Ils ne peuvent transformer que ce qu’ils illuminent de nous. À nous d’oser nous y exposer. Imaginons qu’Achille ait eu aussi les talons trempés dans le Styx, que Siegfried se soit retrempé dans le sang du dragon après avoir retiré la feuille. Ils seraient devenus invincibles, indestructibles.
+
+Une confidence de vous à moi, quelque part je me sens invincible. J’ai eu la grâce de rencontrer de telles partenaires, de vraies Reines, avec qui j’ai osé me dévoiler entièrement. De l’extérieur, c’est tout pareil. Je pourrais tomber malade, perdre un bras, avoir un accident. Je stresse encore pour des problèmes matériels et je suis contrarié par ce qui se passe. Je panique, me mets en colère. Mais quelque chose a changé. Au fond de moi, je sais que je suis invulnérable parce que j’ai réussi à montrer ma vulnérabilité. Ça me rappelle une randonnée dans la forêt de Brocéliande.
+
+C’était la nuit, je marchais seul sur une route droite mais l’épais feuillage des arbres m’empêchait de voir le ciel. Un vrai tunnel. Un silence total. C’était si noir que je ne voyais même pas mes mains et encore moins le sol et mes pieds. La première fois de ma vie que je vivais une telle expérience. La seule chose que je pouvais voir c’était un point lumineux qui indiquait la fin du tunnel d’arbres. Il n’y avait personne, aucune voiture. On se serait cru seul, l’unique survivant au monde après l’apocalypse. Ce point de lumière n’éclairait pas le bitume sous mes pieds. Je marchais avec prudence parce que je pouvais me cogner sur une grosse branche tombée en travers ou trébucher dans un nid de poule. Mais ce point de lumière, même s’il n’éclairait rien de la route a éclairé ma confiance, ma sécurité, ma joie. J’avais peur mais une partie de moi était dans une grande sérénité grâce à ce petit point de lumière.
+
+Ah oui, j’avais oublié de vous raconter la fin de Siegfried. L’ennemi de Siegfried sachant qu’il avait un point faible mais ne sachant pas où, suggéra à l’épouse de Siegfried de renforcer la veste de son mari à l’endroit où celui-ci était vulnérable. C’est comme ça que le traître a découvert où planter sa lance.
+
+Souvent, c’est en voulant cacher sa vulnérabilité qu’on se rend vulnérable.
+
+Parfois, c’est en acceptant de montrer sa vulnérabilité à l’amour des bonnes personnes, qu’on peut se rendre invincible.
+
+
+## La Reine vs la Princesse *(brouillon)*
+
+La Princesse se veut belle pour plaire. Elle cherche à être la plus belle du bal. Elle est en compétition avec les autres femmes. Profondément elle a peur. Peur de ne pas être assez bien, peur de ne pas être choisie, peur de ne pas être aimée. Sa question préférée est "Est-ce que tu m’aimes ?”. Elle peut la poster sur les réseaux sociaux avec un nombre de selfies qui attendent les likes. Dans la relation amoureuse, cette question peut se cacher dans la déclaration : “Je t’aime” avec un silence qui attend la réponse réciproque. Cette peur risque d’amener un comportement d’effort dans la sexualité : “Je n’ai pas vraiment de plaisir à faire ça mais je le fais pour toi” avec un sous-entendu “pour que tu m’aimes, pour que tu ne me quittes pas, pour que tu me donnes ce que je te demande”. Dans la sexualité, cela peut concerner le nombre de rapports, des pratiques sexuelles particulières. C’est accepter des choses qui ne lui font pas plaisir pour faire plaisir à son partenaire. Pour peu qu’en face c’est un prince, il pourrait se sentir valorisé par telle ou telle expérience et c’est le début de l’enfer pour la Princesse avec du ressentiment, des reproches non exprimés, d’une ardoise mentale avec la liste des choses qu’elle a faites pour lui. Inconsciemment, ou plus ou moins consciemment, il peut même s’installer une relation commerciale : la femme donne du sexe, l’homme donne ce qu’elle demande. D’ailleurs “donner” pour ”recevoir” c’est échanger, c’est acheter. Ce n’est pas donner, ce n‘est pas offrir. Cela inscrit forcément la relation sexuelle dans un registre différent.
+
+La Reine n’a plus besoin d’être belle et n’a plus besoin de plaire. Elle ne se demande pas s’il l’aime. Comme Katie Byron dit “Est-ce que je t’aime ?” est la bonne question. C’est la seule chose qui doit m’importer. “Est-ce que tu m’aimes ?” est une prison, une salle de torture. Elle n’a pas besoin d’être aimée pour se sentir bien, elle s’aime déjà. Elle ne demande rien à son partenaire et est prête à lui offrir une part d’elle. Sans se forcer, en  respectant ses envies et ses non-envies. Elle n’a pas peur de perdre alors elle est vraiment libre de donner, pour le plaisir de son partenaire. Comme c’est complètement sans arrière-pensée, c’est de la générosité, c’est le don de soi. Alors elle prend un plaisir total à caresser, à embrasser, à accueillir en elle par là où porte son désir. Avec légèreté, avec générosité. C’est comme pour les massages. Il y a des masseurs qui ont des gestes très professionnels, qui sont efficaces mais j’ai l’impression d’être un tas de muscles, de peau et d’os à manipuler. Il y a des masseurs qui me donnent l’impression d’être aimé par leurs mains. Et cela indépendamment de la force, de la vitesse des mouvements. Cela se sent. Je ne sais pas comment mais cela se sent. Je peux jouir et sentir que c’était la mécanique de mon corps qui a amené à l’éjaculation. Je peux ne pas éjaculer et me sentir rempli de la présence de ma reine plusieurs heures après l’avoir quittée. La relation sexuelle avec une Reine me nourrit profondément, nul besoin de quantité quand la qualité est là. Pas besoin de multiplier les différents types d’expériences avec une Reine mais cela se fera naturellement. Parce que la sexualité peut être créativité quand elle n’est pas contrainte, quand elle n’a pas de but, quand elle est vraiment gratuite. Donc psychologiquement j’ai moins envie d’explorer mais physiquement l’exploration se fait tout naturellement.
+
+Rien n’est inscrit dans le marbre, des fois elle est Princesse, des fois elle est Reine. Il n’y a pas non plus à chercher à être Reine, cela viendra naturellement, au rythme de chacune. Il y a des Reines de vingt ans, il y a des Princesses de 50 ans. On peut lire dans les magazines des femmes de 40 ans qui se disent plus épanouies sexuellement, j’ai une hypothèse personnelle. À 20 ans, elles avaient beaucoup d’espoirs dans le genre masculin, elles voulaient rencontrer le Prince charmant. À 40 ans, elles ont été suffisamment déçues par les hommes pour beaucoup moins attendre d’eux. Elles connaissent aussi mieux leur valeur, elles ont vécu une partie de leur vie d’adulte avec des expériences riches. Moins d’attente c’est plus de liberté et de légèreté. Les choses dans la sexualité peuvent se faire plus naturellement, sans effort. Mais moins d’attente ne veut pas dire moins exigeante. Au contraire, comme il y a moins de peur, elles sont libres, elles pratiquent plus le principe “Il vaut mieux être seule que mal accompagnée”.
+
+Je trouve que la sexualité avec une Princesse ou un Prince, c’est comme une belle pâtisserie. C’est joli, ça  donne envie, on bave devant et c’est un régal en bouche quand on le mange. Mais on sait que ça ne suffit pas au corps. On sait qu’on a fait passer l’effet secondaire, le plaisir, devant le besoin premier, à entretenir le corps.
+
+Une sexualité avec une Reine ou un Roi, c’est comme un jus de légumes verts. C’est des vitamines et des sels minéraux. C’est nourrissant, ça nous rend plus vivant, en meilleure santé et c’est profondément ce dont on a besoin.
+
+Mes yeux regardent encore les pâtisseries mais mon corps n’accepte de manger que du jus de légumes.
+
+
+## Le Roi vs le Prince *(brouillon)*
+
+Il n’y a pas un statut mieux qu’un autre, il y a simplement des situations différentes et ce que j’ai envie de montrer c’est qu’un homme peut se considérer comme roi et il aura une sexualité qui lui convienne avec des partenaires lui correspondant.
+
+Dans les contes le prince est celui qui n’a pas encore de terre, dont la valeur n’est pas encore démontrée. Il doit prouver sa bravoure en tuant un dragon, en traversant des territoires hostiles remplis de dangers, de ronces et de pièges. De nos jours, cela correspond aux clichés sur le mâle dominant, du mâle alpha qui doit être plus que les autres. Plus riches avec de belles voitures, une belle situation et offrir de beaux cadeaux. Plus courageux en faisant des acrobaties en moto ou autres. Plus fort en étant plus combattant et plus combatif. Plus musclés avec une culture du fitness pour avoir un corps bien dessiné. Plus sexuels en ayant eu un grand nombre de partenaires sexuels. C’est une course, quelle que soit la course, il faut arriver en tête, être plus que la moyenne. Cela peut être sincère ou feint comme dans les techniques de drague de type comment coucher avec une femme en 30 minutes.
+
+Un roi est plus tranquille, il a son royaume, il est maître chez lui. Il ne cherche pas forcément à conquérir d’autres terres. Il ne cherche plus d’exploits à réaliser. Il a prouvé sa valeur dans sa jeunesse et aujourd’hui il a besoin de montrer sa sagesse pour régner sur le pays.
+
+En résumé, le prince utilise sa force pour combattre des ennemis ou pour gagner une compétition. Le roi utilise sa force pour développer la paix et le bonheur de son pays.
+
+Il y a un temps où j’étais prince. Un jour un ami m’a dit qu’il avait couché avec plus de 120 femmes parce qu’il avait un poste de commercial et qu’il rencontrait beaucoup de femmes dans les entreprises qu’il prospectait. Moi, je n’avais connu que deux femmes. j’étais ébloui et j’enviais vraiment sa situation, c’était une idole. Il m’avait dit que le nombre n’avait aucune importance. Une fois qu’on a vu un vagin on les a tous vus. Sur le coup, je ne l’ai pas cru. Maintenant avec du recul, je comprends ce qu’il voulait dire et il avait complètement raison. De l’avoir entendu dire, ça m’a aidé à m’en rendre compte plus vite. Je n’ai pas eu besoin de coucher avec autant de femmes pour voir à quel point il avait raison, une vingtaine ont suffi. Depuis, je ne cherche plus du tout le nombre. Je suis beaucoup plus exigeant. Pour moi, il n’y a plus d’urgence à faire l’amour avec une femme. je peux passer un an, un an et demi sans relation intime et ce n’est jamais un problème. Parce qu’une fois qu’on a fait l’amour avec une Reine, on ne peut plus se contenter de Princesse.
+
+On peut voir dans la pornographie, dans le cinéma des couples où l’homme démontre sa force en soumettant la femme, en lui emprisonnant les mains, les bras, lui tirant les cheveux, lui disant des propos insultants. C’est le côté prince qui cherche à s’exprimer, qui veut gagner, qui veut dominer.
+
+Une sexualité avec un roi, c’est une sexualité où la force est au service de l’autre, de la femme, la partenaire. À quoi peut servir la force d’un homme dans la relation sexuelle si ce n’est pas pour dominer la femme ? Pour la protéger d’elle-même, pour le protéger lui. De quoi, du dragon et de la sorcière qui sommeille dans la femme. Une étude sur l’orgasme féminin a révélé que ce qui entravait le plus les femmes pour atteindre l’orgasme était la peur qu’elles avaient que leur partenaire voit leur grimace. Ma force est tranquille, jamais violente psychologiquement. Physiquement, il se peut que cette force s’exprime avec panache. Oui, je peux saisir les mains, encercler, enlacer fortement mais pas pour soumettre ou contraindre ma partenaire pour lui signifier que je suis plus fort qu’elle. C’est toujours avec le sourire, le cœur léger et c’est lui faire comprendre que je suis plus solide que son dragon, plus puissant que sa sorcière alors elle peut vraiment se lâcher. Physiquement, je suis assez puissant pour contenir tous ses gestes, émotionnellement je suis assez ancré pour accueillir ses cris, ses pleurs, ses rires, ses grognements et ses hurlements. Psychologiquement, je ne vacillerai pas devant sa joie, sa tristesse, sa furie, son désespoir ni sa folie.
+
+Une raison pour laquelle une femme cherche un homme fort, c’est qu’elles veulent partager leur vulnérabilité et aussi montrer la sorcière qui est en chacune d’elles. Elles cherchent un homme solide devant qui elles pourraient se laisser totalement aller sans peur de le faire fuir. Un des compliments qu’une femme m’a fait c’était d’être très contenant. Sur le coup, je ne comprenais pas. Par la suite, ça a été clair. Comme j’ai pratiqué beaucoup de stages de développement personnel, de thérapies de groupes, j’étais très accueillant devant les décharges émotionnelles de mes partenaires. Elles pouvaient crier, hurler, pleurer, sangloter, éclater de rire pendant l’orgasme, ça ne me déstabilise absolument pas.
+
+C’est très rassurant pour une femme de se dire qu’elle peut tout exprimer dans son orgasme et que l’homme sera toujours là, qu’il sera assez fort pour se protéger et la protéger contre la violence qui pourrait s’exprimer. Il ne s’agit pas toujours de force physique, il y a aussi la force psychologique, et l’homme fort est celui qui peut contenir, et donc laisser exprimer, physiquement et psychologiquement toutes émotions de sa partenaire, que celles-ci soient douces ou violentes.
+
+Un prince se sert de sa force pour prouver à sa princesse qu’il a de la valeur.
+
+Un roi se sert de sa force pour laisser sortir le dragon et la sorcière de sa reine pour qu’elle voie sa valeur.
+
+
+## L’auto-sabotage n’existe pas
+
+Si vous vous dites que vous faites de l’auto-sabotage, c’est que vous n’avez pas compris.
+
+Comme souvent, quand un sujet de conversation revient plus de deux fois en quelques jours, c’est que les anges m’ont soufflé le sujet d’un post. Au cours d’une discussion, un ami me disait :” Tu ne trouves pas ça nul qu’on se sabote ? La vie est mal faite quand même !” Je lui ai répondu “Pas du tout, je trouve que la vie est très bien faite” Hier, pendant mon séminaire, le sujet était encore revenu. Ce matin, dans une vidéo de motivation, le formateur parlait d’auto-sabotage. C’est ce qui m’a guidé pour vous partager ma compréhension.
+
+Le terme de sabotage, d’auto-sabotage suppose qu’il y a une partie en moi “le saboteur” qui prendrait un malin plaisir à me nuire, dont l’unique objectif serait de m’empêcher de réussir un projet, une relation, ou autre chose. C’est le diable qui me veut du mal. C’est l’obstacle qu’il faut détruire, le dragon qu’il faut tuer pour atteindre le bonheur.
+
+C’est une analyse de causalité de type psycho-analytique :
+
+“Je ne peux pas être heureux dans ma relation amoureuse”
+
+***Parce que
+
+“j’ai un fonctionnement pourri d’abandon ou de rejet qui fout la merde”
+
+***Parce que
+
+“mes parents m’ont maltraité en ne me donnant pas assez de ceci ou étaient trop comme cela”
+
+C’est donc 2 étapes de causalité : le résultat causé par un comportement, le comportement causé par des événements.
+
+La plupart d’entre vous n’ont pas connu la guerre, ont grandi dans une société confortable, une société de consommation qui autorise la quête de l’amour et du bonheur. J’ai vécu au Vietnam pendant la guerre. J’ai quitté ce pays en boat-people. Je sais que le plus important dans la vie, c’est la Vie. Et quand on prend ce recul, on voit les choses différemment.
+
+On comprend pourquoi le traumatisme. Le traumatisme n’est plus la cause de mon malheur, mais c’est la conséquence d’un mécanisme de survie. J’ai un mécanisme qui me protège en général et de temps en temps ça fait mal, voire très mal. C’est un mécanisme qui a été affiné depuis des milliers de générations d’humains sur terre. C’est le top du top de ce qui se fait jusqu’à aujourd’hui. Le mieux qui existe pour moi jusqu’à aujourd’hui !
+
+Préférer ne pas avoir mal, c’est ignorer les dangers. C’est comme se dire qu’on préfère ne plus jamais sentir la douleur d’un caillou qui pique sous le pied. Il y a deux solutions pour ne pas sentir cette douleur.
+
+La première c’est d’enlever tous les cailloux de la terre : bon courage.
+
+La deuxième c’est d’enlever la sensation dans le pied : bon courage pour marcher sans la proprioception.
+
+Et le malin qui répond qu’il suffit d’éviter de marcher sur les cailloux, et oui ! Mais qui lui a appris qu’il ne fallait pas marcher sur les cailloux sinon la douleur quand on y marche dessus.
+
+Bien sûr que notre sensibilité conduit de temps en temps à des traumatismes. Mais combien de fois elle nous a sauvés ? Combien de fois, on lui a dit merci ? Je crois en l’intelligence du corps, de l’esprit et de la vie. Le blocage n’est pas là pour nous nuire. C’est seulement la conséquence de notre mécanisme de survie, de nos stratégies de protection. C’est les conséquences de l’amour de la vie, de l’amour de nous-mêmes. C’est une porte vers plus de sagesse et plus de liberté.
+
+Quelques fois, les stratégies que nous avons ne sont pas adaptées à une situation particulière. C’est ok. Prenons-en note et cherchons une nouvelle stratégie pour traiter la situation en question. Cela peut-être une thérapie, une spiritualité, une technique corporelle ou autre. Cela peut même être un super séminaire sur la sexualité avec un super animateur.
+
+Il n’y a pas d’ennemi en nous. Il n’y a que des amis. Même si nous sommes le merveilleux résultat de millions d’années d’évolution aussi bien sur le plan physique que psychologique, nous pouvons encore progresser. La douleur n’est pas notre bourreau, c’est notre guide intérieur qui s’exprime à travers elle pour nous pousser vers plus de clarté et plus d’amour.
+
+Je me méfie des formateurs qui utilisent les mots “auto-sabotage” ou équivalents. Je me méfie des enseignants, des conférenciers qui voient une partie de soi-même comme quelque chose à combattre, à dépasser et non quelque chose à aimer et à faire grandir.
+
+Cela ne signifie absolument pas rester inactif. Mais au lieu d’essayer de ramasser tous les cailloux sur terre, au lieu d’entraîner mon pied à résister voire à dépasser la douleur, je lui donne de l’amour. Et l’amour peut prendre des formes très différentes. Par exemple, l’amour peut prendre la forme d’une chaussure ou d’une tong. L’amour peut prendre la forme d’un désinfectant, d’un pansement voire des points de suture.
+
+Il n’y a pas à se battre contre soi-même. Il y a seulement à se donner plus d’amour à soi-même.
+
+Quand vous utilisez le concept d’auto-sabotage : vous vous voyez comme l’ennemi de vous-même alors que vous êtes déjà votre meilleur ami et c’est simplement que la situation est le 1/100 des cas où l’expression de cette affection n’est pas adaptée. Un ami qui vous a fait du tort une fois et vous a sauvé 99 fois. Traitez-le avec l’affection, le respect qu’il mérite.
+
+Dans la sexualité, si vous vivez vos blocages comme des ennemis à votre plaisir, à votre légèreté et à votre présence, vous rajoutez du chagrin à la difficulté. Vous surchargez la frustration avec de la colère. Cherchez simplement un moyen plus adapté pour exprimer l’amour et la liberté. Mon séminaire est un moyen parmi d’autres.
+
+Ce que d’autres appellent auto-sabotage, je les vois comme des occasions précieuses de faire grandir la liberté, la clarté en moi. Je les accueille comme un rappel pour me donner plus d’amour à moi-même. Je n’ai pas toujours la disponibilité et l’énergie pour le faire. Mais quand j’y arrive, je suis rempli de gratitude pour la vie.
+
+
+## Es-tu certaine de vouloir un prince charmant ?
+
+Les mots ne sont pas les choses mais les mots amènent des idées, des connotations et des images.
+
+Quand une femme me dit qu’elle cherche le prince charmant, voici les deux alertes qui s’allument dans ma petite tête comme des gros panneaux clignotants pour signaler un danger la nuit sur l’autoroute.
+
+Primo, je ne suis pas un prince. Nops. Je suis un Roi.
+
+Secundo, elle se voit comme une princesse, pas une Reine.
+
+Le mot princesse, dans une autre langue et une autre culture, signifierait peut-être autre chose. Mais à mon avis, ce que ce mot amène, consciemment ou non, comme image dans le cerveau d’une Française, c’est Cendrillon, Blanche-Neige, La Belle au bois dormant.
+
+Ces princesses sont de pauvres femmes sans repère, sans valeur, qui cherchent à être choisies par un prince pour avoir de l’importance, pour exister.
+
+Cendrillon cherche à être vue au bal pour se marier. Elle ne connaissait même pas le prince, ne l’avait jamais vu et se donnait tout ce mal pour se faire belle ? Le prince lui pouvait choisir parmi un groupe de filles à marier. Mais chaque fille voulait se marier à qui ? A un inconnu. La seule chose qu’elle savait de lui c’était que c’était un prince … elle voulait en réalité épouser une situation. Il n’y a rien de mal à vouloir sortir de la misère financière ou affective. C’est juste que je ne veux pas qu’une femme choisisse ma situation plutôt que moi.
+
+La Belle au bois dormant a épousé celui qui l’a réveillée, le prince, son sauveur. Genre il y a un mec qui l’embrasse pendant qu’elle dort !!! Quand on parle du consentement, il est où là. Même s’il est beau, même si c’est le prince. Dans le code pénal, il y a le délit de « viol conjugal ». Ça signifie qu’il faut un consentement. Ce n’est pas quand l’homme veut, où il veut et comme il veut. Bon, là il n’y a pas pénétration, mais légalement c’est une agression sexuelle.
+
+Pour Blanche-Neige, c’est pire : elle était dans le coma. Dans la version Disney, le prince l’embrasse, dans la version de Grimm le prince décide de ramener son corps chez lui. Genre l’amitié entre Blanche-Neige et les sept nains qui ont pris soin d’elle, qui l’ont accueillie chez eux, qui la nourrissent et elle qui prenait soin de la maison, leur cuisinait des plats pour les nourrir quand ils rentrent du travail, cette amitié était négligeable, balayée par le premier beau gosse prince venu.
+
+Chaque fois qu’on utilise l’expression « prince charmant », il y a tout cet imaginaire qui risque de colorer la toile de fond.
+
+Si on croit aux pouvoirs et vibrations des mots, à la création-visualisation positive, on devient vigilant envers les expressions qu’on utilise.
+
+Certaines femmes utilisent l’expression « prince charmant » et se définissent de facto comme princesse alors qu’en réalité elles sont des Reines.
+
+Chaque femme possède déjà un royaume intérieur, une richesse inhérente, sa liberté d’être, son autonomie affective … chaque femme est déjà une Reine mais des fois il faut du temps pour qu’elle s’en rende compte. Ça ne veut pas dire qu’elle n’a pas envie de rencontrer un Roi. Elle peut en avoir envie mais pas à partir d’un manque, pas en quémandant. Elle a envie de rencontrer un Roi à partir d’un plein, en débordant de son essence. Elle ne lui demande pas de la choisir pour soigner ses blessures. Des blessures, elle en a encore peut-être mais elle peut les gérer seule. Elle lui offre le privilège de devenir son Roi.
+
+Oui, c’est un honneur pour un Roi d’être choisi. Elle lui ouvre la porte de son royaume précieux et sacré. Il y vient en tant qu’invité et non en territoire conquis. Ce n’est pas sa terre. Ce pays a déjà une souveraine qui lui offre l’hospitalité. Il doit prendre soin de lui pour venir à la rencontre de la Reine. Il doit prendre soin de lui extérieurement et intérieurement. Des habits propres, des habits précieux. Des intentions nobles, des intentions bienveillantes. Des émotions claires, des émotions partagées. Toutes allusions sexuelles dans ce paragraphe étaient purement volontaires.
+
+À toutes les Reines et à tous les Rois, bienvenue au royaume des royaumes, celui des Rois et des Reines.
+
+— Duy DANG, le 16 Mai 2020
+
+
+## La morale cachée de Cendrillon *(brouillon)*
+
+Quand j’étais gamin, je chantonnais régulièrement dans la rue. J’imaginais des fois que je croiserais par hasard un grand producteur qui serait charmé par ma voix exceptionnelle. Il m’engagerait, je deviendrais célèbre et riche. Plus tard, j’ai compris que c’était la morale de Cendrillon : moi, un être couvert de pauvres vêtements trouvé par un sauveur qui voit la beauté intrinsèque, voire cachée, de mon être exceptionnel.
+
+Dans mes entretiens, j’entends souvent les femmes et les hommes décrire le ou la partenaire qu’ils voudraient. Ils ont remplacé beaux, riches et intelligents, courageux par authentiques, en conscience, à l’écoute, spirituels et quelques autres qualités rares mais le principe est toujours le même. L’autre possède de nombreuses qualités qui me rendront heureux. Et quand je les vois tristes, abattus, aigris des hommes et des femmes, déçus par la vie, je comprends qu’on rejoue un peu le complexe de Cendrillon.
+
+Alors que tu sois une femme ou un homme, si tu ne te sens pas exceptionnel, si tu ne te sens pas fantastique, oublie l’histoire de Cendrillon. Parce que dans l’histoire de Cendrillon, c’était la fille d’un riche marchand. Quand elle est allée au bal, elle portait une robe faite par sa marraine la fée. Une robe faite par une fée ! Tu vois le truc. Il y a les robes faites sur mesure. Au-dessus, il y a les robes sur mesure dessinées par les grands couturiers. Et au-dessus d’au moins dix étages, il y a les robes faites par les fées. Elle n’est pas du tout allée au bal en guenilles, sale et mal coiffée. Elle a croisé le prince dans sa robe magique de lumières. Donc si tu as envie d’un partenaire exceptionnel, comme le prince de Cendrillon, laisse tomber la modestie, qui n’est pas du tout pareille que l’humilité, et enfile ta robe de lumière.
+
+Thich Nhat Hanh disait “Le miracle n’est pas de marcher sur l’eau. Le miracle c’est de marcher sur la Terre”. Oui, pouvoir marcher sur la terre et contempler le ciel, les arbres, les montagnes, les immeubles, les poubelles, les nuages, c’est déjà un miracle. C’est déjà merveilleux et fantastique. Pas besoin d’autre chose.
+
+Pendant des années, j’étais coach formateur dans un cabinet international américain avec des bureaux dans le monde entier, dont la clause que j’ai signée m’interdit de donner le nom. C’était une super expérience parce que j’y ai appris à changer réellement le regard des participants sur eux-mêmes en douze semaines seulement. La plupart des gens étaient métamorphosés. Le secret, simplement rappeler aux gens combien ils sont supers. Il ne s’agit pas de parler en permanence de toi mais il s’agit de voir ta réalité dans ses plus beaux côtés. Toutes tes  réussites, les épreuves traversées, les moments merveilleux de ta vie, tes plus belles réalisations font de toi une personne fantastique. Quand tu prends conscience à quel point tu es belle, précieuse, exceptionnelle, tu te respectes plus, tu exiges des partenaires de premier choix parce que … tu le vaux bien.
+
+Je ne sais pas si c’est vrai quand on dit que “Qui se ressemble s’assemble” mais une chose est sûre. Les qualités que tu cherches chez un partenaire font de lui une personne plutôt bien, plutôt précieuse voire exceptionnelle. Si c’est le cas, il n’y a aucune raison qu’il se contente d’une personne qui ne soit pas bien, pas précieuse ni exceptionnelle. Alors laisse tomber ton rôle de victime de la vie, de tes parents, de tes ex, du gouvernement et enfile tes plus beaux habits de lumière. Et pour que ta robe soit lumineuse, en réalité tu n’as pas besoin de tissus magiques fabriqués par une fée. Tu peux rendre ta robe lumineuse par la lumière de ton regard aimant, juste et honnête.
+
+En 8 ans de carrière comme coach formateur, j’ai toujours réussi à aider mes participants à se voir plus beaux, plus précieux, plus vrais, plus tels qu’ils le sont. Ça veut dire que je suis bon mais aussi que tout le monde est précieux, chaque personne est précieuse, belle, majestueuse. Et donc toi aussi ! Le reconnaître ce n’est pas de la vantardise mais de l’honnêteté. Tu es lumineux. Tu es lumineuse.
+
+
+## Pour lutter contre les complexes
+
+Plus jeune, je croyais que pour trouver la partenaire idéale il fallait que j’aie le maximum de qualités du mâle alpha pour pouvoir plaire à une femme. Grand, beau, musclé, riche, avec une belle situation professionnelle. Personnellement, à 21 ans j’étais plutôt petit (ça n’a pas changé) et vraiment maigrelet. Pas doué du tout avec les filles. J’étais encore vierge et j’avais eu à peine 3 flirts qui ont duré entre 3 jours et 3 semaines. Je croyais que de ce fait, je ne trouverais jamais de femme. Si si. Vraiment, on ne se moque pas s’il vous plaît.
+
+Cela ne m’a pas empêché de rencontrer une femme formidable avec qui j’ai vécu presque 20 ans.
+
+Après mon divorce, ma situation professionnelle avait beaucoup perdu en prestige. Des revenus beaucoup plus faibles. Et en plus, un début de calvitie.
+
+Cela ne m’a pas empêché de vivre de belles relations qui ont duré plusieurs années, certaines femmes étaient plus grandes que moi, des femmes de mon âge, plus jeune de quelques années voire vingt ans plus jeune.
+
+J’ai découvert un principe qui m’a aidé à lâcher prise sur mes complexes et m’a fait abandonner toute idée de vouloir devenir un mâle alpha. Ce qui compte, ce n’est pas de plaire au plus grand nombre de femmes possibles. Ce qui compte c’est de plaire à une femme, une seule, qui me plaît vraiment. Effectivement si j’étais plus grand j’attirerais plus de femmes, et encore plus si j’avais plus d’argent, encore plus si j’étais plus  etc etc. Mais mon but n’est pas de plaire au maximum de femmes, mon but est de plaire à une femme qui me plaît.
+
+Réciproquement, même si honnêtement je regarde plus souvent les femmes minces, belles, jambes épilées, avec de beaux seins j’ai eu de belles relations avec des femmes qui avaient “des défauts” à priori mais en réalité ce n’était pas du tout le cas pour moi : jambes velues, poitrine ultra plate, torse velu, cicatrice au visage, en grand surpoids. Sans compter les femmes qui avaient des complexes sur leurs seins, genoux ou ventre que je ne comprenais même pas pourquoi elles n’aimaient pas ces parties.
+
+Pourquoi dans la nature il y a le principe de mâle alpha ? Parce que le mâle a juste besoin de copuler, il a juste besoin d’une femelle pour se reproduire. Donc il cherche à avoir le plus de femelles possible. Voici une anecdote qui montre qu’être mâle alpha n’est pas forcément la bonne stratégie.
+
+Un jeune âne sauvage disposait d’un grand territoire avec des femelles dessus. Il veillait jalousement sur son domaine notamment contre les autres mâles. À la bordure de son territoire, il y avait un vieux mâle en capacité de copuler mais sans aucune chance de battre le mâle alpha au combat. Au début de la période de reproduction, le jeune mâle était tellement pressé de saillir les femelles en chaleur qu’il leur fonçait droit dessus à toute vitesse comme un prédateur sur une proie. Par réflexe, les femelles couraient en voyant une masse arriver sur elle à toute allure. Donc le jeune âne a coursé plusieurs femelles sans réussir à les attraper. Ça l’a bien fatigué. Sur ce, le vieil âne qui a vu ce qui s’est passé rentre sur le territoire pour provoquer le jeune. Le jeune commence alors à poursuivre le vieux qui s’enfuit et qui arrive à garder une bonne avance puisque le jeune âne était déjà passablement fatigué. Une fois que le vieil âne a éloigné le jeune suffisamment loin des femelles et a jugé que ce dernier n’était plus un danger, il est revenu vers le groupe de femelles en s’approchant doucement de l’une d’entre elles qui accepta volontiers d’être montée par ce vieil âne ô combien malin.
+
+Le deuxième principe pour dissoudre les complexes c’est de donner suffisamment d’attention à ma partenaire pour oublier mes complexes. Ça marche très bien. Notre capacité à traiter les informations est limitée. Si je mets toute mon attention sur ma partenaire, je n’ai pas d’énergie possible pour me soucier de mes complexes. Et si je ne pense plus à mes complexes, je n’ai plus de complexes.
+
+Un troisième principe très efficace aussi, mais ça dépend de son partenaire. J’ai eu la chance de rencontrer des femmes pour qui ma calvitie n’était pas un problème. J’ai eu deux amantes qui me préféraient avec un petit ventre plutôt que le ventre plat. Non, les femmes sont vraiment bizarres. Les hommes aussi. Alors plutôt que de se faire un complexe sur une partie de mon corps, j’essaie de me donner à 100% à la relation et dans les relations intimes. Et si de temps en temps je croise un homme avec une belle chevelure et je vois monter la jalousie, je me pose alors cette question : “Entre avoir une belle chevelure pour plaire à 50 femmes au hasard dans la rue ou garder ma calvitie et plaire à ma Reine, qu’est-ce que je préfère réellement ? Et là, pouf, plus de complexe.
+
+Les complexes peuvent créer des tensions voire de fortes tensions dans le corps et l’esprit. Les complexes physiques peuvent être exacerbés dans la relation sexuelle où le corps est exposé et touché.
+
+Dans la mesure du possible se centrer sur ma partenaire, les sensations de mon corps, le moment présent … alors il n’y a plus de complexe.
+
+
+## La princesse au petit pois *(brouillon)*
+
+C’est un conte d’Andersen pas très connu. Quand j’ai entendu l’histoire la première fois, j’ai trouvé sa morale lamentable. C’était l’apologie de la fragilité de cette princesse, faible, sans défense mais surtout douillette.
+
+Dans un pays, un prince cherche une princesse à épouser. Il reçoit plusieurs prétendantes qui ne trouvent pas grâce à ses yeux. Un jour, arrive une jeune femme en guenilles qui dit être princesse d’un pays lointain et s’est fait attaquer par des bandits sur la route. Ils ont volé ses vêtements et effrayé ses serviteurs qui se sont enfuis de peur d’être tués. Elle plaît au prince mais la reine mère est soupçonneuse et veut vérifier que cette demoiselle est bien une vraie princesse. Elle doit avoir l’habitude du luxe et du raffinement. La reine installe la jeune fille dans une chambre avec un lit sur lequel sont empilés sept matelas. Le lendemain, la reine demande si la jeune fille a bien dormi. Cette dernière répond qu’elle a passé une nuit épouvantable. Elle s’est retournée toute la nuit et son dos est complètement endolori parce que le lit était trop inconfortable. La reine, qui avait caché un petit pois sous les matelas pour tester, sait maintenant que la jeune fille est une vraie princesse et donne son accord pour le mariage.
+
+Pendant des années, je n’étais pas satisfait de ma sexualité. C’était bien, plaisant mais il y avait toujours un petit quelque chose qui n’allait pas. Le premier réflexe que j’ai eu c’était de chercher plus de plaisirs, des expériences nouvelles, d’autres partenaires. À chaque fois c’était mieux mais c’était insuffisant. Ça revenait à rajouter un matelas en espérant que ça devienne parfait. Si ça ne suffit pas, j’en ajoute encore un autre, puis un autre et un de plus.
+
+Un jour, je finis par me décourager. J’en avais marre de chercher un nouveau matelas à mettre sur le tas. Je ne voulais plus être dans la démarche d’encore une expérience, une nouvelle position sexuelle, un endroit à tester. J’étais fatigué. J’étais désespéré. Tellement désespéré que j’ai accepté une nouvelle hypothèse à priori complètement farfelue. Il fallait faire autre chose que d’empiler des matelas, arrêter de regarder dehors. Peut-être que le problème venait de moi. Peut-être. Je n’en étais pas sûr mais je n’avais pas d’autre piste.
+
+Je me suis écouté. Je me suis étudié. J’ai observé mes pensées, mes peurs, mes envies, mes attentes. J’ai vu que je n’avais jamais été totalement honnête avec mes partenaires. Il y avait toujours un petit quelque chose que je cachais, un mensonge par omission. Je n’étais pas authentique.
+
+Ça a pris un certain temps pour devenir vraiment authentique dans la sexualité. Ça a pris de l’énergie aussi. Un jour j’ai réussi. Réussir à faire l’amour sans masque. Sans le plus petit masque. C’est là que j’ai compris qu’il y avait un petit pois depuis toujours sur mon sol. En dessous de cette pile de matelas, il y avait un petit pois. C’était mon masque. Le masque était mon petit pois. Le masque était d’un très grand poids.
+
+Depuis, un seul matelas me suffit amplement. Je n’ai plus besoin de grands orgasmes, de nouveautés etc. Tout est bien à chaque fois. Pleinement satisfaisant. Profondément joyeux. Totalement nourrissant. Mais phénomène étrange, c’est que depuis que je ne cherche plus ça n’arrête pas d’arriver ! Des expériences merveilleuses.
+
+Maintenant, je comprends mieux ce petit pois. C’est une petite voix qui me murmurait : “Mon ami, ce n’est pas ça. Tu mérites mieux.” ou “Mon ami, tu n’es pas encore arrivé. Il y a du grandiose pour toi.” En définitive ce que cette voix a toujours répété, et que j’entends distinctement aujourd’hui, c’était : “Mon ami, tu mérites le grand luxe. Tu connais le raffinement. C’est ta nature que de vivre le merveilleux. Continue et tu trouveras. Cela t’est destiné parce que tu es une vraie princesse.”
+
+D’ailleurs le second titre du conte c’est La Princesse sur le pois ou La Vraie Princesse.
+
+Aujourd’hui, il se pourrait que je sois devenu un petit pois. Oui, maintenant je suis un petit pois.
+
+Ton petit pois. Peut-être, mon ami que je suis ton petit pois.
+
+Alors laisse-moi te dire ceci :
+
+Mon amie, tu es une vraie princesse. Mon ami, tu es un vrai prince.
+
+
+## Le carnet noir des reproches *(brouillon)*
+
+Dans une relation en général, et encore plus dans une relation amoureuse, on a un carnet noir. C’est un carnet noir, c’est un carnet, dans ma tête, dans lequel je vais noter les reproches que je fais à ma partenaire que je n’exprime pas. Comme je suis quelqu’un de bien, de gentil, je ne lui dirai pas que j’ai un carnet comme ça. Moi-même, d’ailleurs, je ne savais pas que j’avais un tel carnet … jusqu’au moment où elle me fait un reproche, au moment où je suis excédé, où elle me quitte et là je me rappelle tout d’un coup tous ces reproches : “Et ça que j’ai fait pour toi ! Et ceci que j’ai enduré sans rien dire ! Et cela que je t’ai donné !”
+
+La vérité n’est pas toujours facile à dire. C’est vrai. Mais je prends conscience que la vérité, quand c’est un reproche, un grief, une contrariété, quand je ne le dis pas je l’écris dans mon carnet noir. Puis un jour, une goutte d’eau fait déborder le vase. Mon carnet est saturé alors je balance tout. La pauvre, elle n’y comprend rien. D’ailleurs, je me surprends à être autant en colère de manière disproportionnée. Moi qui ai tant fait de travail sur moi déjà ! Merdum.
+
+Regarde les disputes des couples qui se séparent dans la violence. Ils vident leur carnet noir l’un sur l’autre comme s’ils vidaient une poubelle sur la tête. Tant de colère, tant de haine, tant de frustrations refoulées.
+
+Ce carnet noir, c’est le poison de la sexualité sensible. C’est pour ça qu’on est plus à l’aise, excité parfois avec un nouveau partenaire. Ce n’est pas forcément plus beau mais c’est plus neuf. Il y a moins de choses dans le carnet noir le concernant.
+
+Se rendre compte que le carnet existe. Faire au mieux pour écrire le moins de choses possibles. Faire au mieux pour vider ce qu’il y a dedans en l’exprimant, ce qui sera probablement difficile, si possible dans un cadre sécurisant pour les deux.
+
+On dit que “Ce qui ne s’exprime pas s’imprime” . Je dirais plutôt : “Ce qui ne s’exprime pas, s’imprime dans le livre noir … et s’exprimera quand même plus tard”
+
+Si jamais je me surprends à lui balancer le contenu du carnet, en le disant ou simplement en pensée, je peux regarder ce moment comme un moment de vérité de mon manque d’authenticité. Pas de reproche, pas de regret … simplement voir. Voir l’ombre c’est déjà se rapprocher de la clarté. Voir mes manquements et les accueillir c’est développer la compassion.
+
+
+## Des hommes fuyants, des femmes paranoïaques *(brouillon)*
+
+Évidemment la plupart des hommes ne sont pas fuyants, et la majorité des femmes ne sont pas paranoïaques. Je décris ici quelques personnes que je connais dont ces comportements arrivent de temps en temps.
+
+Je répète qu’il ne s’agit que de certains hommes et de certaines femmes. Pas de généralité mais je ne peux mettre “certains” et “certaines” à chaque fois. Merci pour votre compréhension.
+
+La pensée plus ou moins inconsciente qui l’angoisse c’est : “Je ne peux pas être aimée“
+
+Cela se traduit par la pensée plus ou moins consciente : ”Il ne m’aime pas”. Parfois, à la place d’aimer c’est respecter, considérer ou donner de l’importance.
+
+La tendance : interpréter ce que dit, fait, ne dit pas ou ne fait pas son partenaire comme preuve de la pensée “Il ne m’aime pas”.
+
+La réponse à cette peur : communiquer, chercher à comprendre, poser des questions, donner des conseils.
+
+Une piste à explorer pour cette femme : arrêter de se centrer sur elle et s’intéresser à son partenaire. En étant curieuse à l’intérieur mais pas forcément sur l’extérieur. Quand une entomologiste étudie les fourmis, elle ne pose pas des tas de questions. Elle ne va pas interagir avec les fourmis en faisant sans arrêt des expériences comme mettre un sucre, boucher la fourmilière ou je ne sais pas quoi encore. Elle reste tranquille, elle les observe de loin avec les yeux mais de près avec son cœur. Quand elle pense les avoir assez bien comprises, de temps en temps, elle tente une petite expérience pour vérifier son hypothèse.
+
+La pensée plus ou moins inconsciente qui l’angoisse c’est : “Je ne peux pas être aimé“
+
+Cela se traduit par la pensée plus ou moins consciente : ”Je ne suis pas à la hauteur”. Parfois, à la place c’est de ne pas être assez bien, assez fort, assez solide.
+
+La tendance : interpréter ce que dit, fait, ne dit pas ou ne fait pas sa partenaire comme preuve de la pensée “Je ne suis pas à la hauteur”.
+
+La réponse à cette peur : s’isoler, éviter le dialogue et la confrontation, des réponses évasives et minimales.
+
+Une piste à explorer pour cet homme : arrêter de se centrer sur lui-même et s’intéresser à sa partenaire. La vérité n’est pas toujours facile à dire mais elle est nécessaire pour l’évolution. Le déni, ne pas reconnaître la vérité, ce qui revient un peu à ne pas le dire à l’autre, est la première des cinq phases du deuil énoncées par Elisabeth Kübler-Ross. Tant qu’on reste dans cette phase, on évite la colère et la tristesse des phases suivantes. C’est vrai. Mais on n’évolue pas et on reste figé dans la situation problématique. Parfois, il faut désinfecter la plaie et la nettoyer pour qu’elle ne s’infecte pas. Ça fait mal sur le coup mais ça évite l’infection après.
+
+Ces pistes peuvent aider à mieux gérer la situation. Et il y a une ultra-solution commune vraiment efficace même si elle peut être plus difficile à réaliser. Si j’avais un homme fuyant ou une femme paranoïaque devant moi, je lui dirais quelque chose comme ceci :
+
+Premièrement, tu n’es pas mieux que les autres. Pendant des siècles, les gens ont cru que la terre était plate. Ils en étaient convaincus, persuadés, c’était pour eux une vérité absolue et indiscutable. Ils s’étaient trompés. Donc, la prochaine fois que tu me dis que tu es persuadé de quelque chose à 100%, je te répondrai “Peut-être que tu te trompes comme ceux qui croyaient que la terre était plate”.
+
+Ensuite, tu crois ou tu es persuadé que tu n’es pas digne d’amour. Que telle que tu es il ne t’aime pas, tel que tu es elle ne te trouve pas à la hauteur. En fait, tu es en train de projeter tes propres pensées. C’est toi qui ne te trouves pas à la hauteur. C’est toi qui ne t’aimes pas. Pour être plus exact, ce n’est pas toi mais le regard emprunté des autres sur toi. C’est le regard des autres, le jugement des autres sur toi qui trouvent que tu n’es pas assez bien, pas assez digne d’amour. Parce qu’au fond de toi-même, quand tu mets de côté ce que t’ont dit tes parents, la société, l’église, la morale, tu sais bien que tu es digne d’amour, digne d’être aimé. Tu sais bien que tu as fait de ton mieux à chaque instant de ta vie. Sans le jugement des autres, sans ton jugement emprunté aux autres, tu sais bien que tu as fait comme tu pouvais, avec ce qui était là. Avec un regard sincère sur toi-même, tu te prendrais dans les bras, dans le cœur et tu te dirais combien tu as été courageux malgré tout, combien tu es fier de ce que tu as réussi à traverser, combien ton cœur veut être grand ouvert.
+
+Les Grecs de l’Antiquité savaient que la terre n’était pas plate par cette seule observation. Quand on voyait un bateau à l’horizon, on voyait d’abord le haut du mât puis le reste du bateau. Si la terre était plate, on devrait voir apparaître tout le bateau en entier.
+
+L’observation que tu peux faire de toi c’est celle de la logique. Soit tu n’es pas digne d’être aimé alors ça ne sert à rien de chercher à l’être. Tu es fou ou folle. Soit tu es digne d’être aimé et ça veut dire qu’au fond de toi tu sais que tu es digne d’être aimé. Parce qu’au fond de toi tu t’aimes déjà. Mais tu ne le sais pas. Comme les gens ne savaient pas que la terre était ronde. Ne pas savoir que la Terre est ronde n’empêche pas la Terre d’être ronde. De même, ne pas savoir que tu t’aimes ne t’empêche pas de t’aimer déjà. À partir du moment où ils ont su qu’elle était ronde, des gens se sont mis à l’explorer et ont découvert l’Amérique. La réalité c’est que la Terre a toujours été ronde, c’est seulement notre regard qui a changé et avec un regard plus juste, on a découvert l’Amérique.
+
+La vérité c’est que tu t’es toujours aimé profondément sans le savoir, c’est seulement ton regard qui est à changer et avec un regard plus juste, tu découvriras peut-être ton Amérique.
+
+
+## Comment je me suis sorti de la dépendance affective *(brouillon)*
+
+Il y a encore eu un concours de circonstances qui m’a placé dans une émotion intense de jalousie, de colère, de violence, de sentiment d’abandon en même temps j’avais la conscience que ce n’était que des illusions. C’est vraiment compliqué de voir qu’on est bouleversé émotionnellement d’un côté et de l’autre avoir conscience que c’est pour une chose pas si dramatique. On trouve cela disproportionné.
+
+En réalité, c’est disproportionné par rapport à l’événement présent mais ce qui se passe c’est que l’émotion n’est pas déclenchée par ce qui se passe aujourd’hui mais par l’accumulation de toutes les blessures accumulées depuis des années. Toutes les fois où on s’est retrouvé dans une situation analogue, avec le même sentiment. Ce sont toutes les douleurs passées qui reviennent d’un coup.
+
+Cette nuit-là, j’ai eu l’intuition d’un processus combinant une méditation que j’avais vue le jour même et un protocole de thérapie brève que j’avais étudié dix ans auparavant. En pratiquant cette méthode, j’ai écouté deux fois l’album de best of de Whitney Houston. La première fois, j’ai pleuré toutes les larmes de mon corps de chagrin, de désespoir, de solitude.  La deuxième fois, j’ai encore pleuré toutes les larmes de mon corps mais de gratitude envers la vie.
+
+Ce processus sera l’une des étapes de notre voyage de la journée de stage.
+
+
+---
+
+# Fables et paradoxes
+
+
+## La poissonne rouge et le têtard
+
+Une histoire d’amour entre une poissonne rouge et un têtard.
+
+Dans une jolie mare, il y avait un petit groupe de têtards. Tous venaient de sortir de leur œuf depuis quelques jours seulement. Il y en avait des plus ou moins agiles, des plus ou moins rapides. Romain était dans la moyenne. Normal sans plus. Romain était un grand romantique. Il cherchait l’âme sœur dès ses premiers jours de vie, interrogeant les représentantes de la gent féminine pour découvrir celle qui répondrait le mieux à ses valeurs. Il la trouva après de nombreuses rencontres. Il dut aller à l’autre bout de la mare pour la trouver mais enfin, elle était là : Julie. Des formes bien proportionnées. Un peu ronde. Toute mignonne avec de petites nageoires rigolotes. D’un rouge éclatant. C’était bizarre mais ce n’était pas grave pour Romain. Ça la rendait unique. Il ne sut pas dire ce que c’était et d’ailleurs peu lui importait. Il l’aimait. Voilà tout.
+
+Julie était un poisson rouge. Mais, à cet âge-là, ça ne faisait pas beaucoup de différence. C’étaient tous les deux des petites boules avec des nageoires en forme d’éventail. Bon, l’éventail n’était pas orienté pareil, mais cela importait peu.
+
+Cette attirance fut immédiatement réciproque. Julie trouvait ce têtard bien profilé. Il avait l’air plus déterminé, plus ambitieux que les autres gars qui l’avaient courtisée. Ça se voyait à sa façon de se tenir. A sa façon de nager. Clairement, il sortait du lot, ce Romain.
+Ils commencèrent à se fréquenter. De longues balades en amoureux. Visitant les moindres recoins de la mare. Ils s’amusaient à nager l’un autour de l’autre. À faire des bulles. Bref, de jeunes et beaux amoureux.
+
+Ils se mirent en ménage. La vie de couple se passait bien. Contrairement aux autres couples qui ne savaient pas communiquer, Romain et Julie avaient suivi des formations en communication et des stages de thérapies de couple. C’est vrai que ça leur servait beaucoup pour gérer les conflits du quotidien. Tous les animaux de la mare enviaient cette merveilleuse entente dans leur couple.
+
+Romain avait de temps en temps envie de sortir de la mare. Il en parle à Julie. Celle-ci refuse de quitter sa maisonnette. Rien de grave qu’une différence de goût, comme d’autres différences qui devaient les enrichir mutuellement. Oui. Nous nous enrichissons de nos différences. C’est ce qui se dit dans la sagesse des têtards aussi.
+
+L’envie de Romain d’aller visiter le monde devenait de plus en plus forte. Il sentait que quelque chose bouillonnait en lui. Il essaya de convaincre sa petite Julie. Avec toute la diplomatie donnée par les méthodes de communication, il arriva à faire accepter à Julie l’idée de sortir de l’eau. Elle le fit par amour. Quelques instants seulement car très vite elle se sentit mal sur la berge. Elle regagna rapidement sa maison dans l’eau.
+On assiste alors à leur première dispute.
+
+Il lui reprocha d’être peureuse. D’être trop timorée. De ne pas prendre de risque. Qu’on ne pouvait pas avancer dans la vie si on restait tout le temps dans son cocon.
+Elle lui dit qu’il est important de se satisfaire du moment présent. Qu’il était un éternel insatisfait. Qu’il voulait toujours plus. Que s’il ne pouvait pas être heureux ici, dans la petite mare, il ne pourrait être heureux nulle part.
+
+Chaque fois que Julie sortait de l’eau pour Romain, elle s’essoufflait. Rapidement, elle agonisait.
+
+Chaque jour que Romain restait dans l’eau, il s’étouffait. Rapidement, il dépérissait.
+
+Chacun d’eux reprochait à l’autre de ne pas être comme lui. De mettre leur couple en péril. 
+
+Et que si ça continuait, ils allaient se séparer mais la faute viendrait de l’autre.
+Le temps passe et un beau jour Romain est devenu une grenouille. Une belle petite grenouille verte. Il chante, il fait des bonds sur les feuilles. Il explore la terre. Il se chauffe un peu au soleil. Il attrape les mouches. Et surtout, il adore se retrouver avec ses camarades grenouilles pour chanter pour faire venir la pluie.
+Il était heureux comme ça.
+
+Impossible pour lui de rester sous l’eau longtemps. Il devait vivre sur terre, sur l’eau et régulièrement aller sous l’eau mais pas avec des branchies, avec un poumon. De temps en temps, il croisait sa jolie poissonne.
+
+Julie continue à nager dans la mare. Elle aimait explorer le fond boueux à la recherche des vers goûteux. Elle passait du temps à se faufiler entre les racines de nénuphars et jouer à cache-cache avec ses amis.
+
+Romain vivait sa vie de grenouille.
+Julie vivait sa vie de poissonne.
+
+Ils vécurent heureux longtemps … mais pas ensemble.
+
+« Les personnages et les situations de ce récit étant purement fictifs ou presque, toute ressemblance avec des personnes ou des situations existantes ou ayant existé ne saurait être que fortuite ou presque ».
+
+Et si la faute venait de nulle part ?
+
+Et si le destin d’un têtard était de quitter la mare pour vivre à l’air dit libre ? Sur la terre dite ferme.
+
+Et si le destin d’un poisson rouge était de rester dans la mare ? Dans l’eau natale.
+À qui la faute alors ? Peut-être à personne. Parce que ça devait se passer comme ça. On ne peut pas demander à un têtard de grandir dans l’eau où il est né. On ne peut pas demander à un poisson rouge de grandir ailleurs que dans l’eau de sa mare.
+Les donneurs de leçons diront qu’il fallait que Romain épouse un têtard et Julie un poisson rouge. Mais alors, ils n’auraient pas eu ce bonheur. Ce bonheur a duré le temps qu’il a duré, mais c’était un bonheur unique. De toute façon, aucune autre demoiselle de la mare ne plaisait à Romain comme aucun autre poisson ne trouvait grâce aux yeux de Julie.
+
+Certains diront que c’était une malédiction du destin que d’obliger deux êtres à se séparer.
+
+D’autres diront que c’était une bénédiction du destin que d’avoir permis à deux êtres de se réunir.
+
+« Oui, mais ça n’a pas duré », disent les premiers. 
+« Oui, mais la vie ne dure pas éternellement non plus », répondent les seconds.
+
+
+## Il n’y avait personne dans la valise
+
+Cela s’est passé il y a quelques années dans un train de banlieue. Je revenais d’un cours de danse. Il était tard et il y avait une dame qui avait mis sa grosse valise sur le porte-bagages au-dessus d’elle. La valise bougeait avec les vibrations du train. Elle était instable et avec les tremblements commençait à sortir du porte-bagages dangereusement. Je suis venu l’aider à la remettre en place.
+
+Mais en fait, ça ne s’est pas passé comme ça. Il y avait une femme qui se disputait avec son compagnon. Il était un peu ivre, parlait fort. Les gens dans le wagon le regardaient d’un air désapprobateur sans rien faire. Il la pousse une première fois. Elle se lève et change de place. Je sens la colère monter en moi. Il l’interpelle et elle lui répond. Il vient s’asseoir en face d’elle et continue à discuter fort. Il la pousse une deuxième fois. La violence monte vraiment en moi. Je me suis dit si j’interviens on risque de se battre, il est bien plus grand et costaud que moi je vais prendre un gros coup de poing. La scène continue de plus belle, il crie et la pousse encore. À un moment, je me suis dit “Ok, j’interviens au pire on se bagarre, mais je pourrais toujours courir parce que ivre comme il était, il n’arriverait pas à me rattraper … même si nous courions en rond dans le wagon.” Je viens vers eux, et je lui demande de ne plus toucher la femme. Il écarquille les yeux. Il me dit que ce n’était pas mon problème et qu’il fait ce qu’il veut. Je répète qu’il n’a pas à pousser la femme. Il commence à s’énerver contre moi et là, la femme intervient pour le calmer et pour me dire que tout va bien. Je me rasseois. De temps en temps, il m’interpelle … mais n’a plus touché la femme du voyage.
+
+Cette expérience était très forte, entre la colère, le sentiment d’injustice et la peur, j’ai mis deux jours à me calmer. J’ai alors fait une fiche de travail Byron Katie, si vous ne connaissez pas allez regarder ses vidéos, et j’ai médité sur cette expérience. Voici deux révélations qui me sont apparues.
+
+Premièrement, cet homme était malheureux de la situation. Il se sentait victime d’une injustice. Il a usé un peu de violence. Mais moi aussi, j’étais violent dans ma tête, dans mes pensées. J’avais des scènes de coups, de parades, d’esquives et de fuite. Quand je me suis levé, j’étais prêt à en venir aux mains. Je voyais une situation injuste, qui me mettait en colère et pour obtenir ce que je voulais, j’étais prêt, même si je ne l’ai pas fait, à user de la violence. J’étais comme lui : prêt à user de la violence sur un autre pour avoir ma tranquillité. Impuissant face à la situation, victime de la violence d’émotions insupportables. C’était un frère en réalité. Chacun de nous est victime de son propre monde. Une autre situation, un autre contexte mais au fond, tous les deux pareils désemparés, désespérés et jusqu’à user de la violence contre un autre. J’ai ressenti tout son/mon désespoir et j’ai pleuré comme une madeleine.
+
+Deuxièmement, on voyait que le couple était dysfonctionnel. Un bon psychologue aurait pu expliquer pourquoi cet homme en est venu à cette relation, ses attentes, ses frustrations, son enfant, son alcoolisme … bref, il s’est comporté comme ça parce qu’il n’avait pas le choix. C’était prévisible. C’était aussi prévisible qu’une valise qui tombe à cause de la répartition des poids des objets à l’intérieur. C’est là que j’ai un éclair de compréhension. Ce que j’avais déjà compris avec les moustiques avant.
+
+Un moustique n’est jamais un mauvais moustique. D’ailleurs les moustiques qui me piquent sont de bons moustiques dans le monde des moustiques. Ce sont des mamans moustiques qui risquent leur vie en s’approchant des humains pour boire leur sang dont leurs œufs ont besoin. Depuis que j’ai compris réellement, émotionnellement, cette vérité, je ne me suis plus jamais, vraiment jamais mis en colère contre un moustique. Je continue à les écraser. Plus efficacement parce que sans colère. Avec du respect et de la compassion. Même j’éprouve de la joie à voir le théâtre de la vie. Le moustique jouant le rôle de moustique en cherchant à me piquer. Moi jouant le rôle d’humain qui cherche à tuer le moustique pour ne pas être piqué. L’un de nous deux va gagner. L’autre va perdre. Dans les deux cas, la vie, le théâtre de la vie, gagne toujours dans son expression.
+
+Pour en revenir à notre homme et son analyse psychologique, tous les ingrédients dans son histoire l’ont amené à pousser cette femme plusieurs fois et je n’étais pas obligé d’être en colère pour intervenir. L’homme, c’est une valise. Ses problèmes, les objets dans la valise. Si je vois que la valise risque de tomber sur cette femme, je serais venu l’aider à remettre la valise en place, le cœur léger sans vouloir réprimander la valise. Cette valise était obligée de basculer. Il suffit que je me lève, la remette en place. Intervenir physiquement mais pas psychologiquement. L’intervention physique est efficace. L’intervention psychologique est nuisible. Parce qu’en fin de compte, c’est parce que je me suis fait tout un cinéma que j’ai tant tardé à intervenir entre l’homme et la femme. Sans les histoires dans ma tête de justices, de violences, de sauver une victime d’un bourreau, je serais intervenu beaucoup plus vite. D’ailleurs, depuis cette compréhension, je suis intervenu quatre fois. Deux fois pour des disputes de couples, deux fois des jeunes qui chahutent. A chaque fois, je l’ai fait rapidement, naturellement, sans vouloir sauver ou faire la morale à qui que ce soit. Je demande simplement, en souriant et d’un ton ferme si tout va bien. Ça suffit souvent pour désamorcer les choses et arrêter leur schéma.
+
+Il n’y a personne dans la valise. La personne, ou le moustique, fait ce qu’elle a à faire. Cela apporte une grande paix que de pouvoir l’accepter psychologiquement. Physiquement, je peux agir. Je peux tuer le moustique, interrompre une dispute, interpeller mon interlocuteur, l’entraver physiquement ou fuir pour éviter les coups. Plus je suis calme, moins j’ai de la colère, plus je serai efficace. Un boxeur qui monte sur le ring en étant en colère a beaucoup de chance de perdre son combat, c’est encore plus pour les samouraïs qui se battaient aux sabres. La colère donne de la force mais diminue la vitesse, les réflexes et l’observation.
+
+Quand je me dispute avec quelqu’un, quelques fois, j’arrive à me rappeler que c’est une valise avec des trucs à l’intérieur qui est en train de basculer. Il n’y a personne à l’intérieur, seulement des blessures, des souffrances, des traumas et des peurs. Je sens alors moins de colère et plus d’ouverture. C’est encore plus vrai pour les personnes qui nous sont chères. Nous attendons d’eux qu’ils nous comprennent vraiment, qu’ils nous aiment vraiment, qu’ils nous acceptent tels que nous sommes. Nous voulons qu’il y ait quelqu’un dans cette valise. Mais il n’y a personne non plus dans cette valise. Que des blessures, des peurs, des traumatismes, de la fermeture. Bien sûr, une personne ne se réduit pas à ça, mais au moment d’une dispute si. Une dispute ce n’est pas deux personnes bienveillantes et calmes qui se retrouvent, c’est deux personnes traumatisées qui se font face.
+
+Il n’y a personne dans la valise. Personne à en vouloir. Redresser la valise et retourner vous asseoir tranquillement à votre vie.
+
+
+## Expansion de la conscience vs focalisation de l’attention
+
+L’expression “expansion de la conscience” donne bien une idée aux personnes qui ne connaissent pas l’expérience, ça parle à leur imaginaire, mais induit en erreur d’interprétation pour celles qui veulent la pratiquer. Elle sous-entend un mouvement vers quelque chose à l’extérieur. Pour les néophytes, ce qui importe c’est de percevoir sur une plus longue distance, dans un espace physique ou vibratoire plus vaste. En réalité, on n’agrandit pas la perception dans l’espace mais on affine et concentre la perception vers l’intérieur : le ici.
+
+Prenons l’exemple du télescope. On dit qu’un télescope est fait pour regarder ce qui est loin, très loin. En vrai c’est faux, c’est pour regarder le près, précisément, très précisément.
+
+Un télescope ne regarde pas au loin. Il n’est pas fait pour aller là-bas, mais pour aller ici.
+
+Une fusée, oui, c’est pour aller loin. On envoie une fusée au loin. Oui, c’est vrai. On fait une fusée pour qu’elle aille sur la lune, sur Mars. On crée un satellite pour qu’il atteigne Jupiter, Pluton et plus loin encore.
+
+Mais un télescope, il ne regarde pas là-bas, il regarde ici. Il regarde et analyse la lumière des étoiles lointaines, des milliards et milliards de km, qui arrive jusqu’à nous.
+
+La sensibilité du télescope nous permet de mieux nous rendre compte des détails, de mieux distinguer tout ce qui est « ici ». On analyse les signaux, on filtre les flous, on grossit les contrastes. En définitive on ne regarde que le ici.
+
+L’univers entier nous arrive dans le ici, alors pourquoi aller là-bas pour le trouver. Et de toute façon, nous sommes, avons toujours été et resterons pour l’éternité dans le ici. C’est donc bien ici qu’il faut regarder. Mais regarder plus profondément, plus attentivement.
+
+D’ailleurs quand je vois un arbre là-bas, en réalité, je le perçois ici. L’image de l’arbre est sur ma rétine. Il y a même des technologies qui se développent pour envoyer la lumière directement sur la rétine au lieu d’utiliser un écran pour y créer une image. Mettre l’image ici.
+
+Finalement, ce qui compte c’est ce qui se passe ici. En moi. Dans une écoute fine, précise, sensible.
+
+Pour la sexualité, de mon expérience, c’est la même chose. On croit qu’il faut aller vers l’autre, apprendre des techniques pour lui donner plus de plaisir, plus d’excitation mais au final ce qui compte, c’est ce qui existe réellement en moi.
+
+Le mental me projette dans l’imaginaire, loin de moi. C’est sa nature. Anticiper une réalité qui n’existe pas ici. Manipuler des expériences virtuelles. Me donner des solutions futures, ou plutôt imaginaire, pour des problèmes qui sont souvent dans le futur, ou plutôt dans l’imaginaire, aussi.
+
+Pour vivre une expérience sexuelle authentique, intime, intense dans l’affection, c’est en moi que je vais écouter. Pas une écoute égotique ni psychanalytique. Mais une écoute ouverte, une écoute à tout ce qui est présent en moi, dans mon corps, dans mon cœur, dans mon sexe et dans mon esprit. Oui, j’écoute aussi mon esprit.  Le mental n’est pas mon ennemi, ce n’est simplement pas mon maître. C’est un ami précieux, comme mon corps, mon cœur et mon sexe.
+
+Mes frustrations/insatisfactions/déceptions sexuelles viennent souvent du fait que je n’ai pas été suffisamment ici durant les échanges.
+
+La beauté de mes expériences sexuelles dépend plus de ma capacité à être présent que mes compétences ou performances sexuelles ou celles de ma partenaire.
+
+
+## La peur du papillon pour son envol
+
+Dans le milieu du développement personnel et de la spiritualité, j’entends et je lis souvent “la métamorphose du papillon”. La chrysalide qui se transforme pour prendre son envol.
+
+Ayons un peu d’empathie pour le papillon qui sort de sa chrysalide et qui ouvre ses ailes pour la première fois. Mettons-nous quelques instants dans sa peau.
+
+Imagine, tu as passé ta vie en tant que chenille à ramper sur le sol, à sentir du solide sous tes pieds. En plus, les chenilles n’ont pas deux pieds comme les humains, quatre comme les mammifères ou même six comme les insectes. Quand on regarde la chenille, on voit qu’elle a plein de pieds. Donc, chenille, tu as toujours été en contact avec le sol sous tes nombreux pieds.
+
+Quand tu sens un truc dans ton dos, les ailes mais tu ne sais pas ce que c’est vu que c’est la première fois que tu les sens, tu as juste envie de remuer tes épaules. Et là, Baaaam ! Le sol se dérobe sous toi. Parce que pour un observateur, il voit le papillon décoller. Mais pour le papillon, il voit le sol, il sent le sol tomber dans le vide. Qu’est-ce que tu ferais à sa place ? En tout cas, moi j’arrêterais immédiatement de faire le truc qui fait tomber le sol, qui dérobe le solide, les appuis sous mes pieds. Et chaque fois que je laisserai l’envie de remuer les épaules (et les ailes que je ne vois pas), que je m’aperçois que ça fait disparaître la terre sous moi, je stopperai net.
+
+Je chercherai à résoudre ce problème de perte de repères, de perte de l’ancrage au sol, de perte de mes appuis. J’essaierai de trouver un thérapeute pour résoudre ce problème, ce grave problème existentiel. Avec un peu de malchance, j’en trouverai un qui veut bien essayer de me guérir pour que je puisse retrouver ma sécurité, mes repères d’avant. Mais ce n’est pas ce que mon Être désire.
+
+Quand on se sent inspiré, aspiré par une sexualité authentique et sensible,on peut se sentir différent. En décalage avec la société, les publicités, les réseaux sociaux, les films etc.
+
+C’est normal d’avoir peur. C’est normal d’avoir des doutes. C’est normal d’hésiter à suivre son élan intérieur. J’ai hésité tellement de fois. Je me suis perdu tellement de fois. J’ai perdu tellement de temps. Cela m’aurait vraiment aidé d’avoir quelqu’un qui me dise que c’est possible de vivre la sexualité que je ressens. C’est légitime de le vouloir et de l’exprimer. Quelqu’un qui me rassure que c’est la bonne direction même si c’est difficile et compliqué.
+
+Si tu es un papillon qui est sorti de sa chrysalide depuis quelques jours, quelques mois voire quelques années et que tu hésites à t’envoler et à oser ta vérité et à honorer ta liberté …. ce texte est pour toi.
+
+C’est vrai en général, c’est vrai aussi pour les hommes qui perdent leur érection avec leur partenaire, alors que quand ils sont seuls l’érection est bien là.
+
+Ma perspective, c’est que ce sont des chenilles qui sont devenues papillons. Ils avaient l’habitude d’avoir une sexualité classique basée sur le désir et maintenant leur être, leur corps, leur pénis veulent une sexualité connectée, ils veulent faire l’amour.  Mais ça fait horriblement peur. C’est une perte totale de repères.
+
+Je vois beaucoup qui cherchent à résoudre ce problème par différentes approches thérapeutiques, qui veulent retrouver leur confiance, sous entendu retrouver qui ils étaient avant. Mais ces thérapeutes entretiennent l’idée que c’est un problème. C’est un obstacle, une difficulté, un mal à soigner. Pour moi, ce n’est pas un problème, c’est une opportunité, une bénédiction.
+
+Ces hommes ont changé mais ils espèrent que non. Ils espèrent que l’homme avec l’érection, la puissance sexuelle qu’ils avaient, qui leur donnait leur valeur d’homme, de mâle est toujours là. Ils préfèrent être des hommes sexuels que des hommes d’amour. Ils préfèrent avoir des relations sexuelles plutôt que de faire réellement l’amour.  Dans la sexualité, ils sentaient leur puissance. Dans l’amour ils sentent leur authenticité c’est-à-dire leur vulnérabilité.
+
+Entre sexualité et amour, beaucoup, moi y compris, préférons la sexualité. Entre la puissance et la vulnérabilité, nous préférons la puissance. Sauf que notre être supérieur, notre être amour, a un plus grand dessein pour nous. Ils ne nous laissent pas le choix. Nous pouvons essayer de nous battre, surtout pour les forts et courageux qui n’abandonnent pas et peuvent se battre longtemps. Moi j’ai abandonné depuis longtemps. Je ne me bats plus pour retrouver ma puissance sexuelle. J’écoute les feed back que je manque par moments d’authenticité, de courage d’assumer ma vérité. Étonnamment, quand j’abandonne l’idée d’être un homme puissant sexuellement, j’accueille la puissance de l’amour et l’érection est d’une autre qualité.
+
+Les hommes qui veulent se battre, combattre et vaincre leur impuissance est l’ennemi dont ils sont victimes, ils vont trouver des thérapeutes pour les soigner. Moi, j’accompagne les hommes qui acceptent d’abdiquer devant leur impuissance et la reconnaissent comme le guide vers leur authenticité.
+
+L’impuissance ne montre pas qu’un homme est faible. L’impuissance montre qu’un homme n’arrive pas à être authentique.
+
+Bref, le papillon angoisse à son premier envol. C’est normal. C’est vrai pour les hommes. C’est vrai aussi pour les femmes sous une autre forme … mais ça sera une autre fois.
+
+
+## Cuisson à l’eau froide *(brouillon)*
+
+La première fois que j’ai fait germer des graines, j’ai été surpris du fait qu’une graine dure comme le pois chiche, trempée longuement dans l’eau, devienne tout à fait mangeable. Même plus, une graine comme la lentille ou le soja devient même très tendre en germant. Ça a complètement chamboulé ma conception de la cuisson. Au lieu de cuire les graines avec de l’eau bouillante plusieurs minutes, je peux obtenir le même résultat avec l’eau froide en quelques jours. C’est presque pareil mais en beaucoup mieux. Premièrement, je ne dépense pas d’énergie pour chauffer l’eau donc c’est plus écologique. Deuxièmement, toutes les vitamines, sels minéraux et autres nutriments sont préservés tandis que la chaleur a pour effet de les détruire ou au moins dégrader la plupart d’entre eux.
+
+Ce que j’ai découvert avec le toucher et le désir c’est la même chose. Je peux caresser ma partenaire, et réciproquement,  pour provoquer chez elle une montée de désir, d’excitation. Le mouvement, comme la chaleur, transforme l’état de ma partenaire. Mais ce n’est pas toujours nécessaire. Il y a des moments où il suffit que je pose ma main sur son corps. Le contact. Ce qui va faire office d’eau pour les graines, c’est ma présence au moment présent et au toucher. Cette présence, cette concentration d’énergie, cette intensification de mon attention va littéralement pénétrer son corps et va le soutenir dans le développement du désir et de l’excitation. Ça prend plus de temps. Ça demande plus de concentration mais ça amène une autre qualité sensorielle.
+
+Le secret c’est donner le temps et l’espace pour que la sensualité et le désir s’expriment d’eux-mêmes. Comme il est de la nature de la graine dure de se transformer en germe plus tendre. Elle est faite pour ça, pas besoin de pousser ou de forcer. Quand on se force, ça se voit, ça se sent.
+
+Par exemple, j’allais régulièrement danser dans les clubs parce que j’adore danser. On y voit de jeunes femmes jouant de leur charme, jouant la séductrice ou la provocation. Elles veulent plaire, séduire, faire la Marilyn Monroe. Ce qu’elles cherchent c’est le regard des hommes ou celui d’amies complices, elles s’en nourrissent, prennent de l’assurance pour exprimer leur sensualité. Elles ont besoin de l’extérieur, de l’énergie pour oser se montrer, et encore pas tout à fait puisqu’elles ne montrent que ce qu’elles pensent utile pour attirer le regard. Au contraire, dans les ateliers de danses libres, on voit des femmes simplement curieuses de leur corps, leur bras, leur bassin ou leur tête. Leurs mouvements sont plus profonds et gracieux simplement parce qu’elles le font pour elles-mêmes et pour leur propre plaisir. Pas pour être regardées. Pas pour autrui. Seulement pour elles, pour célébrer leur propre nature de femme avec un corps. Pour faire ça, elles n’ont besoin que d’espace, de liberté et de l’attention pour elles-mêmes. Rien d’autre.
+
+Dans la thérapie et le coaching aussi. Il y a des fois où c’est le silence de l’écoute profonde qui guérit. Ce n’est pas toujours les conseils, les belles paroles ou les mots de grande sagesse. Parfois, c’est simplement le silence en présence qui accueille et soutient le cheminement qui est le plus bénéfique.
+
+Ce n’est pas une généralisation, je ne te dis pas de systématiquement poser seulement ta main sans bouger et d’y porter ton attention. Je ne te dis pas de ne pas caresser ta ou ton partenaire. Je te propose de le faire quelquefois. Par curiosité, comme lorsque j’ai fait germer les graines la toute première fois. Essayer de voir. Explorer et conclure par toi-même.
+
+Ça rend humble et ça apporte en même temps un grand soulagement d’expérimenter le fait que je ne fais pas grand-chose et que les choses peuvent se faire d’elles-mêmes.
+
+
+## Le sexe comme boussole et non comme destination *(brouillon)*
+
+La plupart des stages de développement personnel que j’ai faits avaient pour but d’améliorer ma sexualité. Ce n’était pas vraiment clair à l’époque mais avec le recul, cela l’est devenu.
+
+Ce n’était pas que j’étais très frustré ou en grand manque de sexe mais il y avait toujours quelque chose qui n’allait pas. Et j’avais beaucoup de mal à identifier ce que c’était. J’ai cru qu’il me fallait une sexualité plus variée, expérimenter différentes positions, d’autres pratiques et d’autres partenaires. Chaque stage apportait du mieux, plus de légèreté, de subtilité, de puissance et d’intimité.
+
+Au fil du temps, il y a eu beaucoup de progrès mais j’avais l’impression d’une quête sans fin. À chaque fois que j’avançais, je voyais mon objectif s’éloigner d’autant. En plus, l’objectif n’était pas très clair. J’essayais de le définir mais il restait flou. J’ai failli renoncer de nombreuses fois. Mais une petite voix interne me poussait à essayer encore une tentative. Puis une autre et encore une autre.
+
+Et puis, c’est arrivé. Une fois, puis une autre et encore une autre. Le moment où après l’amour, je ressentais que c’était tout ce que j’avais toujours voulu, attendu, cherché. J’étais bien arrivé. Ce n’était pas lié à ce que nous avions fait, mais à la manière dont nous l’avions fait. L’authenticité à l’autre, la présence à soi et l’ancrage dans ici et maintenant.
+
+De l’extérieur, ça pouvait être doux, sauvage, violent ou subtil mais de l’intérieur c’était tout cela en même temps. Il n’y avait plus de mot, seulement de la justesse, de la vérité et de l’amour.
+
+C’est vraiment difficile à décrire parce qu’aucune description ne pourrait vraiment être juste. C’est un peu comme atteindre le pôle nord. La description du pôle nord est complètement ennuyeuse : c’est blanc partout.  Vous savez seulement quand vous y êtes parce que la boussole n’indique plus la direction du nord … parce que vous y êtes. Il n’y a plus de direction privilégiée pour l’aiguille.
+
+Toutes les directions sont importantes. Il n’y a nulle part d’autre où vous voudriez arriver parce que vous savez, vous sentez intimement que vous êtes au bon endroit. Vous êtes à votre place dans l’Univers. À la croisée de votre individualité, celle de votre partenaire et du cosmos. Vous vous rendez compte de l’amour que vous avez pour votre partenaire et qu’il vous a rempli du sien. Pas un amour romantique et fleur bleue pour la vie. Mais un amour profond et immense dans l’ici et maintenant.
+
+Une expérience qui marquera définitivement la ligne du temps.
+
+Deux êtres se sont donnés totalement l’un à l’autre dans ce moment qui est un bout d’éternité. Peu importe la durée future de la relation, comment elle évoluera ; à cet instant, votre partenaire et vous avez gravé de votre sceau le monde par la rencontre véritable de vos corps, de vos sexes, de vos êtres.
+
+Vous  serez à jamais différent … l’Univers aussi.
+
+
+---
+
+# Désir et intimité
+
+
+## L’orgasme de la vallée
+
+L’orgasme de la vallée.
+
+Si vous avez vu Avatar ou surtout Cocoon, vous avez peut-être été subjugués comme moi par la scène où un humain fait l’amour avec une extra-terrestre de manière … extra-terrestre.
+
+Depuis que j’ai vu Cocoon il y a 30 ans, j’ai eu ce pressentiment que la sexualité pouvait être quelque chose d’aussi délicat, subtil et intense. Deux personnes se faisant l’amour par échange de lumière. Il y avait cette petite voix à l’intérieur de moi qui disait que c’était possible, que ce n’était pas un fantasme.
+
+La petite voix avait raison …
+
+Sur mon chemin d’évolution personnelle, j’ai découvert ce qu’on appelle dans certains tantras « L’orgasme de la vallée ».
+
+L’orgasme sexuel classique est appelé « L’orgasme de la montagne » parce que l’excitation et le plaisir montent. Puis ils atteignent un sommet où il y a une explosion d’énergie et de plaisir. Ensuite, tout redescend. Vite pour les hommes. Plus lentement pour les femmes. Mais ça descend d’où l’image de la montagne avec une première phase où on monte, et une deuxième où on descend.
+
+L’orgasme de vallée arrive au contraire après un maintien du désir et de l’excitation à un niveau assez bas mais un niveau de conscience et d’attention élevés. Rien à voir avec les scènes érotiques d’amants passionnés au cinéma. Ici, il n’y a pas de passion d’ailleurs … mais de l’amour. La pratique est très simple. C’est une vraie méditation. Très intime.
+
+La première fois que je l’ai vécu, cela devait faire trois quarts d’heure que nous étions avec ma partenaire quand c’est arrivé. Nous étions habillés. Sans pénétration. J’ai ressenti une sensation d’un pénis qui entrait dans le corps de ma partenaire. C’était une sensation. Une impression. Physiquement, ce n’était pas du tout le cas puisque nous étions habillés. Mais au niveau du ressenti c’était bien le cas. C’est comme regarder un hologramme. On voit un quelque chose. On sait que ce n’est pas solide ni palpable. Mais il y a bien quelque chose. Et là, mon ressenti du pénis qui pénètre ma partenaire, c’était comme ça. Il y a un ressenti qui était bien réel. Ce n’était pas le ressenti que j’aurais eu s’il y avait eu effectivement pénétration. Mais entre rien, c’est à dire 0 %, et une sensation vraiment physique à 100 %, il y a de la marge. Et là, j’étais à 40-70 %. Comme nous verbalisions les ressentis, j’ai entendu que ma partenaire ressentait aussi cette pénétration …. et c’est là que la magie commença.
+
+Le ressenti se faisait de plus en plus clair. En même temps, c’était subtil, fragile. Il fallait garder une grande attention pour le percevoir. J’ai senti mon pénis grandir doucement dans le ventre de ma partenaire. Il s’allongeait petit à petit puis ça s’est arrêté. Ou plutôt, que ce pénis butait sur une barrière. Ça a duré de longues minutes. Cette sensation de pousser, de butter. De vouloir aller plus profondément et de dépasser cette barrière. Tentative après tentative, tout en douceur, mais à chaque fois bloqué par un voile invisible.
+
+Puis l’impression que le voile s’ouvre. Un tout petit peu. Un tout petit trou. Tout le pénis ne passait pas … seul un rayon lumineux (c’est imagé mais c’était cette sensation) traversait le mur. Un fil d’énergie.
+
+Ensuite, une fois que le fil de lumière est arrivé à passer à travers la paroi, c’est comme s’il avait touché le cœur de ma partenaire. Et là, même si le contact entre le pénis énergétique et son cœur était minime, toute l’énergie du corps de ma partenaire et du mien se mélangeaient. Comme quand il y a deux gouttes d’eau très proches sur la table qui ne se touchent pas et qu’on les connecte avec un cheveu. D’un coup, paf, les deux gouttes d’eau deviennent une grosse patatoïde (pour les non matheux, ça signifie qui a la forme d’une patate). Un grand moment d’effondrement intérieur, très doux, paisible et intense. Plus rien de dur n’existait en moi. Un relâchement total en profondeur. Toute résistance, toute rigidité avaient disparu. Un grand sentiment de bonheur, de gratitude, d’amour et d’émerveillement était là. Cette femme devant moi était la seule chose qui comptait. Rien d’autre n’existait. Le monde de dehors n’avait pas de sens. Il n’y avait plus de rues, de ville, de gens, de travail, de famille ou d’amis. Il y avait juste cette personne devant mes yeux. Simple. Vrai. Réelle.
+
+Une vague d’émotions est arrivée. Les larmes venaient doucement à mes yeux. Goutte après goutte. Puis progressivement, c’est devenu un vrai torrent. Je ne sais plus ce qui était le plus émouvant pour moi. Était-ce de voir que la vie était magnifique, que cette femme était tellement tellement précieuse. Ou étais-je ému de découvrir à quel point je pouvais m’émouvoir, à quel point ce cœur dans ma poitrine était immense, à un point jusqu’alors insoupçonné, que mon essence était amour, lumière, vide, tout ! Sûrement les deux.
+
+C’était magnifique, grandiose et en même temps tellement subtil, fragile et délicat. Un contraste vraiment étonnant entre une vague d’amour, de gratitude à vous faire exploser la poitrine et en même temps une connexion fragile comme une bulle de savon. C’est ça oui. Une bulle de savon sur laquelle se reflète tout un paysage. Alors d’un côté il y a la grandeur du paysage avec ses couleurs, ses formes, ses lumières. Et de l’autre côté, tout peut s’évanouir en un instant.
+
+Donc des larmes qui coulaient à flot. J’étais subjugué, empli de reconnaissance pour cette amie qui m’avait ouvert son cœur et son âme.
+
+La sensation qu’une douce chaleur/lumière/énergie partait du sexe, du désir et se propageait à tout le corps entier. Alors ‘orgasme sexuel’ oui, ça a un sens de l’appeler comme ça. Mais c’était tellement plus doux, plus léger, plus grand, plus profond. En fait, pour moi, tout ce que j’aurais pu imaginer comme plaisir, extase a été dépassé. C’était lit-té-ra-le-ment un bain d’amour.
+
+Nous nous sommes dit « Je t’aime » comme jamais avant. C’était un « Je t’aime » éphémère mais d’une signification sans précédent. C’était un « Je t’aime » à l’autre mais aussi à soi, à la vie, à la lumière, à la conscience, à l’existence, aux émotions … en fait c’était pour dire « Je suis profondément heureux de vivre cet instant ».
+
+La vibration a duré plusieurs heures après. C’était tout bonnement extraordinaire.
+
+Depuis ce jour, « faire l’amour » avait pris un autre sens. Le vrai sens avec le mot ‘amour’.
+
+Depuis, faire l’amour est une forme de méditation, une expérience de conscience et d’attention, à soi et à l’autre, d’expression des ressentis.
+
+
+## Les caresses avant les caresses
+
+Il y a quelques années, ma chérie me disait être étonnée de l’effet que lui faisait une simple de mes caresses sur l’épaule. C’est là que j’ai réalisé le principe des caresses avant les caresses.
+
+Ce n’était pas la caresse qui a suscité le désir de ma partenaire, mais l’atmosphère dans laquelle nous étions. C’est vrai que cela venait en partie de moi, mais pas de ce que je faisais. Pas des techniques de caresses que j’aurai après dans les livres ou stages.
+
+Cela venait de ce que je dégageais parce que j’étais posé, je n’avais pas d’attente, pas de frustration à satisfaire. Oui, j’avais de l’excitation, j’avais envie d’elle mais pas d’agitation mentale. J’étais tranquille, paisible et souriant avec le feu dans le sexe. Elle avait de l’espace. Elle avait du temps. Elle était libre de mon désir. Elle était libre d’écouter son propre désir et de le suivre.
+
+Ma présence était là pour elle, autour d’elle, à l’envelopper d’une douce lumière, d’une douce chaleur pour qu’elle s’abandonne à son désir, à accompagner son excitation se répandre dans tout son être et ouvrir chaque partie de son corps. Pour que, doucement et progressivement, son cœur s’ouvre, ses yeux s’ouvrent, son regard s’ouvre, ses oreilles s’ouvrent, ses narines s’ouvrent, sa bouche s’ouvre, sa langue s’ouvre, ses lèvres s’ouvrent, son menton s’ouvre, son cou s’ouvre, ses épaules s’ouvrent, ses avant-bras s’ouvrent, l’intérieur de ses coudes s’ouvre, ses bras s’ouvrent, ses mains s’ouvrent, les bouts de ses doigts s’ouvrent, les espaces entre les doigts (dont je n’ai pas trouvé le nom) s’ouvrent, les aisselles s’ouvrent,  la poitrine s’ouvre, les seins s’ouvrent, les mamelons s’ouvrent, le plexus s’ouvre, le ventre s’ouvre, même le nombril s’ouvre, la vulve s’ouvre, le clitoris s’ouvre, les fesses s’ouvrent, l’anus s’ouvre, les cuisses s’ouvrent, l’arrière des genoux s’ouvre, les mollets s’ouvrent, les chevilles s’ouvrent, la plante des pieds s’ouvre, les espaces délicats entre les orteils s’ouvrent.
+
+Quand tout le corps, tout l’être s’ouvre à la sensibilité, le corps entier est érogène. Il n’y a pas besoin de technique, il n’y a pas de savoir-faire. Tout est poésie. Tout est beauté. Alors le moindre contact, le moindre souffle devient source de délice.
+
+
+## Comment faire pleurer une femme
+
+Tellement de livres, d’articles, de posts sur comment faire jouir une femme si peu sur comment la faire pleurer. Faire pleurer de joie évidemment. Lui faire ressentir, ou plutôt l’accompagner dans l’exploration de ses ressentis, de son abandon à toutes les émotions.
+
+Faire jouir est plus concret, plus abordable, plus technique. On parle de jouissance, on cherche à faire jouir. Jouir devient un leitmotiv de la sexualité moderne, sujet public de discussions, de podcasts, de vidéos et de posts.
+
+Il y a quelques années, pour la première fois, j’ai vu une femme pleurer pendant que nous faisions l’amour. Pas après l’orgasme, mais pendant la pénétration. Je lui ai demandé si ça allait bien, si elle avait mal. Non, tout allait bien, au contraire tout allait parfaitement bien alors elle se lâchait dans le plaisir, dans la joie, dans la gratitude. Aucun rapport avec les orgasmes bruyants de Sally dans ‘Quand Harry rencontre Sally’. C’était vraiment un trop plein d’émotions, comme dans ces émissions de téléréalité quand on voit une personne découvrir un merveilleux cadeau inimaginable.
+
+Concrètement, de l’extérieur c’était comme si elle venait d’apprendre une mauvaise nouvelle qui la faisait s’effondrer et sangloter à chaudes larmes. C’était vraiment étrange de continuer à la pénétrer pendant qu’elle pleurait. Mais c’est ce qu’elle voulait alors j’ai continué. Il y a eu d’autres fois et d’autres femmes. Avec le temps, j’ai compris la valeur de l’expérience. J’ai appris à apprécier la beauté de ce partage, de cette énorme ouverture du cœur. Cela n’arrive pas à chaque fois que j’ai fait l’amour, mais de plus en plus. Je ne le cherche pas. Cela se fait tout seul.
+
+C’est une vague de sensations, de ressentis. Un mélange de gratitude, d’émerveillement, d’affection, de joie intense qui submerge le corps et le cœur. Alors oui, il y a des larmes, il y a des sanglots mais de bien-être, d’extase, de volupté, de félicité qui même parfois se transforme en fou rire. C’est surtout un lâcher prise qui lui permet de laisser exprimer son côté animal voire bestial. Certains diront hystérique. Je dirai simplement femme sauvage, sans retenue et libre sans limite.
+
+On ne voit pas ça dans les films. On en parle rarement, peu savent que cela existe et encore moins qui le vivent. Maintenant que vous savez que c’est possible, forcément votre esprit sera ouvert à cela. Vous n’avez pas besoin de le chercher. On n’a pas besoin d’aller vers, c’est simplement quelque chose qui vient quand on est dans une grande confiance, intimité et complicité.
+
+Alors comment faire pleurer une femme ?
+
+Je peux seulement donner quelques pistes. Pas forcément suffisantes mais nécessaires.
+
+Pas d’attente : ni de jouir, ni de plaisir. Juste rester présent à ce qui se passe. Cela laissera à votre partenaire toute la liberté d’explorer et d’accueillir ce qui arrive.
+
+Pas de fuite : restez présent, regardez et accueillez toutes les émotions qui viennent à vous. C’est ok d’avoir peur, c’est ok de sentir la tristesse monter, c’est ok de voir arriver la colère.
+
+Laissez pleurer votre amante, laissez-la crier, vomir, hurler, se débattre. Vous pouvez la prendre dans vos bras, pour la soutenir mais non pour la calmer, non pour l’apaiser, non pour la réconforter. En cherchant à la calmer, à l’apaiser ou la réconforter, vous lui signifiez que l’expérience est négative. Vous la censurez dans l’expression de sa nature sauvage. Peut-être lui tenir fermement les mains, pour l’empêcher de se faire mal, oui mais sans intention de la calmer. Au contraire, je peux la tenir fermement pour lui montrer ma force, ma puissance, ma solidité face à ses émotions et lui prouver qu’elle peut tout faire, je serai plus fort qu’elle physiquement et émotionnellement.
+
+Je serai le contenant, le creuset qui peut contenir son explosion. Le fil incassable qui l’empêchera de sombrer dans les abîmes de ses émotions. Le lien indestructible qui la maintiendra à la raison pendant qu’elle visitera sa folie.
+
+Cela laissera à votre partenaire toute la liberté d’explorer et d’accueillir ce qui arrive. Oui, je me répète mais c’est exprès. Il faut donner toute la sécurité nécessaire pour que votre partenaire puisse visiter ses démons et ses profondeurs pour remonter ensuite vers la lumière et accueillir sa globalité.
+
+Les pleurs expriment la joie de se retrouver totalement.
+
+
+## L’instase sexuelle
+
+Dans les articles, les vidéos, les témoignages et les présentations sur la sexualité épanouie, je trouve que les gens parlent beaucoup d’orgasmes fabuleux, du nombre d’orgasmes, du multi-orgasme et autres extases. Il y a une surenchère du toujours plus, plus fort et plus haut. Ce qui est fondé comme devise pour les jeux olympiques et justifie la course effrénée d’une société de consommation n’est pas forcément approprié lorsqu’il s’agit de l’intime. C’est presque la nouvelle mode de consommation que d’avoir une sexualité plus ouverte, plus intense et plus colorée. Dans les vidéos de formateurs et autres experts que je vois, il y a quelque chose qui me gêne. On parle beaucoup d’intensité, de quantité c’est vrai mais peu d’intimité, d’intériorité.
+
+C’est vrai que j’expérimente beaucoup de sensualités, de jouissances et de voluptés mais ce n’est pas le plus important. Au delà de tous ces plaisirs, il y a un calme profond, une plénitude immense qui est grandiose. Comme la montagne, comme le désert, comme la mer ou comme une nuit étoilée. Il y a un silence. Un recueillement. Une grande satiété qui fait que les besoins sexuels sont amoindris. Je suis toujours disponible à la sexualité mais si je me retrouve célibataire, sans relation sexuelle pendant des mois voire plus d’un an, ce n’est en aucune façon un problème. Tout va bien. Je vais bien. Heureux de mon corps. Heureux des connexions sensuelles dans la danse ou le massage. Je ne suis plus frustré, aigri ou en colère contre la vie comme j’ai pu l’être avant.
+
+Quand on a des désirs, on a tendance à projeter ces désirs sur des objets. C’est peut-être encore plus vrai pour la sexualité. Mais ce qu’on désire profondément quand on a des désirs, c’est ne plus avoir ces désirs. Obtenir l’objet désiré apporte une satisfaction. Mais elle n’est que temporaire. Après le désir prend une nouvelle forme. Quand je me suis épuisé à chercher à l’extérieur, j’ai commencé à regarder à l’intérieur. C’était sombre, très sombre. Et peu à peu, mes yeux se sont habitués à ce manque de lumière. Elle n’était pas aussi obscure. J’ai commencé à distinguer des formes, à percevoir des couleurs. Mes yeux voyaient de mieux en mieux dans cet intérieur.
+
+En mettant notre énergie vers l’intérieur plutôt qu’à l’extérieur, nous nous trouvons, nous nous acceptons de plus en plus. Nous nous aimons aussi. C’est là que se trouve ma richesse. En moi, pas en l’autre. Parce que chez l’autre je ne vois que deux choses. Ce que j’aime et ce que je n’aime pas. Ce que j’aime chez l’autre, c’est ce que je reconnais de moi en lui. Ce que je n’aime pas chez l’autre, c’est ce que je n’ai pas encore accepté en moi.
+
+On raconte que le trésor des hommes a été caché par les dieux à l’endroit le plus inaccessible du monde : chez lui, au plus profond de son cœur.
+
+Il y a cette expression : “extase sexuelle”. Extase, étymologiquement, vient de ex (en dehors) et stase (se tenir). Signifiant le plaisir qui submerge quand on est transporté hors de soi. C’est une vision excentrique. Vers l’extérieur. Vers l’autre. Vers des objets ou des situations externes. Alors je voudrais te parler d’”instase sexuelle.” Le mot instase existe. Il désigne bien la démarche d’intériorisation intense qui amène au sublime. Le mouvement concentrique. C’est bien ce dont il s’agit. Se retrouver. A l’intérieur de soi. De se rendre compte que je suis merveilleux. Pas en comparaison aux autres, non. Il n’y a aucune comparaison. Il y a seulement moi. Profond. Intime. Confidentiel. Majestueux. À ce moment-là, ma partenaire devient aussi profonde, intime, confidentielle et majestueuse.
+
+Autant la quête externe est infinie parce que l’herbe est toujours plus verte ailleurs, ou du moins pourrait l’être. Autant la quête interne s’arrête quand on s’est trouvé. Et même si on ne s’est pas totalement trouvé, chaque pas nous rapproche du centre, du but. Alors que pour une quête extérieure, chaque pas nous fait avancer mais nous ne sommes pas sûrs que ce soit dans la bonne direction. Des fois on se perd en chemin. On fait des détours. On revient sur nos pas. Vers l’intérieur, chaque pas nous rapproche de nous-mêmes.
+
+Concrètement, la première fois que je l’ai vécu, c’était après avoir fait l’amour intensément. Nous avons été passionnés, fougueux, sauvages. Nous avons grogné, chanté, gémi, crié, pleuré. Nous avons même eu des fous rires. Tout ça vraiment pendant que nous faisions l’amour. Pas après. Vraiment pendant. Après il y a eu le halo de ma partenaire autour de moi. Ce n’était pas une image. C’était vraiment tactile. Je le ressentais quand je fermais les yeux. Les yeux ouverts, mon mental était happé par l’extérieur. Les yeux fermés, je percevais sa présence dans tout mon être. Quand je me suis retrouvé seul ce jour là, je sentais toujours sa présence, son halo d’être. Ici, avec moi, en moi, autour de moi. Je respirais avec elle. Je respirais en elle. Une sensation vraiment palpable. Mes veines palpitaient dans sa douceur. Elle était en moi. Je sentais sa présence en moi. Mais pas que sa présence. C’était un univers entier. Tout un univers était là, ici, maintenant. J’étais l’univers.
+
+L’extase c’est quand on est transporté à l’extérieur de soi dans l‘univers.
+
+L’instase c’est quand l’univers s’est transporté à l’intérieur de soi.
+
+Alors oui, il y a des orgasmes. Plus ou moins forts. Des orgasmes vaginaux ou clitoridiens. Des orgasmes énergétiques. Des feux d’artifices. De grands feux d’artifices. Mais rappelle-toi, aussi long et magnifique que peut être un feu d’artifice avec un spectacle musical et pyrotechnique, cela ne sera jamais aussi grandiose qu’une belle nuit étoilée d’été. Et que la plus magnifique des nuits étoilées sera toujours moins immense que la conscience qui la perçoit et l’englobe : Toi.
+
+
+## Des larmes comme des cailloux, des larmes comme des bulles
+
+Parfois on pleure après avoir eu une relation sexuelle. De ce que j’ai observé pour mes partenaires et moi, il y a deux types de larmes après le sexe. Les larmes petits cailloux et les larmes bulles. Je parle des larmes après l’amour. Quelques minutes ou dizaines de minutes après. Je ne parle pas des larmes d’émotion qui arrivent pendant l’acte.
+
+Les larmes petits cailloux, c’est lorsque j’ai manqué d’authenticité, j’ai manqué de connexion. Je n’ai pas partagé certaines pensées, peurs ou désirs. J’ai en quelque sorte utilisé l’autre pour mon plaisir, pour me remplir d’attention, pour satisfaire mes besoins physiques et affectifs. Ou alors je me suis senti utilisé.
+
+Même s’il y a de l’amour, même s’il y a du respect, même s’il y a un orgasme. C’était que je n’étais pas vraiment moi. C’était que je n’étais pas vraiment avec l’autre non plus. J’ai fait l’amour avec un masque. J’ai accepté que ma partenaire porte un masque. Nous avons un peu fait semblant l’un et l’autre.
+
+Évidemment, sur le moment, je ne le savais pas. Je ne voyais pas mon manque d’authenticité, d’honnêteté et de partage. Il y avait un déni. Au final, un sentiment de dégoût de soi, d’avoir abusé l’autre, d’avoir été abusé, d’avoir fait semblant à plusieurs moments … et j’avais l’impression d’être un petit caillou qui coule, coule, coule au fond du lac pour me perdre dans les obscurs abîmes.
+
+Les larmes bulles, c’est complètement le contraire. Nous avons fait l’amour en étant authentique, en partageant nos peurs, nos désirs, nos pensées érotiques ou loufoques. Il n’y avait pas d’objectif sinon que celui de profiter du moment avec l’autre, du temps qui passe en sa présence, avec son cœur, son corps, son sexe, son âme. Il peut ne pas y avoir d’orgasme, cela n’importe. C’est la joie qui est là, présente. C’est le sentiment de vraiment se sentir aimé, accueilli et honoré. Un moment de pure présence et d’ouverture du cœur.
+
+Une ouverture telle qu’elle amenuise les défenses. Alors ce qui a été refoulé il y a 5 ans, 10 ans voire 20 ans peut remonter à la surface. Des traumas, des abus physiques ou psychologiques, réels ou imaginaires peuvent enfin être accueillis dans la conscience. Ce n’est pas agréable. On peut pleurer. On peut crier. On peut se mettre en boule. Mais ça fait partie du processus de deuil. C’est nécessaire à la libération ou plutôt à l’intégration. C’est une bulle enfermée dans le fond du lac qui remonte à la surface et qui laissera quelque temps après notre cœur plus ouvert, notre corps plus léger et notre âme grandie.
+
+Tout ce que je partage est un point de vue personnel et subjectif complètement assumé. Ce que je propose ici, c’est de partager mon vécu, mon intimité. Ce n’est pas tant que ma vie et mes expériences soient passionnantes mais pour moi ce qui importe le plus dans la sexualité sensible c’est l’intimité. Pour vivre cette intimité, il faut enlever son masque. Ici, j’enlève mon masque pour vous montrer l’exemple, vous dire que c’est possible, que c’est utile et même indispensable à une sexualité authentique.
+
+
+## La question qui a réveillé son désir *(brouillon)*
+
+Nous étions dans la chambre, tous les deux prêts pour un partage sexuel. Elle avait envie d’avoir envie mais n’avait pas envie. Son esprit, son cœur voulait mais son corps ne réagissait pas. Je lui ai alors demandé calmement : “Est-ce qu’il y a quelque chose que tu n’arrives pas à me dire ?”. Elle réfléchit, ne voit rien de précis. Elle répète sa peur par rapport à notre relation. Et là, un déclic ! Elle avait aussi peur que nous reproduisions la relation de ses parents. Elle a peur pour moi, peur que je souffre comme son père. Elle pleure, s’effondre en larmes.
+
+Chose étrange, elle n’y avait jamais pensé avant clairement. Avant la question, cette peur n’était pas consciente, disponible. Quelques minutes après, elle sent le feu monter … et voilà. C’était très très très bien. Je ne vais pas tout raconter non plus !
+
+Quand nous sommes sur le chemin d’une sexualité authentique, des fois même des peurs inconscientes peuvent bloquer l’énergie sexuelle. C’est notre écoute qui peut alors donner l’espace à ces peurs de prendre forme, d’être partagées avec notre partenaire pour que nous puissions partager une réelle intimité. Parce que la peur fait partie de notre intimité.
+
+
+## Il n’y a pas de sexualité épanouie *(brouillon)*
+
+Il n’y a pas de sexualité épanouie, il y a des personnes qui sont épanouies dans leur sexualité.
+
+Les mots ne sont pas les choses et des fois nous, moi y compris, faisons des raccourcis de langage. D’un côté, ce n’est pas très grave en soi parce qu’on arrive à se faire comprendre en utilisant telles ou telles expressions. D’un autre côté, l’image, l’imaginaire et toutes les connotations liées à un mot s’immiscent dans notre esprit et finissent par imposer une vision précise.
+
+Parler d’une sexualité épanouie masque le problème. C’est exactement ce que j’ai fait pendant des années. On utilise le substantif “sexualité”, on donne substance, matière à quelque chose qui n’existe pas en soi. Ce qui existe c’est mes expériences sexuelles, mes moments de vie dans une situation sexuelle.
+
+Quand j’étais frustré de ma sexualité c’était comme si j’étais frustré par le gouvernement ou le climat. Je dirigeais la frustration vers l’extérieur. Un doigt était pointé vers ce qu’était ma sexualité comparée à ce qu’elle aurait dû être. Je faisais la check-list de ce qu’était une belle sexualité. Il faut telle fréquence, telles pratiques, tels endroits, telles expériences ou telles durées.
+
+J’ai fait des études en mathématiques, même un article dans un journal international, et j’y ai appris l’exigence des définitions et des affirmations. Dire que j’ai une sexualité décevante est compréhensible mais il est plus vrai de dire je ressens de la déception dans la sexualité. Au lieu de me dire que j’ai une sexualité pauvre, c’est plus exact de dire je me sens pauvre dans mes expériences sexuelles. À la place de penser que ma partenaire n’est pas assez ouverte, c’est plus correct de penser je me sens enfermé dans les expériences avec ma partenaire. Qu’est-ce que ça change ? Ça change tout. Ça fait plus mal.
+
+C’est évident. “J’ai une sexualité décevante” passe mieux pour mon ego que “je ressens de la déception dans mon cœur à propos de mes expériences sexuelles”. Parce que dans la deuxième formulation, j’assume mes émotions. J’accepte de ressentir le trouble en moi. J’endosse la responsabilité qu’il s’agit de moi, quelque chose en moi qui coince. Cela ne signifie pas qu’il ne faut pas changer quelque chose avec l’extérieur, avec ma partenaire voire changer de partenaire mais ça vient de moi. L’autre n’a pas de responsabilité dans ce que je vis. Je parle de situation normale et non de violence ni de maltraitance. Tout doit commencer en moi, par moi et de moi.
+
+A partir du moment où j’ai réalisé que “la sexualité” signifiait en fait “ce que je ressens dans mes expériences sexuelles” j’ai compris que la sexualité n’était pas au cœur du problème. Le cœur du problème c’était moi. Le problème était en moi, dans ma façon de voir les choses, dans mes habitudes, dans mes schémas réactifs, mes compulsions, mes blessures anciennes et récentes.
+
+Chercher à changer ma sexualité ?  D’accord, mais elle est où ? Où est-ce que je dois regarder ? Physiquement, dans le monde de matière ? Dans le lit ? Sur la table ? À la cuisine ? Où est-ce que je vais trouver “ma sexualité” ? Un sage contemporain, Douglas Harding, disait que la question essentielle n’était pas “Qui suis-je ?” mais “Où suis-je ?” Parce qu’en essayant de répondre à cette question, on tombe sur des contradictions logiques et que la seule réponse possible était “ici”. Et en cherchant vraiment à comprendre ce que veut dire “ici”, à définir ce “ici”, je trouve où je suis … mon intériorité.
+
+Ainsi j’arrête de courir derrière une sexualité épanouie. Je commence à regarder comment je ne m’épanouis pas dans mes expériences sexuelles. A quel point je ne me sens pas léger. Combien je ne suis pas intime avec moi-même. Comment je bride ma puissance. Ma peur de laisser s’exprimer le subtil. Mon habitude de retenir mon côté sauvage.
+
+Alors oui, regarder directement ce qui ne va pas fait mal, demande du courage. Mais il faut écarter la plaie pour la nettoyer, la désinfecter afin qu’elle se cicatrise vraiment. Sinon, elle se referme mais se réinfecte sans cesse.
+
+Sur le coup ça fait mal. Sur le coup les souvenirs des blessures anciennes se réveillent. Sur le coup c’est terrifiant. Mais ça va bien se passer. Tu iras jusqu’au bout. Tu le sais. Je le sais. Nous le savons tous les deux. Moi aussi, je suis en chemin. C’est juste une question de temps. Parfois, on peut s’arrêter pour faire une pause. Et on n’est pas obligé de faire le trajet d’un seul trait. On peut, on a le droit, de faire juste un pas aujourd’hui. Juste finir de lire ce texte. Tu reprendras la route inexorablement. À ton propre rythme. C’est un appel de ta nature.
+
+Il n’y a pas de sexualité épanouie à atteindre. Il y a toi, épanoui-e, dans tes moments sexuels.
+
+Il n’y a pas de sexualité heureuse. Il y a des gens pleinement heureux de vivre des partages sexuels.
+
+
+## Action ou vérité-s *(brouillon)*
+
+Étonnamment, je ne me rappelle pas d’y avoir joué étant jeune. Par contre, maintenant, j’y joue de temps en temps avec ma partenaire.
+
+La version que je pratique serait plutôt “On passe à l’action ou on se dit une vérité”.
+
+Le contexte est simple. Nous sommes tous les deux dans un moment de partage intime physique. Nous sommes en train de faire l’amour et l’excitation s’arrête sans raison apparente, ou nous sommes sur le point de faire l’amour mais l’excitation n’est pas vraiment présente. Physiquement nous sommes en forme, pas de fatigue, pas de sommeil. Psychologiquement, ça va bien, pas de tristesse, pas de colère. Donc, les têtes ont envie, les cœurs aussi mais les corps ne suivent pas.
+
+C’est le moment où nous commençons le jeu. Parce que j’avais déjà posé le cadre qui facilite le processus, nous nous regardons dans les yeux et nous cherchons, chacun en notre for intérieur, s’il y a quelque chose que nous n’avons pas encore exprimé à notre partenaire. Cela peut prendre un certain temps avant de trouver quelque chose, mais nous avons le temps vu que nous ne pouvons pas passer à l’action.
+
+Étonnamment, chaque fois que j’ai fait ça, c’est arrivé avec plusieurs partenaires, il y a toujours quelque chose, une colère, une frustration, une peur qui s’est formulée. Parfois, c’est quelque chose dont la personne n’a même pas conscience mais c’est parce que nous nous sommes donné le temps et l’espace d’introspection que l’émotion a pu faire surface.
+
+Parfois, c’est une émotion qui s’est déjà exprimée mais pas avec toute l’importance qu’elle revêt réellement. On a dit qu’on était contrarié alors qu’au fond on rageait mais on a minimisé pour ne pas blesser l’autre ou se montrer mesquin.
+
+Donc chacun cherche, écoute ce qui se passe en lui et le partage à son partenaire. C’est le moment des vérités ! C’est inconfortable. Il faut trouver des partenaires avec assez de conscience et de courage pour jouer sinon ça ne marche pas.
+
+Quand est-ce qu’on s’arrête ? Quand on a trouvé la ou les vérités qui étaient coincées dans notre cœur et qu’on a pu les partager. Comment on sait qu’il n’y a plus rien de coincé/caché ? Quand l’excitation arrive progressivement dans les sexes sans aucune stimulation et dans une complète immobilité des corps. Pas de baiser, pas de caresse mais l’énergie du désir se met à vibrer.  Et là, on passe à l’action.
+
+J’ai parlé de ce jeu à plusieurs personnes et elles m’ont toutes dit : “Ah oui, je comprends mieux maintenant.” Elles ont vécu des situations similaires mais leur partenaire ne voulait pas ou ne pouvait pas jouer. Quand on est amant sensible, on est sensible. On est parfois capable de ressentir qu’il y a une difficulté chez son partenaire sans que celui-ci ne s’en rende lui-même compte.
+
+À plusieurs reprises, mon excitation s’est arrêtée parce que ma partenaire n’avait pas formulé ce qu’elle avait sur le cœur. Ce n’était pas forcément un sujet grave ou important. Mais une sexualité sensible exige un niveau d’authenticité bien supérieur.
+
+Le cadeau merveilleux de ce “jeu”, c’est qu’à chaque fois, il me fait découvrir une vérité profonde à l’intérieur de ma partenaire ou à l’intérieur de moi. Je rends grâce à ce processus parce qu’il nous permet de mieux nous connaître avec ma partenaire, d’avoir une relation encore plus intime. L’expression “relation intime” prend alors tout son sens et toute sa beauté.
+
+
+## Sortir du Tantra et de la sexualité sacrée *(brouillon)*
+
+Le Tantra, ou plutôt le Néo-Tantra, et la sexualité tantrique sont à la “Sexualité” ce qu’une église est à Dieu.
+
+Dans une église, l’architecture, l’organisation des espaces, le jeu des lumières, la construction des formes et même l’espace sonore favorisent la prière, le retour au calme, au précieux au divin. Même quand on est athée, on est touché par l’atmosphère qui s’y dégage. C’est plus facile d’être calme dans une église. C’est plus facile de faire une prière dans une église. C’est plus facile de rencontrer Dieu dans une église. Mais Dieu est partout. Dans l’église mais aussi en dehors de l’église. Dieu est dans les nuages, le vent, les pierres.
+
+Un jour Nasreddine, le Hodja, était en train d’uriner. Un passant l’interpelle, crie au sacrilège parce que Nasreddine dirigeait son urine en direction de la mosquée. Nasreddine lui demande alors de lui trouver une pierre où Dieu ne se trouve pas pour pouvoir uriner dessus. Le passant confus partit sans mot dire.
+
+Un moine zen, en pèlerinage, s’arrête dans un tout petit temple pour la nuit. Comme la nuit est glaciale, il brûle le seul objet en bois qu’il trouve, c’est-à-dire la statue de Bouddha. Le gardien du temple, qui découvre la statue brûlée au matin, voulait punir le moine. Le moine se mit alors à chercher frénétiquement quelque chose dans les cendres. Le gardien : “Mais qu’est-ce que tu cherches ?”. Le moine : “Les restes des os de Bouddha”. Le gardien : “Mais tu es fou ! Le Bouddha n’est pas dedans !!!”. Puis un grand silence gêné du gardien.
+
+C’est très bien les stages de Tantra pour découvrir de nouvelles dimensions dans la sexualité. Pour certains, moi le premier, c’est une grande étape. Mais qu’une étape. C’est très bien de vouloir une “sexualité sacrée”. Mais un moment, toutes ces images s’arrêtent naturellement. Il ne faut pas rester enfermé dans les concepts et les pratiques. Je suis toujours gêné par les termes “sexualité tantrique”, “amant tantrique”, “sexualité sacrée” et autres expressions très poétiques, donc très attrayantes, parce que la beauté de ces mots risque de focaliser notre attention sur des moyens, les églises, plutôt que sur l’objectif, Dieu.
+
+Pour que ce soit vraiment clair. Je ne suis pas contre le Tantra, la sexualité sacrée, la sexualité tantrique. Je suis pour à deux cents pour cent. Je vous invite, si vous sentez l’appel, à faire des stages et des formations en Tantra. D’ailleurs, dans les formations que je propose, il y a quelques pratiques fondamentales que j’ai apprises dans ma formation en tantra. Sortir de l’idée du tantra, sortir de l’idéalisation du tantra, sortir de la mythologie pour mieux entrer dans ce qui vous touche sans y mettre des étiquettes.
+
+Plus on valorise un concept, une expression, un idéal, moins on regarde ce qu’est la réalité et moins on voit l’immensité, la complexité de l’être.
+
+Ne pas s’enfermer dans les mots ni dans les pratiques qui ne sont que des moyens pour un objectif bien plus grand et plus précieux : Vous.
+
+C’est pour ça que je préfère parler d’une sexualité extra-alphas. De extra, le préfixe qui signifie en dehors de (comme extra-ordinaire, extraterritorial, extraconjugal, extraterrestre … et pas du tout comme extra-fin ou c’est extra). Alpha, en rapport avec le monde animalier où l’alpha est le dominant, le premier. Donc sortir de toutes les structures hiérarchiques de groupe, arrêter les courses pour être le plus quelque chose, et aussi de la hiérarchie mentale avec le bien en haut, le mal en bas : Ce qu’il faut faire, ce qu’il ne faut pas faire. Sortir de tout ça. Ce n’est pas la meilleure expression que j’ai trouvée, c’est la moins pire ;)
+
+
+## Mes 3 positions pour faire l’amour *(brouillon)*
+
+Un peu comme les 3 démarches de l’homme dans l’énigme du sphinx.
+
+Première position : la Demande.
+
+Je demande. Pas forcément explicitement d’ailleurs. J’attends quelque chose de ma partenaire, de la sexualité et de la vie en général : des caresses ici, des baisers là, cette position, une pénétration ici, une pénétration comme ça. Et si à la fin, je n’ai pas ce que j’attendais, je me sens plus ou moins frustré. Le plaisir vient de ce que j’ai reçu.
+
+Deuxième position : le Don.
+
+Je donne. Je veux donner du plaisir à ma partenaire, l’emmener au septième ciel, lui procurer un grand orgasme. Je cherche ses zones érogènes, je teste comment la caresser, comment la prendre. Le plaisir vient de ce que j’ai pu donner.
+
+Troisième position : l’Abandon.
+
+Je laisse faire mon corps, nos corps. J’écoute ce qui se présente en nous. Cela peut être un geste, un son, des gestes, des baisers. Cela peut être simplement la respiration, le regard, le contact de la peau. Je ne sais pas. Je ne pense plus. Peu importe que ça soit fougueux ou lent, tendre ou violent, nous allons suivre la musique que nous murmure l’Univers pour exprimer une danse qui est en train d’éclore. Le plaisir vient de ce que nous avons pu suivre de l’instant présent.
+
+Pour moi, je ne parle que de moi et de mon expérience, comme dans l’énigme du sphinx, les positions pour faire l’amour sont venues avec la maturité. Je me suis centré sur moi, puis sur l’autre puis sur l’Univers, ce qui revient à ne plus avoir de centre.
+
+
+## Le coït sans sexe *(brouillon)*
+
+Ce titre est un hommage à “La vision sans tête” de Douglas Harding, une de mes grandes sources d’inspiration. Un tout petit livre qui a été une gifle sur la joue de mes certitudes. Pourquoi une vision sans tête ? Parce que vous n’avez pas de tête.
+
+Regardons ce que signifie le mot “tête” pour vous. Comment savez-vous si ce truc est une tête ou non ? Oui, posons-nous la question, comment savoir si un truc est une tête ou non. Si on peut le voir, il doit avoir une forme à peu près ronde. Il y a deux autres ronds à un tiers de la hauteur pour des yeux, une forme qui avance pour le nez. Un truc en bas qui peut se fermer et s’ouvrir qu’on appelle une bouche.
+
+Est-ce que tu as déjà vu la tête de ton partenaire ? Est-ce que tu as déjà vu la tête de ton père ? Est-ce que tu as déjà vu la tête de ta mère ? Est-ce que tu as déjà vu ta tête ?
+
+Les bonnes réponses sont : “sûrement oui”, “sûrement oui”, “sûrement oui” et “non, jamais”.
+
+Non, tu n’as jamais vu ta tête. Tu as cru que c’était ta tête mais cela ne l’a jamais été. Ce que tu as vu, c’était l’image de ta tête sur la photo, sur l’écran ou le reflet dans le miroir. Mais ce n’était pas ta tête. Tu continues à dire que ce qu’il y a dans le miroir et ta tête c’est la même chose ? Qu’est-ce qui se passe si on lance un verre d’eau sur ton reflet ? Ça serait pareil que si on le lance sur ta tête ?
+
+Imagine que tu sois avec un ami et ton partenaire. Tu vois la tête de ton partenaire. Tu vois la tête de ton ami. Tu vois la tête de ton ami, le truc rond décrit plus haut. Tu vois la tête de ton partenaire le truc rond décrit plus haut. Tu ne vois pas ta tête. Maintenant, on met un chapeau sur la tête de ton ami. Ce que tu vis, ton expérience c’est que tu vois le truc rond avec un chapeau. On met un chapeau sur la tête de ton partenaire, tu vois l’autre truc rond avec un chapeau. Les ronds sont différents mais ton expérience sera à peu près pareille. Pour finir, on met un chapeau sur ta tête. Quelle sera ton expérience ? Totalement différente des deux premières. Complètement différente.
+
+Si j’étais dans la pièce aussi, le chapeau sur la tête de ton ami, sur la tête de ton partenaire et sur ta tête seront des expériences similaires. Donc que j’utilise le même mot « tête » pour décrire la même chose c’est normal. Les mots désignent des choses avec des caractéristiques communes même si ces choses sont différentes : “fleur”, “arbre”, “chemise”. Donc moi je vois ta tête, la tête de ton ami et la tête de ton partenaire. Que je dise que tu as une tête, c’est normal de mon point de vue. Mais ton expérience est totalement différente. Sans aucune commune mesure. Donc le fait que tu utilises le mot “tête”, en disant que tu as une “tête” c’est que tu t’es placé de mon point de vue. Et c’est normal quand on veut communiquer avec les gens, on utilise les mots qui ont du sens pour eux, qu’ils comprennent. Mais dans l’intimité, de toi à toi, dans ton espace intérieur, tu n’es pas obligé.
+
+Même plus, si tu utilises le même mot que les autres, le mot “tête”, alors que ça signifie autre chose pour toi, c’est que tu as pris leur point de vue. Tu as pris leur expérience. C’est surtout que tu as perdu ton point de vue. C’est que tu t’es éloigné de ton expérience. En fait, tu n’es plus à ta place. Tu n’es plus dans ton centre.
+
+De la même façon, dans un coït, si tu crois que tu as un sexe c’est que tu es dans ton mental, tu fais référence à la mémoire, à ce que tu sais, ce qu’on t’a dit, à ce que tu imagines mais tu n’es pas dans ton ressenti. On ne peut pas ressentir et penser à la fois. Il n’y a qu’une seule “activité” à un instant. Même si la conscience peut aller très vite entre deux perceptions, elle ne fait qu’une seule chose à la fois.
+
+Le réel c’est le présent. C’est maintenant, c’est le ressenti de l’instant. C’est magnifique mais ça fait peur. Moi j’en ai peur. Peur d’être avec moi-même. Peut-être que je suis le seul à ne pas avoir de tête. J’ai quelque chose que les autres appellent tête mais mon expérience est unique. Ce n’est pas la leur. Je ne devrais pas utiliser le même mot.
+
+Je peux mettre des mots sur mon ressenti mais en réalité je ne pourrai jamais vraiment partager ce ressenti. Les mots ne sont pas la réalité. Mon ressenti est trop intime, trop près de moi pour le partager. J’ai peur parce que dans cet espace, je suis seul. J’y suis seul. C’est la solitude. Mais voilà, il y a une différence avec la solitude-souffrance. La solitude-souffrance est toujours liée au mental. La solitude ressentie dans mon espace intérieur est pleine. Pleine de moi. Pleine de ma présence.
+
+Quand je me donne l’opportunité de visiter, d’accueillir cet espace, où je n’ai pas de tête mais un ressenti, où je n’ai pas de sexe mais un ressenti, alors c’est vraiment une grande joie et une grande plénitude. Et quand ma partenaire aussi s’abandonne à son espace intérieur, à sa solitude intime, à sa solitude divine, c’est là que nous nous rencontrons vraiment, réellement. Cela n’arrive pas à chaque fois que je fais l’amour. Mais de temps en temps, ça arrive. À ce moment-là, je comprends pourquoi je fais l’amour.
+
+Ma partenaire n’est pas là-bas. Elle est ici. Elle est en moi.
+
+Une fois, après l’amour, j’ai ressenti l’énergie de ma partenaire vibrer en moi toute la journée alors que j’étais revenu chez moi. Même pendant la nuit de sommeil. Même au réveil le lendemain.
+
+En définitive, je fais l’amour pour rencontrer l’autre à l’intérieur de moi.
+
+
+## Un clitoris ou une oreille, c’est pareil *(brouillon)*
+
+Prenez juste quelques secondes pour ressentir l’effet de cette phrase en vous.
+
+La première fois que j’ai entendu ma formatrice de constellations familiales dire qu’un clitoris est pareil à une oreille, je me suis dit que ce n’était pas possible, que je n’avais pas compris la phrase. Après j’ai pensé qu’elle était complètement à côté de la plaque. Comme elle le répétait régulièrement dans la formation, je finis par m’habituer à cette phrase. C’était son dada. Ça me faisait sourire. Aujourd’hui, j’ai compris que c’était une des plus grandes vérités que j’ai apprises de cette femme.
+
+Quand on anime une constellation familiale, on doit être capable de tout accueillir. Les pensées, les valeurs, les croyances et les tabous des participants mais on doit aussi se connecter à un espace neutre, sans pensées, juste des faits. Le thème de la sexualité est fréquent dans les constellations familiales : viols, incestes, adultères, éducation religieuse stricte, etc. Garder une vision neutre des choses est crucial pour pouvoir accompagner les personnes dans leur histoire sans s’y perdre.
+
+Anatomiquement, physiquement un clitoris est une partie du corps. Une oreille est une partie du corps. Voilà c’est tout. Si ma formatrice avait dit qu’une oreille ou un doigt c’était pareil, je n’aurais pas du tout été surpris comme ça. Ma réaction indique l’histoire que mon mental ajoute au mot clitoris. Tous ces tabous, ces interdits, cette honte autour de la sexualité, je les ai collés aux sexes pendant des années. On apprend aux enfants à cacher leur sexe, et c’est normal parce que c’est la norme de la société. Mais un moment donné, je peux remettre en question les normes de la société. Non pas pour les transgresser mais pour me retrouver. Quand je fais l’amour, est-ce que je veux le faire seul, dans mon intimité, ou est-ce que je veux inviter toutes les pensées, les valeurs et préjugés d’autres personnes. Je n’ai pas une quantité d’énergie infinie, je ne peux pas porter mon attention sur tout. Je dois choisir entre faire l’amour la tête pleine et le corps vide ou la tête vide et le corps plein.
+
+Quand on est médecin et qu’il y a une personne avec une coupure, on soigne pareil que ce soit sur un doigt ou sur un pénis. On oublie tous les caractères psychologiques de la partie malade sinon on ne fait pas bien son travail.
+
+Bien sûr que ce n’est pas exactement pareil, il faut s’adapter sur le plan anatomique. je ne vais pas sucer de la même façon un orteil ou le bout de la langue. Il y a des spécificités. Ce n’est pas la même texture, ce n’est pas la même sensibilité. J’embrasse différemment la paupière ou le cou de ma partenaire. C’est une différence fonctionnelle. Une différence physique et physionomique. Mais pas de différence psychologique. La moindre différence psychologique est en réalité une lourdeur psychologique qui m’empêche d’être en relation directe avec le corps de l’autre. Il y a un voile, des fois même un rideau épais, entre moi et le corps de ma partenaire. Je ne la touche pas directement, je ne la touche qu’au travers du voile.
+
+Toutes ces blagues sur le sexe, ces insultes sur la sexualité traduisent une grande lourdeur psychologique à ce sujet. J’ai été baigné dedans. Je porte encore ces jugements, ces tabous, cette lourdeur. Mais à chaque fois que je ris à une blague de ce type, à chaque fois que j’entends une insulte sexuelle, je peux porter mon attention sur mon ressenti. Prendre conscience que cette lourdeur est là bien ancrée. Et le simple fait de voir cette lourdeur la détache peu à peu de mon esprit. Les ennemis que je vois s’éloignent, ceux que j’ignore se rapprochent. On peut faire une toilette du corps avant de faire l’amour. On peut aussi faire une toilette de l’esprit.
+
+Une fois qu’on s’est lavé physiquement et psychologiquement, un clitoris et une oreille, c’est pareil … enfin presque.
+
+C’est un de mes grands secrets pour une sexualité heureuse.
+
+
+## Comme je prie, comme je fais l’amour *(brouillon)*
+
+Le maître spirituel chrétien, Maître Eckhart, disait qu’il y avait deux manières de prier. Celle qui nous éloigne de Dieu et celle qui nous rapproche.
+
+La première manière de prier, celle que fait quasiment tout le monde : La demande. Au nouvel an chinois, vous voyez les pagodes se remplir de « bouddhistes » qui viennent brûler de l’encens et faire des offrandes. Leur prière se résume à “S’il te plaît  Bouddha, donne-moi de la chance, de la fortune, de la santé, de l’amour, que ma famille se porte bien, que mes enfants réussissent leurs études, que mes affaires soient florissantes.”  Pour beaucoup de bouddhistes, Bouddha est un super père Noël à qui on demande toutes sortes de cadeaux. Bien sûr, il y a quelques établissements où les gens viennent pour une recherche personnelle et spirituelle, mais si peu. Dans les prières chrétiennes que je connais, c’est le règne de l’impératif comme “Donne-nous”, “Pardonne-nous”, “Priez pour nous”, “Ayez pitié”. Nous demandons, nous quémandons, plus de ceci, plus de cela. Nous nous plaçons dans la position du petit enfant cherchant du réconfort auprès de son père et de sa mère. Nous sommes une victime de la vie qui s’adresse à son sauveur.
+
+Nous exprimons le manque.
+
+La deuxième manière de prier, c’est de remercier Dieu pour ses bienfaits. Si peu de fois notre prière a commencé par “Merci Seigneur”. Pourtant, c’est ainsi que nous pouvons reconnaître la grandeur de son œuvre, c’est-à-dire nous, notre vie, notre essence. C’est le moyen de ressentir le plein, la richesse de la vie, l’abondance que nous avons reçue.
+
+Alors comment est-ce que je fais l’amour ? La question ne se pose pas de manière générale mais à chaque fois.
+
+Est-ce que je le fais pour moi ? C’est-à-dire pour mon plaisir, pour me rassurer, pour qu’elle soit contente de moi, pour qu’elle me soit fidèle ? Même quand je le fais pour lui donner du plaisir cela peut être pour moi. Il n’y a pas de jugement, c’est seulement mon constat.
+
+Je peux aussi essayer de me mettre en connexion avec la gratitude d’être en relation, en intimité avec ma partenaire. Ressentir qu’elle me donne sa confiance, sa présence. Apprécier la chance qui m’est donnée de toucher son corps, de la caresser et d’être caressé par elle. Goûter la joie de l’instant de donner sans rien attendre. Comme donner un biberon à un bébé juste pour le plaisir de donner le biberon. Pas pour le nourrir, pas pour en faire un enfant puis un adulte qui va satisfaire mes attentes pathologiques. Non, aucune attente pour le futur.
+
+Juste ici et maintenant.
+
+Est-ce que je peux faire l’amour en disant merci à chaque seconde, chaque geste, chaque souffle ? Merci d’être là. Merci pour ta présence. Merci pour pouvoir te toucher. Merci pour pouvoir t’embrasser. Merci pour ton sourire. Merci pour ton abandon. Merci pour chaque élément de toi.
+
+C’est une façon d’honorer ma partenaire. Et curieusement, en honorant ma partenaire, j’honore notre sexualité et je me sens à mon tour honoré par elle.
+
+Deux façons de prier. Demander pour avoir ce que je n’ai pas ou remercier pour ce que j’ai déjà.
+
+Deux façons de faire l’amour. Pour avoir ce que je veux ou pour honorer ce qui est déjà là.
+
+Deux façons de poser mon regard. Vers un futur attendu imaginaire ou vers le présent. Sachant que l’un des deux est un présent.
+
+
+## Pimenter sa relation *(brouillon)*
+
+Les grands chefs expliquent que les bons plats c’est à 70% de bons ingrédients. Ensuite c’est la préparation. Et enfin, éventuellement, une sauce pour relever, exalter les saveurs qui sont déjà là. Dans les fast food, c’est souvent la sauce qui donne le goût parce que les ingrédients sont médiocres. On peut même dire que la sauce est là pour masquer le goût. Alors quand je vois les conseils pour pimenter la sexualité dans le couple, ça me fait penser à la sauce des fast food. Attention, je ne dis pas de ne pas pimenter, de ne pas ajouter de sauce mais c’est important de goûter le plat sans la sauce. Une fois qu’on a mis la sauce, on n’arrive plus à distinguer les différentes subtilités du plat.
+
+Voilà une liste non exhaustive des points à regarder pour retrouver la présence, le désir et l’amour dans une relation établie :
+
+1/ Travailler sur la peur de perdre l’autre. Cette peur crée automatiquement des mécanismes inconscients d’auto-censure. Plus le temps passe, plus la perte de la relation semble lourde et douloureuse, et plus on prend des précautions pour l’autre au détriment de soi… tout en le faisant payer après.
+
+2/ Travailler sur la peur de se perdre dans la relation. Elle pourrait créer des exigences qui sont plus des besoins de se rassurer que des besoins fondamentaux.
+
+3/ Laisser l’autre tel qu’il est et lui reconnaître le droit d’exister. Sa présence est un cadeau de la vie, et non quelque chose qu’il vous doit. On a le droit d’avoir envie qu’il soit différent mais c’est une envie. Il n’a pas d’obligation à changer et on n’a pas besoin qu’il change.
+
+4/ Se laisser le droit d’être tel qu’on est aussi 😉 même si ça dérange l’autre. On peut changer mais pas besoin de se forcer, sinon on lui crée une grosse dette du type « J’ai fait tout ça pour toi !!! »  Si on le fait quand même, ce n’est pas grave. Juste se rendre compte du fonctionnement.
+
+5/ Éviter d’investir dans la relation. Ne rien donner à l’autre si on attend de lui quelque chose, ça serait investir. Pas donner. Il nous décevra forcément et se montrera ingrat parce qu’il ne peut pas comprendre tout ce qu’on lui a donné. Si on investit, on essaie de le faire en conscience en assumant les risques. Si je joue au loto, je fais un investissement à risque et je suis prêt à perdre. Une clé pour faire la distinction est de se poser la question : « Est-ce que je lui donnerais ça en sachant qu’il me quitterait dans une semaine ? » La réponse permet de savoir si c’est un cadeau ou un investissement. Quand on se retient d’investir, des fois au bout d’un moment, on se rend compte qu’on aime suffisamment l’autre pour vraiment lui donner un cadeau, un remerciement pour ce qu’il a déjà offert et non sur ce qu’il devra offrir.
+
+6/ Prendre le temps. Il vaut mieux faire l’amour une fois 2h que 6 fois vingt minutes. On a besoin de temps pour se rencontrer, pour se poser, pour être à l’écoute de soi, pour entendre l’autre, pour se dire les choses. La routine donne l’impression de se connaître mais en réalité on ne connaît pas l’autre.
+
+7/ Les besoins sexuels de chacun sont ses besoins. Comme manger, boire, respirer. On n’est pas obligé de manger, boire ou respirer la même quantité que l’autre. Idem pour le sexe.
+
+8/ Faire l’amour de manière divine de Barry Long est un excellent guide pour un cheminement à deux.
+
+Au final, pimenter sa relation c’est bien si elle a de bonnes bases, sinon on ne fait que masquer les tensions et les problèmes. Une fois qu’on a vérifié que la relation est de qualité, alors oui, pimentons pour en faire un grand feu d’artifice !
+
+
+## La mélancolie après l’amour *(brouillon)*
+
+La dysphorie post-coïtale, le “sex-blues”, est un puissant sentiment de mélancolie, une irritabilité ou des sanglots et survient entre cinq minutes et deux heures après avoir fait l’amour. Cela arrive plus souvent chez les femmes mais aussi chez les hommes. Les scientifiques émettent des hypothèses physiologiques et psychologiques de manières statistiques : combien de personnes, combien de fois, quels profils psychologiques etc.
+
+Pour moi, il faut regarder au niveau individuel, élémentaire au cas par cas. De ce que j’ai observé pour mes partenaires et moi, il y a deux types de mélancolies après le sexe. La mélancolie des petits cailloux et la mélancolie des petites bulles.
+
+La mélancolie des petits cailloux, c’est lorsque j’ai manqué d’authenticité, j’ai manqué de connexion, je n’ai pas partagé certaines pensées, peurs ou désirs. J’ai en quelque sorte utilisé le corps de l’autre pour mon plaisir, ou alors j’ai voulu lui donner du plaisir, tout cela en étant tendu, orienté vers un objectif, un résultat. Même s’il y a de l’amour, même s’il y a du respect, même s’il y a un orgasme. C’était que je n’étais pas vraiment moi. C’était que je n’étais pas vraiment avec l’autre non plus. J’ai fait l’amour avec un masque. J’ai accepté que ma partenaire porte un masque. Nous avons un peu fait semblant l’un et l’autre. Évidemment, sur le moment, je ne le savais pas. Je ne voyais pas mon manque d’authenticité, d’honnêteté et de partage. Il y avait un déni. Au final, un sentiment de dégoût de soi, d’avoir abusé l’autre, d’avoir été abusé, d’avoir fait semblant à plusieurs moments … et j’avais l’impression d’être un petit caillou qui coule, coule, coule au fond du lac pour me perdre.
+
+La mélancolie des bulles, c’est une mélancolie aussi mais c’est complètement le contraire. Nous avons fait l’amour en étant authentique, en partageant nos peurs, nos désirs, nos pensées érotiques ou loufoques. Il n’y avait pas d’objectif sinon que celui de profiter du moment avec l’autre, du temps qui passe en sa présence, avec son cœur, son corps, son sexe, son âme. Il peut ne pas y avoir d’orgasme, cela n’importe. C’est la joie qui est là, présente. C’est le sentiment de vraiment se sentir aimé, accueilli et honoré. Un moment de pure présence et d’ouverture du cœur. Une ouverture telle qu’elle amenuise les défenses. Alors ce qui a été refoulé il y a 5 ans, 10 ans voire 20 ans peut remonter à la surface. Des traumas, des abus physiques ou psychologiques, réels ou imaginaires peuvent enfin être accueillis dans la conscience. Ce n’est pas agréable. On peut pleurer. On peut crier. On peut se mettre en boule. Mais ça fait partie du processus de deuil. C’est nécessaire à la libération ou plutôt à l’intégration. C’est une bulle enfermée dans le fond du lac qui remonte petit à petit ou des fois rapidement à la surface et qui laissera quelque temps après notre cœur plus ouvert, notre corps plus léger et notre âme grandie.
+
+Est-ce besoin de le rappeler, tout ce que je partage est un point de vue personnel et subjectif complètement assumé. Je ne me réfère pas aux études psychologiques, physiologiques sur la sexualité. Cela a de la valeur bien sûr et vous pouvez en trouver de bons articles. Ce que je propose ici, c’est de partager mon vécu, mon intimité. Ce n’est pas tant que ma vie et mes expériences soient passionnantes mais pour moi ce qui importe le plus dans la sexualité heureuse c’est l’intimité. Pour vivre cette intimité, il faut enlever son masque. Ici, j’enlève mon masque pour vous montrer l’exemple, vous dire que c’est possible, que c’est utile et même indispensable à une sexualité profonde.
+
+
+## De la honte à la gratitude *(brouillon)*
+
+Quand je suis interviewé, on me demande toujours comment j’en suis arrivé à accompagner des personnes vers la sexualité authentique et sensible.
+
+La réponse est mon trauma.
+
+Quand j’ai rencontré ma première chérie à l’école d’ingénieur, c’était immédiatement le coup de foudre. Nous étions deux grands timides mais très naturellement nous passions beaucoup de temps, voire tout notre disponible ensemble. Nous avons commencé notre relation au bout de quelques semaines, emménagé ensemble au bout de 3 mois, puis par la suite fiançailles, mariage, enfants, maison.
+
+Un conte de fées à l’extérieur mais il cachait aussi une grande souffrance pour moi. Pendant 5 ans, je n’arrivais pas à pénétrer ma partenaire. Même s’il y avait une sexualité très agréable, des orgasmes, techniquement j’étais encore puceau. Et cela jusqu’à 26 ans.
+
+C’était très difficile à vivre. J’étais jeune, à l’armée, on parlait de sexe et des copines. Moi, je ne disais rien, juste que j’habitais avec ma copine. Mais chaque conversation qu’ils avaient était un coup de couteau dans la blessure de mon ego et de mon amour propre.
+
+Pourquoi cela est arrivé ? Pourquoi je n’ai pas quitté ma chérie à ce moment-là ? Il y a les premières réponses du moment et les vraies réponses qui sont arrivées 30 ans après. Et j’y reviendrai plus tard.
+
+En tout cas, c’était un vrai traumatisme. À tel point que même en étant parvenu à une sexualité normale, en ayant eu mon premier enfant, je me sentais encore puceau. Illogique, incompréhensible mais c’était mon ressenti, ma réalité. Le changement de ressenti n’était pas arrivé avec une sexualité normale. Je me sentais encore puceau, adolescent en manque, honteux, en stress et en colère par rapport à la sexualité. Je ne me sentais pas un homme sexuel complet.
+
+Ce trauma, cette douleur, c’est ce qui m’a poussé à faire des stages en développement personnel. De la PNL, de l’hypnose ericksonienne, des constellations familiales, ProcessCom, Tony Robbins, Vipassana, Neo-Tantra, Tantra, Shivaïsme du Cachemire entre autres. C’était entre 2000 et 4000 euros de stages par an.
+
+C’est grâce à ce cheminement que ma sexualité a radicalement changé, évolué, s’est sublimée.
+
+Est-ce que j’ai plus d’orgasmes ? Non
+
+Est-ce que je jouis plus souvent ou  plus fort ? Non plus.
+
+Mais alors qu’est-ce qui a changé réellement dans ma sexualité ?
+
+Cela tient en deux mots : Vérité et Liberté.
+
+Un des retours de mes amantes est qu’avec moi elles se sentent
+complètement libres. Libres d’être une reine, une déesse, un ange. Libre d’être une c.ch.nn. une p.rv.rs., une g.rc., une s.l.p. ou une p.t..n. Libres d’être gentilles, douces, méditatives. Libre d’être bestiales, sauvages, violentes, gourmandes. Tout est accueilli, aimé et honoré. Parce que je suis pareil ! Ha ha ha
+
+C’est cette liberté que je me suis offerte en assumant qui je suis au moment où je le suis. Dans la sexualité, ce sont simplement des rôles, des énergies qui changent.
+
+En définitive, le plus important et précieux pour moi dans la sexualité c’est : La liberté d’être. Oser ma Vérité. Honorer ma Liberté. Beaucoup de personnes se disent libres et authentiques avec leur partenaire. Très peu le sont en fait. Beaucoup de personnes cherchent à avoir plus de plaisir dans la sexualité alors qu’intérieurement, elles cherchent à se sentir aimées pour qui elles sont réellement. À 100%. Je le sais parce que c’était mon cas.
+
+Je cherchais des techniques pour avoir et donner plus de plaisir, des plaisirs différents, plus intenses. Mais cette quête était sans fin. Je disais que c’était une exploration, mais cette exploration avait un but : la libération. Me sentir libre. Me sentir aimé. Sans condition. Sans compromis.
+
+Aujourd’hui, c’est ce que je vis. Pas seulement moi mais aussi de nombreux anciens clients et clientes.
+
+Et cela grâce à tout ce travail personnel qui a été fait, motivé et poussé par ce traumatisme au début de ma sexualité .
+
+En plus, ce n’est pas seulement dans ma vie sexuelle que ce cheminement a eu de l’impact. Mais aussi dans ma danse. Je danse énormément, des danses dites libres de toutes sortes. Et parce que je suis en paix, en osmose avec ma sexualité, certains diraient avec mon énergie sexuelle, cela se répercute dans les danses avec les femmes.
+
+Les femmes viennent très facilement à moi pour partager des moments de sensualité parce qu’elles sentent qu’il n’y a pas d’enjeux, qu’il n’y a pas d’attente, que nous vivons seulement un moment de partage, de contact, de sensualité voire d’intimité. Une expérience de beauté, une connexion à la fois intense et éphémère. Un instant dans l’éternité.
+
+Tous ces moments, je les dois à ce que j’avais longtemps jugé comme drame, trauma, désespoir. Aujourd’hui, je comprends sa raison d’être. Je comprends l’intention de la vie de m’avoir offert cette épreuve. C’était le prix à payer pour vivre dans ma vérité et ma liberté dans ces moments de grâce dans la danse et la sexualité.
+
+Maintenant, à chaque danse, je remercie la vie, ma chérie de l’époque, le chemin parcouru et même l’immense frustration qui a été le moteur nécessaire de ma libération, la source de ma joie présente.
+
+Une personne m’a écrit récemment “je me suis surprise à pleurer de voir la beauté en toi s’exprimer depuis ta puissance d’être authentique et guidé par le plus grand.” C’est très bien formulé parce qu’en vrai, ce n’est pas moi qui suis beau mais c’est la beauté et la grandeur qui se sont exprimées à travers moi. Cette beauté et cette grandeur sont en chacun d’entre nous. Nous n’avons pas à les cultiver. Nous pouvons seulement retirer les obstacles à leurs expressions.
+
+J’accompagne d’autres personnes à vivre leur vérité et leur liberté dans leur relation amoureuse et dans leur sexualité.
+
+Certains d’entre eux vivent actuellement un grand amour au niveau du cœur et de la sexualité. Le plus surprenant c’est que tous en sont très heureux mais sont aussi tout à fait à l’aise avec l’idée que la relation puisse s’arrêter. Parce qu’ils savent, ressentent que la beauté, la joie et l’amour sont déjà en eux. Alors si ça s’arrête avec ce partenaire, cela s’exprimera avec un autre. C’est inéluctable parce que cela vient d’eux et non de leur partenaire.
+
+Alors quel que soit ton passé, tes blessures, je pense pouvoir t’aider à te reconnecter à l’amour, la beauté, la vie et la vérité qui est en toi pour que tu puisses l’exprimer dans ta relation amoureuse actuelle ou future.
+
+De la honte que j’avais par rapport au début difficile dans ma sexualité, quelque chose qui me rapetissait, que je cachais j’en ai fait une force, une histoire, mon histoire que je partage avec les personnes qui ont envie de me connaître. Cette histoire dont j’avais honte, je pensais que les gens allaient me juger pour ça, et j’ai découvert que quand je la racontais, elle créait au contraire de la sympathie, une connexion plus profonde entre mon interlocutrice et moi.
+
+Quand je vois tout ce que je vis aujourd’hui grâce à l’expérience difficile et douloureuse, je ressens une immense gratitude. Cela était douloureux : Oui. Beaucoup de désespoirs, de doutes, de chagrins : Oui. Mais par rapport aux bénéfices actuels, cela en valait vraiment le coût. Si c’était à refaire pour en arriver ici, je le referais volontiers.
+
+Alors si tu es dans une douleur, une frustration, une tristesse, une honte ou une culpabilité, je te souhaite réellement d’arriver, toi aussi, à t’en libérer pour vivre le type de relation à laquelle tu aspires depuis longtemps. Mais pour cela, peut-être qu’il faudra apprendre à reconnaître la valeur de ce que la vie a voulu t’apporter malgré la douleur et la souffrance et enfin les transcender.
