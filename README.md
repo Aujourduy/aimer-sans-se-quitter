@@ -285,8 +285,10 @@ permettent, **d'un clic**, de basculer `verifieParDuy` et `draft` : le champ est
 écrit directement dans le bon fichier `.md` (édition chirurgicale, seule la ligne
 du champ change — le reste du fichier est préservé à l'identique).
 
-> L'outil écoute sur `0.0.0.0` : il affiche au démarrage l'URL **Tailscale**
-> (`http://100.x.x.x:4455`) pour y accéder à distance. Il lit/écrit seulement
+> Lancé via `npm run relecture`, l'outil écoute sur `0.0.0.0` et affiche au
+> démarrage l'URL **Tailscale** (`http://100.x.x.x:4455`) pour y accéder à
+> distance (en service permanent, il n'écoute QUE sur Tailscale — voir plus
+> bas). Il lit/écrit seulement
 > `src/content/textes/*.md` ; il n'a aucun lien avec le site Astro déployé.
 > Après une session, les `.md` modifiés sont de vrais changements git à
 > **committer** (passer un texte de `draft: true` à `false` le publiera en ligne
@@ -294,6 +296,26 @@ du champ change — le reste du fichier est préservé à l'identique).
 
 **Marche à suivre :** `npm run relecture` → lire un texte → cliquer « validé »
 et/ou « publié » → committer les `.md` modifiés.
+
+#### Service permanent (Tailscale uniquement)
+
+Sur le serveur, l'outil tourne en **service systemd `--user`** qui redémarre
+seul et n'écoute **que sur l'IP Tailscale** (inaccessible depuis le LAN ou
+localhost). Accès : `http://100.95.124.70:4455` (depuis un appareil du réseau
+Tailscale).
+
+```bash
+# état / logs / redémarrage
+systemctl --user status  relecture.service
+systemctl --user restart relecture.service
+journalctl --user -u relecture.service -f
+```
+
+Le service est défini dans `~/.config/systemd/user/relecture.service`
+(variable `RELECTURE_HOST=100.95.124.70` pour le binding Tailscale), avec
+`Restart=always` et le *linger* activé (`loginctl enable-linger dang`) pour
+survivre aux déconnexions. Pour écouter sur toutes les interfaces en local,
+lancer simplement `npm run relecture` (défaut `0.0.0.0`).
 
 Suivi possible aussi en ligne de commande :
 
