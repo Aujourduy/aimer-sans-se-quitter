@@ -223,6 +223,29 @@ function pageHtml() {
   .gen{width:100%;margin-bottom:.4rem;padding:.5rem;border:1px solid var(--bleu);background:var(--bleu);color:#fff;border-radius:.4rem;cursor:pointer;font-size:.82rem;}
   .gen:hover{background:#16243b;} .gen:disabled{opacity:.6;cursor:default;}
   .gen-msg{font-size:.72rem;color:var(--sepia);margin-bottom:.6rem;min-height:1em;white-space:pre-line;}
+  .back{display:none;}
+  /* --- Mobile : une seule colonne, navigation liste <-> lecture --- */
+  @media (max-width:760px){
+    .app{grid-template-columns:1fr;height:auto;min-height:100vh;}
+    .side{border-right:none;height:auto;overflow:visible;padding:.8rem;}
+    .main{padding:1rem 1.1rem 3rem;max-width:none;}
+    /* En mode "lecture", on masque la liste et on montre le texte ; et inversement. */
+    .app.reading .side{display:none;}
+    .app:not(.reading) .main{display:none;}
+    .back{display:inline-block;margin-bottom:1rem;padding:.5rem .9rem;border:1px solid var(--bleu);
+      background:#fff;color:var(--bleu);border-radius:.4rem;font-size:.9rem;cursor:pointer;}
+    /* Zones tactiles plus grandes */
+    .filters button{font-size:.85rem;padding:.4rem .7rem;}
+    .row{padding:.7rem .5rem;}
+    .row-title{font-size:1rem;}
+    .b{font-size:.7rem;}
+    .search{font-size:1rem;padding:.6rem .7rem;}
+    .actions{gap:.5rem;}
+    .actions button,.b-livre-btn{font-size:.95rem;padding:.6rem .9rem;flex:1 1 auto;text-align:center;}
+    .livre-actions{flex-direction:column;align-items:stretch;margin-top:0;}
+    .livre-label{margin:.3rem 0 0;}
+    .read-title{font-size:1.5rem;}
+  }
 </style></head>
 <body>
 <div class="app">
@@ -296,7 +319,10 @@ async function open_(slug){
   for(const f of LIVRE_FLAGS){
     livreBtns+='<button class="b-livre-btn'+(t[f.key]?' on-livre':'')+'" onclick="toggle(\\''+slug+'\\',\\''+f.key+'\\')">'+(t[f.key]?'✓ ':'+ ')+f.label+'</button>';
   }
-  $('#main').innerHTML='<div class="actions">'
+  document.querySelector('.app').classList.add('reading');
+  window.scrollTo(0,0);
+  $('#main').innerHTML='<button class="back" onclick="backToList()">‹ Liste</button>'
+    +'<div class="actions">'
     +'<button class="'+(t.verifieParDuy?'on-ok':'')+'" onclick="toggle(\\''+slug+'\\',\\'verifieParDuy\\')">'+(t.verifieParDuy?'✓ Validé':'◯ Marquer validé')+'</button>'
     +'<button class="'+(t.draft?'on-draft':'')+'" onclick="toggle(\\''+slug+'\\',\\'draft\\')">'+(t.draft?'brouillon → publier':'publié → brouillon')+'</button>'
     +'</div>'
@@ -309,6 +335,7 @@ async function toggle(slug,field){
   render(); open_(slug);
 }
 $('#filters').addEventListener('click',e=>{if(e.target.dataset.f){filter=e.target.dataset.f;[...$('#filters').children].forEach(b=>b.classList.toggle('active',b===e.target));render();}});
+function backToList(){ document.querySelector('.app').classList.remove('reading'); window.scrollTo(0,0); }
 $('#search').addEventListener('input',e=>{q=e.target.value.toLowerCase();render();});
 $('#gen').addEventListener('click',async()=>{
   const btn=$('#gen'); btn.disabled=true; btn.textContent='Génération…'; $('#gen-msg').textContent='';
