@@ -1,5 +1,10 @@
 ---
 verifieParDuy: false
+livreFableDanPhu: false
+livreAnalyseConte: false
+livreMetaphore: false
+livreVersus: false
+livreAimerSansDisparaitre: false
 title: "La vision profonde : boire le nuage dans la tasse"
 excerpt: "Dans une tasse de thé, l’eau fut nuage, rivière, soleil ; ainsi l’être aimé porte une histoire immense."
 category: "fables-paradoxes"

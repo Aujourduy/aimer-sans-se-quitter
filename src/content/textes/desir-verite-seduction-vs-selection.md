@@ -1,5 +1,10 @@
 ---
 verifieParDuy: false
+livreFableDanPhu: false
+livreAnalyseConte: false
+livreMetaphore: false
+livreVersus: false
+livreAimerSansDisparaitre: false
 title: "Séduction vs Sélection"
 excerpt: "L’important n’est pas la séduction mais la sélection : la stratégie de l’ovule."
 category: "desir-verite"

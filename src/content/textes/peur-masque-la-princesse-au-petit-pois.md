@@ -1,5 +1,10 @@
 ---
 verifieParDuy: false
+livreFableDanPhu: false
+livreAnalyseConte: false
+livreMetaphore: false
+livreVersus: false
+livreAimerSansDisparaitre: false
 title: "La princesse au petit pois"
 excerpt: "Le petit pois sous mes matelas, c’était le masque que je portais."
 category: "peur-masque"

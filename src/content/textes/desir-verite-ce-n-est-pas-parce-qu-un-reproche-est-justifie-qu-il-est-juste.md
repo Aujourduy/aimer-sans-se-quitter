@@ -1,5 +1,10 @@
 ---
 verifieParDuy: false
+livreFableDanPhu: false
+livreAnalyseConte: false
+livreMetaphore: false
+livreVersus: false
+livreAimerSansDisparaitre: false
 title: "Ce n’est pas parce qu’un reproche est justifié qu’il est juste"
 excerpt: "Le cœur sent la distance grandir, puis cherche une raison raisonnable pour la justifier."
 category: "desir-verite"

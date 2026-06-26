@@ -1,5 +1,10 @@
 ---
 verifieParDuy: false
+livreFableDanPhu: false
+livreAnalyseConte: false
+livreMetaphore: false
+livreVersus: false
+livreAimerSansDisparaitre: false
 title: "La morale cachée de Cendrillon"
 excerpt: "Laisse tomber ton rôle de victime et enfile tes plus beaux habits de lumière."
 category: "peur-masque"

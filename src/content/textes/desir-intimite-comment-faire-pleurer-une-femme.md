@@ -1,5 +1,10 @@
 ---
 verifieParDuy: false
+livreFableDanPhu: false
+livreAnalyseConte: false
+livreMetaphore: false
+livreVersus: false
+livreAimerSansDisparaitre: false
 title: "Comment faire pleurer une femme"
 excerpt: "Si peu de mots sur les larmes de joie, ce trop-plein qui vient quand la confiance s’ouvre."
 category: "desir-intimite"

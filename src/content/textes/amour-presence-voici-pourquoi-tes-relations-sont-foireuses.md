@@ -1,5 +1,10 @@
 ---
 verifieParDuy: false
+livreFableDanPhu: false
+livreAnalyseConte: false
+livreMetaphore: false
+livreVersus: false
+livreAimerSansDisparaitre: false
 title: "Voici pourquoi tes relations sont foireuses"
 excerpt: "Cesse de chercher l’homme bien : deviens d’abord la femme que cet homme cherche."
 category: "amour-presence"

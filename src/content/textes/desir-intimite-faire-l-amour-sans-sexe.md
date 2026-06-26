@@ -1,5 +1,10 @@
 ---
 verifieParDuy: false
+livreFableDanPhu: false
+livreAnalyseConte: false
+livreMetaphore: false
+livreVersus: false
+livreAimerSansDisparaitre: false
 title: "Faire l’amour sans sexe"
 excerpt: "Faire l’amour sans masque, entièrement exposé, ouvert à l’autre."
 category: "desir-intimite"

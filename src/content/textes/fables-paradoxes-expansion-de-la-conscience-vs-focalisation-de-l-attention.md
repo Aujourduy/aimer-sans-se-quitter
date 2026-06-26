@@ -1,5 +1,10 @@
 ---
 verifieParDuy: false
+livreFableDanPhu: false
+livreAnalyseConte: false
+livreMetaphore: false
+livreVersus: false
+livreAimerSansDisparaitre: false
 title: "Expansion de la conscience vs focalisation de l’attention"
 excerpt: "On n’agrandit pas la perception dans l’espace, on l’affine et la concentre vers l’intérieur : le ici."
 category: "fables-paradoxes"

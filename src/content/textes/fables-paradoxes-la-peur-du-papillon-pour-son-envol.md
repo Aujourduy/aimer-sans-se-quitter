@@ -1,5 +1,10 @@
 ---
 verifieParDuy: false
+livreFableDanPhu: false
+livreAnalyseConte: false
+livreMetaphore: false
+livreVersus: false
+livreAimerSansDisparaitre: false
 title: "La peur du papillon pour son envol"
 excerpt: "Le papillon ne voit pas son décollage, il sent le sol se dérober."
 category: "fables-paradoxes"

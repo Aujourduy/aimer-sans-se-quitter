@@ -1,5 +1,10 @@
 ---
 verifieParDuy: false
+livreFableDanPhu: false
+livreAnalyseConte: false
+livreMetaphore: false
+livreVersus: false
+livreAimerSansDisparaitre: false
 title: "Ce que je veux vraiment"
 excerpt: "La première erreur est de ne pas admettre nos besoins réels."
 category: "desir-verite"

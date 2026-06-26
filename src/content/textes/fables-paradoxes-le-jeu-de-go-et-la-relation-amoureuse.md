@@ -1,5 +1,10 @@
 ---
 verifieParDuy: false
+livreFableDanPhu: false
+livreAnalyseConte: false
+livreMetaphore: false
+livreVersus: false
+livreAimerSansDisparaitre: false
 title: "Le jeu de go et la relation amoureuse"
 excerpt: "L’ordinateur n’a pas gagné en calculant plus vite, mais en se posant les bonnes questions."
 category: "fables-paradoxes"

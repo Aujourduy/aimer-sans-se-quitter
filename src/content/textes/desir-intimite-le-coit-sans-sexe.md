@@ -1,5 +1,10 @@
 ---
 verifieParDuy: false
+livreFableDanPhu: false
+livreAnalyseConte: false
+livreMetaphore: false
+livreVersus: false
+livreAimerSansDisparaitre: false
 title: "Le coït sans sexe"
 excerpt: "Dans un coït, si tu crois que tu as un sexe, c’est que tu n’es plus dans ton ressenti."
 category: "desir-intimite"

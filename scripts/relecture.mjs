@@ -36,6 +36,18 @@ const CATEGORY_ORDER = [
   'desir-intimite',
 ];
 
+// Indicateurs de classement par livre / type (booléens, basculés dans l'UI).
+// `key` = nom du champ dans le frontmatter ; `label` = libellé affiché.
+const LIVRE_FLAGS = [
+  { key: 'livreFableDanPhu', label: 'Fable de Dan Phu' },
+  { key: 'livreAnalyseConte', label: 'Analyse de conte' },
+  { key: 'livreMetaphore', label: 'Métaphore' },
+  { key: 'livreVersus', label: 'Versus' },
+  { key: 'livreAimerSansDisparaitre', label: 'Aimer sans disparaître' },
+];
+// Champs booléens autorisés au toggle (relecture + indicateurs de livre).
+const TOGGLEABLE = ['verifieParDuy', 'draft', ...LIVRE_FLAGS.map((f) => f.key)];
+
 // --- Lecture des fichiers --------------------------------------------------
 
 function slugOf(file) {
@@ -47,7 +59,7 @@ function listTextes() {
   const items = files.map((file) => {
     const raw = readFileSync(join(TEXTES_DIR, file), 'utf8');
     const { data } = matter(raw);
-    return {
+    const item = {
       slug: slugOf(file),
       title: data.title ?? slugOf(file),
       category: data.category ?? '(sans thème)',
@@ -55,6 +67,8 @@ function listTextes() {
       verifieParDuy: data.verifieParDuy === true,
       draft: data.draft === true,
     };
+    for (const f of LIVRE_FLAGS) item[f.key] = data[f.key] === true;
+    return item;
   });
   // Tri par thème (ordre défini) puis par order puis titre.
   items.sort((a, b) => {
@@ -81,7 +95,7 @@ function readTexte(slug) {
 // l'espace insécable (« vide : » devient « vide\_: »). On ne touche donc qu'à
 // la ligne ciblée, tout le reste du fichier est préservé octet pour octet.
 function toggleField(slug, field) {
-  if (field !== 'verifieParDuy' && field !== 'draft') {
+  if (!TOGGLEABLE.includes(field)) {
     throw new Error('Champ non autorisé : ' + field);
   }
   const path = join(TEXTES_DIR, slug + '.md');
@@ -188,6 +202,11 @@ function pageHtml() {
   .b{font-size:.62rem;font-weight:600;padding:.05rem .4rem;border-radius:.6rem;line-height:1.4;}
   .b-ok{background:var(--vert);color:#fff;} .b-todo{background:#e7e0d4;color:var(--sepia);border:1px solid var(--filet);}
   .b-draft{background:var(--ocre);color:#fff;} .b-pub{background:#e7e0d4;color:var(--sepia);border:1px solid var(--filet);}
+  .b-livre{background:var(--bleu);color:#fff;}
+  .livre-actions{align-items:center;gap:.4rem;margin-top:-.8rem;}
+  .livre-label{font-size:.78rem;color:var(--sepia);margin-right:.2rem;}
+  .b-livre-btn{font-size:.78rem;padding:.35rem .7rem;border-radius:1rem;cursor:pointer;border:1px solid var(--filet);background:#fff;color:var(--sepia);}
+  .b-livre-btn.on-livre{background:var(--bleu);color:#fff;border-color:var(--bleu);}
   .main h2.read-title{font-family:Georgia,serif;color:var(--bleu);font-size:1.8rem;margin:.2rem 0 1rem;}
   .actions{display:flex;gap:.6rem;margin-bottom:1.5rem;flex-wrap:wrap;}
   .actions button{font-size:.85rem;padding:.45rem .8rem;border-radius:.4rem;cursor:pointer;border:1px solid var(--filet);background:#fff;color:var(--encre);}
@@ -208,6 +227,7 @@ function pageHtml() {
       <button data-f="ok">Validés</button>
       <button data-f="draft">Brouillons</button>
       <button data-f="pub">Publiés</button>
+      ${LIVRE_FLAGS.map((f) => `<button data-f="flag:${f.key}">${f.label}</button>`).join('')}
     </div>
     <input class="search" id="search" placeholder="Filtrer par titre…">
     <div id="list"></div>
@@ -215,6 +235,7 @@ function pageHtml() {
   <main class="main" id="main"><p class="empty">Sélectionne un texte à gauche.</p></main>
 </div>
 <script>
+const LIVRE_FLAGS=${JSON.stringify(LIVRE_FLAGS)};
 let TEXTES=[], filter='all', q='', sel=null;
 const $=s=>document.querySelector(s);
 
@@ -225,12 +246,15 @@ function visible(t){
   if(filter==='ok'&&!t.verifieParDuy)return false;
   if(filter==='draft'&&!t.draft)return false;
   if(filter==='pub'&&t.draft)return false;
+  if(filter.startsWith('flag:')&&!t[filter.slice(5)])return false;
   if(q&&!t.title.toLowerCase().includes(q))return false;
   return true;
 }
 function render(){
   const ok=TEXTES.filter(t=>t.verifieParDuy).length;
-  $('#stats').textContent=ok+'/'+TEXTES.length+' validés · '+TEXTES.filter(t=>t.draft).length+' brouillons';
+  let s=ok+'/'+TEXTES.length+' validés · '+TEXTES.filter(t=>t.draft).length+' brouillons';
+  s+=' · '+LIVRE_FLAGS.map(f=>f.label+' '+TEXTES.filter(t=>t[f.key]).length).join(' · ');
+  $('#stats').textContent=s;
   const cats={};
   TEXTES.filter(visible).forEach(t=>{(cats[t.category]=cats[t.category]||[]).push(t);});
   const order=['amour-presence','desir-verite','peur-masque','fables-paradoxes','desir-intimite'];
@@ -248,17 +272,26 @@ function rowHtml(t){
     +'<div class="badges">'+badge(t)+'</div></div>';
 }
 function badge(t){
-  return '<span class="b '+(t.verifieParDuy?'b-ok':'b-todo')+'">'+(t.verifieParDuy?'✓ validé':'◯ à valider')+'</span>'
+  let h='<span class="b '+(t.verifieParDuy?'b-ok':'b-todo')+'">'+(t.verifieParDuy?'✓ validé':'◯ à valider')+'</span>'
     +'<span class="b '+(t.draft?'b-draft':'b-pub')+'">'+(t.draft?'brouillon':'publié')+'</span>';
+  // Pastilles des livres cochés uniquement (pour ne pas surcharger la liste).
+  for(const f of LIVRE_FLAGS){ if(t[f.key]) h+='<span class="b b-livre">'+f.label+'</span>'; }
+  return h;
 }
 async function open_(slug){
   sel=slug; render();
   const d=await (await fetch('/api/texte/'+slug)).json();
   const t=TEXTES.find(x=>x.slug===slug);
+  let livreBtns='';
+  for(const f of LIVRE_FLAGS){
+    livreBtns+='<button class="b-livre-btn'+(t[f.key]?' on-livre':'')+'" onclick="toggle(\\''+slug+'\\',\\''+f.key+'\\')">'+(t[f.key]?'✓ ':'+ ')+f.label+'</button>';
+  }
   $('#main').innerHTML='<div class="actions">'
     +'<button class="'+(t.verifieParDuy?'on-ok':'')+'" onclick="toggle(\\''+slug+'\\',\\'verifieParDuy\\')">'+(t.verifieParDuy?'✓ Validé':'◯ Marquer validé')+'</button>'
     +'<button class="'+(t.draft?'on-draft':'')+'" onclick="toggle(\\''+slug+'\\',\\'draft\\')">'+(t.draft?'brouillon → publier':'publié → brouillon')+'</button>'
-    +'</div><h2 class="read-title">'+d.title+'</h2><div class="prose">'+d.html+'</div>';
+    +'</div>'
+    +'<div class="actions livre-actions"><span class="livre-label">Livres :</span>'+livreBtns+'</div>'
+    +'<h2 class="read-title">'+d.title+'</h2><div class="prose">'+d.html+'</div>';
 }
 async function toggle(slug,field){
   const r=await (await fetch('/api/toggle',{method:'POST',headers:{'content-type':'application/json'},body:JSON.stringify({slug,field})})).json();

@@ -1,5 +1,10 @@
 ---
 verifieParDuy: false
+livreFableDanPhu: false
+livreAnalyseConte: false
+livreMetaphore: false
+livreVersus: false
+livreAimerSansDisparaitre: false
 title: "Osez ceci, cessez cela : stop à l’impératif"
 excerpt: "Stop à l’impératif, aux injonctions, aux ordres ; ne rien forcer, ne rien retenir, juste s’écouter."
 category: "desir-verite"

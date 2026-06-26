@@ -1,5 +1,10 @@
 ---
 verifieParDuy: false
+livreFableDanPhu: false
+livreAnalyseConte: false
+livreMetaphore: false
+livreVersus: false
+livreAimerSansDisparaitre: false
 title: "Le Roi vs le Prince"
 excerpt: "Le prince combat pour prouver sa valeur ; le roi règne pour la paix."
 category: "peur-masque"

@@ -1,5 +1,10 @@
 ---
 verifieParDuy: false
+livreFableDanPhu: false
+livreAnalyseConte: false
+livreMetaphore: false
+livreVersus: false
+livreAimerSansDisparaitre: false
 title: "L’histoire du petit moineau"
 excerpt: "Vouloir sortir de la boue à tout prix, c’est risquer de se faire avaler."
 category: "fables-paradoxes"

@@ -1,5 +1,10 @@
 ---
 verifieParDuy: false
+livreFableDanPhu: false
+livreAnalyseConte: false
+livreMetaphore: false
+livreVersus: false
+livreAimerSansDisparaitre: false
 title: "La sexualité comme pouls de la relation amoureuse"
 excerpt: "La sexualité est rarement le problème ; elle révèle ce qui se joue ailleurs."
 category: "desir-verite"

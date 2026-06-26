@@ -1,5 +1,10 @@
 ---
 verifieParDuy: false
+livreFableDanPhu: false
+livreAnalyseConte: false
+livreMetaphore: false
+livreVersus: false
+livreAimerSansDisparaitre: false
 title: "Une bonne ou mauvaise nouvelle"
 excerpt: "Notre esprit juge vite ; mais qui peut savoir si une chose est vraiment bonne ou mauvaise ?"
 category: "fables-paradoxes"

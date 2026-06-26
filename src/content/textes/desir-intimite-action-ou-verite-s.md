@@ -1,5 +1,10 @@
 ---
 verifieParDuy: false
+livreFableDanPhu: false
+livreAnalyseConte: false
+livreMetaphore: false
+livreVersus: false
+livreAimerSansDisparaitre: false
 title: "Action ou vérité-s"
 excerpt: "On passe à l’action ou on se dit une vérité, jusqu’à ce que le désir revienne."
 category: "desir-intimite"

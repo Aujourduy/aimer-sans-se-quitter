@@ -1,5 +1,10 @@
 ---
 verifieParDuy: false
+livreFableDanPhu: false
+livreAnalyseConte: false
+livreMetaphore: false
+livreVersus: false
+livreAimerSansDisparaitre: false
 title: "La frustration de liberté d’être"
 excerpt: "Chercher non plus le plaisir mais la liberté d’être qui nous sommes, complètement."
 category: "desir-verite"

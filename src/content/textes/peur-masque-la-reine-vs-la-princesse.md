@@ -1,5 +1,10 @@
 ---
 verifieParDuy: false
+livreFableDanPhu: false
+livreAnalyseConte: false
+livreMetaphore: false
+livreVersus: false
+livreAimerSansDisparaitre: false
 title: "La Reine vs la Princesse"
 excerpt: "La Princesse se veut belle pour plaire ; la Reine n’a plus besoin d’être aimée pour se sentir bien."
 category: "peur-masque"

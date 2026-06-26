@@ -1,5 +1,10 @@
 ---
 verifieParDuy: false
+livreFableDanPhu: false
+livreAnalyseConte: false
+livreMetaphore: false
+livreVersus: false
+livreAimerSansDisparaitre: false
 title: "Excitation vs présence"
 excerpt: "On cherche l’excitation, le plaisir, parce qu’on oublie l’essentiel : la présence."
 category: "amour-presence"

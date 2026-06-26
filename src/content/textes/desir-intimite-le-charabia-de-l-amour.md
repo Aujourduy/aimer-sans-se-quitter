@@ -1,5 +1,10 @@
 ---
 verifieParDuy: false
+livreFableDanPhu: false
+livreAnalyseConte: false
+livreMetaphore: false
+livreVersus: false
+livreAimerSansDisparaitre: false
 title: "Le charabia de l’amour"
 excerpt: "Exprimer ce qu’on ressent sans les mots, par des sons qui en disent long."
 category: "desir-intimite"

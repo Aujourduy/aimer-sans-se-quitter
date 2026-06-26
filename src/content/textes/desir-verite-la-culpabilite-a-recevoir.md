@@ -1,5 +1,10 @@
 ---
 verifieParDuy: false
+livreFableDanPhu: false
+livreAnalyseConte: false
+livreMetaphore: false
+livreVersus: false
+livreAimerSansDisparaitre: false
 title: "La culpabilité à recevoir"
 excerpt: "Recevoir sans dette : il n’y a pas d’échange, seulement des dons."
 category: "desir-verite"

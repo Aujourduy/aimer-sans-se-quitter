@@ -28,6 +28,12 @@ const textes = defineCollection({
     draft: z.boolean().default(false),
     draftReason: z.string().optional(), // raison courte du brouillon (marqueur v9)
     verifieParDuy: z.boolean().default(false), // true = texte relu et validé par Duy
+    // Indicateurs de classement par livre / type (cochés via l'outil de relecture).
+    livreFableDanPhu: z.boolean().default(false),
+    livreAnalyseConte: z.boolean().default(false),
+    livreMetaphore: z.boolean().default(false),
+    livreVersus: z.boolean().default(false),
+    livreAimerSansDisparaitre: z.boolean().default(false),
   }),
 });
 

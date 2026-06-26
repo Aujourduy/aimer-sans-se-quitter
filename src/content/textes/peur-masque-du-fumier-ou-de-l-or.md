@@ -1,5 +1,10 @@
 ---
 verifieParDuy: false
+livreFableDanPhu: false
+livreAnalyseConte: false
+livreMetaphore: false
+livreVersus: false
+livreAimerSansDisparaitre: false
 title: "Du fumier ou de l’or"
 excerpt: "Le travail transforme le fumier en engrais pour voir fleurir des roses."
 category: "peur-masque"

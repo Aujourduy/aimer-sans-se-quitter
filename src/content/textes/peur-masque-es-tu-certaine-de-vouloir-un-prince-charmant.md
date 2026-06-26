@@ -1,5 +1,10 @@
 ---
 verifieParDuy: false
+livreFableDanPhu: false
+livreAnalyseConte: false
+livreMetaphore: false
+livreVersus: false
+livreAimerSansDisparaitre: false
 title: "Es-tu certaine de vouloir un prince charmant ?"
 excerpt: "Chaque femme est déjà une Reine ; elle n’a pas besoin d’un prince pour exister."
 category: "peur-masque"

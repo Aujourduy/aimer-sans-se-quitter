@@ -1,5 +1,10 @@
 ---
 verifieParDuy: false
+livreFableDanPhu: false
+livreAnalyseConte: false
+livreMetaphore: false
+livreVersus: false
+livreAimerSansDisparaitre: false
 title: "Reproches & reproches & reproches"
 excerpt: "Moins il y a de reproches, et plus il y a de l’action."
 category: "peur-masque"

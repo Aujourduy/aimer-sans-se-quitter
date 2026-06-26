@@ -1,5 +1,10 @@
 ---
 verifieParDuy: false
+livreFableDanPhu: false
+livreAnalyseConte: false
+livreMetaphore: false
+livreVersus: false
+livreAimerSansDisparaitre: false
 title: "Je pleure de joie aux funérailles"
 excerpt: "Chaque larme devient une fleur déposée sur l’autel de la gratitude."
 category: "amour-presence"

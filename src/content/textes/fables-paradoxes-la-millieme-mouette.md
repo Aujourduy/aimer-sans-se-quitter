@@ -1,5 +1,10 @@
 ---
 verifieParDuy: false
+livreFableDanPhu: false
+livreAnalyseConte: false
+livreMetaphore: false
+livreVersus: false
+livreAimerSansDisparaitre: false
 title: "La millième mouette"
 excerpt: "On ne progresse que par la pratique, et par l’exploration des aspects qu’on n’avait pas encore tentés."
 category: "fables-paradoxes"

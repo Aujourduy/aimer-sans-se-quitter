@@ -1,5 +1,10 @@
 ---
 verifieParDuy: false
+livreFableDanPhu: false
+livreAnalyseConte: false
+livreMetaphore: false
+livreVersus: false
+livreAimerSansDisparaitre: false
 title: "Il suffit de trouver la bonne personne ?"
 excerpt: "Être heureux pour rencontrer, au lieu de rencontrer pour être heureux."
 category: "amour-presence"

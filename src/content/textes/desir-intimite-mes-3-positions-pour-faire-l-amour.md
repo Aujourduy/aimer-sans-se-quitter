@@ -1,5 +1,10 @@
 ---
 verifieParDuy: false
+livreFableDanPhu: false
+livreAnalyseConte: false
+livreMetaphore: false
+livreVersus: false
+livreAimerSansDisparaitre: false
 title: "Mes 3 positions pour faire l’amour"
 excerpt: "La Demande, le Don, l’Abandon : trois manières de faire l’amour venues avec la maturité."
 category: "desir-intimite"

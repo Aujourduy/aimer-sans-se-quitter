@@ -1,5 +1,10 @@
 ---
 verifieParDuy: false
+livreFableDanPhu: false
+livreAnalyseConte: false
+livreMetaphore: false
+livreVersus: false
+livreAimerSansDisparaitre: false
 title: "Oedipe, le drame des mensonges par omission"
 excerpt: "Tous ont menti par omission pour protéger des êtres chers, et cela les a conduits au drame."
 category: "desir-verite"

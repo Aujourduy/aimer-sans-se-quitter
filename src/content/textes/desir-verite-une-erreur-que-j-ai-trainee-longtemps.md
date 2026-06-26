@@ -1,5 +1,10 @@
 ---
 verifieParDuy: false
+livreFableDanPhu: false
+livreAnalyseConte: false
+livreMetaphore: false
+livreVersus: false
+livreAimerSansDisparaitre: false
 title: "Une erreur que j’ai traînée longtemps"
 excerpt: "Vouloir être aimé pour qui l’on est sans jamais oser se montrer tel quel."
 category: "desir-verite"

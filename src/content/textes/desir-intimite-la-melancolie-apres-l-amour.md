@@ -1,5 +1,10 @@
 ---
 verifieParDuy: false
+livreFableDanPhu: false
+livreAnalyseConte: false
+livreMetaphore: false
+livreVersus: false
+livreAimerSansDisparaitre: false
 title: "La mélancolie après l’amour"
 excerpt: "Deux mélancolies après le sexe : celle des petits cailloux, celle des bulles."
 category: "desir-intimite"

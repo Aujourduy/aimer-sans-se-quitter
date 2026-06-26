@@ -1,5 +1,10 @@
 ---
 verifieParDuy: false
+livreFableDanPhu: false
+livreAnalyseConte: false
+livreMetaphore: false
+livreVersus: false
+livreAimerSansDisparaitre: false
 title: "Le secret caché de la communication"
 excerpt: "L’essentiel n’est pas l’outil mais la main qui le tient."
 category: "desir-verite"

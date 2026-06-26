@@ -1,5 +1,10 @@
 ---
 verifieParDuy: false
+livreFableDanPhu: false
+livreAnalyseConte: false
+livreMetaphore: false
+livreVersus: false
+livreAimerSansDisparaitre: false
 title: "Vérité et réconciliation"
 excerpt: "La clé, c’est la vérité : se montrer victime ou bourreau pour retrouver sa dignité."
 category: "desir-verite"

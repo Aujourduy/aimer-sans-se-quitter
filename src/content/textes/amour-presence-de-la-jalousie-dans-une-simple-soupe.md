@@ -1,5 +1,10 @@
 ---
 verifieParDuy: false
+livreFableDanPhu: false
+livreAnalyseConte: false
+livreMetaphore: false
+livreVersus: false
+livreAimerSansDisparaitre: false
 title: "De la jalousie dans une simple soupe"
 excerpt: "La jalousie ne vient pas du curry, mais de l’imaginaire d’une autre vie que la mienne."
 category: "amour-presence"

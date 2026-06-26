@@ -1,5 +1,10 @@
 ---
 verifieParDuy: false
+livreFableDanPhu: false
+livreAnalyseConte: false
+livreMetaphore: false
+livreVersus: false
+livreAimerSansDisparaitre: false
 title: "Quand j’aurai, je serai"
 excerpt: "L’Amour guérit, mais la Vérité est la condition nécessaire."
 category: "desir-verite"

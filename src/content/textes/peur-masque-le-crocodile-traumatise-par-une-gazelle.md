@@ -1,5 +1,10 @@
 ---
 verifieParDuy: false
+livreFableDanPhu: false
+livreAnalyseConte: false
+livreMetaphore: false
+livreVersus: false
+livreAimerSansDisparaitre: false
 title: "Le crocodile traumatisé par une gazelle"
 excerpt: "Ce n’est pas la gazelle qui t’a blessé, mais la formule gazelle plus bébé Coco, qui n’existe plus."
 category: "peur-masque"

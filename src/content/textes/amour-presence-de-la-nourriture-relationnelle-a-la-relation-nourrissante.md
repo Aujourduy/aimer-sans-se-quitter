@@ -1,5 +1,10 @@
 ---
 verifieParDuy: false
+livreFableDanPhu: false
+livreAnalyseConte: false
+livreMetaphore: false
+livreVersus: false
+livreAimerSansDisparaitre: false
 title: "De la nourriture relationnelle à la relation nourrissante"
 excerpt: "Un aliment nourrissant nous apporte ce dont nous avons besoin pour être mieux."
 category: "amour-presence"

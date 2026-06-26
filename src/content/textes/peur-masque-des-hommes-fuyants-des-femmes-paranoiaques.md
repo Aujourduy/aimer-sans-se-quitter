@@ -1,5 +1,10 @@
 ---
 verifieParDuy: false
+livreFableDanPhu: false
+livreAnalyseConte: false
+livreMetaphore: false
+livreVersus: false
+livreAimerSansDisparaitre: false
 title: "Des hommes fuyants, des femmes paranoïaques"
 excerpt: "Derrière la peur de ne pas être aimé, chacun projette sur l’autre son propre jugement emprunté."
 category: "peur-masque"
