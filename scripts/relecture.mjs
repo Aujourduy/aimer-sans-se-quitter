@@ -15,6 +15,7 @@ import { fileURLToPath } from 'node:url';
 import { dirname, join } from 'node:path';
 import { networkInterfaces } from 'node:os';
 import matter from 'gray-matter';
+import { genererLivres } from './generer-livres.mjs';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const TEXTES_DIR = join(__dirname, '..', 'src', 'content', 'textes');
@@ -215,6 +216,9 @@ function pageHtml() {
   .prose{font-family:Georgia,serif;line-height:1.7;}
   .prose p{margin:0 0 1rem;} .prose blockquote{border-left:3px solid var(--filet);margin:1rem 0;padding-left:1rem;color:var(--sepia);}
   .empty{color:var(--sepia);font-style:italic;margin-top:3rem;}
+  .gen{width:100%;margin-bottom:.4rem;padding:.5rem;border:1px solid var(--bleu);background:var(--bleu);color:#fff;border-radius:.4rem;cursor:pointer;font-size:.82rem;}
+  .gen:hover{background:#16243b;} .gen:disabled{opacity:.6;cursor:default;}
+  .gen-msg{font-size:.72rem;color:var(--sepia);margin-bottom:.6rem;min-height:1em;white-space:pre-line;}
 </style></head>
 <body>
 <div class="app">
@@ -230,6 +234,8 @@ function pageHtml() {
       ${LIVRE_FLAGS.map((f) => `<button data-f="flag:${f.key}">${f.label}</button>`).join('')}
     </div>
     <input class="search" id="search" placeholder="Filtrer par titre…">
+    <button class="gen" id="gen">Régénérer les livres</button>
+    <div class="gen-msg" id="gen-msg"></div>
     <div id="list"></div>
   </aside>
   <main class="main" id="main"><p class="empty">Sélectionne un texte à gauche.</p></main>
@@ -300,6 +306,15 @@ async function toggle(slug,field){
 }
 $('#filters').addEventListener('click',e=>{if(e.target.dataset.f){filter=e.target.dataset.f;[...$('#filters').children].forEach(b=>b.classList.toggle('active',b===e.target));render();}});
 $('#search').addEventListener('input',e=>{q=e.target.value.toLowerCase();render();});
+$('#gen').addEventListener('click',async()=>{
+  const btn=$('#gen'); btn.disabled=true; btn.textContent='Génération…'; $('#gen-msg').textContent='';
+  try{
+    const r=await (await fetch('/api/generer-livres',{method:'POST'})).json();
+    if(r.ok){ $('#gen-msg').textContent=r.resume.map(x=>x.count+' — '+x.title).join('\\n'); }
+    else { $('#gen-msg').textContent='Erreur : '+(r.error||'inconnue'); }
+  }catch(e){ $('#gen-msg').textContent='Erreur : '+e; }
+  btn.disabled=false; btn.textContent='Régénérer les livres';
+});
 load();
 </script>
 </body></html>`;
@@ -340,6 +355,10 @@ const server = createServer((req, res) => {
         }
       });
       return;
+    }
+    if (req.method === 'POST' && url.pathname === '/api/generer-livres') {
+      const resume = genererLivres();
+      return json(res, { ok: true, resume });
     }
     json(res, { error: 'not found' }, 404);
   } catch (e) {
