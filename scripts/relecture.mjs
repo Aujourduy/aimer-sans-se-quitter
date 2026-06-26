@@ -20,6 +20,10 @@ import { genererLivres } from './generer-livres.mjs';
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const TEXTES_DIR = join(__dirname, '..', 'src', 'content', 'textes');
 const PORT = 4455;
+// Adresse d'écoute. Par défaut 0.0.0.0 (localhost + réseau local + Tailscale).
+// En service permanent, on fixe RELECTURE_HOST à l'IP Tailscale pour n'être
+// joignable QUE sur le réseau Tailscale (ni localhost public, ni LAN).
+const HOST = process.env.RELECTURE_HOST || '0.0.0.0';
 
 // Libellés et ordre des thématiques (repris de src/lib/categories.ts).
 const CATEGORY_LABELS = {
@@ -391,7 +395,7 @@ function accessUrls() {
 
 // Écoute sur 0.0.0.0 pour être joignable via Tailscale / réseau local,
 // pas seulement en localhost.
-server.listen(PORT, '0.0.0.0', () => {
+server.listen(PORT, HOST, () => {
   const n = listTextes().length;
   console.log(`\n  Relecture — ${n} textes\n`);
   for (const [label, url] of accessUrls()) {
