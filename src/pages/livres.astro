@@ -1,17 +1,112 @@
 ---
 import Base from '../layouts/Base.astro';
+import { url } from '../lib/url';
+
+// Les cinq livres de Dan Phu. Le descriptif est un PLACEHOLDER (à rédiger) :
+// il rend la mise en page visible tant que le vrai texte n'est pas écrit.
+const livres = [
+  {
+    slug: 'versus',
+    titre: 'Les versus de la Vie et de l’Amour',
+    descriptif:
+      '[Descriptif à rédiger.] Des couples de termes que l’on confond et qu’il faut distinguer — facile et simple, vérité et confort. Chaque versus déplace le regard, depuis la voix de l’ancien dupe.',
+  },
+  {
+    slug: 'aimer-sans-disparaitre',
+    titre: 'Aimer sans disparaître',
+    descriptif:
+      '[Descriptif à rédiger.] La tension entre aimer et se perdre : comment rester présent à soi-même dans le lien, sans s’effacer pour le garder.',
+  },
+  {
+    slug: 'analyse-de-conte',
+    titre: 'Analyse de conte',
+    descriptif:
+      '[Descriptif à rédiger.] Relire les contes pour voir ce qu’ils disent, en creux, de nos manières d’aimer et de nos peurs.',
+  },
+  {
+    slug: 'fable-de-dan-phu',
+    titre: 'Fable de Dan Phu',
+    descriptif:
+      '[Descriptif à rédiger.] Des fables courtes qui déplacent le regard depuis la voix de l’ancien dupe, jamais le sage.',
+  },
+  {
+    slug: 'metaphore',
+    titre: 'Métaphore',
+    descriptif:
+      '[Descriptif à rédiger.] Des images qui font basculer la compréhension — voir autrement ce que l’on croyait connaître.',
+  },
+];
+
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
 ---
 
 <Base
   title="Livres"
-  description="Les livres à paraître."
+  description="Les livres de Dan Phu."
 >
   <div class="page" data-dbg="livres">
     <h1 data-dbg="livres__titre">Livres</h1>
-    <p class="intro" data-dbg="livres__intro">À paraître.</p>
+    <div class="intro" data-dbg="livres__intro">
+      <p>Cinq livres, auto-édités. À paraître.</p>
+    </div>
+
+    <div class="livres-liste">
+      {
+        livres.map((l) => (
+          <article class="livre" data-dbg={`livres__${l.slug}`}>
+            <img
+              class="livre-couv"
+              src={`${base}/livres/${l.slug}.png`}
+              alt={`Couverture — ${l.titre}, Dan Phu`}
+              width="600"
+              height="900"
+              loading="lazy"
+            />
+            <div class="livre-texte">
+              <h2 class="livre-titre">{l.titre}</h2>
+              <p class="livre-desc">{l.descriptif}</p>
+            </div>
+          </article>
+        ))
+      }
+    </div>
   </div>
 </Base>
 
 <style>
-  .page { --colonne: 40rem; }
+  .page { --colonne: 42rem; }
+
+  .livres-liste { margin-top: var(--silence-long); }
+
+  /* Une rangée par livre : la couverture à gauche, le texte à droite ; empilé
+     en mobile. Air généreux entre les livres (soustraction : pas de filet). */
+  .livre {
+    display: grid;
+    grid-template-columns: 200px 1fr;
+    gap: 1.6rem 2rem;
+    align-items: start;
+    padding-block: var(--silence-long);
+  }
+  .livre + .livre { border-top: 1px solid var(--filet); }
+
+  .livre-couv {
+    display: block;
+    width: 100%;
+    height: auto;
+    border: 1px solid var(--filet);
+  }
+  .livre-titre {
+    font-style: italic;
+    font-weight: 400;
+    color: var(--bleu);
+    font-size: 1.5rem;
+    line-height: 1.2;
+    margin: 0 0 var(--silence-court);
+  }
+  .livre-desc { color: var(--sepia); margin: 0; }
+
+  @media (max-width: 640px) {
+    .livre { grid-template-columns: 1fr; gap: 1.2rem; }
+    .livre-couv { max-width: 240px; }
+  }
 </style>
