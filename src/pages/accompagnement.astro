@@ -1,19 +1,29 @@
 ---
 import Base from '../layouts/Base.astro';
-import Button from '../components/Button.astro';
-import Fleuron from '../components/Fleuron.astro';
+import { url } from '../lib/url';
 ---
 
 <Base
-  title="Accompagnement"
+  title="L’accompagnement"
   description="Un cadre de quatre mois pour regarder ce qu’une rupture rend visible dans votre manière d’aimer."
 >
-  <article class="lecture" data-dbg="accompagnement">
+  <article class="page" data-dbg="accompagnement">
     <h1 class="article-title" data-dbg="accompagnement__titre">L’accompagnement</h1>
 
     <div class="prose" data-dbg="accompagnement__corps">
-      <h2>Ce que nous regardons</h2>
-      <ul class="liste-aeree">
+      <p>
+        Les textes permettent de reconnaître un mouvement. L’accompagnement
+        permet de l’observer au moment même où il apparaît — non dans les idées,
+        mais dans une situation réelle, là où il devient visible.
+      </p>
+
+      <p>
+        Pour les femmes qui ont déjà beaucoup compris sur elles-mêmes — sauf ce
+        qui se passe quand elles aiment.
+      </p>
+
+      <h2 class="eyebrow">Ce que nous regardons</h2>
+      <ul class="litanie">
         <li>Le moment précis où vous commencez à attendre.</li>
         <li>Ce que votre corps sait avant votre tête.</li>
         <li>La peur que vous prenez parfois pour une preuve d’amour.</li>
@@ -21,106 +31,70 @@ import Fleuron from '../components/Fleuron.astro';
         <li>Les mots que vous n’osez pas encore dire simplement.</li>
       </ul>
 
-      <h2>Pour qui</h2>
       <p>
-        Pour les femmes qui ont déjà beaucoup compris sur elles-mêmes — sauf ce
-        qui se passe quand elles aiment.
+        Nous partons de situations réelles : un message que vous voulez envoyer,
+        un silence qui vous trouble, une peur qui revient, une parole que vous
+        n’osez pas dire. Le travail n’est pas de produire une bonne réponse — il
+        est de voir le mouvement exact par lequel vous vous éloignez de
+        vous-même.
       </p>
 
-      <h2>Ce qui devient possible</h2>
-      <ul>
-        <li>
-          Reconnaître plus tôt le moment où vous commencez à attendre.
-        </li>
-        <li>
-          Sentir quand votre corps sait déjà ce que votre tête négocie encore.
-        </li>
+      <h2 class="eyebrow">Ce qui devient possible</h2>
+      <ul class="litanie">
+        <li>Reconnaître plus tôt le moment où vous commencez à attendre.</li>
+        <li>Sentir quand votre corps sait déjà ce que votre tête négocie encore.</li>
         <li>Ne plus prendre la peur pour une preuve d’amour.</li>
-        <li>
-          Pouvoir aimer sans vous adapter aussitôt pour préserver le lien.
-        </li>
+        <li>Pouvoir aimer sans vous adapter aussitôt pour préserver le lien.</li>
         <li>Revenir à une parole plus simple, plus vraie.</li>
       </ul>
 
-      <h2>Comment nous travaillons</h2>
-      <p>
-        Les textes permettent parfois de reconnaître un mouvement.
-      </p>
-      <p>
-        L’accompagnement permet de l’observer au moment même où il apparaît.
-      </p>
-      <p>Non dans les idées.</p>
-      <p>Dans une situation réelle.</p>
-      <p>Là où il devient visible.</p>
-      <blockquote>
-        <p>
-          Nous partons de situations réelles : un message que vous voulez
-          envoyer, un silence qui vous trouble, une peur qui revient, une
-          parole que vous n’osez pas dire, un endroit où votre corps sait déjà
-          mais où votre tête négocie encore.
-        </p>
-        <p>
-          Le travail n’est pas de produire une bonne réponse. Il est de voir le
-          mouvement exact par lequel vous vous éloignez de vous-même.
-        </p>
-      </blockquote>
-
-      <Fleuron />
-
-      <h2>Le cadre</h2>
-      <ul class="faits">
-        <li><strong>4&nbsp;mois</strong></li>
-        <li><strong>8&nbsp;séances</strong> de 90&nbsp;minutes</li>
+      <h2 class="eyebrow">Le cadre</h2>
+      <ul class="cadre">
+        <li><strong>Quatre mois.</strong></li>
+        <li><strong>Huit séances</strong> de 90&nbsp;minutes.</li>
         <li>
-          <strong>Réponses vocales</strong> 2×/semaine à horaires fixes
-          (lundi et jeudi, 9–10&nbsp;h)
+          <strong>Des réponses vocales</strong> deux fois par semaine, à horaires
+          fixes — lundi et jeudi, de 9 à 10&nbsp;h.
         </li>
-        <li><strong>Un point de vérité</strong> à 30&nbsp;jours</li>
+        <li><strong>Un point de vérité</strong> à 30&nbsp;jours.</li>
       </ul>
 
-      <h2>Une place rare, par choix</h2>
-      <p>Je n’accompagne jamais plus de quatre personnes à la fois.</p>
-      <p>Cette limite n’est pas une question d’agenda.</p>
-      <p>
-        C’est la condition de la qualité de présence que je souhaite offrir.
+      <p class="reprise">
+        Je n’accompagne jamais plus de quatre personnes à la fois. Cette limite
+        n’est pas une question d’agenda : c’est la condition de la qualité de
+        présence que je souhaite offrir.
       </p>
 
-      <h2>Une place</h2>
-      <p>
-        Ce cadre n’est pas fait pour apaiser quelques jours après une rupture.
-      </p>
-      <p>
-        Il est fait pour regarder ce que cette rupture rend visible dans votre
-        manière d’aimer.
-      </p>
       <p>
         Une place dans cet accompagnement représente un engagement de
-        6&nbsp;000&nbsp;euros pour quatre mois.
+        6&nbsp;000&nbsp;euros pour quatre mois. Un échelonnement peut être
+        envisagé au cas par cas.
       </p>
-      <p>Un échelonnement peut être envisagé au cas par cas.</p>
 
-      <h2>Ce que ce travail n’est pas</h2>
-      <ul>
+      <h2 class="eyebrow">Ce que ce travail n’est pas</h2>
+      <ul class="litanie">
         <li>une stratégie pour récupérer quelqu’un ;</li>
         <li>une technique pour contrôler l’autre ;</li>
-        <li>une méthode rapide pour ne plus sentir ;</li>
-        <li>un travail sans remise en question ;</li>
-        <li>une transformation sans effort.</li>
+        <li>une méthode rapide pour ne plus rien sentir ;</li>
+        <li>un travail sans remise en question.</li>
       </ul>
 
-      <h2>Conversation exploratoire</h2>
+      <p class="reprise">
+        Ce cadre n’est pas fait pour apaiser les jours qui suivent une rupture.
+        Il est fait pour regarder ce qu’elle rend visible dans votre manière
+        d’aimer.
+      </p>
+
       <p>
         Si vous avez lu les textes, compris le cadre, et que vous sentez que ce
         travail pourrait être juste pour vous, nous pouvons en parler.
       </p>
+    </div>
 
-      <hr />
-
-      <div class="btn-group" data-dbg="accompagnement__cta">
-        <Button href="/conversation-exploratoire" variant="principal"
-          >Demander une conversation exploratoire</Button
-        >
-      </div>
+    <div class="appel" data-dbg="accompagnement__appel">
+      <a href={url('/conversation-exploratoire')}>
+        Demander une conversation exploratoire
+      </a>
     </div>
   </article>
 </Base>

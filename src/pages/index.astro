@@ -1,78 +1,57 @@
 ---
 import Base from '../layouts/Base.astro';
-import Button from '../components/Button.astro';
+import { url } from '../lib/url';
 ---
 
 <Base
+  wordmark={false}
   description="Quand votre manière d’aimer vous éloigne de vous-même. Un accompagnement relationnel privé, qui part des textes."
 >
-  <div class="home">
-  <section class="hero lecture" data-dbg="accueil__hero">
-    <h1 data-dbg="accueil__hero-titre">Aimer sans se quitter</h1>
-    <p class="hero-lede" data-dbg="accueil__hero-accroche">
+  <section class="page seuil" data-dbg="accueil__seuil">
+    <h1 data-dbg="accueil__titre">Aimer sans se quitter</h1>
+    <p class="sous-titre" data-dbg="accueil__sous-titre">
       Quand votre manière d’aimer vous éloigne de vous-même.
     </p>
-  </section>
+    {/* Signature d'auteur discrète, en pied de faux-titre. */}
+    <p class="signature" data-dbg="accueil__signature">— Dan Phu</p>
 
-  <section class="lecture" data-dbg="accueil__intro">
-    <p>
+    <p class="regard" data-dbg="accueil__regard">
       La rupture n’est pas le sujet. Elle est un révélateur : elle montre,
       soudain et sans ménagement, l’endroit exact où vous cessez de vous
       appartenir pour garder le lien.
     </p>
-    <p>
-      Ce qui se passe ici ne cherche pas à réparer une histoire, mais à
-      regarder ce qu’elle rend visible dans votre manière d’aimer.
-    </p>
-  </section>
 
-  {/* Le seuil : la voix nue, première personne. Strophe assumée (classe .seuil),
-      pas six paragraphes orphelins ni prose grise. La bascule finale respire plus
-      large (--silence-long) — le « ma » avant l'aveu. Mots et retours à la ligne
-      intouchables (brief v2 §5/§10). */}
-  <section class="lecture" data-dbg="accueil__pourquoi">
-    <p class="seuil">
-      Depuis plusieurs années, une même question revient dans mon travail :<br />
-      Comment rester avec soi-même lorsque l’on aime quelqu’un ?
-    </p>
-    <p class="seuil">
-      Voici quelques traces de cette recherche.<br />
-      Des textes écrits au fil du temps à une amie inconnue.
-    </p>
-    <p class="seuil seuil--bascule">
-      Je ne cherche pas à expliquer l’amour.<br />
-      J’essaie de voir plus clairement ce qu’il révèle.
-    </p>
-  </section>
-
-  <section class="lecture" data-dbg="accueil__entrer">
-    <div class="btn-group" data-dbg="accueil__entrer-actions">
-      <Button href="/textes" variant="secondaire">Entrer par un texte</Button>
+    <div class="portes" data-dbg="accueil__porte">
+      <a class="porte" href={url('/textes')}>Entrer par un texte</a>
     </div>
   </section>
-  </div>
 </Base>
 
 <style>
-  /* Accueil : tout sur la colonne de lecture (680px), un seul bord gauche du
-     titre jusqu'au bouton. Le hero hérite de .lecture — plus de hack d'alignement. */
-  .home :global(.hero) {
+  /* Accueil — un seuil resserré (colonne plus étroite) et beaucoup de blanc
+     composé. Le faux-titre porte la marque ; pas de wordmark dans l'en-tête. */
+  .seuil {
+    --colonne: 36rem;
     padding-top: var(--silence-seuil);
-    padding-bottom: 0;
   }
-  /* La strophe du seuil : lignes courtes scandées, interligne resserré pour se lire
-     comme UNE strophe (pas six paragraphes). La grille règle l'air entre strophes ;
-     elle ne compresse pas la voix. */
-  .home :global(.seuil) {
+  @media (max-width: 640px) {
+    .seuil { padding-top: var(--silence-long); }
+  }
+  .seuil :global(h1) {
+    font-size: clamp(2.1rem, 6.5vw, 3.3rem);
+    line-height: 1.08;
+    text-wrap: balance;
+  }
+  .sous-titre {
+    margin: var(--silence-court) 0 0;
+    color: var(--sepia);
+    font-size: clamp(1.1rem, 3.4vw, 1.3rem);
     line-height: 1.4;
-    margin-bottom: var(--silence-court);
+    max-width: 30ch;
   }
-  /* La bascule respire plus large au-dessus : le silence avant l'aveu. */
-  .home :global(.seuil--bascule) {
-    margin-top: var(--silence-long);
-  }
-  /* Air avant l'invitation. */
-  .home :global([data-dbg='accueil__entrer']) {
-    margin-top: var(--silence-moyen);
+  /* L'unique paragraphe — le premier « il voit ». */
+  .regard { margin: calc(var(--b) * 9) 0 0; line-height: 1.6; }
+  @media (max-width: 640px) {
+    .regard { margin-top: var(--silence-moyen); }
   }
 </style>

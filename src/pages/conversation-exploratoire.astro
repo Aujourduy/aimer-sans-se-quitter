@@ -1,6 +1,5 @@
 ---
 import Base from '../layouts/Base.astro';
-import Button from '../components/Button.astro';
 import { Image } from 'astro:assets';
 import portrait from '../assets/portrait.jpg';
 
@@ -11,11 +10,11 @@ const RESERVATION_URL = 'https://tidycal.com/duy-dang/conversation-exploratoire'
 ---
 
 <Base
-  title="Conversation exploratoire"
+  title="La conversation exploratoire"
   description="Une conversation pour sentir, ensemble, si ce travail est juste pour vous."
 >
-  <article class="lecture" data-dbg="conversation">
-    <div class="portrait portrait--petit" data-dbg="conversation__portrait">
+  <article class="page" data-dbg="conversation">
+    <div class="portrait" data-dbg="conversation__portrait">
       <Image
         src={portrait}
         alt="Portrait de l’auteur, au bord d’un plan d’eau en automne."
@@ -24,33 +23,35 @@ const RESERVATION_URL = 'https://tidycal.com/duy-dang/conversation-exploratoire'
       />
     </div>
 
-    <h1 class="article-title" data-dbg="conversation__titre">La conversation exploratoire</h1>
+    <h1 class="article-title" data-dbg="conversation__titre">
+      La conversation exploratoire
+    </h1>
 
     <div class="prose" data-dbg="conversation__corps">
       <p>
-        Nous prendrons un temps pour regarder ce qui vous amène aujourd’hui.
+        Nous prendrons un temps pour regarder ce qui vous amène aujourd’hui : ce
+        qui se répète, ce qui vous trouble, l’endroit où vous sentez qu’il y a
+        quelque chose à voir mais où vous ne voyez pas encore clairement.
       </p>
-      <p>Ce qui se répète.</p>
-      <p>Ce qui vous trouble.</p>
       <p>
-        L’endroit où vous sentez qu’il y a quelque chose à voir mais où vous ne
-        voyez pas encore clairement.
-      </p>
-      <p>Nous verrons également si ce cadre est juste pour vous.</p>
-      <p>Et si ce moment est le bon.</p>
-
-      <p class="note">
-        Quelques questions vous seront posées au moment de votre demande.
+        Nous verrons également si ce cadre est juste pour vous, et si ce moment
+        est le bon.
       </p>
       <p class="note">
-        Elles nous permettront d’arriver tous les deux préparés.
+        Quelques questions vous seront posées au moment de votre demande. Elles
+        nous permettront d’arriver tous les deux préparés.
       </p>
+    </div>
 
-      <div class="btn-group" data-dbg="conversation__cta">
-        <Button href={RESERVATION_URL} variant="principal" external={true}
-          >Demander une conversation exploratoire</Button
-        >
-      </div>
+    <div class="appel" data-dbg="conversation__appel">
+      <a href={RESERVATION_URL} rel="noopener noreferrer" target="_blank">
+        Demander une conversation exploratoire
+      </a>
     </div>
   </article>
 </Base>
+
+<style>
+  .page { --colonne: 38rem; }
+  .note { font-family: var(--sans); font-size: 0.9rem; color: var(--sepia); margin-top: var(--silence-court); }
+</style>

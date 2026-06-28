@@ -1,23 +1,8 @@
 ---
 import Base from '../../layouts/Base.astro';
-import Pont from '../../components/Pont.astro';
-import Fleuron from '../../components/Fleuron.astro';
-import NavTexte from '../../components/NavTexte.astro';
 import { getCollection, render } from 'astro:content';
-import { CATEGORY_LABELS } from '../../lib/categories';
-
-// Folio de page intérieure de livre : le rang du fragment dans sa série, en
-// chiffres romains bas-de-casse (brief v2 §6). Discret, jamais cliquable.
-function romain(n: number): string {
-  const t: [number, string][] = [
-    [1000, 'm'], [900, 'cm'], [500, 'd'], [400, 'cd'],
-    [100, 'c'], [90, 'xc'], [50, 'l'], [40, 'xl'],
-    [10, 'x'], [9, 'ix'], [5, 'v'], [4, 'iv'], [1, 'i'],
-  ];
-  let r = '';
-  for (const [v, s] of t) while (n >= v) { r += s; n -= v; }
-  return r;
-}
+import { CATEGORY_LABELS, CATEGORY_ORDER } from '../../lib/categories';
+import { url } from '../../lib/url';
 
 export async function getStaticPaths() {
   // En dev, on génère aussi les pages des brouillons pour pouvoir les relire ;
@@ -37,7 +22,30 @@ const { Content } = await render(entry);
 const verified = entry.data.verifieParDuy;
 const isDraft = entry.data.draft ?? false;
 const categorie = CATEGORY_LABELS[entry.data.category];
-const folio = romain(entry.data.order); // rang dans la série, en romain bas-de-casse
+
+// « Continuer par un autre texte » : le texte publié suivant dans la catégorie,
+// sinon le premier texte de la catégorie suivante (anneau). Calcul à la
+// construction — aucun JavaScript côté client.
+const published = await getCollection('textes', ({ data }) => !data.draft);
+const ring = CATEGORY_ORDER.filter((cat) =>
+  published.some((t) => t.data.category === cat)
+);
+const inCat = published
+  .filter((t) => t.data.category === entry.data.category)
+  .sort((a, b) => a.data.order - b.data.order);
+const idx = inCat.findIndex((t) => t.id === entry.id);
+
+let suivant: string | null = null;
+if (idx !== -1 && idx < inCat.length - 1) {
+  suivant = inCat[idx + 1].id;
+} else if (ring.length > 1) {
+  const pos = ring.indexOf(entry.data.category);
+  const nextCat = ring[(pos + 1) % ring.length];
+  const firstOfNext = published
+    .filter((t) => t.data.category === nextCat)
+    .sort((a, b) => a.data.order - b.data.order)[0];
+  if (firstOfNext) suivant = firstOfNext.id;
+}
 ---
 
 <Base title={entry.data.title} description={entry.data.excerpt}>
@@ -60,58 +68,36 @@ const folio = romain(entry.data.order); // rang dans la série, en romain bas-de
         </div>
       )
     }
-    {/* Titre courant : marque de page intérieure de livre, à la limite du
-        perceptible (Inter sépia, jamais bleu, jamais cliquable). Brief v2 §6. */}
+    {/* Titre courant : thème, petites capitales sépia. */}
     <p class="titre-courant" data-dbg="texte__titre-courant">{categorie}</p>
     <h1 class="article-title" data-dbg="texte__titre">{entry.data.title}</h1>
+
+    {/* Le texte coule en paragraphes égaux. Aucune mise en forme (ni lettrine,
+        ni exergue, ni fleuron) — le sink (.prose margin-top) suffit comme seuil. */}
     <div class="prose" data-dbg="texte__corps">
       <Content />
     </div>
-    <Fleuron />
-    <Pont />
-    <NavTexte
-      slug={entry.id}
-      category={entry.data.category}
-      order={entry.data.order}
-    />
-    {/* Folio : rang du fragment dans sa série, romain bas-de-casse, discret. */}
-    <p class="folio" data-dbg="texte__folio">{folio}</p>
+
+    {/* Fin : deux liens de poids égal, en EB Garamond, soulignés d'un filet bleu
+        fin. Pas de pont, pas de bouton, pas de folio, aucun JavaScript. */}
+    <nav class="fin" data-dbg="texte__fin" aria-label="Pour continuer">
+      {
+        suivant && (
+          <a href={url(`/textes/${suivant}`)}>Continuer par un autre texte</a>
+        )
+      }
+      <span class="ou">ou</span>
+      <a href={url('/accompagnement')}>Découvrir l’accompagnement</a>
+    </nav>
   </article>
 </Base>
 
 <style>
-  /* Repères de relecture — rendus uniquement en développement
-     (import.meta.env.DEV), jamais en production. */
-  .dev-verif-group {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 0.4rem;
-    margin-bottom: 1.25rem;
-  }
-  .dev-verif,
-  .dev-draft {
-    font-size: 0.7rem;
-    font-weight: 600;
-    padding: 0.1rem 0.45rem;
-    border-radius: 0.6rem;
-    line-height: 1.35;
-  }
-  .dev-verif--ok {
-    background: #1f7a3d;
-    color: #fff;
-  }
-  .dev-verif--todo {
-    background: #e7e0d4;
-    color: #6b6256;
-    border: 1px solid #cbbfa8;
-  }
-  .dev-draft--on {
-    background: #b08900;
-    color: #fff;
-  }
-  .dev-draft--off {
-    background: #e7e0d4;
-    color: #6b6256;
-    border: 1px solid #cbbfa8;
-  }
+  /* Repères de relecture — rendus uniquement en développement, jamais en prod. */
+  .dev-verif-group { display: flex; flex-wrap: wrap; gap: 0.4rem; margin-bottom: 1.25rem; }
+  .dev-verif, .dev-draft { font-size: 0.7rem; font-weight: 600; padding: 0.1rem 0.45rem; border-radius: 0.6rem; line-height: 1.35; }
+  .dev-verif--ok { background: #1f7a3d; color: #fff; }
+  .dev-verif--todo { background: #e7e0d4; color: #6b6256; border: 1px solid #cbbfa8; }
+  .dev-draft--on { background: #b08900; color: #fff; }
+  .dev-draft--off { background: #e7e0d4; color: #6b6256; border: 1px solid #cbbfa8; }
 </style>

@@ -80,20 +80,19 @@ partout où elle est utilisée — un seul endroit à modifier.
 
 | Variable | Rôle | Exemples de valeurs |
 | --- | --- | --- |
-| `--ech-corps` | Échelle du corps de texte | `1` = normal · `1.2` = +20 % · `0.9` = −10 % |
-| `--ech-h1` / `--ech-h2` / `--ech-h3` | Échelle des titres de page | idem (un coefficient par niveau) |
-| `--ech-hero` | Échelle du gros titre + accroche de l'accueil | idem |
+| `--corps` | Taille du corps de texte (desktop). La grille en dérive : changer `--corps` ré-accorde tout. | `1.31rem` |
 | `--creme` | Fond (jamais blanc pur) | `#F4EFE6` |
 | `--encre` | Couleur du texte | `#1F1B17` |
-| `--bleu` | Couleur signature (titres, boutons, lettrine, pont, exergue) | `#1A2D4A` |
-| `--sepia` | Texte secondaire (sous-titres, légendes, folios) | `#6B6258` |
-| `--filet` | Couleur des bordures fines (**tous** les filets de séparation) | `#CFC3B4` |
-| `--filet-court-largeur` | Longueur des traits de séparation centrés | `30%` |
-| `--filet-court-epaisseur` | Épaisseur de ces traits | `1px` |
-| `--filet-court-couleur` | Couleur de ces traits | `var(--filet)` |
-| `--lecture` | Largeur de la colonne de texte | `680px` |
-| `--baseline` | Pas de la **grille de base** (demi-ligne du corps) — l'unité de tout le rythme vertical | `calc((1.19rem*1.6)/2)` ≈ `0.952rem` |
+| `--bleu` | Couleur signature (titres, liens, filets de fin) | `#1A2D4A` |
+| `--sepia` | Texte secondaire (sous-titres, étiquettes, numéros, légendes) | `#6B6258` |
+| `--filet` | Couleur des traits fins (en-tête, pied, rangées, fin de texte) | `#CFC3B4` |
+| `--colonne` | Largeur de la colonne (réglée par page : 36rem accueil · 40rem index/thème · 38rem lecture) | `38rem` |
+| `--baseline` | Pas de la **grille de base** (demi-ligne du corps) — l'unité de tout le rythme vertical | `calc(var(--corps)*1.6/2)` ≈ `1.05rem` |
 | `--silence-court` / `-moyen` / `-long` / `-seuil` | Les quatre **silences** verticaux (multiples entiers de `--baseline`) | `×2` / `×4` / `×8` / `×12` |
+
+> **Agrandir / réduire tout le texte d'un coup :** changer `--corps` dans `:root`
+> (et la valeur mobile dans le bloc `@media (max-width: 640px)`). La grille de base
+> suit automatiquement (le texte reste calé sur le pas vertical).
 
 ### Grille de base et silences verticaux
 
@@ -109,12 +108,10 @@ le site d'un coup.
 
 ### Filets : une seule grammaire
 
-Il n'y a que **deux** types de traits, tous en `--filet` (jamais en `--bleu`) :
-un **filet de structure** pleine mesure (en-tête, pied, `<hr class="filet" />`),
-et un **trait court centré** entre cartes sœurs (`.separateur` / les
-`--filet-court-*`). Le **bleu** n'est jamais un filet de séparation : il est
-réservé au **pont** vers l'accompagnement (qui change de registre), à la lettrine
-et aux exergues. Sur l'index des thèmes, c'est **l'air** qui sépare, pas un trait.
+Les traits fins sont en `--filet` (en-tête, pied, et le filet bas des **rangées**
+du sommaire d'Écrits et des pages de thème). Le **bleu** n'est pas un filet de
+séparation : il ne sert qu'au soulignement fin des **liens** (porte d'accueil,
+appel d'accompagnement, deux liens de fin de texte).
 
 ### Polices (auto-hébergées, sans FOUT)
 
@@ -130,106 +127,44 @@ un `<link rel="preload">` dans `Base.astro`.
 
 ### Tailles selon l'écran (responsive)
 
-Les **variables** ci-dessus sont identiques sur ordinateur et sur mobile. En
-revanche, certaines **tailles** ont une valeur réduite en dessous de **640 px**
-de large (`@media (max-width: 640px)` dans `global.css`) — l'adaptation mobile
-est donc automatique :
+Le `:root` est identique partout ; seul le **corps** est réduit en dessous de
+**640 px** (`@media (max-width: 640px)` dans `global.css`). Les titres s'adaptent
+seuls (ils sont en `clamp(...)`, qui suit la largeur de l'écran).
 
 | Élément | Ordinateur | Mobile (< 640 px) |
 | --- | --- | --- |
-| Corps de texte (`body`) | `1.19rem` | `1.1rem` |
-| Titre `h1` | `2.8rem` | `2.1rem` |
-| Titre `h2` | `1.6rem` | `1.4rem` |
-| Titre `h3` | `1.2rem` | `1.1rem` |
-| Citation (`blockquote`) | `1.4rem` | `1.25rem` |
-| Marges latérales (`.lecture`, `.conteneur`) | `1.5rem` | `8 %` |
-| Hero — titre (`.hero h1`) | `3.4rem` | `2.3rem` |
-| Hero — accroche (`.hero-lede`) | `1.35rem` | `1.2rem` |
-| Carte mise en avant (`.text-card--featured`) | `1.45rem` | `1.25rem` |
-
-Les tailles du tableau ci-dessus sont des **valeurs de base**. Chaque type de
-texte est ensuite multiplié par un **coefficient d'échelle** réglable, distinct
-sur ordinateur et sur mobile (voir ci-dessous).
-
-### Régler la taille du texte (échelles par type, desktop/mobile séparés)
-
-Cinq coefficients permettent d'agrandir/réduire **chaque type de texte
-indépendamment** : `--ech-corps`, `--ech-h1`, `--ech-h2`, `--ech-h3`,
-`--ech-hero`. Valeur `1` = taille de base · `1.2` = +20 % · `0.9` = −10 %.
-
-Ils sont déclarés **à deux endroits** dans `src/styles/global.css` :
-
-```css
-/* 1) Valeurs ORDINATEUR — bloc :root, en haut du fichier */
-:root {
-  --ech-corps: 1;   /* corps de texte */
-  --ech-h1:    1;   /* titres de page */
-  --ech-h2:    1;   /* sous-titres */
-  --ech-h3:    1;   /* sous-sous-titres */
-  --ech-hero:  1;   /* gros titre + accroche de l'accueil */
-}
-
-/* 2) Valeurs MOBILE — dans @media (max-width: 640px), indépendantes */
-@media (max-width: 640px) {
-  :root {
-    --ech-corps: 1;
-    --ech-h1:    1;
-    --ech-h2:    1;
-    --ech-h3:    1;
-    --ech-hero:  1;
-  }
-}
-```
-
-Régler par exemple `--ech-hero: 1.2;` dans le bloc `:root` agrandit le gros
-titre de l'accueil de 20 % **sur ordinateur uniquement** ; pour faire de même
-sur mobile, changer la valeur correspondante dans le bloc `@media`.
+| Corps de texte (`--corps`) | `1.31rem` | `1.19rem` |
+| Titre de page (`h1`) | `clamp(2rem, 5.5vw, 2.7rem)` — s'adapte à l'écran |
+| Faux-titre d'accueil | `clamp(2.1rem, 6.5vw, 3.3rem)` |
+| Marges latérales | `1.5rem` | `1.25rem` (et `1rem` ≤ 380 px) |
 
 > 💡 **Tester sans recompiler.** Avec `npm run dev`, chaque modification du
-> fichier `.css` **rafraîchit la page automatiquement** (hot-reload) — pas besoin
-> de `npm run build`. Le serveur de dev est aussi joignable depuis un téléphone
-> sur le même réseau / via Tailscale (l'URL réseau s'affiche au démarrage de
-> `npm run dev`), pratique pour régler le rendu mobile en direct.
+> `.css` **rafraîchit la page automatiquement** (hot-reload). Le serveur de dev
+> est joignable depuis un téléphone via Tailscale (l'URL réseau s'affiche au
+> démarrage), pratique pour régler le rendu mobile en direct.
 
-### Traits de séparation (.separateur)
+### Direction : la soustraction
 
-Le trait court centré entre les cartes de textes — et la classe réutilisable
-`.separateur` (utilisable n'importe où via `<hr class="separateur" />`) — sont
-pilotés par les trois variables `--filet-court-*`. Les modifier change **tous**
-les traits d'un coup.
+Le site suit un principe de **soustraction** (esprit Fitzcarraldo / Gallimard
+Blanche) : **aucun ornement**. Pas de lettrine, pas de fleuron, pas d'exergue,
+pas de filet décoratif, pas de bouton. La force est dans le **texte** et le
+**silence** (la grille de base). Les seuls « gestes » sont :
 
-Le **filet pleine mesure** `<hr class="filet" />` (couleur `--filet`, sur toute
-la largeur de la colonne) sert de respiration franche : il est posé sous le hero
-de l'accueil et peut séparer deux mouvements d'une page longue.
+- **Numérotation romaine** (`I`–`V`) du sommaire d'Écrits et de la gouttière des
+  pages de thème, en **EB Garamond italique sépia** (jamais en Inter). Générée
+  automatiquement (`src/lib/romain.ts`).
+- **Titre courant** en tête de page de lecture : le nom du thème, en petites
+  capitales sépia (Inter), discret et non cliquable.
+- **Page de lecture** : le texte s'ouvre un peu plus bas (un blanc d'ouverture, le
+  *sink*) puis coule en **paragraphes égaux**, sans aucune mise en forme. La page
+  se termine par **deux liens de poids égal** (« Continuer par un autre texte » /
+  *ou* / « Découvrir l'accompagnement »), soulignés d'un filet bleu fin.
+- **Tout appel est un lien** souligné fin bleu (`.porte` / `.appel` / `.fin a`),
+  **jamais un bouton**.
 
-### Gestes éditoriaux : lettrine, fleuron, titre courant, folio, terre cuite
-
-**La lettrine** (grande capitale `--bleu` en tête de texte) apparaît
-automatiquement sur le **premier paragraphe des pages de lecture**
-(`/textes/…`), et nulle part ailleurs. Elle est calculée en CSS — rien à faire.
-
-> ⚠️ **Cas d'un texte qui ouvre sur un guillemet ou un tiret** (« …, — …).
-> En français, la lettrine happe le signe ouvrant. Pour ces textes, enrober la
-> vraie première lettre dans le `.md` : `<span class="lettrine">L</span>e
-> reste du texte…` — la lettrine portera alors sur le `L`, pas sur le guillemet.
-
-**Le fleuron** (la marque `❧`, centrée, sépia) marque une respiration entre
-deux mouvements d'une page longue (page de texte, À propos, Accompagnement). Il
-est posé via le composant `<Fleuron />`. Règle : **une seule marque par écran**,
-jamais sur l'accueil ni sur la page Écrits, jamais cumulé avec un filet au même
-endroit.
-
-**Le titre courant et le folio** (pages de lecture uniquement) donnent l'allure
-d'une page intérieure de livre : en **tête**, le nom de la thématique en petite
-majuscule sépia (Inter), discret et non cliquable ; en **pied**, un **folio** —
-le rang du texte dans sa série, en chiffres romains bas-de-casse (`i`, `ii`…),
-sépia. Tous deux sont générés automatiquement dans `src/pages/textes/[...slug].astro`
-(le folio vient du champ `order` de l'en-tête du `.md`) — rien à saisir à la main.
-
-**La terre cuite** (`--terre`, accent chaud) est **en réserve, désactivée par
-défaut**. Si la page paraît trop froide une fois finie, l'activer sur **un seul**
-élément : décommenter la ligne `color: var(--terre);` dans le bloc `.fleuron` de
-`global.css`. Une couleur, un seul endroit — ne pas l'étendre ailleurs.
+La couleur **terre cuite** (`--terre`) reste déclarée mais **désactivée** : aucune
+utilisation. (Si un jour un seul accent chaud était voulu, il faudrait d'abord
+décider où — ne pas l'introduire sans décision.)
 
 ## Modifier le contenu du site
 

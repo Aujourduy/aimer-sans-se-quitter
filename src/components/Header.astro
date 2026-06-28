@@ -1,8 +1,15 @@
 ---
 import { url } from '../lib/url';
 
+interface Props {
+  // Sur l'accueil, le faux-titre porte la marque : on masque le wordmark.
+  wordmark?: boolean;
+}
+const { wordmark = true } = Astro.props;
+
 const nav = [
   { label: 'Écrits', href: '/textes' },
+  { label: 'Livres', href: '/livres' },
   { label: 'À propos', href: '/a-propos' },
   { label: 'Accompagnement', href: '/accompagnement' },
 ];
@@ -13,8 +20,14 @@ const current = Astro.url.pathname.replace(base, '').replace(/\/$/, '') || '/';
 ---
 
 <header class="site-header" data-dbg="entete">
-  <div class="header-inner">
-    <a class="wordmark" href={url('/')} data-dbg="entete__marque">Aimer sans se quitter</a>
+  <div class={`header-inner${wordmark ? '' : ' sans-marque'}`}>
+    {
+      wordmark && (
+        <a class="wordmark" href={url('/')} data-dbg="entete__marque">
+          Aimer sans se quitter
+        </a>
+      )
+    }
     <nav aria-label="Navigation principale" data-dbg="entete__nav">
       {
         nav.map((item) => (

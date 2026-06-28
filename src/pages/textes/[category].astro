@@ -1,7 +1,8 @@
 ---
 import Base from '../../layouts/Base.astro';
-import TextCard from '../../components/TextCard.astro';
 import { getCollection } from 'astro:content';
+import { url } from '../../lib/url';
+import { romain } from '../../lib/romain';
 import {
   CATEGORY_LABELS,
   CATEGORY_SUBTITLES,
@@ -9,17 +10,14 @@ import {
   CATEGORY_ORDER,
 } from '../../lib/categories';
 
-// Une page par catégorie (cinq au total), générée depuis la collection.
-// Destination des titres de catégorie de la page Textes (§5.2bis du brief).
+// Une page par catégorie (cinq au total). Numéro de partie I–V selon l'anneau.
 export async function getStaticPaths() {
   const all = await getCollection('textes', ({ data }) => !data.draft || import.meta.env.DEV);
-  return CATEGORY_ORDER.map((cat) => ({
+  return CATEGORY_ORDER.map((cat, i) => ({
     params: { category: cat },
     props: {
       category: cat,
-      // Les textes d'entrée (entry) restent mis en avant sur la page sommaire,
-      // mais apparaissent aussi dans la liste de leur catégorie (ils en font
-      // partie) — d'où l'absence de filtre sur `entry` ici.
+      num: romain(i + 1).toUpperCase(),
       items: all
         .filter((t) => t.data.category === cat)
         .sort((a, b) => a.data.order - b.data.order),
@@ -27,38 +25,46 @@ export async function getStaticPaths() {
   }));
 }
 
-const { category, items } = Astro.props;
+const { category, num, items } = Astro.props;
 const label = CATEGORY_LABELS[category];
 const subtitle = CATEGORY_SUBTITLES[category];
 const intro = CATEGORY_INTROS[category];
+// La dernière ligne de l'intro est la question récurrente (en italique bleu).
+const introBody = intro.slice(0, -1);
+const question = intro[intro.length - 1];
 ---
 
 <Base title={label} description={`Écrits de la thématique « ${label} ».`}>
-  <section class="lecture" data-dbg={`theme__${category}`}>
-    <h1 data-dbg="theme__titre">{label}</h1>
-    <p class="lede">{subtitle}</p>
-    <div class="theme-intro" data-dbg="theme__intro">
-      {intro.map((p) => <p>{p}</p>)}
+  <div class="page" data-dbg={`theme__${category}`}>
+    <div class="part-opening" data-dbg="theme__ouverture">
+      <span class="part-num">{num}</span>
+      <h1 data-dbg="theme__titre">{label}</h1>
     </div>
+
+    <div class="intro" data-dbg="theme__intro">
+      {subtitle && <p>{subtitle}</p>}
+      {introBody.map((p) => <p>{p}</p>)}
+      {question && <p class="question">{question}</p>}
+    </div>
+
     {
       items.length > 0 ? (
-        <>
-          <hr class="separateur" />
-          <div class="text-list">
-            {items.map((t) => (
-              <TextCard
-                title={t.data.title}
-                excerpt={t.data.excerpt}
-                slug={t.id}
-                verified={t.data.verifieParDuy}
-                draft={t.data.draft ?? false}
-              />
-            ))}
-          </div>
-        </>
+        <div class="liste" data-dbg="theme__liste">
+          {items.map((t) => (
+            <a class="rangee" href={url(`/textes/${t.id}`)}>
+              <span class="rangee-titre">{t.data.title}</span>
+              <span class="rangee-excerpt">{t.data.excerpt}</span>
+              <span class="lire">Lire</span>
+            </a>
+          ))}
+        </div>
       ) : (
-        <p class="lede">Aucun écrit publié dans cette thématique pour le moment.</p>
+        <p class="intro">Aucun écrit publié dans cette thématique pour le moment.</p>
       )
     }
-  </section>
+  </div>
 </Base>
+
+<style>
+  .page { --colonne: 40rem; }
+</style>

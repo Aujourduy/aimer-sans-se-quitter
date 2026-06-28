@@ -1,56 +1,41 @@
 :root {
   --creme:      #F4EFE6; /* fond, jamais blanc pur */
   --encre:      #1F1B17; /* corps de texte, jamais noir pur */
-  --bleu:       #1A2D4A; /* signature : titre, filet, bouton, exergue */
-  --sepia:      #6B6258; /* secondaire : sous-titres, légendes, métadonnées */
-  --filet:      #CFC3B4; /* bordures fines */
-  --terre:      #A06A4B; /* accent chaud — EN RÉSERVE, désactivé par défaut (voir §9 du brief) */
+  --bleu:       #1A2D4A; /* signature : titres, liens, filets de fin */
+  --sepia:      #6B6258; /* secondaire : sous-titres, légendes, métadonnées, numéros */
+  --filet:      #CFC3B4; /* bordures fines (toute séparation réglée) */
+  --terre:      #A06A4B; /* accent chaud — EN RÉSERVE, désactivé par défaut */
 
-  /* Séparateurs courts centrés (.separateur + filets entre cartes).
-     Modifier ces trois variables change TOUS les traits d'un coup. */
-  --filet-court-largeur:   30%;
-  --filet-court-epaisseur: 1px;
-  --filet-court-couleur:   var(--filet);
-
-  /* Échelles de taille — un coefficient par type de texte (1 = taille de base).
-     1.2 = +20 % · 0.9 = -10 %. Valeurs DESKTOP ici ; valeurs MOBILE dans la
-     media query (max-width: 640px) plus bas. Chaque type est indépendant. */
-  --ech-corps: 1;   /* corps de texte (body, paragraphes) */
-  --ech-h1:    1;   /* titres de page (h1) */
-  --ech-h2:    1;   /* sous-titres (h2) */
-  --ech-h3:    1;   /* sous-sous-titres (h3) */
-  --ech-hero:  1;   /* gros titre + accroche de l'accueil (.hero) */
-
-  /* Pile serif : EB Garamond, puis un repli Georgia à MÉTRIQUES ALIGNÉES
-     ('Garamond Fallback', défini plus bas) pour que la ligne ne bouge pas si la
-     webfont est sautée (font-display: optional). Évite le CLS au chargement. */
   --serif: "EB Garamond", "Garamond Fallback", Georgia, serif;
   --sans:  "Inter", system-ui, sans-serif;
 
-  --lecture: 680px;   /* colonne de texte */
-  --conteneur: 1120px;
+  /* Colonnes — la largeur de lecture varie par page (réglée localement via
+     --colonne) : accueil 36rem (seuil resserré), index/thème 40rem, lecture /
+     À propos / Accompagnement 42rem. Valeur par défaut : la lecture. */
+  --colonne: 38rem; /* colonne de lecture longue : ~73 signes/ligne au corps actuel */
 
-  /* GRILLE DE BASE UNIQUE (brief v2 §0) — dérivée du corps, jamais l'inverse.
-     Une ligne de corps = 1.19rem × 1.6 = 1.904rem ; --baseline = la demi-ligne.
-     Le texte courant ET les blancs partagent ce pas : c'est ce qui « relie » le
-     site en un seul livre. Ne JAMAIS poser de marge verticale hors de cette échelle. */
-  --leading-corps: calc(1.19rem * 1.6);        /* 1.904rem — une ligne de corps */
-  --baseline:      calc(var(--leading-corps) / 2); /* 0.952rem — la demi-ligne, l'unité */
-  --silence-court: calc(var(--baseline) * 2);  /* 1.904rem — entre paragraphes */
-  --silence-moyen: calc(var(--baseline) * 4);  /* 3.808rem — entre entrées / mouvements */
-  --silence-long:  calc(var(--baseline) * 8);  /* 7.616rem — avant une fin (fleuron / pont) */
-  --silence-seuil: calc(var(--baseline) * 12); /* 11.42rem — ouverture de l'accueil */
+  /* GRILLE DE BASE UNIQUE — dérivée du corps (taille × 1.6) ; --baseline = la
+     demi-ligne. Tout le rythme vertical en est multiple. Agrandir --corps suffit :
+     la grille suit (le texte reste sur le pas). Corps porté à 1.31rem (×1.1). */
+  --corps:         1.31rem;                         /* taille du corps de texte (desktop) */
+  --leading-corps: calc(var(--corps) * 1.6);        /* une ligne de corps */
+  --baseline:      calc(var(--leading-corps) / 2);  /* la demi-ligne, l'unité */
+  --b:             var(--baseline);                /* alias court (cohérent avec les maquettes) */
+  --silence-court: calc(var(--baseline) * 2);      /* entre paragraphes */
+  --silence-moyen: calc(var(--baseline) * 4);      /* entre entrées / mouvements */
+  --silence-long:  calc(var(--baseline) * 8);      /* avant une fin (fleuron / pont) */
+  --silence-seuil: calc(var(--baseline) * 12);     /* ouverture de l'accueil */
 }
 
 /* Repli métrique : Georgia ramené à la chasse et aux hauteurs d'EB Garamond.
-   Nombres MESURÉS (Georgia vs EB Garamond, TextMetrics) : la ligne de base ne se
-   déplace pas quand la webfont charge ou est sautée — CLS = 0 (brief v2 §1). */
+   Nombres MESURÉS (TextMetrics) : la ligne ne se déplace pas quand la webfont
+   charge ou est sautée (font-display: optional) — CLS = 0. */
 @font-face {
   font-family: "Garamond Fallback";
   src: local("Georgia");
-  size-adjust:      75.4%;   /* 16.272 / 21.579 (advance EB / advance Georgia) */
-  ascent-override:  133.5%;  /* 1.007 / 0.754 */
-  descent-override: 39.5%;   /* 0.298 / 0.754 */
+  size-adjust:      75.4%;
+  ascent-override:  133.5%;
+  descent-override: 39.5%;
   line-gap-override: 0%;
 }
 
@@ -63,430 +48,356 @@ body {
   background: var(--creme);
   color: var(--encre);
   font-family: var(--serif);
-  font-size: calc(1.19rem * var(--ech-corps));
+  font-size: var(--corps);
   line-height: 1.6;
   font-feature-settings: "liga" 1, "dlig" 1, "onum" 1, "kern" 1;
   -webkit-font-smoothing: antialiased;
   text-rendering: optimizeLegibility;
+  /* Pied de page collé en bas même sur les pages courtes. */
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
 }
-
-@media (max-width: 640px) {
-  /* Échelles MOBILE — redéfinit les coefficients sous 640 px de large.
-     Indépendantes des valeurs desktop ci-dessus. */
-  :root {
-    --ech-corps: 1;
-    --ech-h1:    1;
-    --ech-h2:    1;
-    --ech-h3:    1;
-    --ech-hero:  1;
-  }
-  body { font-size: calc(1.1rem * var(--ech-corps)); }
-}
+@media (max-width: 640px) { body { font-size: 1.19rem; } } /* 1.08rem × 1.1 */
 
 p { margin: 0 0 var(--silence-court); orphans: 3; widows: 3; }
 p:last-child { margin-bottom: 0; }
 
-/* Titres */
-h1, h2, h3 { font-family: var(--serif); margin: 0 0 1rem; }
+a { color: inherit; }
+/* Une seule interaction : le lien. Focus net au clavier (jamais masqué). */
+a:focus-visible, button:focus-visible {
+  outline: 2px solid var(--bleu);
+  outline-offset: 3px;
+  border-radius: 1px;
+}
+
+/* Titres — italique de Garamond, jamais de crénage négatif (garalde). */
+h1, h2, h3 { font-family: var(--serif); margin: 0; }
 h1 {
+  color: var(--bleu);
   font-style: italic;
   font-weight: 400;
-  font-size: calc(2.8rem * var(--ech-h1));
-  line-height: 1.02;          /* snappé sur 3 baselines (2.8 × 1.02 ≈ 3 × --baseline) */
-  letter-spacing: 0.005em;
-  color: var(--bleu);
-  hanging-punctuation: first; /* guillemet/tiret ouvrant déborde dans la marge (là où supporté) */
-}
-h2 {
-  font-weight: 600;
-  font-size: calc(1.6rem * var(--ech-h2));
-  line-height: 1.19;          /* snappé sur 2 baselines (1.6 × 1.19 ≈ 2 × --baseline) */
-  letter-spacing: 0;          /* garalde Renaissance : pas de crénage négatif (kern suffit) */
-}
-h3 {
-  font-weight: 600;
-  font-size: calc(1.2rem * var(--ech-h3));
-  line-height: 1.3;           /* h3 rare : lh 1.3 gardé (le snap 1.59 serait trop lâche) */
+  font-size: clamp(2rem, 5.5vw, 2.7rem);
+  line-height: 1.1;
   letter-spacing: 0;
-}
-@media (max-width: 640px) {
-  h1 { font-size: calc(2.1rem * var(--ech-h1)); }
-  h2 { font-size: calc(1.4rem * var(--ech-h2)); }
-  h3 { font-size: calc(1.1rem * var(--ech-h3)); }
+  hanging-punctuation: first;
 }
 
-a { color: inherit; }
-
-/* Conteneurs */
-.conteneur { max-width: var(--conteneur); margin-inline: auto; padding-inline: 1.5rem; }
-.lecture { max-width: var(--lecture); margin-inline: auto; padding-inline: 1.5rem; }
-@media (max-width: 640px) {
-  /* Marge ABSOLUE (et non %) sous 640px : la mesure de lecture devient constante
-     en signes quelle que soit la largeur d'écran (mesuré : ~52 signes à 390px,
-     ~47 à 360px — au-dessus du plancher de 40). Brief v2 §8. */
-  .lecture, .conteneur { padding-inline: 1.25rem; }
-}
-@media (max-width: 380px) {
-  /* Très petits écrans (≤ 320px, iPhone SE 1re gen) : la marge absolue rendait la
-     mesure trop juste (41 signes). On rend ~8px à la colonne pour rester
-     confortablement au-dessus du plancher de 40. */
-  .lecture, .conteneur { padding-inline: 1rem; }
-}
-
-/* Silences entre mouvements, sur la grille (brief v2 §0). Le seuil d'ouverture
-   d'une page respire plus large (--silence-long) que l'espace courant entre deux
-   sections de même nature (--silence-moyen). Le mobile garde --silence-moyen pour
-   éviter les trous « fin de page » sur petit écran. */
-main > section { margin-block: var(--silence-moyen); }
-main > section:first-child { margin-top: var(--silence-long); }
-
-/* Exergue / citation */
+/* Exergue / citation générique */
 blockquote {
-  margin: var(--silence-court) 0;
+  margin: var(--silence-moyen) 0;
   padding: 0;
   border: 0;
   font-style: italic;
   color: var(--bleu);
-  font-size: 1.4rem;
-  line-height: 1.36;          /* snappé sur 2 baselines (1.4 × 1.36 ≈ 2 × --baseline) */
-  hanging-punctuation: first; /* guillemet ouvrant déborde optiquement dans la marge */
+  font-size: 1.32rem;
+  line-height: 1.4;
+  hanging-punctuation: first;
 }
-@media (max-width: 640px) { blockquote { font-size: 1.25rem; } }
 blockquote p { margin-bottom: var(--baseline); }
 
-/* Filet de séparation — UNE seule grammaire (brief v2 §3) : le filet de structure
-   est --filet (jamais --bleu). Le --bleu est réservé au pont, à la lettrine et à
-   l'exergue ; il ne sépare jamais. Marges sur la grille. */
-hr {
-  border: 0;
-  border-top: 1px solid var(--filet);
-  margin: var(--silence-moyen) 0;
-}
+/* ─────────────────────────────────────────────────────────────────────────
+   STRUCTURE PARTAGÉE — en-tête, pied, colonne
+   ───────────────────────────────────────────────────────────────────────── */
 
-/* Sous-titres / métadonnées / chapô */
-.lede { font-family: var(--serif); color: var(--sepia); font-size: 1.25rem; }
+main { flex: 1 0 auto; }
 
-/* Boutons */
-.btn {
-  display: inline-block;
-  font-family: var(--sans);
-  font-weight: 500;
-  font-size: 1rem;
-  letter-spacing: 0.02em;
-  padding: 0.7em 1.4em;
-  border-radius: 2px;
-  text-decoration: none;
-  border: 1px solid var(--bleu);
-  transition: background-color 0.2s ease, color 0.2s ease;
-  cursor: pointer;
-}
-.btn-principal { background: var(--bleu); color: var(--creme); }
-.btn-principal:hover { background: #16243b; }
-.btn-secondaire { background: transparent; color: var(--bleu); }
-.btn-secondaire:hover { background: var(--bleu); color: var(--creme); }
-.btn-group { display: flex; flex-wrap: wrap; gap: 1rem; }
-
-/* Bandeau « site en construction » (temporaire) — retirer avec son bloc dans Base.astro */
-.bandeau-construction {
-  background: var(--bleu);
-  color: var(--creme);
-  font-family: var(--sans);
-  font-size: 0.85rem;
-  letter-spacing: 0.02em;
-  text-align: center;
-  padding: 0.5rem 1.5rem;
-}
-
-/* En-tête */
-.site-header { border-bottom: 1px solid var(--filet); background: var(--creme); }
-.header-inner {
-  max-width: var(--conteneur);
+/* La colonne de lecture/page : largeur réglée par --colonne (overridable par page). */
+.lecture,
+.page,
+.site-header > .header-inner,
+.site-footer > .footer-inner {
+  max-width: var(--colonne);
+  width: 100%;
   margin-inline: auto;
-  padding: 1.25rem 1.5rem;
+}
+.lecture, .page { padding: var(--silence-long) 1.5rem 0; }
+@media (max-width: 640px) {
+  .lecture, .page { padding-inline: 1.25rem; }
+}
+
+/* En-tête : wordmark (lien retour, pages intérieures) + nav petites capitales. */
+.site-header { }
+.header-inner {
+  padding: 1.6rem 1.5rem 0;
   display: flex;
   flex-wrap: wrap;
   align-items: baseline;
   justify-content: space-between;
-  gap: 0.75rem 1.5rem;
+  gap: 0.6rem 1.4rem;
 }
+@media (max-width: 640px) { .header-inner { padding-inline: 1.25rem; } }
+/* L'accueil n'a pas de wordmark (le faux-titre porte la marque) : la nav est
+   alors seule, alignée à gauche. */
+.header-inner.sans-marque { justify-content: flex-start; }
 .wordmark {
   font-family: var(--serif);
   font-style: italic;
   color: var(--bleu);
-  font-size: 1.15rem;
+  font-size: 1.05rem;
   text-decoration: none;
   white-space: nowrap;
 }
 .site-header nav {
   display: flex;
   flex-wrap: wrap;
-  gap: 0.5rem 1.25rem;
+  gap: 0.6rem 1.4rem;
   font-family: var(--sans);
-  font-size: 0.92rem;
+  font-size: 0.72rem;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
 }
-.site-header nav a { color: var(--encre); text-decoration: none; letter-spacing: 0.01em; }
+.site-header nav a { color: var(--sepia); text-decoration: none; white-space: nowrap; }
 .site-header nav a:hover,
 .site-header nav a[aria-current="page"] { color: var(--bleu); }
-
-/* Pied de page */
-.site-footer { border-top: 1px solid var(--filet); margin-top: var(--silence-long); }
-.footer-inner { max-width: var(--conteneur); margin-inline: auto; padding: var(--silence-moyen) 1.5rem; }
-.footer-fine { font-family: var(--sans); font-size: 0.82rem; color: var(--sepia); margin: 0; }
-.footer-legal { display: inline-block; margin-top: var(--baseline); font-family: var(--sans); font-size: 0.72rem; color: var(--filet); text-decoration: none; }
-.footer-legal:hover { color: var(--sepia); }
-
-/* Fleuron de respiration (brief §8) — une seule marque pour tout le site,
-   réservée aux pages longues (lecture, À propos, Accompagnement), jamais
-   deux par écran, jamais sur l'accueil ni l'index. Rare = forte.
-   Si la terre cuite est activée (§9), décommenter la ligne color ci-dessous. */
-.fleuron {
-  text-align: center;
-  color: var(--sepia);
-  /* color: var(--terre); */ /* §9 : seul point d'activation de la terre cuite */
-  font-family: var(--serif);
-  font-size: 1.4rem;
-  margin: var(--silence-long) 0;
-  line-height: 1;
-}
-
-/* Filet pleine mesure (brief §7) — entre deux mouvements d'une page longue.
-   --filet (la grammaire de structure unique), centré, marges sur la grille. */
-hr.filet {
-  border: none;
-  border-top: 1px solid var(--filet);
-  width: 100%;
-  max-width: var(--lecture);
-  margin: var(--silence-moyen) auto;
-}
-
-/* Hero (accueil) — échelle propre via --ech-hero (titre + accroche).
-   Le hero porte aussi la classe .lecture (680px) : H1, accroche et prose
-   partagent UNE seule arête gauche et UNE largeur (brief v2 §5). On ne fixe donc
-   PAS de max-width ici (héritée de .lecture) ; seuls le souffle d'ouverture et
-   l'échelle sont propres au hero. */
-.hero { padding: var(--silence-seuil) 1.5rem 0; }
-.hero h1 { font-size: calc(3.4rem * var(--ech-hero)); margin-bottom: var(--silence-court); }
-.hero-lede { font-size: calc(1.35rem * var(--ech-hero)); color: var(--sepia); max-width: 32ch; margin-bottom: var(--silence-moyen); }
+/* Mobile : resserrer l'espacement pour tenir les 4 entrées sur UNE ligne
+   (mesuré : à 1.4rem de gap elles débordaient à 372px > 350px dispo). */
 @media (max-width: 640px) {
-  .hero { padding-inline: 1.25rem; }
-  .hero h1 { font-size: calc(2.3rem * var(--ech-hero)); }
-  .hero-lede { font-size: calc(1.2rem * var(--ech-hero)); }
+  .site-header nav {
+    flex-wrap: nowrap;
+    gap: 0.9rem;
+    letter-spacing: 0.08em;
+  }
+}
+@media (max-width: 360px) {
+  .site-header nav { gap: 0.7rem; letter-spacing: 0.05em; }
 }
 
-/* Séparateur : trait court centré, réutilisable partout (ex. <hr class="separateur" />).
-   Ses dimensions viennent des variables --filet-court-* : les modifier change ce
-   séparateur ET les filets entre les cartes d'un seul coup.
-   Pas de trait après la dernière carte d'une liste. */
-.separateur,
-.text-card:not(:last-child)::after {
-  display: block;
-  width: var(--filet-court-largeur);
-  height: var(--filet-court-epaisseur);
-  margin-inline: auto;
-  border: 0;
-  background: var(--filet-court-couleur);
-}
-.text-card:not(:last-child)::after { content: ""; }
+/* Pied de page — collé en bas, sobre. */
+.site-footer { flex-shrink: 0; }
+.footer-inner { margin-top: var(--silence-long); padding: 0 1.5rem var(--silence-moyen); }
+@media (max-width: 640px) { .footer-inner { padding-inline: 1.25rem; } }
+.footer-fine { margin: 0; font-family: var(--sans); font-size: 0.74rem; color: var(--sepia); }
+.footer-legal { display: inline-block; margin-top: 0.6rem; font-family: var(--sans); font-size: 0.7rem; color: var(--filet); text-decoration: none; }
+.footer-legal:hover { color: var(--sepia); }
+/* Signature d'auteur, discrète (italique sépia, taille du corps). */
+.signature { margin-top: var(--silence-court); font-style: italic; color: var(--sepia); font-size: 1rem; }
 
-/* Cartes de texte — « table des matières d'une belle revue » (brief §4).
-   Titre seul cliquable, --encre (→ --bleu au survol, sans soulignement criard) ;
-   « Lire » en petite capitale sépia ; air vertical généreux. */
-.text-list { max-width: var(--lecture); }
-.text-card-link { display: block; padding: var(--silence-court) 0; text-decoration: none; color: inherit; }
-.text-card-title { color: var(--encre); margin-bottom: var(--baseline); font-weight: 600; transition: color 0.2s ease; }
-.text-card-excerpt { color: var(--sepia); margin-bottom: var(--baseline); }
-/* « lire » : vraies majuscules Inter (micro-typo fonctionnelle assumée), jamais
-   de fausses petites capitales serif — EB Garamond n'a pas de table smcp (§2). */
-.text-card-more {
-  font-family: var(--sans);
-  font-size: 0.8rem;
-  letter-spacing: 0.08em;
-  text-transform: uppercase;
-  color: var(--sepia);
-}
-.text-card-link:hover .text-card-title { color: var(--bleu); }
-.text-card--featured .text-card-title { font-size: 1.45rem; }
-@media (max-width: 640px) { .text-card--featured .text-card-title { font-size: 1.25rem; } }
-
-/* Sommaire : thèmes en CONSTELLATION (brief v2 §4) — plus de case, plus de
-   border-bottom pleine largeur (« lignes de tableur »). Les titres flottent sur
-   l'arête gauche 680px ; l'air seul sépare, l'alignement sur la grille tient. */
-.cat-card {
-  max-width: var(--lecture);
-  padding: var(--silence-long) 0;
-}
-.cat-card-title { color: var(--encre); margin-bottom: var(--baseline); }
-.cat-card-desc { font-style: italic; color: var(--sepia); margin-bottom: var(--silence-court); }
-/* « explorer » : vraies majuscules Inter, jamais de fausses petites caps serif (§2). */
-.cat-card-link {
-  font-family: var(--sans);
-  font-size: 0.8rem;
-  color: var(--sepia);
-  text-decoration: none;
-  letter-spacing: 0.08em;
-  text-transform: uppercase;
-}
-.cat-card-link:hover { color: var(--bleu); }
-
-/* Parcours numéroté — le numéro donne le rythme ; plus de border-bottom pleine
-   largeur (§3), l'air et la grille suffisent. */
-.steps { list-style: none; padding: 0; margin: var(--silence-court) 0 0; counter-reset: step; max-width: var(--lecture); }
-.steps li { padding: var(--baseline) 0; display: flex; gap: 1rem; align-items: baseline; }
-.steps li::before {
-  counter-increment: step;
-  content: counter(step);
-  font-family: var(--sans);
+/* ─────────────────────────────────────────────────────────────────────────
+   APPELS — toujours des liens, jamais des boutons (souligné fin bleu)
+   ───────────────────────────────────────────────────────────────────────── */
+.porte {
+  display: inline-block;
+  font-family: var(--serif);
+  font-size: 1.19rem;
   color: var(--bleu);
-  font-size: 0.9rem;
-  min-width: 1.5rem;
+  text-decoration: none;
+  border-bottom: 1px solid #1A2D4A59; /* bleu ~35 %, repli universel */
+  padding-bottom: 2px;
+  transition: border-color 0.2s ease;
 }
-.steps a { color: var(--bleu); text-decoration: none; }
-.steps a:hover { text-decoration: underline; }
+.porte:hover { border-color: var(--bleu); }
+.portes { margin-top: var(--silence-long); }
+@media (max-width: 640px) { .portes { margin-top: var(--silence-moyen); } }
 
-/* Pont vers l'accompagnement — SEUL filet --bleu autorisé : il change de registre
-   (vers l'offre), donc il a le droit de signer en bleu. Marges sur la grille. */
-.pont { border-top: 1px solid var(--bleu); margin-top: var(--silence-long); padding-top: var(--silence-court); }
-/* Anti-cumul filet + fleuron (brief §7/§8) : si un fleuron précède le pont,
-   le fleuron fait la séparation — on retire la bordure du pont. */
-.fleuron + .pont { border-top: 0; margin-top: 0; padding-top: 0; }
-.pont-text { font-style: italic; color: var(--bleu); }
-.pont-link { font-family: var(--sans); font-size: 0.9rem; color: var(--bleu); text-decoration: none; }
-.pont-link:hover { text-decoration: underline; }
+/* ─────────────────────────────────────────────────────────────────────────
+   ÉTIQUETTES & INTRO
+   ───────────────────────────────────────────────────────────────────────── */
+/* Étiquette de section. Taille ANCRÉE au corps (em, pas rem) pour qu'elle suive
+   tout ré-échelonnement du corps — sinon elle décroche (cas vécu après le ×1.1).
+   Ratio 0.75× : un palier d'échelle lisible, sans concurrencer le corps ni le H1.
+   Sépia conservé : l'étiquette ordonne le texte, elle ne le concurrence pas. */
+.eyebrow {
+  font-family: var(--sans);
+  font-weight: 500;
+  font-size: 0.75em;          /* ≈15.7px desktop / 14.3px mobile (était 0.74rem fixe) */
+  letter-spacing: 0.13em;     /* resserré (était 0.16em) : agrandie, l'étiquette respire moins */
+  text-transform: uppercase;
+  color: var(--sepia);
+  margin: var(--silence-long) 0 var(--silence-court);
+}
+.intro {
+  margin: var(--silence-court) 0 0;
+  color: var(--sepia);
+  font-size: 1.2rem;
+  line-height: 1.5;
+  max-width: 34rem;
+}
+.intro p { margin: 0 0 calc(var(--b) * 0.5); }
+.intro p:last-child { margin-bottom: 0; }
+.intro .question { font-style: italic; color: var(--bleu); }
 
-/* Titre courant (page de lecture) — marque de page intérieure de livre, à la
-   limite du perceptible : Inter sépia, majuscule espacée, jamais bleu, sur la
-   grille. Brief v2 §6. */
+/* ─────────────────────────────────────────────────────────────────────────
+   MODULE DE RANGÉES — sommaire d'Écrits, listes de thème (filet bas réglé)
+   ───────────────────────────────────────────────────────────────────────── */
+.liste { margin-top: var(--silence-long); }
+
+.rangee {
+  display: block;
+  text-decoration: none;
+  color: inherit;
+  padding-block: var(--silence-court);
+  border-bottom: 1px solid var(--filet);
+}
+.rangee:first-child,
+.eyebrow + .rangee { border-top: 1px solid var(--filet); }
+.rangee-titre {
+  display: block;
+  font-family: var(--serif);
+  font-weight: 600;
+  font-size: 1.3rem;
+  color: var(--encre);
+  transition: color 0.2s ease;
+}
+.rangee:hover .rangee-titre { color: var(--bleu); }
+.rangee-excerpt { display: block; margin-top: 0.3rem; color: var(--sepia); }
+/* « lire » / « explorer » : vraies majuscules Inter (EB Garamond n'a pas de
+   table smcp ; pas de fausse petite-cap serif). */
+.lire {
+  display: inline-block;
+  margin-top: 0.5rem;
+  font-family: var(--sans);
+  font-size: 0.76rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--sepia);
+}
+
+/* Rangées de thème (sommaire d'Écrits) : numéro romain en gouttière, serif
+   italique sépia — la grammaire de numérotation UNIQUE du site. */
+.theme {
+  display: grid;
+  grid-template-columns: 2rem 1fr;
+  gap: 0 1.1rem;
+  align-items: baseline;
+}
+/* Chiffres romains (sommaire d'Écrits + gouttière des pages de thème) :
+   EB Garamond italique sépia — grammaire de numérotation unique du site. */
+.theme-num,
+.part-num {
+  font-family: var(--serif);
+  font-style: italic;
+  color: var(--sepia);
+}
+.theme-num { font-size: 1.15rem; line-height: 1.3; }
+.theme-titre {
+  display: block;
+  font-family: var(--serif);
+  font-weight: 600;
+  font-size: 1.22rem;
+  color: var(--encre);
+  transition: color 0.2s ease;
+}
+.theme:hover .theme-titre { color: var(--bleu); }
+.theme-desc { display: block; margin-top: 0.25rem; color: var(--sepia); }
+.theme .lire { margin-top: 0.45rem; }
+@media (max-width: 640px) {
+  .theme { grid-template-columns: 1.6rem 1fr; gap: 0 0.8rem; }
+}
+
+/* ─────────────────────────────────────────────────────────────────────────
+   OUVERTURE DE PARTIE (pages de thème) — numéro en gouttière
+   ───────────────────────────────────────────────────────────────────────── */
+.part-opening {
+  display: grid;
+  grid-template-columns: 2rem 1fr;
+  gap: 0 1.1rem;
+  align-items: baseline;
+}
+.part-num { font-size: 1.25rem; line-height: 1.2; }
+@media (max-width: 640px) {
+  .part-opening { grid-template-columns: 1.6rem 1fr; gap: 0 0.8rem; }
+}
+
+/* ─────────────────────────────────────────────────────────────────────────
+   PAGE DE LECTURE — titre courant, texte nu (sink), deux liens de fin
+   ───────────────────────────────────────────────────────────────────────── */
 .titre-courant {
   font-family: var(--sans);
-  font-size: 0.78rem;
-  letter-spacing: 0.12em;
+  font-size: 0.74rem;
+  letter-spacing: 0.16em;
   text-transform: uppercase;
   color: var(--sepia);
   margin: 0 0 var(--silence-court);
 }
-/* Folio — rang du fragment dans sa série, romain bas-de-casse, sépia discret,
-   centré comme un pied de page intérieure. */
-.folio {
-  font-family: var(--sans);
-  font-size: 0.8rem;
-  letter-spacing: 0.1em;
-  color: var(--sepia);
-  text-align: center;
-  margin: var(--silence-moyen) 0 0;
-}
-
-/* Corps d'article / prose */
 .article-title { margin-bottom: var(--silence-moyen); }
-/* `:not(.btn)` : on ne reteinte pas les boutons, qui gardent leur couleur
-   propre (texte clair sur fond bleu pour le CTA principal). */
-.prose a:not(.btn) { color: var(--bleu); text-underline-offset: 2px; }
-.prose h2 { margin-top: var(--silence-moyen); }
-.prose ul { padding-left: 1.2rem; }
-.prose li { margin-bottom: var(--baseline); }
-.prose blockquote { margin-left: 0; }
-/* Coupure douce : resserre le bord droit dénté de la prose en drapeau et
-   stabilise le gris typographique, surtout sur mobile (brief v2 §6). */
+
+.prose p { margin: 0 0 var(--silence-court); orphans: 3; widows: 3; }
+.prose p:last-child { margin-bottom: 0; }
+.prose a:not(.porte) { color: var(--bleu); text-underline-offset: 2px; }
 .prose { hyphens: auto; -webkit-hyphens: auto; }
 
-/* Lettrine (brief §6) — capitale initiale --bleu en tête du PREMIER paragraphe
-   d'une page de lecture seulement. initial-letter enfonce sur 3 lignes ;
-   repli float pour les navigateurs sans support.
-   Cas français : si un texte ouvre sur un guillemet « ou un tiret —, ::first-letter
-   happe le signe. Pour ces textes, envelopper la vraie lettre dans
-   <span class="lettrine">L</span> (voir README). */
-/* Cible UNIQUEMENT le corps d'une page de lecture (texte__corps), pas toute
-   .prose : sur À propos / Accompagnement, la prose ouvre sur un <h2>, et une
-   lettrine sur leur premier <p> tomberait en plein milieu de page. */
-[data-dbg='texte__corps'] > p:first-of-type::first-letter,
-[data-dbg='texte__corps'] > p:first-of-type .lettrine {
-  -webkit-initial-letter: 3;
-  initial-letter: 3;
+/* Le sink : sur la page de lecture, le texte s'ouvre un peu plus bas (le
+   défilement devient le seuil d'entrée). Le corps coule en paragraphes égaux —
+   aucune mise en forme (ni lettrine, ni exergue, ni fleuron). */
+[data-dbg='texte'] .prose { margin-top: var(--silence-long); }
+
+/* Fin de texte : deux liens de POIDS ÉGAL, en EB Garamond, soulignés d'un filet
+   bleu fin. Le « ou » en italique sépia. Pas de pont, pas de folio, pas de JS. */
+.fin { margin-top: var(--silence-long); line-height: 1.45; }
+.fin a {
+  display: inline-block;
   font-family: var(--serif);
-  font-weight: 400;
-  font-style: normal;
+  font-size: var(--corps);
   color: var(--bleu);
-  margin-right: 0.08em;
+  text-decoration: none;
+  border-bottom: 1px solid #1A2D4A59;
+  padding-bottom: 1px;
+  transition: border-color 0.2s ease;
 }
-@supports not (initial-letter: 3) {
-  [data-dbg='texte__corps'] > p:first-of-type::first-letter,
-  [data-dbg='texte__corps'] > p:first-of-type .lettrine {
-    float: left;
-    line-height: 0.78;
-    font-size: 3.6em;
-    padding: 0.02em 0.08em 0 0;
-    color: var(--bleu);
-    font-family: var(--serif);
-  }
-}
+.fin a:hover { border-color: var(--bleu); }
+.fin .ou { display: block; margin: 0.4rem 0; color: var(--sepia); font-style: italic; }
 
-/* Boutons : la couleur du texte prime, même à l'intérieur d'un bloc .prose. */
-.btn-principal,
-.prose a.btn-principal { color: var(--creme); }
-.btn-secondaire,
-.prose a.btn-secondaire { color: var(--bleu); }
-.btn-secondaire:hover,
-.prose a.btn-secondaire:hover { color: var(--creme); }
-
-/* Portrait : cadre 4/5. Le placeholder crème reste visible tant qu'aucune
-   photo n'est posée ; une <img> à l'intérieur remplit le cadre. */
+/* ─────────────────────────────────────────────────────────────────────────
+   À PROPOS — portrait modeste, phrase propriétaire en deux couches
+   ───────────────────────────────────────────────────────────────────────── */
 .portrait {
-  width: 100%;
+  width: 220px;
+  max-width: 60%;
   aspect-ratio: 4 / 5;
   background: #ECE4D6;
   border: 1px solid var(--filet);
+  margin: 0 0 var(--silence-moyen);
   display: flex;
-  align-items: center;
-  justify-content: center;
-  margin-bottom: 2.5rem;
+  align-items: flex-end;
+  padding: 0.6rem;
   overflow: hidden;
 }
-.portrait img {
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-  object-position: center 30%; /* garde le visage dans le cadre */
-  display: block;
+.portrait img { width: 100%; height: 100%; object-fit: cover; object-position: center 30%; display: block; }
+.portrait span { font-family: var(--sans); font-size: 0.72rem; letter-spacing: 0.04em; color: var(--sepia); }
+
+.mecanisme {
+  margin: 0;
+  color: var(--bleu);
+  font-style: italic;
+  font-weight: 400;
+  font-size: clamp(1.45rem, 3.6vw, 1.75rem);
+  line-height: 1.28;
+  letter-spacing: 0;
+  hanging-punctuation: first;
+  max-width: 32rem;
 }
-.portrait--petit { max-width: 220px; aspect-ratio: 1 / 1; margin-bottom: 2rem; }
-.portrait span { font-family: var(--sans); font-size: 0.8rem; color: var(--sepia); letter-spacing: 0.03em; }
-
-/* Listes aérées — l'air sépare (plus de border-bottom pleine largeur, §3) ;
-   padding sur la grille. */
-.liste-aeree { list-style: none; padding: 0; max-width: var(--lecture); }
-.liste-aeree li { padding: var(--baseline) 0; }
-
-/* Faits nus (le cadre) */
-.faits { list-style: none; padding: 0; max-width: var(--lecture); }
-.faits li { padding: var(--baseline) 0; }
-.faits strong { font-weight: 600; }
-
-.note { font-family: var(--sans); font-size: 0.9rem; color: var(--sepia); margin-top: var(--silence-court); }
-
-/* Navigation entre les textes (fin de texte) : une ligne sobre, filet fin au-dessus */
-.navtexte {
-  display: grid;
-  grid-template-columns: 1fr auto 1fr;
-  align-items: baseline;
-  gap: 1rem;
-  max-width: var(--lecture);
-  margin-top: var(--silence-moyen);
-  padding-top: var(--silence-court);
-  border-top: 1px solid var(--filet);
-  font-family: var(--sans);
-  font-size: 0.9rem;
-  color: var(--sepia);
+.intervention {
+  margin: var(--silence-court) 0 0;
+  color: var(--bleu);
+  font-style: italic;
+  font-weight: 400;
+  font-size: clamp(1.7rem, 4.6vw, 2.2rem);
+  line-height: 1.18;
+  letter-spacing: 0;
 }
-.navtexte-prev { text-align: left; }
-.navtexte-copy { text-align: center; }
-.navtexte-next { text-align: right; }
-.navtexte a { color: var(--sepia); text-decoration: none; }
-.navtexte a:hover { color: var(--bleu); text-decoration: underline; text-underline-offset: 3px; }
-.navtexte-copylink {
-  font: inherit;
-  color: var(--sepia);
-  background: none;
-  border: none;
-  padding: 0;
-  cursor: pointer;
+.ferme { font-style: italic; color: var(--bleu); }
+.prose-essai { margin-top: var(--silence-long); }
+
+/* ─────────────────────────────────────────────────────────────────────────
+   ACCOMPAGNEMENT — litanies aérées (ni puces ni filets), cadre en faits
+   ───────────────────────────────────────────────────────────────────────── */
+.reprise { margin-top: var(--silence-moyen); }
+.litanie, .cadre { list-style: none; padding: 0; margin: 0; }
+.litanie li, .cadre li { padding-block: calc(var(--b) * 0.55); }
+.cadre strong { font-weight: 600; }
+.appel { margin-top: var(--silence-long); }
+.appel a {
+  display: inline-block;
+  font-family: var(--serif);
+  font-size: 1.22rem;
+  color: var(--bleu);
+  text-decoration: none;
+  border-bottom: 1px solid #1A2D4A59;
+  padding-bottom: 3px;
+  transition: border-color 0.2s ease;
 }
-.navtexte-copylink:hover { color: var(--bleu); text-decoration: underline; text-underline-offset: 3px; }
+.appel a:hover { border-color: var(--bleu); }
+
+/* Filet pleine mesure réutilisable (respiration franche). */
+hr.filet { border: none; border-top: 1px solid var(--filet); width: 100%; margin: var(--silence-moyen) 0; }

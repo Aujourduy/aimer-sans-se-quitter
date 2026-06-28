@@ -1,0 +1,17 @@
+---
+import Base from '../layouts/Base.astro';
+---
+
+<Base
+  title="Livres"
+  description="Les livres à paraître."
+>
+  <div class="page" data-dbg="livres">
+    <h1 data-dbg="livres__titre">Livres</h1>
+    <p class="intro" data-dbg="livres__intro">À paraître.</p>
+  </div>
+</Base>
+
+<style>
+  .page { --colonne: 40rem; }
+</style>
