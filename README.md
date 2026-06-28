@@ -85,13 +85,48 @@ partout où elle est utilisée — un seul endroit à modifier.
 | `--ech-hero` | Échelle du gros titre + accroche de l'accueil | idem |
 | `--creme` | Fond (jamais blanc pur) | `#F4EFE6` |
 | `--encre` | Couleur du texte | `#1F1B17` |
-| `--bleu` | Couleur signature (titres, boutons, filets) | `#1A2D4A` |
-| `--sepia` | Texte secondaire (sous-titres, légendes) | `#6B6258` |
-| `--filet` | Couleur des bordures fines | `#CFC3B4` |
+| `--bleu` | Couleur signature (titres, boutons, lettrine, pont, exergue) | `#1A2D4A` |
+| `--sepia` | Texte secondaire (sous-titres, légendes, folios) | `#6B6258` |
+| `--filet` | Couleur des bordures fines (**tous** les filets de séparation) | `#CFC3B4` |
 | `--filet-court-largeur` | Longueur des traits de séparation centrés | `30%` |
 | `--filet-court-epaisseur` | Épaisseur de ces traits | `1px` |
 | `--filet-court-couleur` | Couleur de ces traits | `var(--filet)` |
 | `--lecture` | Largeur de la colonne de texte | `680px` |
+| `--baseline` | Pas de la **grille de base** (demi-ligne du corps) — l'unité de tout le rythme vertical | `calc((1.19rem*1.6)/2)` ≈ `0.952rem` |
+| `--silence-court` / `-moyen` / `-long` / `-seuil` | Les quatre **silences** verticaux (multiples entiers de `--baseline`) | `×2` / `×4` / `×8` / `×12` |
+
+### Grille de base et silences verticaux
+
+Tout le **rythme vertical** du site repose sur une seule unité, `--baseline`
+(la demi-ligne du corps de texte). Les espaces entre blocs ne sont pas posés
+« à l'œil » : ce sont quatre **silences** nommés, tous multiples de `--baseline`
+(`--silence-court/-moyen/-long/-seuil`). Conséquence : le texte courant **et**
+les blancs tombent sur le même pas — c'est ce qui donne au site sa tenue de
+« livre relié ». **Règle :** ne jamais poser de marge verticale en valeur libre
+(`2rem`, `3rem`…) dans le flux de lecture ; toujours réutiliser un silence.
+Changer `--baseline` (ou l'interligne du corps dont il dérive) ré-accorde tout
+le site d'un coup.
+
+### Filets : une seule grammaire
+
+Il n'y a que **deux** types de traits, tous en `--filet` (jamais en `--bleu`) :
+un **filet de structure** pleine mesure (en-tête, pied, `<hr class="filet" />`),
+et un **trait court centré** entre cartes sœurs (`.separateur` / les
+`--filet-court-*`). Le **bleu** n'est jamais un filet de séparation : il est
+réservé au **pont** vers l'accompagnement (qui change de registre), à la lettrine
+et aux exergues. Sur l'index des thèmes, c'est **l'air** qui sépare, pas un trait.
+
+### Polices (auto-hébergées, sans FOUT)
+
+Les polices (EB Garamond, Inter — sous-ensemble **latin** seulement) sont
+auto-hébergées dans `public/fonts/` et déclarées dans `src/styles/fonts.css` en
+`font-display: optional`, avec **préchargement** des trois EB Garamond dans le
+`<head>` (`src/layouts/Base.astro`) et un **repli métrique** « Garamond Fallback »
+(Georgia ré-aligné) dans `global.css`. Résultat : pas de flash de police au
+chargement et **aucun décalage de mise en page** (CLS = 0). Pour remplacer/ajouter
+un poids : déposer le `.woff2` latin dans `public/fonts/`, ajouter un bloc
+`@font-face` dans `fonts.css`, et (si c'est un poids critique du rendu initial)
+un `<link rel="preload">` dans `Base.astro`.
 
 ### Tailles selon l'écran (responsive)
 
@@ -167,7 +202,7 @@ Le **filet pleine mesure** `<hr class="filet" />` (couleur `--filet`, sur toute
 la largeur de la colonne) sert de respiration franche : il est posé sous le hero
 de l'accueil et peut séparer deux mouvements d'une page longue.
 
-### Gestes éditoriaux : lettrine, fleuron, terre cuite
+### Gestes éditoriaux : lettrine, fleuron, titre courant, folio, terre cuite
 
 **La lettrine** (grande capitale `--bleu` en tête de texte) apparaît
 automatiquement sur le **premier paragraphe des pages de lecture**
@@ -183,6 +218,13 @@ deux mouvements d'une page longue (page de texte, À propos, Accompagnement). Il
 est posé via le composant `<Fleuron />`. Règle : **une seule marque par écran**,
 jamais sur l'accueil ni sur la page Écrits, jamais cumulé avec un filet au même
 endroit.
+
+**Le titre courant et le folio** (pages de lecture uniquement) donnent l'allure
+d'une page intérieure de livre : en **tête**, le nom de la thématique en petite
+majuscule sépia (Inter), discret et non cliquable ; en **pied**, un **folio** —
+le rang du texte dans sa série, en chiffres romains bas-de-casse (`i`, `ii`…),
+sépia. Tous deux sont générés automatiquement dans `src/pages/textes/[...slug].astro`
+(le folio vient du champ `order` de l'en-tête du `.md`) — rien à saisir à la main.
 
 **La terre cuite** (`--terre`, accent chaud) est **en réserve, désactivée par
 défaut**. Si la page paraît trop froide une fois finie, l'activer sur **un seul**

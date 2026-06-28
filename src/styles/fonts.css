@@ -1,0 +1,43 @@
+/* Fontes auto-hébergées, sous-ensemble latin uniquement, font-display: optional.
+   Remplace les imports @fontsource (qui portent font-display: swap = FOUT garanti).
+   `optional` : la fonte charge dans la fenêtre de blocage (~100 ms) ou est ignorée
+   pour ce chargement — JAMAIS de flash de fonte (brief v2 §1). Couplé au repli
+   métrique « Garamond Fallback » (global.css), la ligne ne bouge pas : CLS = 0.
+   Les fichiers sont copiés dans public/fonts/ (servis à la racine /fonts/…). */
+
+@font-face {
+  font-family: "EB Garamond";
+  font-style: normal;
+  font-weight: 400;
+  font-display: optional;
+  src: url("/fonts/eb-garamond-latin-400-normal.woff2") format("woff2");
+}
+@font-face {
+  font-family: "EB Garamond";
+  font-style: italic;
+  font-weight: 400;
+  font-display: optional;
+  src: url("/fonts/eb-garamond-latin-400-italic.woff2") format("woff2");
+}
+@font-face {
+  font-family: "EB Garamond";
+  font-style: normal;
+  font-weight: 600;
+  font-display: optional;
+  src: url("/fonts/eb-garamond-latin-600-normal.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-display: optional;
+  src: url("/fonts/inter-latin-400-normal.woff2") format("woff2");
+}
+@font-face {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-display: optional;
+  src: url("/fonts/inter-latin-500-normal.woff2") format("woff2");
+}

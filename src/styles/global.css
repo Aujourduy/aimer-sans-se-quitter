@@ -21,12 +21,37 @@
   --ech-h3:    1;   /* sous-sous-titres (h3) */
   --ech-hero:  1;   /* gros titre + accroche de l'accueil (.hero) */
 
-  --serif: "EB Garamond", Georgia, serif;
+  /* Pile serif : EB Garamond, puis un repli Georgia à MÉTRIQUES ALIGNÉES
+     ('Garamond Fallback', défini plus bas) pour que la ligne ne bouge pas si la
+     webfont est sautée (font-display: optional). Évite le CLS au chargement. */
+  --serif: "EB Garamond", "Garamond Fallback", Georgia, serif;
   --sans:  "Inter", system-ui, sans-serif;
 
   --lecture: 680px;   /* colonne de texte */
   --conteneur: 1120px;
-  --hero-max: 1240px;
+
+  /* GRILLE DE BASE UNIQUE (brief v2 §0) — dérivée du corps, jamais l'inverse.
+     Une ligne de corps = 1.19rem × 1.6 = 1.904rem ; --baseline = la demi-ligne.
+     Le texte courant ET les blancs partagent ce pas : c'est ce qui « relie » le
+     site en un seul livre. Ne JAMAIS poser de marge verticale hors de cette échelle. */
+  --leading-corps: calc(1.19rem * 1.6);        /* 1.904rem — une ligne de corps */
+  --baseline:      calc(var(--leading-corps) / 2); /* 0.952rem — la demi-ligne, l'unité */
+  --silence-court: calc(var(--baseline) * 2);  /* 1.904rem — entre paragraphes */
+  --silence-moyen: calc(var(--baseline) * 4);  /* 3.808rem — entre entrées / mouvements */
+  --silence-long:  calc(var(--baseline) * 8);  /* 7.616rem — avant une fin (fleuron / pont) */
+  --silence-seuil: calc(var(--baseline) * 12); /* 11.42rem — ouverture de l'accueil */
+}
+
+/* Repli métrique : Georgia ramené à la chasse et aux hauteurs d'EB Garamond.
+   Nombres MESURÉS (Georgia vs EB Garamond, TextMetrics) : la ligne de base ne se
+   déplace pas quand la webfont charge ou est sautée — CLS = 0 (brief v2 §1). */
+@font-face {
+  font-family: "Garamond Fallback";
+  src: local("Georgia");
+  size-adjust:      75.4%;   /* 16.272 / 21.579 (advance EB / advance Georgia) */
+  ascent-override:  133.5%;  /* 1.007 / 0.754 */
+  descent-override: 39.5%;   /* 0.298 / 0.754 */
+  line-gap-override: 0%;
 }
 
 *, *::before, *::after { box-sizing: border-box; }
@@ -58,7 +83,7 @@ body {
   body { font-size: calc(1.1rem * var(--ech-corps)); }
 }
 
-p { margin: 0 0 1.5rem; orphans: 3; widows: 3; }
+p { margin: 0 0 var(--silence-court); orphans: 3; widows: 3; }
 p:last-child { margin-bottom: 0; }
 
 /* Titres */
@@ -67,7 +92,7 @@ h1 {
   font-style: italic;
   font-weight: 400;
   font-size: calc(2.8rem * var(--ech-h1));
-  line-height: 1.12;          /* réglage optique propre du display, distinct du corps */
+  line-height: 1.02;          /* snappé sur 3 baselines (2.8 × 1.02 ≈ 3 × --baseline) */
   letter-spacing: 0.005em;
   color: var(--bleu);
   hanging-punctuation: first; /* guillemet/tiret ouvrant déborde dans la marge (là où supporté) */
@@ -75,14 +100,14 @@ h1 {
 h2 {
   font-weight: 600;
   font-size: calc(1.6rem * var(--ech-h2));
-  line-height: 1.25;
-  letter-spacing: -0.01em;
+  line-height: 1.19;          /* snappé sur 2 baselines (1.6 × 1.19 ≈ 2 × --baseline) */
+  letter-spacing: 0;          /* garalde Renaissance : pas de crénage négatif (kern suffit) */
 }
 h3 {
   font-weight: 600;
   font-size: calc(1.2rem * var(--ech-h3));
-  line-height: 1.3;
-  letter-spacing: -0.01em;
+  line-height: 1.3;           /* h3 rare : lh 1.3 gardé (le snap 1.59 serait trop lâche) */
+  letter-spacing: 0;
 }
 @media (max-width: 640px) {
   h1 { font-size: calc(2.1rem * var(--ech-h1)); }
@@ -96,31 +121,46 @@ a { color: inherit; }
 .conteneur { max-width: var(--conteneur); margin-inline: auto; padding-inline: 1.5rem; }
 .lecture { max-width: var(--lecture); margin-inline: auto; padding-inline: 1.5rem; }
 @media (max-width: 640px) {
-  .lecture, .conteneur { padding-inline: 8%; }
+  /* Marge ABSOLUE (et non %) sous 640px : la mesure de lecture devient constante
+     en signes quelle que soit la largeur d'écran (mesuré : ~52 signes à 390px,
+     ~47 à 360px — au-dessus du plancher de 40). Brief v2 §8. */
+  .lecture, .conteneur { padding-inline: 1.25rem; }
+}
+@media (max-width: 380px) {
+  /* Très petits écrans (≤ 320px, iPhone SE 1re gen) : la marge absolue rendait la
+     mesure trop juste (41 signes). On rend ~8px à la colonne pour rester
+     confortablement au-dessus du plancher de 40. */
+  .lecture, .conteneur { padding-inline: 1rem; }
 }
 
-main > section { margin-block: 6rem; }
-main > section:first-child { margin-top: 4rem; }
+/* Silences entre mouvements, sur la grille (brief v2 §0). Le seuil d'ouverture
+   d'une page respire plus large (--silence-long) que l'espace courant entre deux
+   sections de même nature (--silence-moyen). Le mobile garde --silence-moyen pour
+   éviter les trous « fin de page » sur petit écran. */
+main > section { margin-block: var(--silence-moyen); }
+main > section:first-child { margin-top: var(--silence-long); }
 
 /* Exergue / citation */
 blockquote {
-  margin: 2rem 0;
+  margin: var(--silence-court) 0;
   padding: 0;
   border: 0;
   font-style: italic;
   color: var(--bleu);
   font-size: 1.4rem;
-  line-height: 1.4;
+  line-height: 1.36;          /* snappé sur 2 baselines (1.4 × 1.36 ≈ 2 × --baseline) */
   hanging-punctuation: first; /* guillemet ouvrant déborde optiquement dans la marge */
 }
 @media (max-width: 640px) { blockquote { font-size: 1.25rem; } }
-blockquote p { margin-bottom: 0.8rem; }
+blockquote p { margin-bottom: var(--baseline); }
 
-/* Filet de séparation */
+/* Filet de séparation — UNE seule grammaire (brief v2 §3) : le filet de structure
+   est --filet (jamais --bleu). Le --bleu est réservé au pont, à la lettrine et à
+   l'exergue ; il ne sépare jamais. Marges sur la grille. */
 hr {
   border: 0;
-  border-top: 1px solid var(--bleu);
-  margin: 3rem 0;
+  border-top: 1px solid var(--filet);
+  margin: var(--silence-moyen) 0;
 }
 
 /* Sous-titres / métadonnées / chapô */
@@ -189,10 +229,10 @@ hr {
 .site-header nav a[aria-current="page"] { color: var(--bleu); }
 
 /* Pied de page */
-.site-footer { border-top: 1px solid var(--filet); margin-top: 6rem; }
-.footer-inner { max-width: var(--conteneur); margin-inline: auto; padding: 3rem 1.5rem; }
+.site-footer { border-top: 1px solid var(--filet); margin-top: var(--silence-long); }
+.footer-inner { max-width: var(--conteneur); margin-inline: auto; padding: var(--silence-moyen) 1.5rem; }
 .footer-fine { font-family: var(--sans); font-size: 0.82rem; color: var(--sepia); margin: 0; }
-.footer-legal { display: inline-block; margin-top: 0.5rem; font-family: var(--sans); font-size: 0.72rem; color: var(--filet); text-decoration: none; }
+.footer-legal { display: inline-block; margin-top: var(--baseline); font-family: var(--sans); font-size: 0.72rem; color: var(--filet); text-decoration: none; }
 .footer-legal:hover { color: var(--sepia); }
 
 /* Fleuron de respiration (brief §8) — une seule marque pour tout le site,
@@ -205,26 +245,30 @@ hr {
   /* color: var(--terre); */ /* §9 : seul point d'activation de la terre cuite */
   font-family: var(--serif);
   font-size: 1.4rem;
-  margin: 4rem 0;
+  margin: var(--silence-long) 0;
   line-height: 1;
 }
 
-/* Filet pleine mesure (brief §7) — sous le hero, entre deux mouvements
-   d'une page longue. Distinct du hr par défaut (--bleu) : ici --filet, centré. */
+/* Filet pleine mesure (brief §7) — entre deux mouvements d'une page longue.
+   --filet (la grammaire de structure unique), centré, marges sur la grille. */
 hr.filet {
   border: none;
   border-top: 1px solid var(--filet);
   width: 100%;
   max-width: var(--lecture);
-  margin: 3rem auto;
+  margin: var(--silence-moyen) auto;
 }
 
-/* Hero (accueil) — échelle propre via --ech-hero (titre + accroche). */
-.hero { max-width: var(--hero-max); margin-inline: auto; padding: 7rem 1.5rem 2rem; }
-.hero h1 { font-size: calc(3.4rem * var(--ech-hero)); margin-bottom: 1.25rem; }
-.hero-lede { font-size: calc(1.35rem * var(--ech-hero)); color: var(--sepia); max-width: 32ch; margin-bottom: 2.5rem; }
+/* Hero (accueil) — échelle propre via --ech-hero (titre + accroche).
+   Le hero porte aussi la classe .lecture (680px) : H1, accroche et prose
+   partagent UNE seule arête gauche et UNE largeur (brief v2 §5). On ne fixe donc
+   PAS de max-width ici (héritée de .lecture) ; seuls le souffle d'ouverture et
+   l'échelle sont propres au hero. */
+.hero { padding: var(--silence-seuil) 1.5rem 0; }
+.hero h1 { font-size: calc(3.4rem * var(--ech-hero)); margin-bottom: var(--silence-court); }
+.hero-lede { font-size: calc(1.35rem * var(--ech-hero)); color: var(--sepia); max-width: 32ch; margin-bottom: var(--silence-moyen); }
 @media (max-width: 640px) {
-  .hero { padding: 4rem 8% 1rem; }
+  .hero { padding-inline: 1.25rem; }
   .hero h1 { font-size: calc(2.3rem * var(--ech-hero)); }
   .hero-lede { font-size: calc(1.2rem * var(--ech-hero)); }
 }
@@ -248,9 +292,11 @@ hr.filet {
    Titre seul cliquable, --encre (→ --bleu au survol, sans soulignement criard) ;
    « Lire » en petite capitale sépia ; air vertical généreux. */
 .text-list { max-width: var(--lecture); }
-.text-card-link { display: block; padding: 1.6rem 0; text-decoration: none; color: inherit; }
-.text-card-title { color: var(--encre); margin-bottom: 0.4rem; font-weight: 600; transition: color 0.2s ease; }
-.text-card-excerpt { color: var(--sepia); margin-bottom: 0.5rem; }
+.text-card-link { display: block; padding: var(--silence-court) 0; text-decoration: none; color: inherit; }
+.text-card-title { color: var(--encre); margin-bottom: var(--baseline); font-weight: 600; transition: color 0.2s ease; }
+.text-card-excerpt { color: var(--sepia); margin-bottom: var(--baseline); }
+/* « lire » : vraies majuscules Inter (micro-typo fonctionnelle assumée), jamais
+   de fausses petites capitales serif — EB Garamond n'a pas de table smcp (§2). */
 .text-card-more {
   font-family: var(--sans);
   font-size: 0.8rem;
@@ -262,14 +308,16 @@ hr.filet {
 .text-card--featured .text-card-title { font-size: 1.45rem; }
 @media (max-width: 640px) { .text-card--featured .text-card-title { font-size: 1.25rem; } }
 
-/* Sommaire : cartes de catégorie */
+/* Sommaire : thèmes en CONSTELLATION (brief v2 §4) — plus de case, plus de
+   border-bottom pleine largeur (« lignes de tableur »). Les titres flottent sur
+   l'arête gauche 680px ; l'air seul sépare, l'alignement sur la grille tient. */
 .cat-card {
   max-width: var(--lecture);
-  padding: 2rem 0;
-  border-bottom: 1px solid var(--filet);
+  padding: var(--silence-long) 0;
 }
-.cat-card-title { color: var(--encre); margin-bottom: 0.4rem; }
-.cat-card-desc { font-style: italic; color: var(--sepia); margin-bottom: 1rem; }
+.cat-card-title { color: var(--encre); margin-bottom: var(--baseline); }
+.cat-card-desc { font-style: italic; color: var(--sepia); margin-bottom: var(--silence-court); }
+/* « explorer » : vraies majuscules Inter, jamais de fausses petites caps serif (§2). */
 .cat-card-link {
   font-family: var(--sans);
   font-size: 0.8rem;
@@ -280,9 +328,10 @@ hr.filet {
 }
 .cat-card-link:hover { color: var(--bleu); }
 
-/* Parcours numéroté */
-.steps { list-style: none; padding: 0; margin: 1.5rem 0 0; counter-reset: step; max-width: var(--lecture); }
-.steps li { padding: 1rem 0; border-bottom: 1px solid var(--filet); display: flex; gap: 1rem; align-items: baseline; }
+/* Parcours numéroté — le numéro donne le rythme ; plus de border-bottom pleine
+   largeur (§3), l'air et la grille suffisent. */
+.steps { list-style: none; padding: 0; margin: var(--silence-court) 0 0; counter-reset: step; max-width: var(--lecture); }
+.steps li { padding: var(--baseline) 0; display: flex; gap: 1rem; align-items: baseline; }
 .steps li::before {
   counter-increment: step;
   content: counter(step);
@@ -294,8 +343,9 @@ hr.filet {
 .steps a { color: var(--bleu); text-decoration: none; }
 .steps a:hover { text-decoration: underline; }
 
-/* Pont vers l'accompagnement */
-.pont { border-top: 1px solid var(--bleu); margin-top: 4rem; padding-top: 1.5rem; }
+/* Pont vers l'accompagnement — SEUL filet --bleu autorisé : il change de registre
+   (vers l'offre), donc il a le droit de signer en bleu. Marges sur la grille. */
+.pont { border-top: 1px solid var(--bleu); margin-top: var(--silence-long); padding-top: var(--silence-court); }
 /* Anti-cumul filet + fleuron (brief §7/§8) : si un fleuron précède le pont,
    le fleuron fait la séparation — on retire la bordure du pont. */
 .fleuron + .pont { border-top: 0; margin-top: 0; padding-top: 0; }
@@ -303,15 +353,40 @@ hr.filet {
 .pont-link { font-family: var(--sans); font-size: 0.9rem; color: var(--bleu); text-decoration: none; }
 .pont-link:hover { text-decoration: underline; }
 
+/* Titre courant (page de lecture) — marque de page intérieure de livre, à la
+   limite du perceptible : Inter sépia, majuscule espacée, jamais bleu, sur la
+   grille. Brief v2 §6. */
+.titre-courant {
+  font-family: var(--sans);
+  font-size: 0.78rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--sepia);
+  margin: 0 0 var(--silence-court);
+}
+/* Folio — rang du fragment dans sa série, romain bas-de-casse, sépia discret,
+   centré comme un pied de page intérieure. */
+.folio {
+  font-family: var(--sans);
+  font-size: 0.8rem;
+  letter-spacing: 0.1em;
+  color: var(--sepia);
+  text-align: center;
+  margin: var(--silence-moyen) 0 0;
+}
+
 /* Corps d'article / prose */
-.article-title { margin-bottom: 2.5rem; }
+.article-title { margin-bottom: var(--silence-moyen); }
 /* `:not(.btn)` : on ne reteinte pas les boutons, qui gardent leur couleur
    propre (texte clair sur fond bleu pour le CTA principal). */
 .prose a:not(.btn) { color: var(--bleu); text-underline-offset: 2px; }
-.prose h2 { margin-top: 2.5rem; }
+.prose h2 { margin-top: var(--silence-moyen); }
 .prose ul { padding-left: 1.2rem; }
-.prose li { margin-bottom: 0.5rem; }
+.prose li { margin-bottom: var(--baseline); }
 .prose blockquote { margin-left: 0; }
+/* Coupure douce : resserre le bord droit dénté de la prose en drapeau et
+   stabilise le gris typographique, surtout sur mobile (brief v2 §6). */
+.prose { hyphens: auto; -webkit-hyphens: auto; }
 
 /* Lettrine (brief §6) — capitale initiale --bleu en tête du PREMIER paragraphe
    d'une page de lecture seulement. initial-letter enfonce sur 3 lignes ;
@@ -375,16 +450,17 @@ hr.filet {
 .portrait--petit { max-width: 220px; aspect-ratio: 1 / 1; margin-bottom: 2rem; }
 .portrait span { font-family: var(--sans); font-size: 0.8rem; color: var(--sepia); letter-spacing: 0.03em; }
 
-/* Listes aérées */
+/* Listes aérées — l'air sépare (plus de border-bottom pleine largeur, §3) ;
+   padding sur la grille. */
 .liste-aeree { list-style: none; padding: 0; max-width: var(--lecture); }
-.liste-aeree li { padding: 0.6rem 0; border-bottom: 1px solid var(--filet); }
+.liste-aeree li { padding: var(--baseline) 0; }
 
 /* Faits nus (le cadre) */
 .faits { list-style: none; padding: 0; max-width: var(--lecture); }
-.faits li { padding: 0.5rem 0; }
+.faits li { padding: var(--baseline) 0; }
 .faits strong { font-weight: 600; }
 
-.note { font-family: var(--sans); font-size: 0.9rem; color: var(--sepia); margin-top: 1rem; }
+.note { font-family: var(--sans); font-size: 0.9rem; color: var(--sepia); margin-top: var(--silence-court); }
 
 /* Navigation entre les textes (fin de texte) : une ligne sobre, filet fin au-dessus */
 .navtexte {
@@ -393,8 +469,8 @@ hr.filet {
   align-items: baseline;
   gap: 1rem;
   max-width: var(--lecture);
-  margin-top: 3rem;
-  padding-top: 1.25rem;
+  margin-top: var(--silence-moyen);
+  padding-top: var(--silence-court);
   border-top: 1px solid var(--filet);
   font-family: var(--sans);
   font-size: 0.9rem;

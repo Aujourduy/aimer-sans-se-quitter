@@ -7,14 +7,12 @@ import Button from '../components/Button.astro';
   description="Quand votre manière d’aimer vous éloigne de vous-même. Un accompagnement relationnel privé, qui part des textes."
 >
   <div class="home">
-  <section class="hero" data-dbg="accueil__hero">
+  <section class="hero lecture" data-dbg="accueil__hero">
     <h1 data-dbg="accueil__hero-titre">Aimer sans se quitter</h1>
     <p class="hero-lede" data-dbg="accueil__hero-accroche">
       Quand votre manière d’aimer vous éloigne de vous-même.
     </p>
   </section>
-
-  <hr class="filet" data-dbg="accueil__filet-hero" />
 
   <section class="lecture" data-dbg="accueil__intro">
     <p>
@@ -28,45 +26,53 @@ import Button from '../components/Button.astro';
     </p>
   </section>
 
+  {/* Le seuil : la voix nue, première personne. Strophe assumée (classe .seuil),
+      pas six paragraphes orphelins ni prose grise. La bascule finale respire plus
+      large (--silence-long) — le « ma » avant l'aveu. Mots et retours à la ligne
+      intouchables (brief v2 §5/§10). */}
   <section class="lecture" data-dbg="accueil__pourquoi">
-    <p>
-      Depuis plusieurs années, une même question revient dans mon travail :
+    <p class="seuil">
+      Depuis plusieurs années, une même question revient dans mon travail :<br />
+      Comment rester avec soi-même lorsque l’on aime quelqu’un ?
     </p>
-    <p>Comment rester avec soi-même lorsque l’on aime quelqu’un ?</p>
-    <p>Voici quelques traces de cette recherche.</p>
-    <p>Des textes écrits au fil du temps à une amie inconnue.</p>
-    <p>Je ne cherche pas à expliquer l’amour.</p>
-    <p>J’essaie de voir plus clairement ce qu’il révèle.</p>
+    <p class="seuil">
+      Voici quelques traces de cette recherche.<br />
+      Des textes écrits au fil du temps à une amie inconnue.
+    </p>
+    <p class="seuil seuil--bascule">
+      Je ne cherche pas à expliquer l’amour.<br />
+      J’essaie de voir plus clairement ce qu’il révèle.
+    </p>
   </section>
 
   <section class="lecture" data-dbg="accueil__entrer">
     <div class="btn-group" data-dbg="accueil__entrer-actions">
-      <Button href="/textes" variant="principal">Entrer par un texte</Button>
+      <Button href="/textes" variant="secondaire">Entrer par un texte</Button>
     </div>
   </section>
   </div>
 </Base>
 
 <style>
-  /* Accueil : hero aligné à gauche sur la même colonne de lecture que le texte
-     (même bord gauche), comme les autres pages. */
+  /* Accueil : tout sur la colonne de lecture (680px), un seul bord gauche du
+     titre jusqu'au bouton. Le hero hérite de .lecture — plus de hack d'alignement. */
   .home :global(.hero) {
-    max-width: var(--lecture);
-    padding-top: 4rem;
+    padding-top: var(--silence-seuil);
+    padding-bottom: 0;
   }
-  /* Air entre les blocs et avant le bouton. */
+  /* La strophe du seuil : lignes courtes scandées, interligne resserré pour se lire
+     comme UNE strophe (pas six paragraphes). La grille règle l'air entre strophes ;
+     elle ne compresse pas la voix. */
+  .home :global(.seuil) {
+    line-height: 1.4;
+    margin-bottom: var(--silence-court);
+  }
+  /* La bascule respire plus large au-dessus : le silence avant l'aveu. */
+  .home :global(.seuil--bascule) {
+    margin-top: var(--silence-long);
+  }
+  /* Air avant l'invitation. */
   .home :global([data-dbg='accueil__entrer']) {
-    margin-top: 2rem;
-  }
-  /* Filet sous le hero (brief §7) : aligné sur le même bord gauche que le hero
-     et la colonne de lecture (pas centré), avec un padding identique. */
-  .home :global(hr.filet) {
-    margin-inline: 0;
-    margin-block: 2.5rem;
-    max-width: var(--lecture);
-    margin-left: 1.5rem;
-  }
-  @media (max-width: 640px) {
-    .home :global(hr.filet) { margin-left: 8%; max-width: 84%; }
+    margin-top: var(--silence-moyen);
   }
 </style>

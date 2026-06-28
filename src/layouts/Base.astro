@@ -1,9 +1,5 @@
 ---
-import '@fontsource/eb-garamond/400.css';
-import '@fontsource/eb-garamond/400-italic.css';
-import '@fontsource/eb-garamond/600.css';
-import '@fontsource/inter/400.css';
-import '@fontsource/inter/500.css';
+import '../styles/fonts.css';
 import '../styles/global.css';
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
@@ -37,6 +33,12 @@ const base = import.meta.env.BASE_URL;
     <meta property="og:type" content="website" />
     <meta name="twitter:card" content="summary" />
     <link rel="icon" href={`${base}favicon.svg`} type="image/svg+xml" />
+    {/* Préchargement des 3 woff2 latin réellement utilisés : la fonte est prête
+        dans la fenêtre de blocage de font-display: optional → pas de FOUT, et,
+        avec le repli métrique, CLS = 0 (brief v2 §1). */}
+    <link rel="preload" href={`${base}fonts/eb-garamond-latin-400-normal.woff2`} as="font" type="font/woff2" crossorigin="anonymous" />
+    <link rel="preload" href={`${base}fonts/eb-garamond-latin-400-italic.woff2`} as="font" type="font/woff2" crossorigin="anonymous" />
+    <link rel="preload" href={`${base}fonts/eb-garamond-latin-600-normal.woff2`} as="font" type="font/woff2" crossorigin="anonymous" />
     <script
       defer
       data-domain="duydang.fr"
