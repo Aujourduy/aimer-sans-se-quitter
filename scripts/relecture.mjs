@@ -129,6 +129,41 @@ function toggleField(slug, field) {
   return !current;
 }
 
+// Renvoie le CORPS markdown brut (tout ce qui suit le frontmatter), pour l'éditer.
+function readCorps(slug) {
+  const raw = readFileSync(join(TEXTES_DIR, slug + '.md'), 'utf8');
+  const { content } = matter(raw);
+  return content;
+}
+
+// Réécrit le CORPS markdown en préservant le frontmatter OCTET POUR OCTET
+// (même philosophie que toggleField : on ne reformate jamais le YAML).
+// On retrouve la fin du frontmatter (le « --- » fermant) et on remplace tout
+// ce qui suit. La nouvelle valeur garde une ligne vide après le frontmatter.
+function writeCorps(slug, corps) {
+  const path = join(TEXTES_DIR, slug + '.md');
+  const raw = readFileSync(path, 'utf8');
+
+  // Le frontmatter va du premier « --- » au « --- » fermant.
+  if (!raw.startsWith('---')) {
+    // Pas de frontmatter : on réécrit tout le fichier comme corps.
+    writeFileSync(path, normaliseCorps(corps), 'utf8');
+    return;
+  }
+  const close = raw.indexOf('\n---', 3);
+  if (close === -1) throw new Error('Frontmatter non terminé dans ' + slug);
+  // Fin de la ligne « --- » fermante.
+  const afterMarker = raw.indexOf('\n', close + 1);
+  const frontmatter = afterMarker === -1 ? raw : raw.slice(0, afterMarker); // inclut le « --- » fermant
+  writeFileSync(path, frontmatter + '\n\n' + normaliseCorps(corps) + '\n', 'utf8');
+}
+
+// Normalise le corps reçu : retire les CR (\r) et les blancs en fin, garde le
+// texte tel que saisi pour le reste.
+function normaliseCorps(s) {
+  return String(s).replace(/\r\n/g, '\n').replace(/\s+$/, '');
+}
+
 // --- Rendu markdown minimal (titres, gras/italique, paragraphes, > cit.) ---
 
 function escapeHtml(s) {
@@ -219,6 +254,13 @@ function pageHtml() {
   .actions button.on-draft{background:var(--ocre);color:#fff;border-color:var(--ocre);}
   .prose{font-family:Georgia,serif;line-height:1.7;}
   .prose p{margin:0 0 1rem;} .prose blockquote{border-left:3px solid var(--filet);margin:1rem 0;padding-left:1rem;color:var(--sepia);}
+  .actions button.edit-btn{margin-left:auto;}
+  .editor{width:100%;min-height:300px;font-family:Georgia,serif;font-size:1.05rem;line-height:1.7;color:var(--encre);background:#fff;border:1px solid var(--filet);border-radius:.4rem;padding:.9rem 1rem;resize:vertical;box-sizing:border-box;}
+  .editor:focus{outline:2px solid var(--bleu);outline-offset:1px;}
+  .edit-actions{display:flex;gap:.6rem;align-items:center;margin-top:.8rem;flex-wrap:wrap;}
+  .save-btn{font-size:.9rem;padding:.5rem 1rem;border-radius:.4rem;cursor:pointer;border:1px solid var(--bleu);background:var(--bleu);color:#fff;}
+  .cancel-btn{font-size:.9rem;padding:.5rem 1rem;border-radius:.4rem;cursor:pointer;border:1px solid var(--filet);background:#fff;color:var(--sepia);}
+  .edit-msg{font-size:.82rem;color:var(--sepia);}
   .empty{color:var(--sepia);font-style:italic;margin-top:3rem;}
   .gen{width:100%;margin-bottom:.4rem;padding:.5rem;border:1px solid var(--bleu);background:var(--bleu);color:#fff;border-radius:.4rem;cursor:pointer;font-size:.82rem;}
   .gen:hover{background:#16243b;} .gen:disabled{opacity:.6;cursor:default;}
@@ -311,9 +353,11 @@ function badge(t){
   for(const f of LIVRE_FLAGS){ if(t[f.key]) h+='<span class="b b-livre">'+f.label+'</span>'; }
   return h;
 }
+var SRC='';      // markdown brut du texte ouvert (pour l'édition)
 async function open_(slug){
   sel=slug; render();
   const d=await (await fetch('/api/texte/'+slug)).json();
+  SRC=d.source||'';
   const t=TEXTES.find(x=>x.slug===slug);
   let livreBtns='';
   for(const f of LIVRE_FLAGS){
@@ -325,9 +369,34 @@ async function open_(slug){
     +'<div class="actions">'
     +'<button class="'+(t.verifieParDuy?'on-ok':'')+'" onclick="toggle(\\''+slug+'\\',\\'verifieParDuy\\')">'+(t.verifieParDuy?'✓ Validé':'◯ Marquer validé')+'</button>'
     +'<button class="'+(t.draft?'on-draft':'')+'" onclick="toggle(\\''+slug+'\\',\\'draft\\')">'+(t.draft?'brouillon → publier':'publié → brouillon')+'</button>'
+    +'<button class="edit-btn" onclick="editStart(\\''+slug+'\\')">✎ Modifier le texte</button>'
     +'</div>'
     +'<div class="actions livre-actions"><span class="livre-label">Livres :</span>'+livreBtns+'</div>'
-    +'<h2 class="read-title">'+d.title+'</h2><div class="prose">'+d.html+'</div>';
+    +'<h2 class="read-title">'+d.title+'</h2><div class="prose" id="prose">'+d.html+'</div>';
+}
+
+// --- Édition du corps -------------------------------------------------------
+function editStart(slug){
+  const prose=$('#prose'); if(!prose) return;
+  prose.innerHTML='<textarea id="editor" class="editor" spellcheck="true"></textarea>'
+    +'<div class="edit-actions">'
+    +'<button class="save-btn" onclick="editSave(\\''+slug+'\\')">Enregistrer</button>'
+    +'<button class="cancel-btn" onclick="open_(\\''+slug+'\\')">Annuler</button>'
+    +'<span id="edit-msg" class="edit-msg"></span>'
+    +'</div>';
+  const ta=$('#editor'); ta.value=SRC;
+  // hauteur auto-ajustée au contenu
+  ta.style.height='auto'; ta.style.height=Math.max(300,ta.scrollHeight+20)+'px';
+  ta.focus();
+}
+async function editSave(slug){
+  const ta=$('#editor'); if(!ta) return;
+  const msg=$('#edit-msg'); msg.textContent='Enregistrement…';
+  try{
+    const r=await (await fetch('/api/corps',{method:'POST',headers:{'content-type':'application/json'},body:JSON.stringify({slug,corps:ta.value})})).json();
+    if(r.ok){ SRC=ta.value; msg.textContent='✓ Enregistré'; setTimeout(()=>open_(slug),500); }
+    else { msg.textContent='Erreur : '+(r.error||'inconnue'); }
+  }catch(e){ msg.textContent='Erreur : '+e; }
 }
 async function toggle(slug,field){
   const r=await (await fetch('/api/toggle',{method:'POST',headers:{'content-type':'application/json'},body:JSON.stringify({slug,field})})).json();
@@ -371,7 +440,26 @@ const server = createServer((req, res) => {
     if (req.method === 'GET' && url.pathname.startsWith('/api/texte/')) {
       const slug = decodeURIComponent(url.pathname.replace('/api/texte/', ''));
       const { data, content } = readTexte(slug);
-      return json(res, { title: data.title ?? slug, html: renderMarkdown(content) });
+      // `source` = markdown brut éditable ; `html` = rendu lecture.
+      return json(res, { title: data.title ?? slug, html: renderMarkdown(content), source: content });
+    }
+    if (req.method === 'POST' && url.pathname === '/api/corps') {
+      let body = '';
+      req.on('data', (c) => (body += c));
+      req.on('end', () => {
+        try {
+          const { slug, corps } = JSON.parse(body);
+          if (typeof slug !== 'string' || typeof corps !== 'string') {
+            throw new Error('Paramètres invalides');
+          }
+          writeCorps(slug, corps);
+          // On renvoie le rendu à jour pour rafraîchir la vue lecture.
+          json(res, { ok: true, html: renderMarkdown(readCorps(slug)) });
+        } catch (e) {
+          json(res, { ok: false, error: String(e) }, 400);
+        }
+      });
+      return;
     }
     if (req.method === 'POST' && url.pathname === '/api/toggle') {
       let body = '';
