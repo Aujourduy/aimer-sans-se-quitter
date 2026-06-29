@@ -1,0 +1,29 @@
+# Service systemd (--user) de l'outil de relecture, versionné pour pouvoir
+# repartir d'un serveur vierge après un crash.
+#
+# RÉINSTALLATION sur un serveur neuf :
+#   1. git clone … && cd … && npm install
+#   2. cp scripts/relecture.service ~/.config/systemd/user/relecture.service
+#   3. adapter si besoin : RELECTURE_HOST (IP Tailscale), le chemin de node
+#      (ExecStart) et WorkingDirectory ci-dessous au nouvel environnement.
+#   4. systemctl --user daemon-reload
+#      systemctl --user enable --now relecture.service
+#      loginctl enable-linger "$USER"   # survit aux déconnexions
+#   5. vérifier : systemctl --user status relecture.service
+#
+# NB : l'outil n'écoute que sur l'IP Tailscale (jamais le LAN ni Internet).
+[Unit]
+Description=Outil de relecture « Aimer sans se quitter » (Tailscale uniquement)
+After=network-online.target
+
+[Service]
+Type=simple
+WorkingDirectory=/home/dang/La-Revue-Aimer-sans-se-quitter
+# N'écoute que sur l'IP Tailscale → inaccessible depuis le LAN ou l'extérieur.
+Environment=RELECTURE_HOST=100.95.124.70
+ExecStart=/home/dang/.nvm/versions/node/v22.21.1/bin/node scripts/relecture.mjs
+Restart=always
+RestartSec=3
+
+[Install]
+WantedBy=default.target
