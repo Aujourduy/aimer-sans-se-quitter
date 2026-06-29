@@ -23,8 +23,8 @@ const current = Astro.url.pathname.replace(base, '').replace(/\/$/, '') || '/';
   <div class={`header-inner${wordmark ? '' : ' sans-marque'}`}>
     {
       wordmark && (
-        <a class="wordmark" href={url('/')} data-dbg="entete__marque">
-          Aimer sans se quitter
+        <a class="wordmark" href={url('/')} data-dbg="entete__marque" aria-label="Dan Phu — accueil">
+          <img src={url('/img/logo-danphu.png')} alt="Dan Phu" class="wordmark-logo" width="657" height="96" />
         </a>
       )
     }
