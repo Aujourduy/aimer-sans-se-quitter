@@ -4,7 +4,50 @@ Site d'auteur sobre construit avec [Astro](https://astro.build), contenu en
 markdown, sortie 100 % statique. L'auteur ajoute ses textes en déposant un
 fichier `.md` dans `src/content/textes/` — sans toucher à la mise en page.
 
-**Site en ligne :** https://aujourduy.github.io/aimer-sans-se-quitter/
+**Site en ligne :** https://danphu.com
+
+## Repartir d'un serveur neuf (reprise après crash)
+
+Tout le nécessaire est dans ce dépôt. Sur une machine vierge :
+
+```bash
+# 1. Récupérer le code
+git clone https://github.com/Aujourduy/aimer-sans-se-quitter.git
+cd aimer-sans-se-quitter
+npm install                 # restaure node_modules/ (non versionné)
+
+# 2. Le site se redéploie SEUL
+#    GitHub Actions reconstruit et publie à chaque push sur main (voir
+#    « Déploiement » plus bas). Rien à installer côté hébergement.
+```
+
+**Outil de relecture en service permanent** (facultatif, seulement si tu veux
+l'outil accessible en continu via Tailscale) :
+
+```bash
+cp scripts/relecture.service ~/.config/systemd/user/relecture.service
+# Adapter dans ce fichier si l'environnement a changé :
+#   - RELECTURE_HOST = l'IP Tailscale de la nouvelle machine
+#   - ExecStart      = le chemin de node (ex. via `which node`)
+#   - WorkingDirectory = le chemin du dépôt cloné
+systemctl --user daemon-reload
+systemctl --user enable --now relecture.service
+loginctl enable-linger "$USER"   # survit aux déconnexions SSH
+systemctl --user status relecture.service   # vérifier
+```
+
+**Ce qui N'est PAS dans le dépôt** (volontairement — se régénère ou vit ailleurs) :
+
+| Élément | Où le retrouver |
+| --- | --- |
+| `node_modules/` | `npm install` |
+| `dist/` (site construit) | régénéré par `npm run build` / GitHub Actions |
+| DNS du domaine **danphu.com** | chez le registrar **IONOS** (4 enregistrements `A` vers `185.199.108–111.153` pour l'apex + `CNAME www → aujourduy.github.io`) — voir « Domaine personnalisé » |
+| Domaine perso côté GitHub | fichier `public/CNAME` (= `danphu.com`, versionné) ; Settings → Pages le relit au déploiement |
+
+> En cas de crash : un `git clone` restaure le site, les 116 textes, l'outil de
+> relecture et sa config systemd. Seul le **DNS** se gère chez IONOS (il n'est pas
+> affecté par un crash du serveur de toute façon).
 
 ## Développer en local
 
@@ -441,7 +484,9 @@ chaque push sur `main`.
 **Étape unique à faire une fois :** Settings → Pages → Build and deployment →
 Source → **« GitHub Actions »**.
 
-Le site sera publié sur : **https://aujourduy.github.io/aimer-sans-se-quitter/**
+Le site est publié sur le domaine personnalisé : **https://danphu.com**
+(via `public/CNAME`). Sans domaine perso, GitHub publierait sur
+`https://aujourduy.github.io/aimer-sans-se-quitter/`.
 
 ### Domaine personnalisé
 
