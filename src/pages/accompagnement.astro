@@ -10,6 +10,11 @@ import { url } from '../lib/url';
   <article class="page" data-dbg="accompagnement">
     <h1 class="article-title" data-dbg="accompagnement__titre">L’accompagnement</h1>
 
+    <p class="accroche" data-dbg="accompagnement__accroche">
+      Pour les femmes qui ont déjà beaucoup compris sur elles-mêmes — sauf ce
+      qui se passe quand elles aiment.
+    </p>
+
     <div class="prose" data-dbg="accompagnement__corps">
       <p>
         Les textes permettent de reconnaître un mouvement. L’accompagnement
@@ -17,13 +22,12 @@ import { url } from '../lib/url';
         mais dans une situation réelle, là où il devient visible.
       </p>
 
-      <p>
-        Pour les femmes qui ont déjà beaucoup compris sur elles-mêmes — sauf ce
-        qui se passe quand elles aiment.
-      </p>
-
-      <h2 class="eyebrow">Ce que nous regardons</h2>
-      <ul class="litanie">
+      {/* I — Voir */}
+      <div class="acte" data-dbg="accompagnement__acte-1">
+        <span class="acte-num">I</span><span class="acte-titre">Voir</span>
+      </div>
+      <p class="sous">Ce que nous regardons</p>
+      <ul class="strophe">
         <li>Le moment précis où vous commencez à attendre.</li>
         <li>Ce que votre corps sait avant votre tête.</li>
         <li>La peur que vous prenez parfois pour une preuve d’amour.</li>
@@ -39,8 +43,12 @@ import { url } from '../lib/url';
         vous-même.
       </p>
 
-      <h2 class="eyebrow">Ce qui devient possible</h2>
-      <ul class="litanie">
+      {/* II — Déplacer */}
+      <div class="acte" data-dbg="accompagnement__acte-2">
+        <span class="acte-num">II</span><span class="acte-titre">Déplacer</span>
+      </div>
+      <p class="sous">Ce qui devient possible</p>
+      <ul class="strophe">
         <li>Reconnaître plus tôt le moment où vous commencez à attendre.</li>
         <li>Sentir quand votre corps sait déjà ce que votre tête négocie encore.</li>
         <li>Ne plus prendre la peur pour une preuve d’amour.</li>
@@ -48,16 +56,25 @@ import { url } from '../lib/url';
         <li>Revenir à une parole plus simple, plus vraie.</li>
       </ul>
 
-      <h2 class="eyebrow">Le cadre</h2>
-      <ul class="cadre">
-        <li><strong>Quatre mois.</strong></li>
-        <li><strong>Huit séances</strong> de 90&nbsp;minutes.</li>
-        <li>
-          <strong>Des réponses vocales</strong> deux fois par semaine, à horaires
-          fixes — lundi et jeudi, de 9 à 10&nbsp;h.
-        </li>
-        <li><strong>Un point de vérité</strong> à 30&nbsp;jours.</li>
-      </ul>
+      {/* III — Tenir */}
+      <div class="acte" data-dbg="accompagnement__acte-3">
+        <span class="acte-num">III</span><span class="acte-titre">Tenir</span>
+      </div>
+      <p class="sous">Le cadre</p>
+      <dl class="colophon">
+        <div class="ligne"><dt>Durée</dt><dd>Quatre mois.</dd></div>
+        <div class="ligne"><dt>Séances</dt><dd>Huit séances de 90&nbsp;minutes.</dd></div>
+        <div class="ligne">
+          <dt>Présence</dt>
+          <dd>Réponses vocales deux fois par semaine, lundi et jeudi, de 9 à 10&nbsp;h.</dd>
+        </div>
+      </dl>
+
+      <p class="prix">
+        Une place représente un engagement de<br />
+        <span class="montant">6&nbsp;000&nbsp;euros</span> pour quatre mois.<br />
+        Un échelonnement peut être envisagé au cas par cas.
+      </p>
 
       <p class="reprise">
         Je n’accompagne jamais plus de quatre personnes à la fois. Cette limite
@@ -65,14 +82,8 @@ import { url } from '../lib/url';
         présence que je souhaite offrir.
       </p>
 
-      <p>
-        Une place dans cet accompagnement représente un engagement de
-        6&nbsp;000&nbsp;euros pour quatre mois. Un échelonnement peut être
-        envisagé au cas par cas.
-      </p>
-
-      <h2 class="eyebrow">Ce que ce travail n’est pas</h2>
-      <ul class="litanie">
+      <p class="sous">Ce que ce travail n’est pas</p>
+      <ul class="strophe">
         <li>une stratégie pour récupérer quelqu’un ;</li>
         <li>une technique pour contrôler l’autre ;</li>
         <li>une méthode rapide pour ne plus rien sentir ;</li>
@@ -93,7 +104,7 @@ import { url } from '../lib/url';
 
     <div class="appel" data-dbg="accompagnement__appel">
       <a href={url('/conversation-exploratoire')}>
-        Demander une conversation exploratoire
+        Demander une conversation exploratoire <span class="fleche">→</span>
       </a>
     </div>
   </article>

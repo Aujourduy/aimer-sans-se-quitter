@@ -130,13 +130,19 @@ main { flex: 1 0 auto; }
 /* L'accueil n'a pas de wordmark (le faux-titre porte la marque) : la nav est
    alors seule, alignée à gauche. */
 .header-inner.sans-marque { justify-content: flex-start; }
+/* Logo « DAN PHU » (image) — posé sur la ligne de la nav. L'en-tête aligne ses
+   enfants sur la baseline ; une image n'a pas de baseline texte, donc on règle
+   sa hauteur et on l'aligne par le bas du texte de nav (réglé à la mesure). */
 .wordmark {
-  font-family: var(--serif);
-  font-style: italic;
-  color: var(--bleu);
-  font-size: 1.05rem;
+  display: inline-flex;
   text-decoration: none;
-  white-space: nowrap;
+}
+.wordmark-logo {
+  display: block;
+  height: 12px;          /* hauteur d'affichage du logo dans l'en-tête (50 % de 24px) */
+  width: auto;
+  /* Léger décalage vertical pour caler le logo sur la nav (réglage demandé). */
+  transform: translateY(0px);
 }
 .site-header nav {
   display: flex;
@@ -387,6 +393,73 @@ main { flex: 1 0 auto; }
 .litanie li, .cadre li { padding-block: calc(var(--b) * 0.55); }
 .cadre strong { font-weight: 600; }
 .appel { margin-top: var(--silence-long); }
+
+/* ── Accompagnement, rythme par mouvements (direction « chapitres ») ──
+   Trois actes numérotés (I Voir / II Déplacer / III Tenir) donnent une
+   architecture mentale ; les sections coulent dedans. Aucun filet : ce sont
+   l'échelle, le numéro et le silence qui séparent. */
+.accroche {
+  margin: var(--silence-moyen) 0 0;
+  font-style: italic;
+  color: var(--bleu);
+  font-size: clamp(1.3rem, 3.4vw, 1.5rem);
+  line-height: 1.35;
+  max-width: 30rem;
+}
+/* Ouverture d'acte : numéro romain italique sépia en gouttière + nom de l'acte. */
+.acte {
+  display: grid;
+  grid-template-columns: 2.4rem 1fr;
+  gap: 0 1rem;
+  align-items: baseline;
+  margin: var(--silence-seuil) 0 var(--silence-court);
+}
+.acte:first-of-type { margin-top: var(--silence-long); }
+.acte-num { font-family: var(--serif); font-style: italic; color: var(--sepia); font-size: 1.3rem; }
+.acte-titre {
+  font-family: var(--sans);
+  font-weight: 500;
+  font-size: 0.82em;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  color: var(--encre);
+}
+/* Sous-étiquette d'une section à l'intérieur d'un acte. */
+.sous {
+  font-family: var(--sans);
+  font-size: 0.74rem;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--sepia);
+  margin: var(--silence-moyen) 0 var(--silence-court);
+}
+/* Listes en strophes : chaque item respire (pas du texte courant cassé). */
+.strophe { list-style: none; padding: 0; margin: 0; }
+.strophe li { margin: 0 0 var(--silence-court); }
+.strophe li:last-child { margin-bottom: 0; }
+/* Exergue centré : un seul moment, la ligne sur laquelle la page bascule. */
+.exergue-centre {
+  font-style: italic;
+  color: var(--bleu);
+  font-size: clamp(1.25rem, 3.2vw, 1.4rem);
+  line-height: 1.4;
+  text-align: center;
+  margin: var(--silence-long) auto;
+  max-width: 26rem;
+}
+/* « Le cadre » en colophon : fiche technique de livre, tout en EB Garamond
+   (étiquette italique sépia, valeur encre). */
+.colophon { margin: 0; }
+.colophon .ligne { display: flex; gap: 1.2rem; padding: 0.5rem 0; }
+.colophon dt { flex: 0 0 8.5rem; font-style: italic; color: var(--sepia); margin: 0; }
+.colophon dd { margin: 0; color: var(--encre); }
+@media (max-width: 640px) {
+  .colophon .ligne { flex-direction: column; gap: 0.1rem; padding: 0.4rem 0; }
+  .colophon dt { flex: none; }
+}
+/* Prix : tenu, sur sa ligne, le montant en bleu. */
+.prix { margin-top: var(--silence-moyen); }
+.prix .montant { font-size: 1.5rem; color: var(--bleu); }
 .appel a {
   display: inline-block;
   font-family: var(--serif);
