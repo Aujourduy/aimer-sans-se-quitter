@@ -164,6 +164,36 @@ function normaliseCorps(s) {
   return String(s).replace(/\r\n/g, '\n').replace(/\s+$/, '');
 }
 
+// Réécrit le TITRE (ligne `title:` du frontmatter) de façon CHIRURGICALE :
+// on ne touche qu'à cette ligne, le reste du fichier est préservé octet pour
+// octet (mêmes garanties que toggleField). Le titre est toujours réécrit entre
+// guillemets doubles (format des 116 fichiers). On nettoie le titre reçu :
+// pas de saut de ligne, espaces en trop retirés, guillemets doubles internes
+// remplacés par des guillemets typographiques pour ne pas casser le YAML.
+function writeTitre(slug, titre) {
+  const path = join(TEXTES_DIR, slug + '.md');
+  const raw = readFileSync(path, 'utf8');
+
+  const clean = String(titre)
+    .replace(/[\r\n]+/g, ' ')
+    .trim()
+    .replace(/\s+/g, ' ')
+    .replace(/"/g, '”'); // un " dans le titre casserait le YAML → guillemet courbant
+  if (!clean) throw new Error('Titre vide');
+
+  // Bornes du frontmatter (entre les deux premiers « --- »).
+  const fmEnd = raw.indexOf('\n---', 3);
+  const head = fmEnd === -1 ? raw : raw.slice(0, fmEnd);
+  const rest = fmEnd === -1 ? '' : raw.slice(fmEnd);
+
+  const lineRe = /^(\s*title\s*:\s*).*$/m;
+  if (!lineRe.test(head)) throw new Error('Ligne title introuvable dans ' + slug);
+  const newHead = head.replace(lineRe, `$1"${clean}"`);
+
+  writeFileSync(path, newHead + rest, 'utf8');
+  return clean;
+}
+
 // --- Rendu markdown minimal (titres, gras/italique, paragraphes, > cit.) ---
 
 function escapeHtml(s) {
@@ -256,6 +286,7 @@ function pageHtml() {
   .prose p{margin:0 0 1rem;} .prose blockquote{border-left:3px solid var(--filet);margin:1rem 0;padding-left:1rem;color:var(--sepia);}
   .actions button.edit-btn{margin-left:auto;}
   .editor{width:100%;min-height:300px;font-family:Georgia,serif;font-size:1.05rem;line-height:1.7;color:var(--encre);background:#fff;border:1px solid var(--filet);border-radius:.4rem;padding:.9rem 1rem;resize:vertical;box-sizing:border-box;}
+  .titre-input{width:100%;font-family:Georgia,serif;font-size:1.5rem;color:var(--bleu);background:#fff;border:1px solid var(--filet);border-radius:.4rem;padding:.5rem .7rem;box-sizing:border-box;}
   .editor:focus{outline:2px solid var(--bleu);outline-offset:1px;}
   .edit-actions{display:flex;gap:.6rem;align-items:center;margin-top:.8rem;flex-wrap:wrap;}
   .save-btn{font-size:.9rem;padding:.5rem 1rem;border-radius:.4rem;cursor:pointer;border:1px solid var(--bleu);background:var(--bleu);color:#fff;}
@@ -354,10 +385,13 @@ function badge(t){
   return h;
 }
 var SRC='';      // markdown brut du texte ouvert (pour l'édition)
+var TITRE='';    // titre courant du texte ouvert (pour l'édition)
+function esc(s){return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');}
 async function open_(slug){
   sel=slug; render();
   const d=await (await fetch('/api/texte/'+slug)).json();
   SRC=d.source||'';
+  TITRE=d.title||'';
   const t=TEXTES.find(x=>x.slug===slug);
   let livreBtns='';
   for(const f of LIVRE_FLAGS){
@@ -369,10 +403,35 @@ async function open_(slug){
     +'<div class="actions">'
     +'<button class="'+(t.verifieParDuy?'on-ok':'')+'" onclick="toggle(\\''+slug+'\\',\\'verifieParDuy\\')">'+(t.verifieParDuy?'✓ Validé':'◯ Marquer validé')+'</button>'
     +'<button class="'+(t.draft?'on-draft':'')+'" onclick="toggle(\\''+slug+'\\',\\'draft\\')">'+(t.draft?'brouillon → publier':'publié → brouillon')+'</button>'
+    +'<button class="edit-btn" onclick="titreStart(\\''+slug+'\\')">✎ Titre</button>'
     +'<button class="edit-btn" onclick="editStart(\\''+slug+'\\')">✎ Modifier le texte</button>'
     +'</div>'
     +'<div class="actions livre-actions"><span class="livre-label">Livres :</span>'+livreBtns+'</div>'
-    +'<h2 class="read-title">'+d.title+'</h2><div class="prose" id="prose">'+d.html+'</div>';
+    +'<h2 class="read-title" id="read-title">'+esc(d.title)+'</h2><div class="prose" id="prose">'+d.html+'</div>';
+}
+
+// --- Édition du TITRE -------------------------------------------------------
+function titreStart(slug){
+  const h=$('#read-title'); if(!h) return;
+  h.innerHTML='<input id="titre-input" class="titre-input" type="text">'
+    +'<span class="edit-actions" style="display:flex;gap:.6rem;align-items:center;margin-top:.6rem">'
+    +'<button class="save-btn" onclick="titreSave(\\''+slug+'\\')">Enregistrer</button>'
+    +'<button class="cancel-btn" onclick="open_(\\''+slug+'\\')">Annuler</button>'
+    +'<span id="titre-msg" class="edit-msg"></span></span>';
+  const inp=$('#titre-input'); inp.value=TITRE; inp.focus(); inp.select();
+  inp.addEventListener('keydown',e=>{ if(e.key==='Enter'){e.preventDefault();titreSave(slug);} if(e.key==='Escape'){open_(slug);} });
+}
+async function titreSave(slug){
+  const inp=$('#titre-input'); if(!inp) return;
+  const msg=$('#titre-msg'); msg.textContent='Enregistrement…';
+  try{
+    const r=await (await fetch('/api/titre',{method:'POST',headers:{'content-type':'application/json'},body:JSON.stringify({slug,titre:inp.value})})).json();
+    if(r.ok){
+      TITRE=r.title;
+      const t=TEXTES.find(x=>x.slug===slug); if(t) t.title=r.title; // MAJ la liste sans recharger
+      msg.textContent='✓ Enregistré'; setTimeout(()=>{ render(); open_(slug); },400);
+    } else { msg.textContent='Erreur : '+(r.error||'inconnue'); }
+  }catch(e){ msg.textContent='Erreur : '+e; }
 }
 
 // --- Édition du corps -------------------------------------------------------
@@ -455,6 +514,23 @@ const server = createServer((req, res) => {
           writeCorps(slug, corps);
           // On renvoie le rendu à jour pour rafraîchir la vue lecture.
           json(res, { ok: true, html: renderMarkdown(readCorps(slug)) });
+        } catch (e) {
+          json(res, { ok: false, error: String(e) }, 400);
+        }
+      });
+      return;
+    }
+    if (req.method === 'POST' && url.pathname === '/api/titre') {
+      let body = '';
+      req.on('data', (c) => (body += c));
+      req.on('end', () => {
+        try {
+          const { slug, titre } = JSON.parse(body);
+          if (typeof slug !== 'string' || typeof titre !== 'string') {
+            throw new Error('Paramètres invalides');
+          }
+          const value = writeTitre(slug, titre);
+          json(res, { ok: true, title: value });
         } catch (e) {
           json(res, { ok: false, error: String(e) }, 400);
         }
