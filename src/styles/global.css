@@ -115,6 +115,11 @@ main { flex: 1 0 auto; }
 @media (max-width: 640px) {
   .lecture, .page { padding-inline: 1.25rem; }
 }
+/* Très petits écrans (≤ 380px) : le corps des textes agrandi (1.44rem) tombait
+   sous ~40 signes/ligne. On rend ~8px de largeur pour rester lisible. */
+@media (max-width: 380px) {
+  .lecture, .page { padding-inline: 1rem; }
+}
 
 /* En-tête : wordmark (lien retour, pages intérieures) + nav petites capitales. */
 .site-header { }
@@ -214,9 +219,9 @@ main { flex: 1 0 auto; }
 }
 .intro {
   margin: var(--silence-court) 0 0;
-  color: var(--sepia);
-  font-size: 1.2rem;
-  line-height: 1.5;
+  color: #463A2E;        /* brun-encre : la voix de l'auteur, comme le corps des textes */
+  font-size: 1.28rem;
+  line-height: 1.55;
   max-width: 34rem;
 }
 .intro p { margin: 0 0 calc(var(--b) * 0.5); }
@@ -327,6 +332,24 @@ main { flex: 1 0 auto; }
    défilement devient le seuil d'entrée). Le corps coule en paragraphes égaux —
    aucune mise en forme (ni lettrine, ni exergue, ni fleuron). */
 [data-dbg='texte'] .prose { margin-top: var(--silence-long); }
+
+/* Titre d'un écrit : même présentation que dans les listes (romain gras encre),
+   pour que le titre soit identique du sommaire à la page de lecture (option B). */
+[data-dbg='texte__titre'] {
+  font-style: normal;
+  font-weight: 600;
+  color: var(--encre);
+}
+
+/* La VOIX de l'auteur (corps des écrits) — « quand je parle à une amie » :
+   brun-encre chaud (pas l'encre noire) et légèrement agrandi. Le brun garde la
+   chaleur du sépia tout en restant lisible à l'écran (lumière émise → contraste
+   plus exigeant que le papier). Ciblé sur le seul corps de lecture, pas sur les
+   pages fixes (À propos / Accompagnement…). */
+[data-dbg='texte__corps'] {
+  color: #463A2E;       /* brun-encre chaud — la voix, pas le noir froid */
+  font-size: 1.44rem;   /* +10 % : des lettres plus présentes compensent la douceur (desktop + mobile) */
+}
 
 /* Fin de texte : deux liens de POIDS ÉGAL, en EB Garamond, soulignés d'un filet
    bleu fin. Le « ou » en italique sépia. Pas de pont, pas de folio, pas de JS. */
