@@ -4,7 +4,7 @@ livreFableDanPhu: false
 livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
-livreAimerSansDisparaitre: false
+livreAimerSansDisparaitre: true
 title: "Merci de m’avoir quittée"
 excerpt: "Au final, j’aime plus ma vérité sans toi que mon confort avec toi."
 category: "amour-presence"
@@ -12,6 +12,7 @@ entry: true
 entryRole: "reconnaissance"
 order: 1
 ---
+
 
 Dernièrement, j’ai discuté avec une ancienne participante qui a subi une rupture. Elle a assez mal vécu la situation pendant un certain temps. Du chagrin, des pensées de victimes, des questions existentielles et une vision pessimiste et douloureuse de l’avenir.
 
