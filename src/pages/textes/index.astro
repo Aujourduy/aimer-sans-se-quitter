@@ -56,6 +56,10 @@ const themes = CATEGORY_ORDER.map((cat, i) => ({
       <p>Vous pouvez commencer n’importe où.</p>
     </div>
 
+    {/* « Reprendre la lecture » (Tâche 3) : conteneur vide, masqué côté serveur.
+        Le script le remplit et le révèle si un dernier texte existe. */}
+    <p class="reprendre" data-dbg="textes__reprendre" hidden></p>
+
     {
       import.meta.env.DEV && (
         <section class="dev-review" data-dbg="textes__relecture-dev">
@@ -120,6 +124,40 @@ const themes = CATEGORY_ORDER.map((cat, i) => ({
     }
   </div>
 </Base>
+
+{/* Titres lus en sépia (Tâche 2) + « Reprendre » (Tâche 3). */}
+<script>
+  import {
+    slugDepuisPathname,
+    lireLus,
+    lireDernier,
+  } from '../../scripts/lecture-memoire.js';
+
+  document.addEventListener('DOMContentLoaded', () => {
+    // Tâche 2 — titres des textes lus en sépia. Les rangées de thème (.theme)
+    // ne sont jamais marquées : on cible uniquement les rangées de texte.
+    const lus = lireLus();
+    if (lus.length) {
+      document.querySelectorAll('.rangee:not(.theme)').forEach((rangee) => {
+        const href = rangee.getAttribute('href');
+        if (!href) return;
+        const slug = slugDepuisPathname(new URL(href, window.location.href).pathname);
+        if (lus.includes(slug)) rangee.classList.add('is-lu');
+      });
+    }
+
+    // Tâche 3 — « Reprendre — ‹titre› » si un dernier texte existe.
+    const conteneur = document.querySelector('.reprendre');
+    const dernier = lireDernier();
+    if (conteneur && dernier && dernier.url && dernier.titre) {
+      const lien = document.createElement('a');
+      lien.href = dernier.url;
+      lien.textContent = dernier.titre;
+      conteneur.append('Reprendre — ', lien);
+      conteneur.hidden = false;
+    }
+  });
+</script>
 
 <style>
   /* Index / sommaire : colonne de revue. */

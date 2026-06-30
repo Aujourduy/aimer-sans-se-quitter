@@ -92,6 +92,42 @@ if (idx !== -1 && idx < inCat.length - 1) {
   </article>
 </Base>
 
+{/* Mémoire de lecture (Tâche 1) : enregistre le dernier texte ouvert au
+    chargement, et marque le texte « lu » quand la fin (.fin) entre dans le
+    viewport. Aucun affichage, aucun bouton. Tout est passif et robuste. */}
+<script>
+  import {
+    slugDepuisPathname,
+    marquerLu,
+    enregistrerDernier,
+  } from '../../scripts/lecture-memoire.js';
+
+  document.addEventListener('DOMContentLoaded', () => {
+    const slug = slugDepuisPathname(window.location.pathname);
+    if (!slug) return;
+
+    // 1. Dernier texte ouvert — écrit immédiatement (sert à « Reprendre »).
+    const h1 = document.querySelector('.article-title');
+    const titre = h1 ? h1.textContent.trim() : document.title;
+    enregistrerDernier({ slug, titre, url: window.location.href });
+
+    // 2. Texte lu — quand la fin entre dans le viewport.
+    const fin = document.querySelector('.fin');
+    if (fin && 'IntersectionObserver' in window) {
+      const observer = new IntersectionObserver((entries) => {
+        for (const entry of entries) {
+          if (entry.isIntersecting) {
+            marquerLu(slug);
+            observer.disconnect();
+            break;
+          }
+        }
+      });
+      observer.observe(fin);
+    }
+  });
+</script>
+
 <style>
   /* Repères de relecture — rendus uniquement en développement, jamais en prod. */
   .dev-verif-group { display: flex; flex-wrap: wrap; gap: 0.4rem; margin-bottom: 1.25rem; }

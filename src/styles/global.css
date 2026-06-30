@@ -252,6 +252,25 @@ main { flex: 1 0 auto; }
 }
 .rangee:hover .rangee-titre { color: var(--bleu); }
 .rangee-excerpt { display: block; margin-top: 0.3rem; color: var(--sepia); }
+/* Texte déjà lu : son titre s'apaise d'encre à sépia — le même geste qu'un lien
+   visité. Couleur seulement (pas de barré, pas d'icône, pas de graisse). Le
+   survol garde la priorité sur le bleu. */
+.rangee.is-lu .rangee-titre { color: var(--sepia); }
+.rangee.is-lu:hover .rangee-titre { color: var(--bleu); }
+
+/* « Reprendre — ‹titre› » : une ligne, discrète, Inter sépia. */
+.reprendre {
+  font-family: var(--sans);
+  font-size: 0.84rem;
+  color: var(--sepia);
+  margin: var(--silence-court) 0 0;
+}
+.reprendre a {
+  color: var(--sepia);
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+}
+.reprendre a:hover { border-color: var(--bleu); }
 /* « lire » / « explorer » : vraies majuscules Inter (EB Garamond n'a pas de
    table smcp ; pas de fausse petite-cap serif). */
 .lire {

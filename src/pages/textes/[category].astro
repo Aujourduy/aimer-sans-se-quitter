@@ -65,6 +65,25 @@ const question = intro[intro.length - 1];
   </div>
 </Base>
 
+{/* Titres des textes lus en sépia (Tâche 2) — pages de thème. */}
+<script>
+  import {
+    slugDepuisPathname,
+    lireLus,
+  } from '../../scripts/lecture-memoire.js';
+
+  document.addEventListener('DOMContentLoaded', () => {
+    const lus = lireLus();
+    if (!lus.length) return;
+    document.querySelectorAll('.rangee:not(.theme)').forEach((rangee) => {
+      const href = rangee.getAttribute('href');
+      if (!href) return;
+      const slug = slugDepuisPathname(new URL(href, window.location.href).pathname);
+      if (lus.includes(slug)) rangee.classList.add('is-lu');
+    });
+  });
+</script>
+
 <style>
   .page { --colonne: 40rem; }
 </style>

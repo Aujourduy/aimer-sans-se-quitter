@@ -476,6 +476,42 @@ Configurez les questions d'invité dans TidyCal (pas de formulaire sur le site) 
 - _Le cadre est de quatre mois, au tarif de 6 000 euros. Si la conversation
   confirme que le travail est juste, cette décision est-elle envisageable ?_
 
+## Mémoire de lecture (discrète, locale)
+
+Le site garde une trace **locale** de la lecture, dans le navigateur du visiteur
+(`localStorage`, espace de noms `danphu:`) — rien n'est envoyé au serveur, aucun
+compte, aucun bouton. Logique factorisée dans `src/scripts/lecture-memoire.js`.
+
+- **Dernier texte ouvert** (`danphu:dernier`) : écrit à l'ouverture d'un texte.
+  Sur la page « Écrits », une seule ligne discrète apparaît alors :
+  « Reprendre — ‹titre› ». Absente tant qu'aucun texte n'a été ouvert.
+- **Textes lus** (`danphu:lus`) : un texte est marqué « lu » quand le lecteur
+  atteint sa fin. Sur « Écrits » et les pages de thème, le **titre** d'un texte
+  lu passe d'encre à sépia (couleur seulement, pas de pastille ni de compteur).
+- Robuste : en navigation privée (où `localStorage` peut être bloqué), le site
+  se comporte exactement comme avant, sans erreur.
+
+## Application installable (PWA, lecture hors-ligne)
+
+Le site est une **PWA** : on peut l'installer (« Ajouter à l'écran d'accueil »)
+et relire hors-ligne les textes déjà visités. Configuration dans
+`astro.config.mjs` via le plugin officiel `@vite-pwa/astro` (le service worker
+est généré par Workbox, `registerType: 'autoUpdate'` → toujours à jour en ligne).
+
+Les **icônes** sont dans `public/` : `pwa-192.png`, `pwa-512.png` et
+`pwa-maskable-512.png`. Elles sont générées à partir du wordmark de marque
+`docs/DanPhucarre.png` (« DAN PHU » bleu d'encre sur crème). Pour les
+régénérer après une mise à jour du wordmark :
+
+```bash
+convert docs/DanPhucarre.png -resize 192x192 -background "#F4EFE6" -flatten public/pwa-192.png
+convert docs/DanPhucarre.png -resize 512x512 -background "#F4EFE6" -flatten public/pwa-512.png
+convert docs/DanPhucarre.png -resize 410x410 -background "#F4EFE6" -gravity center -extent 512x512 public/pwa-maskable-512.png
+```
+
+(La variante *maskable* garde le wordmark dans la zone sûre du masque.) Les
+couleurs du manifeste (`theme_color`, `background_color`) sont la crème du site.
+
 ## Déploiement — GitHub Pages (automatique)
 
 Le workflow `.github/workflows/deploy.yml` reconstruit et publie le site à
