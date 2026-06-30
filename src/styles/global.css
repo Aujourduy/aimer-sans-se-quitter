@@ -154,7 +154,7 @@ main { flex: 1 0 auto; }
   flex-wrap: wrap;
   gap: 0.6rem 1.4rem;
   font-family: var(--sans);
-  font-size: 0.72rem;
+  font-size: 0.792rem; /* ×1.1 — navbar un peu plus lisible */
   letter-spacing: 0.14em;
   text-transform: uppercase;
 }
@@ -168,6 +168,9 @@ main { flex: 1 0 auto; }
     flex-wrap: nowrap;
     gap: 0.9rem;
     letter-spacing: 0.08em;
+    /* Garde la taille d'origine sur mobile : les 4 entrées doivent tenir sur
+       UNE ligne (l'agrandissement ×1.1 ne s'applique qu'au desktop). */
+    font-size: 0.72rem;
   }
 }
 @media (max-width: 360px) {
