@@ -79,7 +79,11 @@ const question = intro[intro.length - 1];
       const href = rangee.getAttribute('href');
       if (!href) return;
       const slug = slugDepuisPathname(new URL(href, window.location.href).pathname);
-      if (lus.includes(slug)) rangee.classList.add('is-lu');
+      if (lus.includes(slug)) {
+        rangee.classList.add('is-lu');
+        const lbl = rangee.querySelector('.lire');
+        if (lbl) lbl.textContent = 'Relire';
+      }
     });
   });
 </script>

@@ -252,11 +252,13 @@ main { flex: 1 0 auto; }
 }
 .rangee:hover .rangee-titre { color: var(--bleu); }
 .rangee-excerpt { display: block; margin-top: 0.3rem; color: var(--sepia); }
-/* Texte déjà lu : son titre s'apaise d'encre à sépia — le même geste qu'un lien
-   visité. Couleur seulement (pas de barré, pas d'icône, pas de graisse). Le
-   survol garde la priorité sur le bleu. */
-.rangee.is-lu .rangee-titre { color: var(--sepia); }
+/* Texte déjà lu : son titre s'estompe (gris-sable, plus effacé que le sépia) —
+   le même geste qu'un lien visité. Couleur seulement (pas de barré, pas
+   d'icône, pas de graisse). Le survol garde la priorité sur le bleu. Le label
+   « Lire » devient « Relire » en bleu d'encre (changé aussi via le script). */
+.rangee.is-lu .rangee-titre { color: #B3A897; }
 .rangee.is-lu:hover .rangee-titre { color: var(--bleu); }
+.rangee.is-lu .lire { color: var(--bleu); }
 
 /* « Reprendre — ‹titre› » : une ligne, discrète, Inter sépia. */
 .reprendre {
