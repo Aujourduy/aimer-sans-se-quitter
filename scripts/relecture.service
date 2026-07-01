@@ -20,7 +20,7 @@ After=network-online.target
 Type=simple
 WorkingDirectory=/home/dang/La-Revue-Aimer-sans-se-quitter
 # N'écoute que sur l'IP Tailscale → inaccessible depuis le LAN ou l'extérieur.
-Environment=RELECTURE_HOST=100.95.124.70
+Environment=RELECTURE_HOST=127.0.0.1
 ExecStart=/home/dang/.nvm/versions/node/v22.21.1/bin/node scripts/relecture.mjs
 Restart=always
 RestartSec=3

@@ -8,6 +8,7 @@
     "build": "astro build",
     "preview": "astro preview",
     "relecture": "node scripts/relecture.mjs",
+    "serve-dist": "node scripts/serve-dist.mjs",
     "livres": "node scripts/generer-livres.mjs",
     "astro": "astro"
   },

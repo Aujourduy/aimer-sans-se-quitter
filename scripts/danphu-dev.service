@@ -1,0 +1,30 @@
+# Service systemd (--user) qui sert le build de prod du site danphu (dist/)
+# pour l'utiliser comme PWA installable via Tailscale (HTTPS par tailscale serve).
+# Versionné pour repartir d'un serveur vierge.
+#
+# RÉINSTALLATION sur un serveur neuf :
+#   1. git clone … && cd … && npm install && npm run build
+#   2. cp scripts/danphu-dev.service ~/.config/systemd/user/danphu-dev.service
+#   3. adapter si besoin : DANPHU_HOST (IP Tailscale), le chemin de node
+#      (ExecStart) et WorkingDirectory ci-dessous au nouvel environnement.
+#   4. systemctl --user daemon-reload
+#      systemctl --user enable --now danphu-dev.service
+#      loginctl enable-linger "$USER"   # survit aux déconnexions
+#   5. tailscale serve (voir README, section PWA de dev)
+#
+# NB : n'écoute que sur l'IP Tailscale. Sert dist/ ; régénérer avec npm run build.
+[Unit]
+Description=danphu (build dist, PWA de dev via Tailscale)
+After=network-online.target
+
+[Service]
+Type=simple
+WorkingDirectory=/home/dang/La-Revue-Aimer-sans-se-quitter
+Environment=DANPHU_HOST=127.0.0.1
+Environment=DANPHU_PORT=4321
+ExecStart=/home/dang/.nvm/versions/node/v22.21.1/bin/node scripts/serve-dist.mjs
+Restart=always
+RestartSec=3
+
+[Install]
+WantedBy=default.target
