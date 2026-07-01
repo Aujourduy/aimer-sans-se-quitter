@@ -10,7 +10,7 @@
 // Aucune dépendance au site Astro : lit/écrit seulement src/content/textes/*.md.
 
 import { createServer } from 'node:http';
-import { readFileSync, writeFileSync, readdirSync } from 'node:fs';
+import { readFileSync, writeFileSync, readdirSync, existsSync, mkdirSync } from 'node:fs';
 import { fileURLToPath } from 'node:url';
 import { dirname, join } from 'node:path';
 import { networkInterfaces } from 'node:os';
@@ -19,6 +19,8 @@ import { genererLivres } from './generer-livres.mjs';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const TEXTES_DIR = join(__dirname, '..', 'src', 'content', 'textes');
+// Todolist des sujets de textes à écrire — JSON versionné (suivi git).
+const SUJETS_FILE = join(__dirname, '..', 'content', 'sujets-todo.json');
 const PORT = 4455;
 // Adresse d'écoute. Par défaut 0.0.0.0 (localhost + réseau local + Tailscale).
 // En service permanent, on fixe RELECTURE_HOST à l'IP Tailscale pour n'être
@@ -84,6 +86,51 @@ function listTextes() {
     return a.title.localeCompare(b.title, 'fr');
   });
   return items;
+}
+
+// --- Todolist des sujets ---------------------------------------------------
+// Persistée dans content/sujets-todo.json : [{ id, titre, fait, cree }].
+
+function readSujets() {
+  try {
+    if (!existsSync(SUJETS_FILE)) return [];
+    const arr = JSON.parse(readFileSync(SUJETS_FILE, 'utf8'));
+    return Array.isArray(arr) ? arr : [];
+  } catch {
+    return [];
+  }
+}
+
+function writeSujets(sujets) {
+  mkdirSync(dirname(SUJETS_FILE), { recursive: true });
+  writeFileSync(SUJETS_FILE, JSON.stringify(sujets, null, 2) + '\n', 'utf8');
+}
+
+function addSujet(titre) {
+  const t = String(titre || '').trim();
+  if (!t) throw new Error('Sujet vide');
+  const sujets = readSujets();
+  // id monotone (Date.now peut être indispo dans certains contextes ; ici on est
+  // dans un serveur Node classique, Date.now est disponible).
+  const id = 's' + Date.now().toString(36) + Math.floor(Math.random() * 1e4).toString(36);
+  sujets.unshift({ id, titre: t, fait: false, cree: new Date().toISOString() });
+  writeSujets(sujets);
+  return sujets;
+}
+
+function toggleSujet(id) {
+  const sujets = readSujets();
+  const s = sujets.find((x) => x.id === id);
+  if (!s) throw new Error('Sujet introuvable');
+  s.fait = !s.fait;
+  writeSujets(sujets);
+  return sujets;
+}
+
+function deleteSujet(id) {
+  const sujets = readSujets().filter((x) => x.id !== id);
+  writeSujets(sujets);
+  return sujets;
 }
 
 function readTexte(slug) {
@@ -250,6 +297,10 @@ function pageHtml() {
 <html lang="fr"><head>
 <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Relecture — Aimer sans se quitter</title>
+<link rel="manifest" href="/manifest.webmanifest">
+<meta name="theme-color" content="#1A2D4A">
+<link rel="apple-touch-icon" href="/pwa/icon-192.png">
+<link rel="icon" type="image/png" href="/pwa/icon-192.png">
 <style>
   :root{--creme:#F4EFE6;--encre:#1F1B17;--bleu:#1A2D4A;--sepia:#6B6258;--filet:#CFC3B4;--vert:#1f7a3d;--ocre:#b08900;}
   *{box-sizing:border-box}
@@ -263,6 +314,21 @@ function pageHtml() {
   .filters button{font-size:.72rem;padding:.2rem .5rem;border:1px solid var(--filet);background:#fff;border-radius:1rem;cursor:pointer;color:var(--sepia);}
   .filters button.active{background:var(--bleu);color:#fff;border-color:var(--bleu);}
   .search{width:100%;padding:.4rem .6rem;border:1px solid var(--filet);border-radius:.4rem;margin-bottom:.75rem;font-size:.85rem;}
+  /* --- Todolist des sujets --- */
+  .sujets{border:1px solid var(--filet);border-radius:.5rem;padding:.6rem;margin-bottom:.9rem;background:#fbf8f2;}
+  .sujets-head{display:flex;align-items:center;justify-content:space-between;margin-bottom:.5rem;}
+  .sujets-head h2{font-size:.78rem;font-weight:700;color:var(--bleu);margin:0;text-transform:uppercase;letter-spacing:.03em;}
+  .sujets-toggle{font-size:.68rem;color:var(--sepia);background:none;border:none;cursor:pointer;text-decoration:underline;padding:0;}
+  .sujet-add{display:flex;gap:.3rem;margin-bottom:.5rem;}
+  .sujet-add input{flex:1;min-width:0;padding:.35rem .5rem;border:1px solid var(--filet);border-radius:.4rem;font-size:.82rem;}
+  .sujet-add button{padding:.35rem .6rem;border:1px solid var(--bleu);background:var(--bleu);color:#fff;border-radius:.4rem;cursor:pointer;font-size:.82rem;}
+  .sujet{display:flex;align-items:flex-start;gap:.45rem;padding:.28rem .1rem;font-size:.83rem;line-height:1.3;}
+  .sujet input[type=checkbox]{margin-top:.15rem;cursor:pointer;accent-color:var(--vert);}
+  .sujet-titre{flex:1;color:var(--encre);cursor:pointer;}
+  .sujet.fait .sujet-titre{text-decoration:line-through;color:var(--sepia);opacity:.7;}
+  .sujet-del{background:none;border:none;color:var(--filet);cursor:pointer;font-size:.9rem;line-height:1;padding:0 .1rem;}
+  .sujet-del:hover{color:#b04a3a;}
+  .sujets-empty{font-size:.76rem;color:var(--sepia);font-style:italic;}
   .cat{font-size:.75rem;font-weight:700;color:var(--bleu);margin:.9rem 0 .3rem;text-transform:uppercase;letter-spacing:.03em;}
   .row{padding:.4rem .5rem;border-radius:.4rem;cursor:pointer;display:flex;flex-direction:column;gap:.25rem;}
   .row:hover{background:#ece5d8;}
@@ -333,7 +399,18 @@ function pageHtml() {
       <button data-f="pub">Publiés</button>
       ${LIVRE_FLAGS.map((f) => `<button data-f="flag:${f.key}">${f.label}</button>`).join('')}
     </div>
-    <input class="search" id="search" placeholder="Filtrer par titre…">
+    <input class="search" id="search" placeholder="Rechercher (mots-clés, OU, fautes tolérées)…">
+    <section class="sujets">
+      <div class="sujets-head">
+        <h2>Sujets à écrire</h2>
+        <button class="sujets-toggle" id="sujets-toggle">masquer les faits</button>
+      </div>
+      <form class="sujet-add" id="sujet-add">
+        <input id="sujet-input" placeholder="Nouveau sujet de texte…" autocomplete="off">
+        <button type="submit">+</button>
+      </form>
+      <div id="sujets-list"></div>
+    </section>
     <button class="gen" id="gen">Régénérer les livres</button>
     <div class="gen-msg" id="gen-msg"></div>
     <div id="list"></div>
@@ -343,9 +420,52 @@ function pageHtml() {
 <script>
 const LIVRE_FLAGS=${JSON.stringify(LIVRE_FLAGS)};
 let TEXTES=[], filter='all', q='', sel=null;
+let SUJETS=[], masquerFaits=false;
 const $=s=>document.querySelector(s);
 
-async function load(){ TEXTES=await (await fetch('/api/textes')).json(); render(); }
+// --- Recherche floue : chaque mot toléré aux fautes, mots reliés par OU -------
+function norm(s){ return String(s||'').toLowerCase().normalize('NFD').replace(/[\\u0300-\\u036f]/g,''); }
+// Distance de Levenshtein (bornée : on s'arrête si > max pour la perf).
+function lev(a,b,max){
+  const la=a.length, lb=b.length;
+  if(Math.abs(la-lb)>max) return max+1;
+  let prev=Array.from({length:lb+1},(_,i)=>i);
+  for(let i=1;i<=la;i++){
+    let cur=[i]; let best=i;
+    for(let j=1;j<=lb;j++){
+      const cost=a[i-1]===b[j-1]?0:1;
+      const v=Math.min(prev[j]+1,cur[j-1]+1,prev[j-1]+cost);
+      cur[j]=v; if(v<best)best=v;
+    }
+    if(best>max) return max+1;
+    prev=cur;
+  }
+  return prev[lb];
+}
+// Un mot-clé « matche » un texte si : sous-chaîne exacte, OU un mot du texte est
+// à faible distance de Levenshtein (tolérance ∝ longueur du mot recherché).
+function motMatche(mot, texteNorm, motsTexte){
+  if(!mot) return true;
+  if(texteNorm.includes(mot)) return true;
+  const tol = mot.length<=4?1:(mot.length<=7?2:3);
+  for(const w of motsTexte){ if(lev(mot,w,tol)<=tol) return true; }
+  return false;
+}
+// Requête entière : au moins UN mot-clé matche (OU). Champs = titre (+ autres).
+function matcheRecherche(champs){
+  if(!q) return true;
+  const mots=q.split(/\\s+/).filter(Boolean);
+  if(!mots.length) return true;
+  const texteNorm=norm(champs);
+  const motsTexte=texteNorm.split(/[^a-z0-9]+/).filter(Boolean);
+  return mots.some(m=>motMatche(m, texteNorm, motsTexte));
+}
+
+async function load(){
+  TEXTES=await (await fetch('/api/textes')).json();
+  SUJETS=await (await fetch('/api/sujets')).json();
+  render(); renderSujets();
+}
 
 function visible(t){
   if(filter==='todo'&&t.verifieParDuy)return false;
@@ -353,7 +473,7 @@ function visible(t){
   if(filter==='draft'&&!t.draft)return false;
   if(filter==='pub'&&t.draft)return false;
   if(filter.startsWith('flag:')&&!t[filter.slice(5)])return false;
-  if(q&&!t.title.toLowerCase().includes(q))return false;
+  if(q&&!matcheRecherche(t.title))return false;
   return true;
 }
 function render(){
@@ -372,6 +492,38 @@ function render(){
   }
   $('#list').innerHTML=h||'<p class="empty">Aucun texte.</p>';
 }
+
+// --- Rendu de la todolist des sujets ---------------------------------------
+function renderSujets(){
+  const cont=$('#sujets-list'); if(!cont) return;
+  let items=SUJETS.slice();
+  if(masquerFaits) items=items.filter(s=>!s.fait);
+  if(q) items=items.filter(s=>matcheRecherche(s.titre));
+  // Les sujets non faits d'abord, puis les faits.
+  items.sort((a,b)=>(a.fait?1:0)-(b.fait?1:0));
+  if(!items.length){ cont.innerHTML='<p class="sujets-empty">'+(SUJETS.length?'Aucun sujet ne correspond.':'Aucun sujet pour le moment.')+'</p>'; return; }
+  cont.innerHTML=items.map(s=>
+    '<div class="sujet'+(s.fait?' fait':'')+'">'
+    +'<input type="checkbox" '+(s.fait?'checked':'')+' onchange="toggleSujet(\\''+s.id+'\\')">'
+    +'<span class="sujet-titre" onclick="toggleSujet(\\''+s.id+'\\')">'+esc(s.titre)+'</span>'
+    +'<button class="sujet-del" title="Supprimer" onclick="deleteSujet(\\''+s.id+'\\')">×</button>'
+    +'</div>'
+  ).join('');
+}
+async function addSujet(titre){
+  const r=await (await fetch('/api/sujets/add',{method:'POST',headers:{'content-type':'application/json'},body:JSON.stringify({titre})})).json();
+  if(r.ok){ SUJETS=r.sujets; renderSujets(); }
+}
+async function toggleSujet(id){
+  const r=await (await fetch('/api/sujets/toggle',{method:'POST',headers:{'content-type':'application/json'},body:JSON.stringify({id})})).json();
+  if(r.ok){ SUJETS=r.sujets; renderSujets(); }
+}
+async function deleteSujet(id){
+  const r=await (await fetch('/api/sujets/delete',{method:'POST',headers:{'content-type':'application/json'},body:JSON.stringify({id})})).json();
+  if(r.ok){ SUJETS=r.sujets; renderSujets(); }
+}
+window.toggleSujet=toggleSujet; window.deleteSujet=deleteSujet;
+
 function rowHtml(t){
   return '<div class="row'+(sel===t.slug?' sel':'')+'" onclick="open_(\\''+t.slug+'\\')">'
     +'<div class="row-title">'+t.title+'</div>'
@@ -464,7 +616,18 @@ async function toggle(slug,field){
 }
 $('#filters').addEventListener('click',e=>{if(e.target.dataset.f){filter=e.target.dataset.f;[...$('#filters').children].forEach(b=>b.classList.toggle('active',b===e.target));render();}});
 function backToList(){ document.querySelector('.app').classList.remove('reading'); window.scrollTo(0,0); }
-$('#search').addEventListener('input',e=>{q=e.target.value.toLowerCase();render();});
+$('#search').addEventListener('input',e=>{q=norm(e.target.value).trim();render();renderSujets();});
+// --- Todolist des sujets : ajout, filtre « masquer les faits » ---
+$('#sujet-add').addEventListener('submit',e=>{
+  e.preventDefault();
+  const inp=$('#sujet-input'); const v=inp.value.trim();
+  if(v){ addSujet(v); inp.value=''; inp.focus(); }
+});
+$('#sujets-toggle').addEventListener('click',()=>{
+  masquerFaits=!masquerFaits;
+  $('#sujets-toggle').textContent=masquerFaits?'montrer les faits':'masquer les faits';
+  renderSujets();
+});
 $('#gen').addEventListener('click',async()=>{
   const btn=$('#gen'); btn.disabled=true; btn.textContent='Génération…'; $('#gen-msg').textContent='';
   try{
@@ -475,9 +638,66 @@ $('#gen').addEventListener('click',async()=>{
   btn.disabled=false; btn.textContent='Régénérer les livres';
 });
 load();
+if ('serviceWorker' in navigator) {
+  window.addEventListener('load', () => navigator.serviceWorker.register('/sw.js').catch(() => {}));
+}
 </script>
 </body></html>`;
 }
+
+// --- PWA : manifeste, service worker, icônes -------------------------------
+// L'outil de relecture devient installable (appli plein écran) sur mobile via
+// HTTPS (tailscale serve). Fond bleu d'encre pour se distinguer du site danphu
+// (fond crème). Le SW met en cache l'app-shell ; les appels /api/* restent en
+// réseau (données toujours fraîches, écriture directe dans les .md).
+const PWA_MANIFEST = JSON.stringify({
+  name: 'Relecture — Aimer sans se quitter',
+  short_name: 'Relecture',
+  lang: 'fr',
+  dir: 'ltr',
+  display: 'standalone',
+  start_url: '/',
+  scope: '/',
+  background_color: '#1A2D4A',
+  theme_color: '#1A2D4A',
+  icons: [
+    { src: '/pwa/icon-192.png', sizes: '192x192', type: 'image/png' },
+    { src: '/pwa/icon-512.png', sizes: '512x512', type: 'image/png' },
+    { src: '/pwa/icon-maskable-512.png', sizes: '512x512', type: 'image/png', purpose: 'maskable' },
+  ],
+});
+// Service worker minimal, sans dépendance : cache l'app-shell (la page /),
+// réseau d'abord pour la navigation (toujours à jour), jamais les /api/*.
+const PWA_SW = `
+const CACHE = 'relecture-v1';
+self.addEventListener('install', (e) => { self.skipWaiting(); });
+self.addEventListener('activate', (e) => { e.waitUntil(self.clients.claim()); });
+self.addEventListener('fetch', (e) => {
+  const u = new URL(e.request.url);
+  if (u.pathname.startsWith('/api/')) return; // données : toujours réseau
+  if (e.request.mode === 'navigate') {
+    e.respondWith(
+      fetch(e.request)
+        .then((r) => { caches.open(CACHE).then((c) => c.put('/', r.clone())); return r; })
+        .catch(() => caches.match('/'))
+    );
+    return;
+  }
+  e.respondWith(
+    caches.match(e.request).then((c) => c || fetch(e.request).then((r) => {
+      const copy = r.clone();
+      caches.open(CACHE).then((cache) => cache.put(e.request, copy));
+      return r;
+    }))
+  );
+});
+`;
+const PWA_ICON_DIR = join(__dirname, '..', 'public', 'relecture-pwa');
+const PWA_ICONS = {
+  '/pwa/icon-192.png': 'icon-192.png',
+  '/pwa/icon-512.png': 'icon-512.png',
+  '/pwa/icon-maskable-512.png': 'icon-maskable-512.png',
+};
 
 // --- Serveur ---------------------------------------------------------------
 
@@ -554,6 +774,63 @@ const server = createServer((req, res) => {
     if (req.method === 'POST' && url.pathname === '/api/generer-livres') {
       const resume = genererLivres();
       return json(res, { ok: true, resume });
+    }
+    // --- Todolist des sujets ---
+    if (req.method === 'GET' && url.pathname === '/api/sujets') {
+      return json(res, readSujets());
+    }
+    if (req.method === 'POST' && url.pathname === '/api/sujets/add') {
+      let body = '';
+      req.on('data', (c) => (body += c));
+      req.on('end', () => {
+        try {
+          const { titre } = JSON.parse(body);
+          json(res, { ok: true, sujets: addSujet(titre) });
+        } catch (e) {
+          json(res, { ok: false, error: String(e) }, 400);
+        }
+      });
+      return;
+    }
+    if (req.method === 'POST' && url.pathname === '/api/sujets/toggle') {
+      let body = '';
+      req.on('data', (c) => (body += c));
+      req.on('end', () => {
+        try {
+          const { id } = JSON.parse(body);
+          json(res, { ok: true, sujets: toggleSujet(id) });
+        } catch (e) {
+          json(res, { ok: false, error: String(e) }, 400);
+        }
+      });
+      return;
+    }
+    if (req.method === 'POST' && url.pathname === '/api/sujets/delete') {
+      let body = '';
+      req.on('data', (c) => (body += c));
+      req.on('end', () => {
+        try {
+          const { id } = JSON.parse(body);
+          json(res, { ok: true, sujets: deleteSujet(id) });
+        } catch (e) {
+          json(res, { ok: false, error: String(e) }, 400);
+        }
+      });
+      return;
+    }
+    // --- PWA ---
+    if (req.method === 'GET' && url.pathname === '/manifest.webmanifest') {
+      res.writeHead(200, { 'content-type': 'application/manifest+json; charset=utf-8' });
+      return res.end(PWA_MANIFEST);
+    }
+    if (req.method === 'GET' && url.pathname === '/sw.js') {
+      res.writeHead(200, { 'content-type': 'text/javascript; charset=utf-8' });
+      return res.end(PWA_SW);
+    }
+    if (req.method === 'GET' && PWA_ICONS[url.pathname]) {
+      const buf = readFileSync(join(PWA_ICON_DIR, PWA_ICONS[url.pathname]));
+      res.writeHead(200, { 'content-type': 'image/png' });
+      return res.end(buf);
     }
     json(res, { error: 'not found' }, 404);
   } catch (e) {
