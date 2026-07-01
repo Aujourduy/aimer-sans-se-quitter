@@ -36,6 +36,42 @@ loginctl enable-linger "$USER"   # survit aux déconnexions SSH
 systemctl --user status relecture.service   # vérifier
 ```
 
+**Applis installables sur mobile (PWA de dev, via Tailscale HTTPS)** — le site
+danphu et l'outil de relecture peuvent s'installer comme de vraies applis
+plein écran sur le téléphone (icône dédiée, pas un raccourci Chrome). Elles ne
+sont joignables que sur le tailnet.
+
+URLs (une fois la config en place) :
+
+| Appli | URL |
+| --- | --- |
+| Dan Phu (site, build `dist/`) | `https://server-dang.tail4fa970.ts.net:8444/` |
+| Relecture (outil) | `https://server-dang.tail4fa970.ts.net:8443/` |
+
+Sur le téléphone : ouvrir l'URL dans Chrome → menu ⋮ → **Installer l'application**.
+
+Mise en place (une fois) :
+
+```bash
+# 1. Backends locaux en service systemd permanent (127.0.0.1, tailscale proxifie)
+cp scripts/danphu-dev.service ~/.config/systemd/user/danphu-dev.service
+npm run build                         # danphu-dev sert dist/ (le SW n'existe qu'en build)
+systemctl --user daemon-reload
+systemctl --user enable --now danphu-dev.service relecture.service
+loginctl enable-linger "$USER"
+
+# 2. HTTPS via Tailscale (prérequis : admin console → activer « Serve », et
+#    `sudo tailscale set --operator=$USER` une fois). Le port 443 est occupé
+#    par le container Docker nextcloud-nginx → on utilise 8443 / 8444.
+tailscale serve --bg --https=8444 http://127.0.0.1:4321   # danphu
+tailscale serve --bg --https=8443 http://127.0.0.1:4455   # relecture
+tailscale serve status                                    # vérifier
+```
+
+La config `tailscale serve` et les services systemd survivent aux reboots :
+rien à relancer. Pour mettre danphu à jour : `npm run build` (le service
+resert `dist/`, le service worker se rafraîchit tout seul).
+
 **Ce qui N'est PAS dans le dépôt** (volontairement — se régénère ou vit ailleurs) :
 
 | Élément | Où le retrouver |
