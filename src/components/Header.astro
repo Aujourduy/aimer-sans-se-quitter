@@ -21,6 +21,7 @@ const current = Astro.url.pathname.replace(base, '').replace(/\/$/, '') || '/';
 const isDev = import.meta.env.DEV;
 ---
 
+{isDev && <div class="dev-banner" data-dbg="entete__dev">dev</div>}
 <header class="site-header" data-dbg="entete">
   <div class={`header-inner${wordmark ? '' : ' sans-marque'}`}>
     {
@@ -41,21 +42,20 @@ const isDev = import.meta.env.DEV;
           </a>
         ))
       }
-      {isDev && <span class="dev-tag" data-dbg="entete__dev">dev</span>}
     </nav>
   </div>
 </header>
 
 <style>
-  /* Repère « dev » à droite de la nav — serveur de dev uniquement. */
-  .dev-tag {
+  /* Bandeau « dev » en haut de page — serveur de dev uniquement, jamais en prod. */
+  .dev-banner {
+    text-align: center;
     font-family: var(--sans);
     font-size: 0.7rem;
-    letter-spacing: 0.1em;
+    letter-spacing: 0.18em;
     text-transform: uppercase;
     color: var(--creme);
     background: var(--bleu);
-    padding: 0.1rem 0.45rem;
-    border-radius: 0.6rem;
+    padding: 0.2rem 0.5rem;
   }
 </style>
