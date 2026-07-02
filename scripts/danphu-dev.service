@@ -22,6 +22,8 @@ Type=simple
 WorkingDirectory=/home/dang/La-Revue-Aimer-sans-se-quitter
 Environment=DANPHU_HOST=127.0.0.1
 Environment=DANPHU_PORT=4321
+# Sert le build « de relecture » (avec brouillons) — voir npm run build:drafts.
+Environment=DANPHU_DIST=dist-dev
 ExecStart=/home/dang/.nvm/versions/node/v22.21.1/bin/node scripts/serve-dist.mjs
 Restart=always
 RestartSec=3

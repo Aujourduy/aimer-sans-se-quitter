@@ -9,13 +9,55 @@ import AstroPWA from '@vite-pwa/astro';
 // + base '/aimer-sans-se-quitter', et supprimer public/CNAME.
 const base = '/';
 
+// Build « de relecture » (PWA de dev) : inclut les brouillons ET produit une
+// identité PWA DISTINCTE (nom, id, icônes « D ») pour qu'Android l'installe
+// comme une appli séparée de la prod (pas de conflit « déjà installé »).
+const includeDrafts = process.env.INCLUDE_DRAFTS === 'true';
+
+// Manifest : prod (wordmark) ou dev (« D »), selon includeDrafts.
+const manifest = includeDrafts
+  ? {
+      // id distinct → Android ne confond pas avec l'appli de prod.
+      id: '/?app=dev',
+      name: 'Dan Phu (dev)',
+      short_name: 'Dan Phu dev',
+      lang: 'fr',
+      dir: 'ltr',
+      display: 'standalone',
+      start_url: base,
+      scope: base,
+      background_color: '#F4EFE6',
+      theme_color: '#1A2D4A',
+      icons: [
+        { src: 'dev-pwa/icon-192.png', sizes: '192x192', type: 'image/png' },
+        { src: 'dev-pwa/icon-512.png', sizes: '512x512', type: 'image/png' },
+        { src: 'dev-pwa/icon-maskable-512.png', sizes: '512x512', type: 'image/png', purpose: 'maskable' },
+      ],
+    }
+  : {
+      id: '/',
+      name: 'Dan Phu — Aimer sans se quitter',
+      short_name: 'Dan Phu',
+      lang: 'fr',
+      dir: 'ltr',
+      display: 'standalone',
+      start_url: base,
+      scope: base,
+      // Crème du site (token --creme) — aucune couleur nouvelle.
+      background_color: '#F4EFE6',
+      theme_color: '#F4EFE6',
+      icons: [
+        { src: 'pwa-192.png', sizes: '192x192', type: 'image/png' },
+        { src: 'pwa-512.png', sizes: '512x512', type: 'image/png' },
+        { src: 'pwa-maskable-512.png', sizes: '512x512', type: 'image/png', purpose: 'maskable' },
+      ],
+    };
+
 export default defineConfig({
   site: 'https://danphu.com',
   base,
-  // Serveur de dev uniquement (astro dev) : autorise l'accès via le nom
-  // Tailscale, pour consulter le site de dev (brouillons compris) sur mobile
-  // en HTTPS (tailscale serve → 127.0.0.1:4322). Sans effet sur le build/prod.
   vite: {
+    // Serveur de dev uniquement : autorise l'accès par nom Tailscale.
     server: {
       allowedHosts: ['server-dang.tail4fa970.ts.net'],
     },
@@ -29,28 +71,7 @@ export default defineConfig({
       // scope / base base-aware : tiennent sous sous-chemin comme à la racine.
       scope: base,
       base,
-      manifest: {
-        name: 'Dan Phu — Aimer sans se quitter',
-        short_name: 'Dan Phu',
-        lang: 'fr',
-        dir: 'ltr',
-        display: 'standalone',
-        start_url: base,
-        scope: base,
-        // Crème du site (token --creme) — aucune couleur nouvelle.
-        background_color: '#F4EFE6',
-        theme_color: '#F4EFE6',
-        icons: [
-          { src: 'pwa-192.png', sizes: '192x192', type: 'image/png' },
-          { src: 'pwa-512.png', sizes: '512x512', type: 'image/png' },
-          {
-            src: 'pwa-maskable-512.png',
-            sizes: '512x512',
-            type: 'image/png',
-            purpose: 'maskable',
-          },
-        ],
-      },
+      manifest,
       workbox: {
         // En ligne, toujours la dernière version ; hors-ligne, repli sur le cache.
         navigateFallback: `${base}index.html`,

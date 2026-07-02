@@ -1,5 +1,7 @@
 # build output
 dist/
+# build « de relecture » (avec brouillons) servi par la PWA de dev
+dist-dev/
 # generated types
 .astro/
 # dependencies

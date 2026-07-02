@@ -12,7 +12,10 @@ import {
 
 // Une page par catégorie (cinq au total). Numéro de partie I–V selon l'anneau.
 export async function getStaticPaths() {
-  const all = await getCollection('textes', ({ data }) => !data.draft || import.meta.env.DEV);
+  // Brouillons : visibles en dev, ou dans le build « de relecture » de la PWA
+  // de dev (INCLUDE_DRAFTS=true). Build de prod normal → brouillons masqués.
+  const showDrafts = import.meta.env.DEV || process.env.INCLUDE_DRAFTS === 'true';
+  const all = await getCollection('textes', ({ data }) => !data.draft || showDrafts);
   return CATEGORY_ORDER.map((cat, i) => ({
     params: { category: cat },
     props: {

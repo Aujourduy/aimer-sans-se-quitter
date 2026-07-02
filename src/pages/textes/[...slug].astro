@@ -5,11 +5,12 @@ import { CATEGORY_LABELS, CATEGORY_ORDER } from '../../lib/categories';
 import { url } from '../../lib/url';
 
 export async function getStaticPaths() {
-  // En dev, on génère aussi les pages des brouillons pour pouvoir les relire ;
-  // en production, les brouillons restent exclus.
+  // En dev (ou build « de relecture » INCLUDE_DRAFTS=true, PWA de dev), on génère
+  // aussi les pages des brouillons ; en production, ils restent exclus.
+  const showDrafts = import.meta.env.DEV || process.env.INCLUDE_DRAFTS === 'true';
   const textes = await getCollection(
     'textes',
-    ({ data }) => !data.draft || import.meta.env.DEV
+    ({ data }) => !data.draft || showDrafts
   );
   return textes.map((entry) => ({
     params: { slug: entry.id },
@@ -22,6 +23,8 @@ const { Content } = await render(entry);
 const verified = entry.data.verifieParDuy;
 const isDraft = entry.data.draft ?? false;
 const categorie = CATEGORY_LABELS[entry.data.category];
+// Repères de relecture : dev ou build « de relecture » (PWA de dev).
+const showDrafts = import.meta.env.DEV || process.env.INCLUDE_DRAFTS === 'true';
 
 // « Continuer par un autre texte » : le texte publié suivant dans la catégorie,
 // sinon le premier texte de la catégorie suivante (anneau). Calcul à la
@@ -51,7 +54,7 @@ if (idx !== -1 && idx < inCat.length - 1) {
 <Base title={entry.data.title} description={entry.data.excerpt}>
   <article class="lecture" data-dbg="texte">
     {
-      import.meta.env.DEV && (
+      showDrafts && (
         <div class="dev-verif-group" data-dbg="texte__relecture-dev">
           <span
             class={`dev-verif ${verified ? 'dev-verif--ok' : 'dev-verif--todo'}`}

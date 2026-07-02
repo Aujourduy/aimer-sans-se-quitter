@@ -21,10 +21,10 @@ const {
 // La balise <title> (et og:title / twitter:title) est volontairement fixée à
 // « Dan Phu » sur toutes les pages, accueil comprise. La prop `title` reste
 // acceptée (pour ne rien casser ailleurs) mais n'influe plus sur ces balises.
-// En mode dev (astro dev, accès mobile via Tailscale), on distingue le raccourci
-// mobile de l'appli de prod : icône « a » italique (l'ancien logo du dev) et
-// titre suffixé « (dev) ». En prod (build), rien de tout ceci ne s'applique.
-const isDev = import.meta.env.DEV;
+// Variante « dev » : astro dev OU build « de relecture » (PWA de dev,
+// INCLUDE_DRAFTS=true). On distingue alors l'appli de la prod : icône « D »,
+// titre « Dan Phu (dev) », manifest propre. En prod normal, rien ne s'applique.
+const isDev = import.meta.env.DEV || process.env.INCLUDE_DRAFTS === 'true';
 const metaTitle = isDev ? 'Dan Phu (dev)' : 'Dan Phu';
 const base = import.meta.env.BASE_URL;
 ---

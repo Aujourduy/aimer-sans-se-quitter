@@ -16,7 +16,9 @@ import { fileURLToPath } from 'node:url';
 import { dirname, join, extname, normalize } from 'node:path';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
-const ROOT = join(__dirname, '..', 'dist');
+// Dossier servi. Par défaut `dist/` ; la PWA de dev sert `dist-dev/`
+// (build avec brouillons) via DANPHU_DIST.
+const ROOT = join(__dirname, '..', process.env.DANPHU_DIST || 'dist');
 const PORT = Number(process.env.DANPHU_PORT) || 4321;
 const HOST = process.env.DANPHU_HOST || '0.0.0.0';
 

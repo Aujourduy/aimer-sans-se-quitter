@@ -17,8 +17,8 @@ const nav = [
 // Chemin courant (sans le base) pour marquer le lien actif.
 const base = import.meta.env.BASE_URL.replace(/\/$/, '');
 const current = Astro.url.pathname.replace(base, '').replace(/\/$/, '') || '/';
-// Repère « dev » : affiché uniquement sur le serveur de dev, jamais en prod.
-const isDev = import.meta.env.DEV;
+// Repère « dev » : serveur de dev OU build « de relecture » (PWA de dev), jamais en prod.
+const isDev = import.meta.env.DEV || process.env.INCLUDE_DRAFTS === 'true';
 ---
 
 {isDev && <div class="dev-banner" data-dbg="entete__dev">dev</div>}

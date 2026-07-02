@@ -10,10 +10,13 @@ import {
 } from '../../lib/categories';
 import { romain } from '../../lib/romain';
 
-const all = await getCollection('textes', ({ data }) => !data.draft);
+// Brouillons visibles en dev ou dans le build « de relecture » (PWA de dev,
+// INCLUDE_DRAFTS=true) ; masqués en prod (danphu.com inchangé).
+const showDrafts = import.meta.env.DEV || process.env.INCLUDE_DRAFTS === 'true';
+const all = await getCollection('textes', ({ data }) => !data.draft || showDrafts);
 
-// Tableau de bord de relecture : tous les textes (brouillons compris), dev only.
-const allForReview = import.meta.env.DEV ? await getCollection('textes') : [];
+// Tableau de bord de relecture : tous les textes (brouillons compris).
+const allForReview = showDrafts ? await getCollection('textes') : [];
 const reviewBoard = CATEGORY_ORDER.map((cat) => ({
   label: CATEGORY_LABELS[cat],
   items: allForReview
@@ -61,7 +64,7 @@ const themes = CATEGORY_ORDER.map((cat, i) => ({
     <p class="reprendre" data-dbg="textes__reprendre" hidden></p>
 
     {
-      import.meta.env.DEV && (
+      showDrafts && (
         <section class="dev-review" data-dbg="textes__relecture-dev">
           <h2 class="eyebrow">
             Relecture — {reviewDone}/{reviewTotal} validés (dev)
