@@ -733,7 +733,7 @@ $('#gen-ecrits').addEventListener('click',async()=>{
   const btn=$('#gen-ecrits'); btn.disabled=true; btn.textContent='Génération…'; $('#gen-msg').textContent='';
   try{
     const r=await (await fetch('/api/tous-ecrits',{method:'POST'})).json();
-    $('#gen-msg').textContent=r.ok?('✓ tous-les-ecrits.md — '+r.count+' textes'):('Erreur : '+(r.error||'inconnue'));
+    $('#gen-msg').textContent=r.ok?('✓ tous-les-ecrits.md — '+r.count+' textes · '+(r.git||'')):('Erreur : '+(r.error||'inconnue'));
   }catch(e){ $('#gen-msg').textContent='Erreur : '+e; }
   btn.disabled=false; btn.textContent='Régénérer « tous les écrits »';
 });
@@ -885,10 +885,16 @@ const server = createServer((req, res) => {
       const resume = genererLivres();
       return json(res, { ok: true, resume });
     }
-    // --- Regroupement de tous les écrits (docs/tous-les-ecrits.md) ---
+    // --- Regroupement de tous les écrits (docs/tous-les-ecrits.md) + git ---
     if (req.method === 'POST' && url.pathname === '/api/tous-ecrits') {
       const { count } = genererTousEcrits();
-      return json(res, { ok: true, count });
+      commitPush(
+        ['docs/tous-les-ecrits.md'],
+        'Docs : régénère tous-les-ecrits.md (depuis l’outil de relecture)'
+      )
+        .then((r) => json(res, { ok: true, count, git: r.message }))
+        .catch((e) => json(res, { ok: true, count, git: 'Erreur push : ' + String(e.message || e) }));
+      return;
     }
     // --- Sauvegarde git de la todolist des sujets ---
     if (req.method === 'POST' && url.pathname === '/api/sujets/save') {
