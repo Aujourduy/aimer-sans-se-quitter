@@ -17,6 +17,8 @@ const nav = [
 // Chemin courant (sans le base) pour marquer le lien actif.
 const base = import.meta.env.BASE_URL.replace(/\/$/, '');
 const current = Astro.url.pathname.replace(base, '').replace(/\/$/, '') || '/';
+// Repère « dev » : affiché uniquement sur le serveur de dev, jamais en prod.
+const isDev = import.meta.env.DEV;
 ---
 
 <header class="site-header" data-dbg="entete">
@@ -39,6 +41,21 @@ const current = Astro.url.pathname.replace(base, '').replace(/\/$/, '') || '/';
           </a>
         ))
       }
+      {isDev && <span class="dev-tag" data-dbg="entete__dev">dev</span>}
     </nav>
   </div>
 </header>
+
+<style>
+  /* Repère « dev » à droite de la nav — serveur de dev uniquement. */
+  .dev-tag {
+    font-family: var(--sans);
+    font-size: 0.7rem;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--creme);
+    background: var(--bleu);
+    padding: 0.1rem 0.45rem;
+    border-radius: 0.6rem;
+  }
+</style>
