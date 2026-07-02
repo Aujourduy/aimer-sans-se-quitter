@@ -12,6 +12,14 @@ const base = '/';
 export default defineConfig({
   site: 'https://danphu.com',
   base,
+  // Serveur de dev uniquement (astro dev) : autorise l'accès via le nom
+  // Tailscale, pour consulter le site de dev (brouillons compris) sur mobile
+  // en HTTPS (tailscale serve → 127.0.0.1:4322). Sans effet sur le build/prod.
+  vite: {
+    server: {
+      allowedHosts: ['server-dang.tail4fa970.ts.net'],
+    },
+  },
   integrations: [
     // PWA : installable + lecture hors-ligne. Service worker généré par Workbox
     // (pas de SW écrit à la main). `autoUpdate` → le SW se met à jour seul

@@ -36,41 +36,40 @@ loginctl enable-linger "$USER"   # survit aux déconnexions SSH
 systemctl --user status relecture.service   # vérifier
 ```
 
-**Applis installables sur mobile (PWA de dev, via Tailscale HTTPS)** — le site
-danphu et l'outil de relecture peuvent s'installer comme de vraies applis
-plein écran sur le téléphone (icône dédiée, pas un raccourci Chrome). Elles ne
-sont joignables que sur le tailnet.
+**Accès mobile via Tailscale HTTPS** — le site de dev et l'outil de relecture
+sont joignables sur le téléphone en HTTPS, uniquement sur le tailnet.
 
-URLs (une fois la config en place) :
+| Appli | URL | Nature |
+| --- | --- | --- |
+| Dan Phu (site **de dev**, brouillons compris) | `https://server-dang.tail4fa970.ts.net:8444/` | `astro dev` → raccourci plein écran (pas de service worker) |
+| Relecture (outil) | `https://server-dang.tail4fa970.ts.net:8443/` | vraie PWA installable (manifest + SW) |
 
-| Appli | URL |
-| --- | --- |
-| Dan Phu (site, build `dist/`) | `https://server-dang.tail4fa970.ts.net:8444/` |
-| Relecture (outil) | `https://server-dang.tail4fa970.ts.net:8443/` |
-
-Sur le téléphone : ouvrir l'URL dans Chrome → menu ⋮ → **Installer l'application**.
+- **danphu (:8444)** proxifie vers `astro dev` (port 4322), qui affiche les
+  **brouillons** et les repères de relecture — utile pour relire depuis le tél.
+  Comme c'est le serveur de dev (pas un build), il n'a pas de service worker :
+  Chrome propose « Ajouter à l'écran d'accueil » (raccourci), pas « Installer ».
+  Pour que l'accès par nom Tailscale passe, `astro.config.mjs` autorise l'hôte
+  via `vite.server.allowedHosts` (sans effet sur le build/prod).
+- **relecture (:8443)** est une vraie PWA installable (menu ⋮ → Installer).
 
 Mise en place (une fois) :
 
 ```bash
-# 1. Backends locaux en service systemd permanent (127.0.0.1, tailscale proxifie)
-cp scripts/danphu-dev.service ~/.config/systemd/user/danphu-dev.service
-npm run build                         # danphu-dev sert dist/ (le SW n'existe qu'en build)
-systemctl --user daemon-reload
-systemctl --user enable --now danphu-dev.service relecture.service
+# 1. Relecture en service systemd permanent (voir bloc plus haut).
+#    danphu de dev : lancer `npm run dev -- --host --port 4322` (ou en service).
+systemctl --user enable --now relecture.service
 loginctl enable-linger "$USER"
 
 # 2. HTTPS via Tailscale (prérequis : admin console → activer « Serve », et
 #    `sudo tailscale set --operator=$USER` une fois). Le port 443 est occupé
 #    par le container Docker nextcloud-nginx → on utilise 8443 / 8444.
-tailscale serve --bg --https=8444 http://127.0.0.1:4321   # danphu
+tailscale serve --bg --https=8444 http://127.0.0.1:4322   # danphu (astro dev)
 tailscale serve --bg --https=8443 http://127.0.0.1:4455   # relecture
 tailscale serve status                                    # vérifier
 ```
 
-La config `tailscale serve` et les services systemd survivent aux reboots :
-rien à relancer. Pour mettre danphu à jour : `npm run build` (le service
-resert `dist/`, le service worker se rafraîchit tout seul).
+La config `tailscale serve` survit aux reboots. `astro dev` doit tourner pour
+que :8444 réponde (le contenu se met à jour tout seul, c'est du dev).
 
 **Ce qui N'est PAS dans le dépôt** (volontairement — se régénère ou vit ailleurs) :
 
