@@ -2767,7 +2767,7 @@ Mes yeux regardent encore les pâtisseries mais mon corps n’accepte de manger 
 
 ---
 
-## 111. Le carnet noir des reproches *(brouillon)*
+## 111. Le carnet noir des reproches (TEST) *(brouillon)*
 
 Dans une relation en général, et encore plus dans une relation amoureuse, on a un carnet noir. C’est un carnet noir, c’est un carnet, dans ma tête, dans lequel je vais noter les reproches que je fais à ma partenaire que je n’exprime pas. Comme je suis quelqu’un de bien, de gentil, je ne lui dirai pas que j’ai un carnet comme ça. Moi-même, d’ailleurs, je ne savais pas que j’avais un tel carnet … jusqu’au moment où elle me fait un reproche, au moment où je suis excédé, où elle me quitte et là je me rappelle tout d’un coup tous ces reproches : “Et ça que j’ai fait pour toi ! Et ceci que j’ai enduré sans rien dire ! Et cela que je t’ai donné !”
 
