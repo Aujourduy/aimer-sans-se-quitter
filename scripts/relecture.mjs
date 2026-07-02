@@ -14,6 +14,7 @@ import { readFileSync, writeFileSync, readdirSync, existsSync, mkdirSync } from 
 import { fileURLToPath } from 'node:url';
 import { dirname, join } from 'node:path';
 import { networkInterfaces } from 'node:os';
+import { spawn } from 'node:child_process';
 import matter from 'gray-matter';
 import { genererLivres } from './generer-livres.mjs';
 
@@ -133,6 +134,52 @@ function deleteSujet(id) {
   return sujets;
 }
 
+// --- Rebuild auto de la PWA de dev ------------------------------------------
+// Après chaque écriture dans un .md, on régénère `dist-dev/` (build avec
+// brouillons) pour que l'appli dev (:8444) reflète le changement. Débounced
+// (les édits rapprochés fusionnent) et non concurrent (un seul build à la fois ;
+// si une écriture survient pendant un build, on en relance un après). Le rebuild
+// tourne en arrière-plan : l'UI de relecture n'attend jamais.
+const PROJECT_DIR = join(__dirname, '..');
+let rebuildTimer = null;
+let rebuilding = false;
+let rebuildAgain = false;
+
+function runBuildDrafts() {
+  rebuilding = true;
+  console.log('  ↻ rebuild PWA dev (build:drafts)…');
+  // On invoque astro via le node courant (process.execPath) et le binaire local,
+  // sans dépendre de `npm` dans le PATH — le service systemd a un PATH minimal.
+  const astroBin = join(PROJECT_DIR, 'node_modules', 'astro', 'astro.js');
+  const child = spawn(process.execPath, [astroBin, 'build', '--outDir', 'dist-dev'], {
+    cwd: PROJECT_DIR,
+    stdio: 'ignore',
+    env: { ...process.env, INCLUDE_DRAFTS: 'true' },
+  });
+  child.on('exit', (code) => {
+    rebuilding = false;
+    console.log(code === 0 ? '  ✓ PWA dev à jour' : `  ✗ rebuild échoué (code ${code})`);
+    // Une écriture est arrivée pendant le build → on relance une fois.
+    if (rebuildAgain) {
+      rebuildAgain = false;
+      runBuildDrafts();
+    }
+  });
+  child.on('error', (e) => {
+    rebuilding = false;
+    console.log('  ✗ rebuild impossible : ' + e.message);
+  });
+}
+
+function rebuildDev() {
+  if (rebuilding) {
+    rebuildAgain = true; // sera relancé à la fin du build en cours
+    return;
+  }
+  clearTimeout(rebuildTimer);
+  rebuildTimer = setTimeout(runBuildDrafts, 3000); // débounce 3 s
+}
+
 function readTexte(slug) {
   const raw = readFileSync(join(TEXTES_DIR, slug + '.md'), 'utf8');
   const { data, content } = matter(raw);
@@ -173,6 +220,7 @@ function toggleField(slug, field) {
   }
 
   writeFileSync(path, newHead + rest, 'utf8');
+  rebuildDev(); // un draft/validation modifié → régénère la PWA dev
   return !current;
 }
 
@@ -195,6 +243,7 @@ function writeCorps(slug, corps) {
   if (!raw.startsWith('---')) {
     // Pas de frontmatter : on réécrit tout le fichier comme corps.
     writeFileSync(path, normaliseCorps(corps), 'utf8');
+    rebuildDev();
     return;
   }
   const close = raw.indexOf('\n---', 3);
@@ -203,6 +252,7 @@ function writeCorps(slug, corps) {
   const afterMarker = raw.indexOf('\n', close + 1);
   const frontmatter = afterMarker === -1 ? raw : raw.slice(0, afterMarker); // inclut le « --- » fermant
   writeFileSync(path, frontmatter + '\n\n' + normaliseCorps(corps) + '\n', 'utf8');
+  rebuildDev();
 }
 
 // Normalise le corps reçu : retire les CR (\r) et les blancs en fin, garde le
@@ -238,6 +288,7 @@ function writeTitre(slug, titre) {
   const newHead = head.replace(lineRe, `$1"${clean}"`);
 
   writeFileSync(path, newHead + rest, 'utf8');
+  rebuildDev();
   return clean;
 }
 
