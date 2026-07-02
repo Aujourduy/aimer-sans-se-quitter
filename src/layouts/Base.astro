@@ -21,7 +21,11 @@ const {
 // La balise <title> (et og:title / twitter:title) est volontairement fixée à
 // « Dan Phu » sur toutes les pages, accueil comprise. La prop `title` reste
 // acceptée (pour ne rien casser ailleurs) mais n'influe plus sur ces balises.
-const metaTitle = 'Dan Phu';
+// En mode dev (astro dev, accès mobile via Tailscale), on distingue le raccourci
+// mobile de l'appli de prod : icône « a » italique (l'ancien logo du dev) et
+// titre suffixé « (dev) ». En prod (build), rien de tout ceci ne s'applique.
+const isDev = import.meta.env.DEV;
+const metaTitle = isDev ? 'Dan Phu (dev)' : 'Dan Phu';
 const base = import.meta.env.BASE_URL;
 ---
 
@@ -37,9 +41,18 @@ const base = import.meta.env.BASE_URL;
     <meta property="og:type" content="website" />
     <meta name="twitter:card" content="summary" />
     <meta name="twitter:title" content={metaTitle} />
+    {/* Icône : « a » italique en dev (raccourci mobile distinct), wordmark en prod. */}
     <link rel="icon" href={`${base}favicon.ico`} sizes="any" />
-    <link rel="icon" href={`${base}favicon-32.png`} type="image/png" sizes="32x32" />
-    <link rel="apple-touch-icon" href={`${base}apple-touch-icon.png`} />
+    <link
+      rel="icon"
+      href={isDev ? `${base}dev-pwa/icon-192.png` : `${base}favicon-32.png`}
+      type="image/png"
+      sizes="32x32"
+    />
+    <link
+      rel="apple-touch-icon"
+      href={isDev ? `${base}dev-pwa/apple-touch-icon.png` : `${base}apple-touch-icon.png`}
+    />
     {/* PWA : manifeste + couleur de thème (crème). Base-aware. */}
     <link rel="manifest" href={`${base}manifest.webmanifest`} />
     <meta name="theme-color" content="#F4EFE6" />
