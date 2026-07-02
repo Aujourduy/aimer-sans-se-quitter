@@ -11,6 +11,7 @@
     "build:drafts": "INCLUDE_DRAFTS=true astro build --outDir dist-dev",
     "serve-dist": "node scripts/serve-dist.mjs",
     "livres": "node scripts/generer-livres.mjs",
+    "tous-ecrits": "node scripts/tous-les-ecrits.mjs",
     "astro": "astro"
   },
   "dependencies": {

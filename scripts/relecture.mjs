@@ -17,6 +17,7 @@ import { networkInterfaces } from 'node:os';
 import { spawn } from 'node:child_process';
 import matter from 'gray-matter';
 import { genererLivres } from './generer-livres.mjs';
+import { genererTousEcrits } from './tous-les-ecrits.mjs';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const TEXTES_DIR = join(__dirname, '..', 'src', 'content', 'textes');
@@ -178,6 +179,38 @@ function rebuildDev() {
   }
   clearTimeout(rebuildTimer);
   rebuildTimer = setTimeout(runBuildDrafts, 3000); // débounce 3 s
+}
+
+// --- Git : commit + push d'un ou plusieurs fichiers (bouton « Sauvegarder ») --
+// Lance git via /usr/bin/git (PATH minimal du service). Résout avec un résumé,
+// rejette avec le message d'erreur. `rien à committer` = succès silencieux.
+function runGit(args) {
+  return new Promise((resolve, reject) => {
+    const child = spawn('git', args, { cwd: PROJECT_DIR, stdio: ['ignore', 'pipe', 'pipe'] });
+    let out = '';
+    let err = '';
+    child.stdout.on('data', (d) => (out += d));
+    child.stderr.on('data', (d) => (err += d));
+    child.on('exit', (code) => resolve({ code, out: out.trim(), err: err.trim() }));
+    child.on('error', (e) => reject(e));
+  });
+}
+
+async function commitPush(files, message) {
+  await runGit(['add', ...files]);
+  const status = await runGit(['status', '--porcelain', ...files]);
+  if (!status.out) {
+    return { ok: true, message: 'Déjà à jour (rien à sauvegarder).' };
+  }
+  const commit = await runGit(['commit', '-m', message]);
+  if (commit.code !== 0) {
+    throw new Error('commit : ' + (commit.err || commit.out));
+  }
+  const push = await runGit(['push']);
+  if (push.code !== 0) {
+    throw new Error('push : ' + (push.err || push.out));
+  }
+  return { ok: true, message: 'Sauvegardé et poussé sur GitHub.' };
 }
 
 function readTexte(slug) {
@@ -369,7 +402,9 @@ function pageHtml() {
   .sujets{border:1px solid var(--filet);border-radius:.5rem;padding:.6rem;margin-bottom:.9rem;background:#fbf8f2;}
   .sujets-head{display:flex;align-items:center;justify-content:space-between;margin-bottom:.5rem;}
   .sujets-head h2{font-size:.78rem;font-weight:700;color:var(--bleu);margin:0;text-transform:uppercase;letter-spacing:.03em;}
+  .sujets-actions{display:flex;gap:.6rem;}
   .sujets-toggle{font-size:.68rem;color:var(--sepia);background:none;border:none;cursor:pointer;text-decoration:underline;padding:0;}
+  .sujets-msg{font-size:.72rem;color:var(--sepia);margin-top:.4rem;min-height:1em;}
   .sujet-add{display:flex;gap:.3rem;margin-bottom:.5rem;}
   .sujet-add input{flex:1;min-width:0;padding:.35rem .5rem;border:1px solid var(--filet);border-radius:.4rem;font-size:.82rem;}
   .sujet-add button{padding:.35rem .6rem;border:1px solid var(--bleu);background:var(--bleu);color:#fff;border-radius:.4rem;cursor:pointer;font-size:.82rem;}
@@ -454,15 +489,20 @@ function pageHtml() {
     <section class="sujets">
       <div class="sujets-head">
         <h2>Sujets à écrire</h2>
-        <button class="sujets-toggle" id="sujets-toggle">masquer les faits</button>
+        <div class="sujets-actions">
+          <button class="sujets-toggle" id="sujets-toggle">masquer les faits</button>
+          <button class="sujets-toggle" id="sujets-save" title="Commit + push sur GitHub">sauvegarder</button>
+        </div>
       </div>
       <form class="sujet-add" id="sujet-add">
         <input id="sujet-input" placeholder="Nouveau sujet de texte…" autocomplete="off">
         <button type="submit">+</button>
       </form>
       <div id="sujets-list"></div>
+      <div class="sujets-msg" id="sujets-msg"></div>
     </section>
     <button class="gen" id="gen">Régénérer les livres</button>
+    <button class="gen" id="gen-ecrits">Régénérer « tous les écrits »</button>
     <div class="gen-msg" id="gen-msg"></div>
     <div id="list"></div>
   </aside>
@@ -688,6 +728,25 @@ $('#gen').addEventListener('click',async()=>{
   }catch(e){ $('#gen-msg').textContent='Erreur : '+e; }
   btn.disabled=false; btn.textContent='Régénérer les livres';
 });
+// Régénérer docs/tous-les-ecrits.md (regroupement à plat des 116 textes).
+$('#gen-ecrits').addEventListener('click',async()=>{
+  const btn=$('#gen-ecrits'); btn.disabled=true; btn.textContent='Génération…'; $('#gen-msg').textContent='';
+  try{
+    const r=await (await fetch('/api/tous-ecrits',{method:'POST'})).json();
+    $('#gen-msg').textContent=r.ok?('✓ tous-les-ecrits.md — '+r.count+' textes'):('Erreur : '+(r.error||'inconnue'));
+  }catch(e){ $('#gen-msg').textContent='Erreur : '+e; }
+  btn.disabled=false; btn.textContent='Régénérer « tous les écrits »';
+});
+// Sauvegarder la todolist des sujets (commit + push GitHub).
+$('#sujets-save').addEventListener('click',async()=>{
+  const btn=$('#sujets-save'); btn.disabled=true; const old=btn.textContent; btn.textContent='…';
+  $('#sujets-msg').textContent='Sauvegarde…';
+  try{
+    const r=await (await fetch('/api/sujets/save',{method:'POST'})).json();
+    $('#sujets-msg').textContent=r.ok?('✓ '+r.message):('Erreur : '+(r.error||'inconnue'));
+  }catch(e){ $('#sujets-msg').textContent='Erreur : '+e; }
+  btn.disabled=false; btn.textContent=old;
+});
 load();
 if ('serviceWorker' in navigator) {
   window.addEventListener('load', () => navigator.serviceWorker.register('/sw.js').catch(() => {}));
@@ -825,6 +884,21 @@ const server = createServer((req, res) => {
     if (req.method === 'POST' && url.pathname === '/api/generer-livres') {
       const resume = genererLivres();
       return json(res, { ok: true, resume });
+    }
+    // --- Regroupement de tous les écrits (docs/tous-les-ecrits.md) ---
+    if (req.method === 'POST' && url.pathname === '/api/tous-ecrits') {
+      const { count } = genererTousEcrits();
+      return json(res, { ok: true, count });
+    }
+    // --- Sauvegarde git de la todolist des sujets ---
+    if (req.method === 'POST' && url.pathname === '/api/sujets/save') {
+      commitPush(
+        ['content/sujets-todo.json'],
+        'Sujets : mise à jour de la todolist (depuis l’outil de relecture)'
+      )
+        .then((r) => json(res, r))
+        .catch((e) => json(res, { ok: false, error: String(e.message || e) }, 500));
+      return;
     }
     // --- Todolist des sujets ---
     if (req.method === 'GET' && url.pathname === '/api/sujets') {
