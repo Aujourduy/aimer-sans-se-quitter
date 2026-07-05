@@ -74,6 +74,15 @@ const base = import.meta.env.BASE_URL;
       <slot />
     </main>
     <Footer />
+    {/* Bandeau dev (jamais en prod, isDev) : rappelle la commande à taper sur le
+        serveur pour régénérer cet aperçu (:8444) après une modif. */}
+    {isDev && (
+      <div class="dev-bandeau" role="note">
+        <span class="dev-bandeau__label">Mettre à jour l’aperçu :</span>
+        <code class="dev-bandeau__cmd" id="dev-cmd">npm run build:drafts</code>
+        <button class="dev-bandeau__copy" type="button" data-copy="npm run build:drafts">copier</button>
+      </div>
+    )}
     {/* Mode debug (bouton « $ ») masqué jusqu'à nouvel ordre — dé-commenter pour réactiver. */}
     {/* <DebugMode /> */}
     {/* PWA : enregistrement du service worker généré par Workbox. Base-aware,
@@ -87,6 +96,84 @@ const base = import.meta.env.BASE_URL;
             .catch(() => {});
         });
       }
+
+      // Vérifier la version du manifest et recharger si elle a changé.
+      async function checkPWAVersion() {
+        try {
+          const response = await fetch(base + 'manifest.webmanifest');
+          if (!response.ok) return;
+          const manifest = await response.json();
+          const storedVersion = sessionStorage.getItem('pwa:version');
+          if (storedVersion && storedVersion !== manifest.version) {
+            // Version changée → recharger pour obtenir la nouvelle PWA.
+            location.reload();
+            return;
+          }
+          sessionStorage.setItem('pwa:version', manifest.version);
+        } catch (e) {
+          // Silencieux en cas d'erreur (pas de réseau, manifest indisponible, etc.).
+        }
+      }
+
+      // Check au chargement, puis toutes les 30s si la PWA est active.
+      checkPWAVersion();
+      if (navigator.serviceWorker && navigator.serviceWorker.controller) {
+        setInterval(checkPWAVersion, 30000);
+      }
     </script>
+    {isDev && (
+      <script is:inline>
+        document.querySelectorAll('.dev-bandeau__copy').forEach((b) => {
+          b.addEventListener('click', async () => {
+            try {
+              await navigator.clipboard.writeText(b.dataset.copy);
+              const t = b.textContent;
+              b.textContent = 'copié ✓';
+              setTimeout(() => (b.textContent = t), 1200);
+            } catch (e) {}
+          });
+        });
+      </script>
+    )}
   </body>
 </html>
+
+{/* Style du bandeau dev — jamais rendu en prod (le markup est sous isDev). */}
+<style>
+  .dev-bandeau {
+    position: fixed;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 9999;
+    display: flex;
+    align-items: center;
+    gap: 0.6rem;
+    flex-wrap: wrap;
+    padding: 0.5rem 0.9rem;
+    background: var(--encre, #1f1b17);
+    color: var(--creme, #f4efe6);
+    font-family: var(--sans, system-ui, sans-serif);
+    font-size: 0.8rem;
+    box-shadow: 0 -2px 10px rgba(0, 0, 0, 0.15);
+  }
+  .dev-bandeau__label { opacity: 0.8; }
+  .dev-bandeau__cmd {
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    background: rgba(255, 255, 255, 0.12);
+    padding: 0.15rem 0.45rem;
+    border-radius: 0.3rem;
+    user-select: all;
+  }
+  .dev-bandeau__copy {
+    margin-left: auto;
+    font: inherit;
+    color: var(--creme, #f4efe6);
+    background: transparent;
+    border: 1px solid rgba(255, 255, 255, 0.4);
+    border-radius: 0.3rem;
+    padding: 0.2rem 0.6rem;
+    cursor: pointer;
+  }
+  .dev-bandeau__copy:active { background: rgba(255, 255, 255, 0.15); }
+</style>
