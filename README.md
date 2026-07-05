@@ -6,6 +6,34 @@ fichier `.md` dans `src/content/textes/` — sans toucher à la mise en page.
 
 **Site en ligne :** https://danphu.com
 
+## Table des matières
+
+- [Repartir d'un serveur neuf (reprise après crash)](#repartir-dun-serveur-neuf-reprise-après-crash)
+- [Développer en local](#développer-en-local)
+- [Modifier le site soi-même](#modifier-le-site-soi-même)
+  - [Depuis son ordinateur (VS Code)](#depuis-son-ordinateur-vs-code)
+  - [Depuis github.com (sans rien installer, pratique sur mobile)](#depuis-githubcom-sans-rien-installer-pratique-sur-mobile)
+  - [Où modifier quoi](#où-modifier-quoi)
+- [Réglages rapides (variables CSS)](#réglages-rapides-variables-css)
+  - [Grille de base et silences verticaux](#grille-de-base-et-silences-verticaux)
+  - [Filets : une seule grammaire](#filets--une-seule-grammaire)
+  - [Polices (auto-hébergées, sans FOUT)](#polices-auto-hébergées-sans-fout)
+  - [Tailles selon l'écran (responsive)](#tailles-selon-lécran-responsive)
+  - [Direction : la soustraction](#direction--la-soustraction)
+- [Modifier le contenu du site](#modifier-le-contenu-du-site)
+  - [Les textes (page « Textes »)](#les-textes-page--textes-)
+  - [Relire et valider les textes (suivi `verifieParDuy`)](#relire-et-valider-les-textes-suivi-verifieparduy)
+  - [La page « Textes » : thématiques et organisation](#la-page--textes---thématiques-et-organisation)
+  - [Les autres pages (fixes)](#les-autres-pages-fixes)
+- [Audit éditorial (copywriting)](#audit-éditorial-copywriting)
+- [Portrait (photo)](#portrait-photo)
+- [Réservation (TidyCal)](#réservation-tidycal)
+- [Mémoire de lecture (discrète, locale)](#mémoire-de-lecture-discrète-locale)
+- [Application installable (PWA, lecture hors-ligne)](#application-installable-pwa-lecture-hors-ligne)
+- [Déploiement — GitHub Pages (automatique)](#déploiement--github-pages-automatique)
+  - [Domaine personnalisé](#domaine-personnalisé)
+  - [Autres hébergeurs](#autres-hébergeurs)
+
 ## Repartir d'un serveur neuf (reprise après crash)
 
 Tout le nécessaire est dans ce dépôt. Sur une machine vierge :
