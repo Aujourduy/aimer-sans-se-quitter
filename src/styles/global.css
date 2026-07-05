@@ -354,8 +354,8 @@ main { flex: 1 0 auto; }
 .prose { hyphens: auto; -webkit-hyphens: auto; }
 
 /* Le sink : sur la page de lecture, le texte s'ouvre un peu plus bas (le
-   défilement devient le seuil d'entrée). Le corps coule en paragraphes égaux —
-   aucune mise en forme (ni lettrine, ni exergue, ni fleuron). */
+   défilement devient le seuil d'entrée). La respiration passe par le
+   cul-de-lampe ✻ ✻ ✻ en fin de texte. */
 [data-dbg='texte'] .prose { margin-top: var(--silence-long); }
 
 /* Titre d'un écrit : même présentation que dans les listes (romain gras encre),
@@ -522,3 +522,55 @@ main { flex: 1 0 auto; }
 
 /* Filet pleine mesure réutilisable (respiration franche). */
 hr.filet { border: none; border-top: 1px solid var(--filet); width: 100%; margin: var(--silence-moyen) 0; }
+
+/* ─────────────────────────────────────────────────────────────────────────
+   ORNEMENTS « BEAU LIVRE » (CDC §7–§9) — fleuron, filets ornés
+   Tous discrets, dans les tokens existants ; aucun n'ajoute de bruit.
+   ───────────────────────────────────────────────────────────────────────── */
+
+/* Le fleuron ❧ : une seule marque de respiration pour tout le site (CDC §8).
+   Séparateur sémantique, masqué aux lecteurs d'écran. Rare par nature. */
+.fleuron {
+  text-align: center;
+  color: var(--sepia);
+  font-family: var(--serif);
+  font-size: 0.7rem;       /* discret — à la taille des minuscules du corps */
+  letter-spacing: 0.7em;   /* les trois étoiles respirent */
+  text-indent: 0.7em;      /* recentre (compense l'espacement final) */
+  line-height: 1;
+  margin: var(--silence-long) 0;
+}
+/* Variante d'ouverture : plus resserrée (sous un titre / hero). */
+.fleuron--ouverture { margin: var(--silence-moyen) 0 var(--silence-long); }
+
+/* Filet fin à fleuron centré : un filet interrompu en son milieu par la hedera —
+   le geste « page de titre » des grandes maisons. Reste 1px + sépia (sobre). */
+.filet-orne {
+  display: flex;
+  align-items: center;
+  gap: 1.1rem;
+  margin: var(--silence-moyen) 0;
+  color: var(--sepia);
+}
+.filet-orne::before,
+.filet-orne::after {
+  content: "";
+  flex: 1;
+  border-top: 1px solid var(--filet);
+}
+.filet-orne span {
+  font-family: var(--serif);
+  font-size: 0.7rem;
+  letter-spacing: 0.6em;
+  text-indent: 0.6em;
+  line-height: 1;
+}
+
+/* Filet sous le hero de l'accueil (CDC §7) : pleine mesure, respiration franche. */
+.hero-filet {
+  border: none;
+  border-top: 1px solid var(--filet);
+  width: 100%;
+  max-width: 12rem;
+  margin: var(--silence-moyen) 0;
+}
