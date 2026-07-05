@@ -1,5 +1,8 @@
 import { defineConfig } from 'astro/config';
 import AstroPWA from '@vite-pwa/astro';
+import { readFileSync } from 'fs';
+
+const pkg = JSON.parse(readFileSync('./package.json', 'utf-8'));
 
 // Site déployé sur GitHub Pages avec le domaine personnalisé danphu.com.
 // Le domaine sert le site à la racine, donc `base` vaut '/'.
@@ -28,6 +31,7 @@ const manifest = includeDrafts
       scope: base,
       background_color: '#F4EFE6',
       theme_color: '#1A2D4A',
+      version: pkg.version,
       icons: [
         { src: 'dev-pwa/icon-192.png', sizes: '192x192', type: 'image/png' },
         { src: 'dev-pwa/icon-512.png', sizes: '512x512', type: 'image/png' },
@@ -46,6 +50,7 @@ const manifest = includeDrafts
       // Crème du site (token --creme) — aucune couleur nouvelle.
       background_color: '#F4EFE6',
       theme_color: '#F4EFE6',
+      version: pkg.version,
       icons: [
         { src: 'pwa-192.png', sizes: '192x192', type: 'image/png' },
         { src: 'pwa-512.png', sizes: '512x512', type: 'image/png' },
@@ -68,6 +73,10 @@ export default defineConfig({
     // (skipWaiting + clientsClaim) : pas de contenu périmé.
     AstroPWA({
       registerType: 'autoUpdate',
+      // En dev (build de relecture :8444), le service worker s'AUTO-DÉTRUIT et
+      // vide ses caches : l'aperçu montre toujours la dernière version après un
+      // `npm run build:drafts`, sans cache périmé. En prod, PWA normale (hors-ligne).
+      selfDestroying: includeDrafts,
       // scope / base base-aware : tiennent sous sous-chemin comme à la racine.
       scope: base,
       base,
