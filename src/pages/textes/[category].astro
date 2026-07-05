@@ -50,6 +50,9 @@ const question = intro[intro.length - 1];
       {question && <p class="question">{question}</p>}
     </div>
 
+    {/* Page de garde de partie : filet orné d'une hedera, avant la liste. */}
+    <div class="filet-orne" role="separator" aria-hidden="true"><span>✻ ✻ ✻</span></div>
+
     {
       items.length > 0 ? (
         <div class="liste" data-dbg="theme__liste">

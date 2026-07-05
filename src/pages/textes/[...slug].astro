@@ -75,11 +75,14 @@ if (idx !== -1 && idx < inCat.length - 1) {
     <p class="titre-courant" data-dbg="texte__titre-courant">{categorie}</p>
     <h1 class="article-title" data-dbg="texte__titre">{entry.data.title}</h1>
 
-    {/* Le texte coule en paragraphes égaux. Aucune mise en forme (ni lettrine,
-        ni exergue, ni fleuron) — le sink (.prose margin-top) suffit comme seuil. */}
+    {/* Le corps coule en paragraphes égaux. Le sink (.prose margin-top) reste
+        le seuil ; la respiration passe par le cul-de-lampe ✻ ✻ ✻ en fin. */}
     <div class="prose" data-dbg="texte__corps">
       <Content />
     </div>
+
+    {/* Cul-de-lampe : le fleuron ✻ ✻ ✻ clôt le texte avant la navigation. */}
+    <p class="fleuron" role="separator" aria-hidden="true">✻ ✻ ✻</p>
 
     {/* Fin : deux liens de poids égal, en EB Garamond, soulignés d'un filet bleu
         fin. Pas de pont, pas de bouton, pas de folio, aucun JavaScript. */}

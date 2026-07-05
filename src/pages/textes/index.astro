@@ -63,6 +63,9 @@ const themes = CATEGORY_ORDER.map((cat, i) => ({
         Le script le remplit et le révèle si un dernier texte existe. */}
     <p class="reprendre" data-dbg="textes__reprendre" hidden></p>
 
+    {/* Fleuron : ferme l'ouverture (intro) avant l'entrée dans le sommaire. */}
+    <p class="fleuron" role="separator" aria-hidden="true">✻ ✻ ✻</p>
+
     {
       showDrafts && (
         <section class="dev-review" data-dbg="textes__relecture-dev">
