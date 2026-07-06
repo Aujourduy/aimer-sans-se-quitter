@@ -9,6 +9,7 @@ title: "Ce n’est pas parce qu’un reproche est justifié qu’il est juste"
 excerpt: "Le cœur sent la distance grandir, puis cherche une raison raisonnable pour la justifier."
 category: "desir-verite"
 order: 14
+parcours: true
 ---
 
 Ce n’est pas parce que les reproches sont justifiés qu’ils sont justes.

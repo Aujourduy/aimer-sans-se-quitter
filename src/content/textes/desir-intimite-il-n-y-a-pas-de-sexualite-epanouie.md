@@ -11,6 +11,7 @@ category: "desir-intimite"
 order: 8
 draft: true
 draftReason: "texte intime explicite, non surfacé pour l’instant"
+parcours: true
 ---
 
 Il n’y a pas de sexualité épanouie, il y a des personnes qui sont épanouies dans leur sexualité.

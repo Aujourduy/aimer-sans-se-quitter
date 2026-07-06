@@ -9,6 +9,7 @@ title: "Personne ne mérite d’être quitté"
 excerpt: "Je peux partir dans l’amour, le cœur ouvert, le ventre plein de gratitude."
 category: "amour-presence"
 order: 8
+parcours: true
 ---
 
 On entend les gens expliquer à quel point leur compagnon, compagne a de graves défauts. À tel point, que cela mérite qu’on mette fin à la relation. Quand je dis les gens, je parle aussi de moi bien sûr. De mon vécu, et avec du recul sur mes relations, je me suis rendu compte que personne ne mérite d’être quitté. Ça ne veut pas dire qu’il ne faut pas arrêter une relation mais on peut le faire pour une bonne raison et à cause de la bonne personne.

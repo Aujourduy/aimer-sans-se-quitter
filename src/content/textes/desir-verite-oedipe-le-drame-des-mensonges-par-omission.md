@@ -1,6 +1,6 @@
 ---
 verifieParDuy: false
-livreFableDanPhu: false
+livreFableDanPhu: true
 livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
@@ -9,6 +9,7 @@ title: "Oedipe, le drame des mensonges par omission"
 excerpt: "Tous ont menti par omission pour protéger des êtres chers, et cela les a conduits au drame."
 category: "desir-verite"
 order: 18
+parcours: true
 ---
 
 La tragédie d’Oedipe a été relatée depuis Sophocle dans le théâtre antique grec jusqu’à la psychanalyse de Freud comme illustration de la condition humaine et de la noirceur de l’inconscience. Les dieux se jouant des humains comme de simples marionnettes.

@@ -11,6 +11,7 @@ category: "peur-masque"
 order: 14
 draft: true
 draftReason: "zone sensible à valider"
+parcours: true
 ---
 
 Il y a encore eu un concours de circonstances qui m’a placé dans une émotion intense de jalousie, de colère, de violence, de sentiment d’abandon en même temps j’avais la conscience que ce n’était que des illusions. C’est vraiment compliqué de voir qu’on est bouleversé émotionnellement d’un côté et de l’autre avoir conscience que c’est pour une chose pas si dramatique. On trouve cela disproportionné.

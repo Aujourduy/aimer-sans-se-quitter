@@ -11,6 +11,7 @@ category: "desir-verite"
 order: 20
 draft: true
 draftReason: "thème sexuel à recadrer vers le relationnel"
+parcours: true
 ---
 
 Il y avait ce phénomène bizarre qui m’était arrivé plusieurs fois, trop de fois à vrai dire. Les principes que je vous donne ici vous permettront de les éviter.

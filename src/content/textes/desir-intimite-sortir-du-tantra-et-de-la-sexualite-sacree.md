@@ -11,6 +11,7 @@ category: "desir-intimite"
 order: 11
 draft: true
 draftReason: "texte intime explicite, non surfacé pour l’instant"
+parcours: true
 ---
 
 Le Tantra, ou plutôt le Néo-Tantra, et la sexualité tantrique sont à la “Sexualité” ce qu’une église est à Dieu.

@@ -9,6 +9,7 @@ title: "Le secret caché de la communication"
 excerpt: "L’essentiel n’est pas l’outil mais la main qui le tient."
 category: "desir-verite"
 order: 13
+parcours: true
 ---
 
 Pendant des années, j’ai cherché à mieux communiquer et je me suis formé à plusieurs techniques : PNL, Dale Carnegie, ProcessCom, CNV, Comm Color et DISC. Pour les avoir pratiquées de très nombreuses fois, je suis arrivé à la conclusion suivante : ces techniques sont intéressantes, elles donnent des outils mais oublient l’essentiel.

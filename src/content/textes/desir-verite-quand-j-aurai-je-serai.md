@@ -9,6 +9,7 @@ title: "Quand j’aurai, je serai"
 excerpt: "L’Amour guérit, mais la Vérité est la condition nécessaire."
 category: "desir-verite"
 order: 8
+parcours: true
 ---
 
 « Quand j’aurai trouvé une amoureuse, je serai heureux »

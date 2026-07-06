@@ -53,6 +53,7 @@ const LIVRE_FLAGS = [
   { key: 'livreMetaphore', label: 'Métaphore' },
   { key: 'livreVersus', label: 'Versus' },
   { key: 'livreAimerSansDisparaitre', label: 'Aimer sans disparaître' },
+  { key: 'parcours', label: 'Le parcours' },
 ];
 // Champs booléens autorisés au toggle (relecture + indicateurs de livre).
 const TOGGLEABLE = ['verifieParDuy', 'draft', ...LIVRE_FLAGS.map((f) => f.key)];

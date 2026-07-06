@@ -11,6 +11,7 @@ category: "desir-verite"
 order: 30
 draft: true
 draftReason: "thème sexuel à recadrer vers le relationnel"
+parcours: true
 ---
 
 Il y a cette citation de Michel-Ange que j’adore sur la sculpture : “J’ai vu un ange dans le marbre et j’ai seulement ciselé jusqu’à l’en libérer”. Elle décrit complètement une autre façon de ressentir le désir sexuel pour sa partenaire dont on parle très peu … voire  jamais.

@@ -11,6 +11,7 @@ category: "desir-intimite"
 order: 10
 draft: true
 draftReason: "texte intime explicite, non surfacé pour l’instant"
+parcours: true
 ---
 
 Étonnamment, je ne me rappelle pas d’y avoir joué étant jeune. Par contre, maintenant, j’y joue de temps en temps avec ma partenaire.

@@ -9,6 +9,7 @@ title: "L’auto-sabotage n’existe pas"
 excerpt: "Il n’y a pas d’ennemi en nous, seulement des amis ; le blocage est une porte vers plus d’amour."
 category: "peur-masque"
 order: 6
+parcours: true
 ---
 
 Si vous vous dites que vous faites de l’auto-sabotage, c’est que vous n’avez pas compris.

@@ -11,6 +11,7 @@ category: "desir-verite"
 order: 38
 draft: true
 draftReason: "thème sexuel à recadrer vers le relationnel"
+parcours: true
 ---
 
 De la loi d’attraction, de la visualisation créatrice et autres pratiques de préparations mentales.

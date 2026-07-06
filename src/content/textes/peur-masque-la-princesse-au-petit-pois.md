@@ -1,6 +1,6 @@
 ---
 verifieParDuy: false
-livreFableDanPhu: false
+livreFableDanPhu: true
 livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
@@ -11,6 +11,7 @@ category: "peur-masque"
 order: 11
 draft: true
 draftReason: "thème sexuel à recadrer vers le relationnel"
+parcours: true
 ---
 
 C’est un conte d’Andersen pas très connu. Quand j’ai entendu l’histoire la première fois, j’ai trouvé sa morale lamentable. C’était l’apologie de la fragilité de cette princesse, faible, sans défense mais surtout douillette.

@@ -11,6 +11,7 @@ category: "desir-intimite"
 order: 13
 draft: true
 draftReason: "texte intime explicite, non surfacé pour l’instant"
+parcours: true
 ---
 
 Un peu comme les 3 démarches de l’homme dans l’énigme du sphinx.

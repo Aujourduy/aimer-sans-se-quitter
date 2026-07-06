@@ -1,6 +1,6 @@
 ---
 verifieParDuy: false
-livreFableDanPhu: false
+livreFableDanPhu: true
 livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
@@ -9,6 +9,7 @@ title: "La poissonne rouge et le têtard"
 excerpt: "On ne peut pas demander à un têtard de grandir dans l’eau où il est né."
 category: "fables-paradoxes"
 order: 2
+parcours: true
 ---
 
 Une histoire d’amour entre une poissonne rouge et un têtard.

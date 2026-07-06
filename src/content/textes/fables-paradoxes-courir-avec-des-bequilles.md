@@ -1,6 +1,6 @@
 ---
 verifieParDuy: false
-livreFableDanPhu: false
+livreFableDanPhu: true
 livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
@@ -9,6 +9,7 @@ title: "Courir avec des béquilles"
 excerpt: "Ce qui nous a aidé un jour devient notre entrave si on le garde toujours."
 category: "fables-paradoxes"
 order: 8
+parcours: true
 ---
 
 Quand une personne se blesse gravement à la jambe, on va lui donner des béquilles pour économiser l’usage de la jambe pour qu’elle puisse se rétablir.

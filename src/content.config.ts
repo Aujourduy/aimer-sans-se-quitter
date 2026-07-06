@@ -34,6 +34,9 @@ const textes = defineCollection({
     livreMetaphore: z.boolean().default(false),
     livreVersus: z.boolean().default(false),
     livreAimerSansDisparaitre: z.boolean().default(false),
+    // Marqueur du « parcours de lecture » (chemin menant de la douleur à la
+    // conversation exploratoire). Ce n'est pas un livre, mais un parcours.
+    parcours: z.boolean().default(false),
   }),
 });
 

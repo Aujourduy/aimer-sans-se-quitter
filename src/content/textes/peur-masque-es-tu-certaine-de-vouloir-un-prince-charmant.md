@@ -1,6 +1,6 @@
 ---
 verifieParDuy: false
-livreFableDanPhu: false
+livreFableDanPhu: true
 livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
@@ -9,6 +9,7 @@ title: "Es-tu certaine de vouloir un prince charmant ?"
 excerpt: "Chaque femme est déjà une Reine ; elle n’a pas besoin d’un prince pour exister."
 category: "peur-masque"
 order: 8
+parcours: true
 ---
 
 Les mots ne sont pas les choses mais les mots amènent des idées, des connotations et des images.

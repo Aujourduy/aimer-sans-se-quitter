@@ -1,6 +1,6 @@
 ---
 verifieParDuy: false
-livreFableDanPhu: false
+livreFableDanPhu: true
 livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
@@ -11,6 +11,7 @@ category: "desir-intimite"
 order: 18
 draft: true
 draftReason: "texte intime explicite, non surfacé pour l’instant"
+parcours: true
 ---
 
 Le maître spirituel chrétien, Maître Eckhart, disait qu’il y avait deux manières de prier. Celle qui nous éloigne de Dieu et celle qui nous rapproche.

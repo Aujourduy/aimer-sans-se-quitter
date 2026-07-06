@@ -9,6 +9,7 @@ title: "Comment retrouver confiance en l’homme ?"
 excerpt: "La vraie question n’est pas la confiance en l’homme, mais la confiance en soi face à lui."
 category: "amour-presence"
 order: 6
+parcours: true
 ---
 
 Question que m’a posée une femme pour la préparation de mon prochain webinaire. C’est une question qui est revenue plusieurs fois alors je vais donner un début de réponse.

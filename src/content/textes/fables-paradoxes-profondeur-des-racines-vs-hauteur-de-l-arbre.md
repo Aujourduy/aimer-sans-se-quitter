@@ -11,6 +11,7 @@ category: "fables-paradoxes"
 order: 15
 draft: true
 draftReason: "thème sexuel à recadrer vers le relationnel"
+parcours: true
 ---
 
 Voici une vision qui m’est personnelle que je ne veux pas du tout généraliser. Cette analyse découle de mes expériences, des femmes que j’ai rencontrées et de ce que j’ai vécu avec elles. Je ne suis pas tous les hommes et je n’ai pas couché avec toutes les femmes. Donc je ne connais que peu de chose. Mais ce que je connais, je vous le partage pour mettre des mots sur une compréhension de la sexualité qui pourrait peut-être aider certains à conscientiser quelques fonctionnements. Et surtout pour casser le mythe et la pression de la première fois qui devrait être super parce que le reste sera de la même trempe.

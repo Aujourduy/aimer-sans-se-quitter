@@ -9,6 +9,7 @@ title: "Trois directions de l’amour"
 excerpt: "Être aimé, aimer, s’aimer dans la relation : trois directions, et le but est la troisième."
 category: "amour-presence"
 order: 4
+parcours: true
 ---
 
 Une analyse qui s’élabore sur les directions de l’amour dans une relation et surtout les dérives quand c’est excessif et non équilibré.

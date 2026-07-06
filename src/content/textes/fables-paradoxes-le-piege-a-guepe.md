@@ -1,6 +1,6 @@
 ---
 verifieParDuy: false
-livreFableDanPhu: false
+livreFableDanPhu: true
 livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
@@ -9,6 +9,7 @@ title: "Le piège à guêpe"
 excerpt: "Parfois la solution est là où la douleur est la plus intense."
 category: "fables-paradoxes"
 order: 1
+parcours: true
 ---
 
 Ce que tu vois sur le dessin, c’est un piège à guêpe. Comment ça fonctionne ? La guêpe est attirée par l’odeur de l’eau sucrée au fond du piège. Elle passe par le petit trou et arrive à l’eau sucrée pour la boire. Et hop, la voilà prise au piège. Elle va mourir d’épuisement dans ce piège.

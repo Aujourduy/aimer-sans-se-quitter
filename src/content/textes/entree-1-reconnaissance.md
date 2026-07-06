@@ -11,6 +11,7 @@ category: "amour-presence"
 entry: true
 entryRole: "reconnaissance"
 order: 1
+parcours: true
 ---
 
 

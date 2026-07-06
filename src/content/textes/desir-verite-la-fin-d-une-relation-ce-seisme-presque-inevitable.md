@@ -9,6 +9,7 @@ title: "La fin d’une relation, ce séisme (presque) inévitable"
 excerpt: "À la rupture vient le bilan obligatoire, quand les petits mensonges accumulés libèrent enfin leurs tensions."
 category: "desir-verite"
 order: 5
+parcours: true
 ---
 
 Pour celles et ceux qui ont déjà vécu la fin d’une relation importante, elle peut se révéler être une période très déstabilisante voire traumatisante. Comment un être avec qui j’ai passé tant de temps, avec qui j’ai eu des échanges si intimes psychologiquement, physiquement, sexuellement peut se montrer aussi différent du jour au lendemain ? Comment se fait-il qu’après plusieurs mois ou années, je me sens si incompris dans mes blessures, ma solitude, mes peurs, mes attentes ? Pourquoi est-ce que j’ai l’impression de m’en prendre plein la figure ?

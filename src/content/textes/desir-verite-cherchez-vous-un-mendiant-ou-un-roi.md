@@ -11,6 +11,7 @@ category: "desir-verite"
 order: 19
 draft: true
 draftReason: "thème sexuel à recadrer vers le relationnel"
+parcours: true
 ---
 
 Il y a deux grands archétypes dans la rencontre amoureuse.

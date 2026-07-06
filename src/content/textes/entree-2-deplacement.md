@@ -11,6 +11,7 @@ category: "amour-presence"
 entry: true
 entryRole: "deplacement"
 order: 2
+parcours: true
 ---
 
 C’est pour certains le fantasme que les problèmes amoureux, les insatisfactions relationnelles et les frustrations sexuelles vont disparaître dès qu’on aura trouvé la bonne personne, le bon partenaire.

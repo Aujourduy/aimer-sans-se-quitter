@@ -1,6 +1,6 @@
 ---
 verifieParDuy: false
-livreFableDanPhu: false
+livreFableDanPhu: true
 livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
@@ -9,6 +9,7 @@ title: "Le nez malade"
 excerpt: "La souffrance ne vient pas de la sexualité, mais de la perception de la sexualité."
 category: "fables-paradoxes"
 order: 6
+parcours: true
 ---
 
 Certaines personnes s’étonnent que dans mon accompagnement vers la sexualité sensible ou dans mon stage présentiel sexualité sensible, bien que les participants soient très satisfaits des résultats, je les préviens que je ne fais pas du tout de tantra et qu’il n’y a pas d’exercice avec les énergies sexuelles.
