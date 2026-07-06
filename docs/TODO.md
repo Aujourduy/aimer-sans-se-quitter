@@ -4,10 +4,11 @@ Tâches techniques en attente (≠ `content/sujets-todo.json` qui liste les suje
 
 ## À faire
 
-- [ ] **Pousser le commit CI de résilience du déploiement** (`1e1985f` — retry + timeout sur GitHub Pages).
-  Bloqué : le token `gh` n'a pas le scope `workflow`, donc le push d'un fichier `.github/workflows/` est refusé.
-  Débloquer : `gh auth refresh -h github.com -s workflow` (aller au bout de l'autorisation navigateur : entrer le code sur https://github.com/login/device + « Authorize »), vérifier `gh auth status` (scope `workflow` présent), puis `git push origin main`.
-  Effet attendu : plus de mails d'erreur après push (les échecs transitoires « Deployment failed, try again later » sont retentés 3 fois).
+_(rien pour l'instant)_
+
+## Fait
+
+- [x] **Résilience du déploiement GitHub Pages** (retry ×3 + timeout) — poussé le 2026-07-06 (commit `803a82f`). Le token `gh` a désormais le scope `workflow`. Les échecs transitoires « Deployment failed, try again later » sont retentés automatiquement → plus de mails d'erreur.
 
 ## Idées / à voir plus tard
 
