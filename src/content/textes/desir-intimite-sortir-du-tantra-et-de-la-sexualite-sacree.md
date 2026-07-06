@@ -1,17 +1,17 @@
 ---
 verifieParDuy: false
 livreFableDanPhu: false
-livreAnalyseConte: false
+livreAnalyseConte: true
 livreMetaphore: true
 livreVersus: false
-livreAimerSansDisparaitre: false
+livreAimerSansDisparaitre: true
 title: "Sortir du Tantra et de la sexualité sacrée"
 excerpt: "Le Tantra est à la sexualité ce qu’une église est à Dieu : un moyen, jamais l’objectif."
 category: "corps-desir"
 order: 62
 draft: true
 draftReason: "texte intime explicite, non surfacé pour l’instant"
-parcours: true
+parcours: false
 ---
 
 Le Tantra, ou plutôt le Néo-Tantra, et la sexualité tantrique sont à la “Sexualité” ce qu’une église est à Dieu.

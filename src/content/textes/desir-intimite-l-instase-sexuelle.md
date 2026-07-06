@@ -3,8 +3,8 @@ verifieParDuy: false
 livreFableDanPhu: false
 livreAnalyseConte: false
 livreMetaphore: false
-livreVersus: false
-livreAimerSansDisparaitre: false
+livreVersus: true
+livreAimerSansDisparaitre: true
 title: "L’instase sexuelle"
 excerpt: "L’instase, c’est quand l’univers s’est transporté à l’intérieur de soi."
 category: "corps-desir"

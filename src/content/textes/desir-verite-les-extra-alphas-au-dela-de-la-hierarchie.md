@@ -3,14 +3,14 @@ verifieParDuy: false
 livreFableDanPhu: false
 livreAnalyseConte: false
 livreMetaphore: false
-livreVersus: false
-livreAimerSansDisparaitre: false
+livreVersus: true
+livreAimerSansDisparaitre: true
 title: "Les extra-alphas : au-delà de la hiérarchie"
 excerpt: "Réflexion originale sur masculin/féminin hors domination, concept propre à Duy"
 category: "vrai-de-soi"
 order: 33
 draft: false
-parcours: false
+parcours: true
 ---
 (extra : Préfixe, du latin extra, en dehors, exprimant l'extériorité )
 

@@ -2,9 +2,9 @@
 verifieParDuy: false
 livreFableDanPhu: false
 livreAnalyseConte: false
-livreMetaphore: false
-livreVersus: false
-livreAimerSansDisparaitre: false
+livreMetaphore: true
+livreVersus: true
+livreAimerSansDisparaitre: true
 title: "Donner c’est donner ?"
 excerpt: "À la fin d’une relation, voir si j’ai vraiment donné, ou seulement investi dans l’espoir d’un retour."
 category: "lien-relation"

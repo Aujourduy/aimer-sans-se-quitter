@@ -2,9 +2,9 @@
 verifieParDuy: false
 livreFableDanPhu: false
 livreAnalyseConte: false
-livreMetaphore: false
+livreMetaphore: true
 livreVersus: false
-livreAimerSansDisparaitre: false
+livreAimerSansDisparaitre: true
 title: "La vie avant le je — révélation par la danse"
 excerpt: "Expérience mystique : découverte de la vie qui se vit avant le moi"
 category: "regard-vie"

@@ -1,17 +1,17 @@
 ---
 verifieParDuy: false
-livreFableDanPhu: true
+livreFableDanPhu: false
 livreAnalyseConte: false
-livreMetaphore: true
+livreMetaphore: false
 livreVersus: true
-livreAimerSansDisparaitre: false
+livreAimerSansDisparaitre: true
 title: "Comme je prie, comme je fais l’amour"
 excerpt: "Demander pour avoir ce que je n’ai pas, ou remercier pour ce qui est déjà là."
 category: "corps-desir"
 order: 8
 draft: true
 draftReason: "texte intime explicite, non surfacé pour l’instant"
-parcours: true
+parcours: false
 ---
 
 Le maître spirituel chrétien, Maître Eckhart, disait qu’il y avait deux manières de prier. Celle qui nous éloigne de Dieu et celle qui nous rapproche.

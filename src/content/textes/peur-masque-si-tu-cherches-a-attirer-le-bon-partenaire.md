@@ -3,14 +3,14 @@ verifieParDuy: false
 livreFableDanPhu: false
 livreAnalyseConte: false
 livreMetaphore: false
-livreVersus: false
-livreAimerSansDisparaitre: false
+livreVersus: true
+livreAimerSansDisparaitre: true
 title: "Si tu cherches à attirer le bon partenaire"
 excerpt: "Arrête de chercher à attirer les bons partenaires : repousser les mauvais est la vraie stratégie."
 category: "vrai-de-soi"
 order: 70
 draft: false
-parcours: false
+parcours: true
 ---
 Oui, ce message est vraiment pour toi si tu cherches à attirer le bon partenaire. Voici mon conseil : Arrête de chercher à attirer le bon ou la bonne partenaire.
 

@@ -2,15 +2,15 @@
 verifieParDuy: false
 livreFableDanPhu: false
 livreAnalyseConte: false
-livreMetaphore: false
-livreVersus: false
-livreAimerSansDisparaitre: false
+livreMetaphore: true
+livreVersus: true
+livreAimerSansDisparaitre: true
 title: "Ca va te faire mal et je vais quand même te le dire"
 excerpt: "Le dilemme entre confort et vérité : se taire accumule l'inconfort, dire offre à l'autre l'occasion de grandir."
 category: "vrai-de-soi"
 order: 15
 draft: false
-parcours: false
+parcours: true
 ---
 L’enfer est pavé de bonnes intentions et vouloir protéger ma partenaire en est une. C’est le dilemme entre le confort et la vérité. Le choix de la vérité est difficile. Parce qu’il peut créer colère, frustration, douleur, jalousie, peur. Est-ce que j’ai envie d’amener ça à ma partenaire ? Non. 
 

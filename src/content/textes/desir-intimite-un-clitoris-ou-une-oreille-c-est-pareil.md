@@ -3,14 +3,15 @@ verifieParDuy: false
 livreFableDanPhu: false
 livreAnalyseConte: false
 livreMetaphore: true
-livreVersus: false
-livreAimerSansDisparaitre: false
+livreVersus: true
+livreAimerSansDisparaitre: true
 title: "Un clitoris ou une oreille, c’est pareil"
 excerpt: "On peut faire une toilette du corps avant de faire l’amour ; on peut aussi faire une toilette de l’esprit."
 category: "corps-desir"
 order: 65
 draft: true
 draftReason: "texte intime explicite, non surfacé pour l’instant"
+parcours: true
 ---
 
 Prenez juste quelques secondes pour ressentir l’effet de cette phrase en vous.

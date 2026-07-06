@@ -1,10 +1,10 @@
 ---
 verifieParDuy: false
 livreFableDanPhu: false
-livreAnalyseConte: false
+livreAnalyseConte: true
 livreMetaphore: false
-livreVersus: false
-livreAimerSansDisparaitre: false
+livreVersus: true
+livreAimerSansDisparaitre: true
 title: "Kamasutra, de la position à la sensation"
 excerpt: "Le Kamasutra n'est pas une collection de postures acrobatiques mais une recherche subtile des sensations."
 category: "corps-desir"

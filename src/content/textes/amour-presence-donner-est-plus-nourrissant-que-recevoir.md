@@ -4,7 +4,7 @@ livreFableDanPhu: false
 livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: true
-livreAimerSansDisparaitre: false
+livreAimerSansDisparaitre: true
 title: "Donner est plus nourrissant que recevoir"
 excerpt: "Renversement court mais développé sur l'amour et la sexualité, intemporel"
 category: "lien-relation"

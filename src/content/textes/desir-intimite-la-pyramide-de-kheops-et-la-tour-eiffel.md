@@ -1,16 +1,17 @@
 ---
 verifieParDuy: false
-livreFableDanPhu: true
+livreFableDanPhu: false
 livreAnalyseConte: false
 livreMetaphore: true
 livreVersus: true
-livreAimerSansDisparaitre: false
+livreAimerSansDisparaitre: true
 title: "La pyramide de Khéops et la tour Eiffel"
 excerpt: "Plutôt qu’éveiller quelques zones, développer la sensibilité de tout le corps, couche après couche."
 category: "corps-desir"
 order: 37
 draft: true
 draftReason: "texte intime explicite, non surfacé pour l’instant"
+parcours: false
 ---
 
 Il y eut un temps où j’étais très curieux sur l’anatomie féminine. Je voulais connaître les différentes zones érogènes “les secrets du plaisir féminin”. Avoir la carte du corps pour savoir où caresser afin de déclencher excitation, désir et plaisir.

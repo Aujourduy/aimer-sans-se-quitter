@@ -4,7 +4,7 @@ livreFableDanPhu: false
 livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
-livreAimerSansDisparaitre: false
+livreAimerSansDisparaitre: true
 title: "Ma grande erreur sur la sexualité"
 excerpt: "La chaîne était prise à l'envers : c'est l'autonomie affective qui mène à une sexualité heureuse, pas l'inverse."
 category: "corps-desir"

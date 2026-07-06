@@ -4,7 +4,7 @@ livreFableDanPhu: false
 livreAnalyseConte: false
 livreMetaphore: true
 livreVersus: false
-livreAimerSansDisparaitre: false
+livreAimerSansDisparaitre: true
 title: "Le carnet noir des reproches"
 excerpt: "Ce qui ne s’exprime pas s’imprime dans le carnet noir, et s’exprime quand même plus tard."
 category: "lien-relation"

@@ -4,13 +4,13 @@ livreFableDanPhu: false
 livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
-livreAimerSansDisparaitre: false
+livreAimerSansDisparaitre: true
 title: "Le Pardon Suprême — au-delà du retour à soi d'avant"
 excerpt: "Pardon comme dépassement : joie nouvelle plus grande que l'originale"
 category: "lien-relation"
 order: 32
 draft: false
-parcours: false
+parcours: true
 ---
 Bonjour amis chercheurs.ses de Vérité, d’Amour et de Liberté.
 

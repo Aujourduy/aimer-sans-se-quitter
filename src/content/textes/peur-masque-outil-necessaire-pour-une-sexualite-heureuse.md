@@ -2,9 +2,9 @@
 verifieParDuy: false
 livreFableDanPhu: false
 livreAnalyseConte: false
-livreMetaphore: false
+livreMetaphore: true
 livreVersus: false
-livreAimerSansDisparaitre: false
+livreAimerSansDisparaitre: true
 title: "Outil nécessaire pour une sexualité heureuse"
 excerpt: "La sexualité cristallise peurs et traumas : il faut un outil de transmutation qui change les crises en révélations."
 category: "corps-desir"

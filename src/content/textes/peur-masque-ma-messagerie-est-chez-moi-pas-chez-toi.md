@@ -4,7 +4,7 @@ livreFableDanPhu: false
 livreAnalyseConte: false
 livreMetaphore: true
 livreVersus: false
-livreAimerSansDisparaitre: false
+livreAimerSansDisparaitre: true
 title: "Ma messagerie est chez moi, pas chez toi"
 excerpt: "Réflexion sur la responsabilité de la colère et les frontières de l'espace personnel"
 category: "vrai-de-soi"

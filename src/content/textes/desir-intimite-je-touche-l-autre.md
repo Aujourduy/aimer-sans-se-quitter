@@ -2,9 +2,9 @@
 verifieParDuy: false
 livreFableDanPhu: false
 livreAnalyseConte: false
-livreMetaphore: false
+livreMetaphore: true
 livreVersus: false
-livreAimerSansDisparaitre: false
+livreAimerSansDisparaitre: true
 title: "Je touche l’autre"
 excerpt: "L'ordre des mots dit l'ordre de l'attention : le « Je », le « toucher », puis « l'autre »."
 category: "corps-desir"

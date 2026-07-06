@@ -3,8 +3,8 @@ verifieParDuy: false
 livreFableDanPhu: false
 livreAnalyseConte: false
 livreMetaphore: false
-livreVersus: false
-livreAimerSansDisparaitre: false
+livreVersus: true
+livreAimerSansDisparaitre: true
 title: "Ma chérie, j’ai peur"
 excerpt: "Avouer ses peurs, c’est partager sa réalité ; les taire élève un mur de solitude."
 category: "vrai-de-soi"

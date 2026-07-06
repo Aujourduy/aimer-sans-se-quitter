@@ -3,8 +3,8 @@ verifieParDuy: false
 livreFableDanPhu: false
 livreAnalyseConte: false
 livreMetaphore: false
-livreVersus: false
-livreAimerSansDisparaitre: false
+livreVersus: true
+livreAimerSansDisparaitre: true
 title: "La force de dire non, la faiblesse d’accepter et la sagesse de dire oui"
 excerpt: "Je ne peux pas être heureux dans une relation si je dois renoncer à moi-même."
 category: "vrai-de-soi"

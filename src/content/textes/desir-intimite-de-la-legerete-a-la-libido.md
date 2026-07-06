@@ -4,13 +4,13 @@ livreFableDanPhu: false
 livreAnalyseConte: false
 livreMetaphore: true
 livreVersus: false
-livreAimerSansDisparaitre: false
+livreAimerSansDisparaitre: true
 title: "De la légèreté à la libido"
 excerpt: "La propreté du corps avant l'amour : et si on soignait aussi la propreté de nos émotions ?"
 category: "corps-desir"
 order: 10
 draft: false
-parcours: false
+parcours: true
 ---
 Il y a quelques jours, un commentaire sur ma page disait que celle-ci devient une page de développement personnel. C’est très vrai. Pour moi, la sexualité sensible c’est de la Légèreté dans la tête, de l’Intimité dans le cœur et de la Présence dans le corps. Et s’il y a des éléments de développement personnel qui nous permettent d’être plus légers, plus ouverts plus dans la gratitude et bien je trouve cela utile, voire même indispensable.
 

@@ -1,16 +1,17 @@
 ---
 verifieParDuy: false
-livreFableDanPhu: true
+livreFableDanPhu: false
 livreAnalyseConte: false
 livreMetaphore: true
 livreVersus: false
-livreAimerSansDisparaitre: false
+livreAimerSansDisparaitre: true
 title: "Comment j’ai su que j’avais besoin de lunettes ?"
 excerpt: "C’est en portant des lunettes qu’on découvre qu’on croyait voir clair sans l’être."
 category: "vrai-de-soi"
 order: 21
 draft: true
 draftReason: "thème sexuel à recadrer vers le relationnel"
+parcours: true
 ---
 
 Par hasard. À moins d’avoir une baisse subite de la vue, nous ne nous rendons pas compte que notre vue a baissé. C’est fortuitement, un jour lors d’un contrôle, que j’ai pris conscience que ma vision pouvait être améliorée par des lunettes. Dans la vie générale, ce n’était pas flagrant mais devant les images de test de l’ophtalmologue, c’était sans appel.

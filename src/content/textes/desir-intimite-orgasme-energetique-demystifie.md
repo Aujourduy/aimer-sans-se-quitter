@@ -3,7 +3,7 @@ verifieParDuy: false
 livreFableDanPhu: false
 livreAnalyseConte: false
 livreMetaphore: false
-livreVersus: true
+livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Orgasme énergétique démystifié"
 excerpt: "Aussi fabuleux que tu l'imagines, mais moins important : le chemin vaut plus que l'expérience."

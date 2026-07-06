@@ -2,15 +2,15 @@
 verifieParDuy: false
 livreFableDanPhu: false
 livreAnalyseConte: false
-livreMetaphore: false
+livreMetaphore: true
 livreVersus: false
-livreAimerSansDisparaitre: false
+livreAimerSansDisparaitre: true
 title: "Le chemin direct vers la sexualité sensible"
 excerpt: "Les 4 étapes vers une sexualité sensible : transmuter les peurs, s'écouter, communiquer, explorer les énergies."
 category: "corps-desir"
 order: 73
 draft: false
-parcours: false
+parcours: true
 ---
 Pour moi, cela a demandé 15 ans de stages, retraites, thérapies et formations pour arriver à vivre une sexualité authentique et sensible avec toutes mes partenaires. Dans ce parcours, j’ai glané des outils par ici, des principes par là. C’était une exploration un peu au final des hasards. Je découvrais un sujet qui me semblait intéressant. J’y allais. J’apprenais toujours quelque chose. J’évoluais à chaque fois mais pas forcément dans la direction d’une sexualité sensible.
 

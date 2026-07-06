@@ -1,10 +1,10 @@
 ---
 verifieParDuy: false
-livreFableDanPhu: true
+livreFableDanPhu: false
 livreAnalyseConte: false
 livreMetaphore: true
 livreVersus: true
-livreAimerSansDisparaitre: false
+livreAimerSansDisparaitre: true
 title: "Désir peinture vs sculpture"
 excerpt: "On ne peut pas embellir un cœur : on peut seulement enlever les couches qui le cachent."
 category: "vrai-de-soi"

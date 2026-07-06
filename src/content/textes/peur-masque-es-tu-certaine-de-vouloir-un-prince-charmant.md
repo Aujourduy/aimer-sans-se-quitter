@@ -1,10 +1,10 @@
 ---
 verifieParDuy: false
-livreFableDanPhu: true
+livreFableDanPhu: false
 livreAnalyseConte: true
 livreMetaphore: false
-livreVersus: false
-livreAimerSansDisparaitre: false
+livreVersus: true
+livreAimerSansDisparaitre: true
 title: "Es-tu certaine de vouloir un prince charmant ?"
 excerpt: "Chaque femme est déjà une Reine ; elle n’a pas besoin d’un prince pour exister."
 category: "vrai-de-soi"

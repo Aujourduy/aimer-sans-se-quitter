@@ -1,10 +1,10 @@
 ---
 verifieParDuy: false
-livreFableDanPhu: true
+livreFableDanPhu: false
 livreAnalyseConte: false
 livreMetaphore: true
 livreVersus: false
-livreAimerSansDisparaitre: false
+livreAimerSansDisparaitre: true
 title: "La nuit la plus noire"
 excerpt: "La nuit noire n'est peut-être qu'une lumière que mes yeux ne savent pas encore voir."
 category: "regard-vie"

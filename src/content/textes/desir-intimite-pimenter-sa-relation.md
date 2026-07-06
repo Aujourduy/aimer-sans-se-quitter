@@ -3,14 +3,15 @@ verifieParDuy: false
 livreFableDanPhu: false
 livreAnalyseConte: false
 livreMetaphore: true
-livreVersus: false
-livreAimerSansDisparaitre: false
+livreVersus: true
+livreAimerSansDisparaitre: true
 title: "Pimenter sa relation"
 excerpt: "La sauce ne sauve pas un plat médiocre : pimenter n’a de sens que sur de bonnes bases."
 category: "lien-relation"
 order: 18
 draft: true
 draftReason: "texte intime explicite, non surfacé pour l’instant"
+parcours: true
 ---
 
 Les grands chefs expliquent que les bons plats c’est à 70% de bons ingrédients. Ensuite c’est la préparation. Et enfin, éventuellement, une sauce pour relever, exalter les saveurs qui sont déjà là. Dans les fast food, c’est souvent la sauce qui donne le goût parce que les ingrédients sont médiocres. On peut même dire que la sauce est là pour masquer le goût. Alors quand je vois les conseils pour pimenter la sexualité dans le couple, ça me fait penser à la sauce des fast food. Attention, je ne dis pas de ne pas pimenter, de ne pas ajouter de sauce mais c’est important de goûter le plat sans la sauce. Une fois qu’on a mis la sauce, on n’arrive plus à distinguer les différentes subtilités du plat.

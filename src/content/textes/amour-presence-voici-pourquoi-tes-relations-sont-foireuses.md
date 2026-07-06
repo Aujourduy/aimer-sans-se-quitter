@@ -2,15 +2,16 @@
 verifieParDuy: false
 livreFableDanPhu: false
 livreAnalyseConte: false
-livreMetaphore: false
-livreVersus: false
-livreAimerSansDisparaitre: false
+livreMetaphore: true
+livreVersus: true
+livreAimerSansDisparaitre: true
 title: "Voici pourquoi tes relations sont foireuses"
 excerpt: "Cesse de chercher l’homme bien : deviens d’abord la femme que cet homme cherche."
 category: "vrai-de-soi"
 order: 11
 draft: true
 draftReason: "titre à valider"
+parcours: true
 ---
 
 Dans le milieu développement personnel et spirituel il y a deux principes qui sont souvent mal utilisés ensemble.

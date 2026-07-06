@@ -4,7 +4,7 @@ livreFableDanPhu: false
 livreAnalyseConte: false
 livreMetaphore: true
 livreVersus: true
-livreAimerSansDisparaitre: false
+livreAimerSansDisparaitre: true
 title: "Des larmes comme des cailloux, des larmes comme des bulles"
 excerpt: "Deux sortes de larmes après l’amour, selon qu’on a porté un masque ou ouvert le cœur."
 category: "corps-desir"

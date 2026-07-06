@@ -1,9 +1,9 @@
 ---
 verifieParDuy: false
-livreFableDanPhu: true
+livreFableDanPhu: false
 livreAnalyseConte: false
-livreMetaphore: true
-livreVersus: true
+livreMetaphore: false
+livreVersus: false
 livreAimerSansDisparaitre: false
 title: "La femme est une noix de coco, l'homme est un grain de raisin"
 excerpt: "Métaphore de la sexualité féminine et masculine : simplicité du raisin contre la noix de coco."

@@ -4,7 +4,7 @@ livreFableDanPhu: false
 livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
-livreAimerSansDisparaitre: false
+livreAimerSansDisparaitre: true
 title: "Ce dont j’avais le plus besoin"
 excerpt: "Ce que tu rêves au plus profond de toi est légitime et existe vraiment."
 category: "vrai-de-soi"

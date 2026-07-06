@@ -2,9 +2,9 @@
 verifieParDuy: false
 livreFableDanPhu: false
 livreAnalyseConte: false
-livreMetaphore: false
+livreMetaphore: true
 livreVersus: true
-livreAimerSansDisparaitre: false
+livreAimerSansDisparaitre: true
 title: "Une envie vs une demande"
 excerpt: "Une demande part d’un manque ; une envie part du neutre vers le positif."
 category: "lien-relation"

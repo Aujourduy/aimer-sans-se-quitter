@@ -1,16 +1,16 @@
 ---
 verifieParDuy: false
-livreFableDanPhu: true
+livreFableDanPhu: false
 livreAnalyseConte: false
-livreMetaphore: false
+livreMetaphore: true
 livreVersus: false
-livreAimerSansDisparaitre: false
+livreAimerSansDisparaitre: true
 title: "Docteur, j'ai mal partout"
 excerpt: "Un sketch de Devos sur le doigt cassé pour dire que le détecteur du bon et du mauvais s'abîme après de mauvaises relations."
 category: "lien-relation"
 order: 42
 draft: false
-parcours: false
+parcours: true
 ---
 Un joli sketch de Raymond Devos, artiste des mots, de l’imaginaire et de la logique tordue, que j’ai revu ce matin. 
 

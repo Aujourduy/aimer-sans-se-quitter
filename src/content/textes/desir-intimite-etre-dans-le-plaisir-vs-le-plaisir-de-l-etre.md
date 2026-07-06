@@ -3,7 +3,7 @@ verifieParDuy: false
 livreFableDanPhu: false
 livreAnalyseConte: false
 livreMetaphore: false
-livreVersus: true
+livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Être dans le plaisir vs le plaisir de l'Être"
 excerpt: "Au-delà des recettes pour plus de plaisir, distinguer le plaisir vécu et le plaisir d'être."

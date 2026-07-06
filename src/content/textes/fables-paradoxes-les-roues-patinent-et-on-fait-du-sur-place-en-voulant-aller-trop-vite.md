@@ -1,8 +1,8 @@
 ---
 verifieParDuy: false
-livreFableDanPhu: true
+livreFableDanPhu: false
 livreAnalyseConte: false
-livreMetaphore: true
+livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Les roues patinent et on fait du sur place en voulant aller trop vite"

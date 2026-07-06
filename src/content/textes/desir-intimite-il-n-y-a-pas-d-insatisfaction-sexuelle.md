@@ -2,15 +2,15 @@
 verifieParDuy: false
 livreFableDanPhu: false
 livreAnalyseConte: false
-livreMetaphore: false
+livreMetaphore: true
 livreVersus: false
-livreAimerSansDisparaitre: false
+livreAimerSansDisparaitre: true
 title: "Il n'y a pas d'insatisfaction sexuelle"
 excerpt: "L'insatisfaction sexuelle n'est qu'un indicateur de son insatisfaction de vie : on souffre d'avoir trop peu donné, pas trop peu reçu."
 category: "corps-desir"
 order: 20
 draft: false
-parcours: false
+parcours: true
 ---
 L’insatisfaction sexuelle est une illusion. Une erreur d’interprétation du ressenti.
 

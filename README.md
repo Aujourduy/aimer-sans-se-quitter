@@ -26,6 +26,7 @@ fichier `.md` dans `src/content/textes/` — sans toucher à la mise en page.
   - [Les textes (page « Textes »)](#les-textes-page--textes-)
   - [Relire et valider les textes (suivi `verifieParDuy`)](#relire-et-valider-les-textes-suivi-verifieparduy)
   - [La page « Textes » : thématiques et organisation](#la-page--textes---thématiques-et-organisation)
+  - [Marqueurs éditoriaux (livres + parcours)](#marqueurs-éditoriaux-livres--parcours)
   - [Les autres pages (fixes)](#les-autres-pages-fixes)
 - [Audit éditorial (copywriting)](#audit-éditorial-copywriting)
 - [Portrait (photo)](#portrait-photo)
@@ -332,7 +333,7 @@ En-tête (« frontmatter ») de chaque fichier, suivi du corps en markdown :
 verifieParDuy: false                # suivi de relecture (voir plus bas) — true = relu/validé
 title: "Le titre du texte"          # titre affiché
 excerpt: "Une ligne, sur la carte." # résumé affiché dans la liste
-category: "amour-presence"          # voir le tableau plus bas
+category: "lien-relation"           # voir le tableau plus bas
 order: 2                            # ordre dans la catégorie (petit = en premier)
 # entry: true                       # (optionnel) met le texte en avant
 # entryRole: "reconnaissance"       # si entry: true → reconnaissance | deplacement | mecanisme
@@ -356,11 +357,11 @@ Catégories disponibles :
 
 | `category`         | Affiché             |
 | ------------------ | ------------------- |
-| `amour-presence`   | Amour et présence   |
-| `desir-verite`     | Désir et vérité     |
-| `desir-intimite`   | Désir et intimité   |
-| `peur-masque`      | Peur et masque      |
-| `fables-paradoxes` | Fables et paradoxes |
+| `lien-relation`     | Le lien et la relation    |
+| `vrai-de-soi`       | Le vrai de soi            |
+| `corps-desir`       | Le corps qui dit vrai     |
+| `regard-vie`        | Le regard sur la vie      |
+| `pratique-posture`  | La pratique et la posture |
 
 > Pour créer une **nouvelle** catégorie, il faut aussi la déclarer dans
 > `src/content.config.ts` (liste `category`) **et** `src/lib/categories.ts`
@@ -465,23 +466,25 @@ que l'on veut changer :
 
 ```ts
 export const CATEGORY_LABELS = {
-  'amour-presence':  'Amour et présence',    // ← texte de droite = ce qui s'affiche
-  'desir-verite':    'Désir et vérité',
-  'peur-masque':     'Peur et masque',
-  'fables-paradoxes':'Fables et paradoxes',
+  'lien-relation':    'Le lien et la relation',    // ← texte de droite = ce qui s'affiche
+  'vrai-de-soi':      'Le vrai de soi',
+  'corps-desir':      'Le corps qui dit vrai',
+  'regard-vie':       'Le regard sur la vie',
+  'pratique-posture': 'La pratique et la posture',
 };
 
 export const CATEGORY_ORDER = [   // ← ordre des sections sur la page
-  'amour-presence',
-  'desir-verite',
-  'peur-masque',
-  'fables-paradoxes',
+  'lien-relation',
+  'vrai-de-soi',
+  'corps-desir',
+  'regard-vie',
+  'pratique-posture',
 ];
 ```
 
 - **Renommer** une thématique affichée → changer le libellé de droite
   (ex. `'Amour et présence'` → `'Aimer et être présent'`). La clé de gauche
-  (`'amour-presence'`) ne change pas : c'est elle qui relie les textes.
+  (`'lien-relation'`) ne change pas : c'est elle qui relie les textes.
 - **Réordonner** les thématiques → changer l'ordre dans `CATEGORY_ORDER`.
 
 **Déplacer un texte / changer son ordre dans une thématique** — l'en-tête du
@@ -489,7 +492,7 @@ export const CATEGORY_ORDER = [   // ← ordre des sections sur la page
 
 ```md
 ---
-category: "amour-presence"   # ← la thématique où le texte apparaît
+category: "lien-relation"    # ← la thématique où le texte apparaît
 order: 4                     # ← sa position dans la thématique (petit = en premier)
 ---
 ```
@@ -499,6 +502,33 @@ order: 4                     # ← sa position dans la thématique (petit = en p
 
 > Une thématique n'apparaît sur la page que si elle contient **au moins un
 > texte** (hors textes mis en avant via `entry: true`).
+
+### Marqueurs éditoriaux (livres + parcours)
+
+En plus de la `category` (la thématique **affichée sur le site**), chaque texte
+porte des **marqueurs éditoriaux** — des booléens dans le frontmatter, **internes
+à l'outil de relecture, invisibles sur le site public**. Ils servent à préparer
+les livres et le parcours de lecture. Un texte peut en porter **plusieurs**.
+
+| Champ frontmatter | Marqueur (outil) | Sens |
+| --- | --- | --- |
+| `livreAimerSansDisparaitre` | Flagship / ASD | Nourrit l'essai relationnel « Aimer sans disparaître » |
+| `livreFableDanPhu` | Fable | Fable inventée ou histoire vécue à bascule |
+| `livreAnalyseConte` | Conte | Relecture d'un conte/mythe connu |
+| `livreVersus` | Versus | Paire contrastée « X vs Y » |
+| `livreMetaphore` | Métaphore | Image qui fait voir d'un coup, sans récit |
+| `parcours` | Parcours | Entre dans le chemin de lecture (douleur → conversation) |
+
+Ces marqueurs se cochent dans l'outil de relecture (filtres cumulables en ET),
+et alimentent `npm run livres` (dossiers de livres). Le **détail complet** du
+marquage (résumé réel de chaque texte, fonction par livre, mouvement et niveau
+d'intimité du parcours, diagnostic des déséquilibres, textes forts) est dans
+**`docs/corpus-marque.md`** — la matière brute pour concevoir les tables des
+matières. Régénéré par une analyse du corps de chaque texte (jamais le titre).
+
+> Distinction clé : la `category` trie par **thème** (site public) ; les
+> marqueurs de livre trient par **forme** ; le `parcours` trie par **fonction**
+> dans une progression émotionnelle. Les trois sont indépendants.
 
 ### Les autres pages (fixes)
 

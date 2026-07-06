@@ -1,10 +1,10 @@
 ---
 verifieParDuy: false
-livreFableDanPhu: true
+livreFableDanPhu: false
 livreAnalyseConte: false
 livreMetaphore: true
 livreVersus: false
-livreAimerSansDisparaitre: false
+livreAimerSansDisparaitre: true
 title: "Courir avec des béquilles"
 excerpt: "Ce qui nous a aidé un jour devient notre entrave si on le garde toujours."
 category: "vrai-de-soi"

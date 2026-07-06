@@ -4,13 +4,14 @@ livreFableDanPhu: false
 livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
-livreAimerSansDisparaitre: false
+livreAimerSansDisparaitre: true
 title: "Tout a un prix"
 excerpt: "Le prix le plus cher fut celui du dépassement de soi, vers l’authenticité."
 category: "vrai-de-soi"
 order: 43
 draft: true
 draftReason: "thème sexuel à recadrer vers le relationnel"
+parcours: true
 ---
 
 Oui, tout a un prix et j’ai payé cher, très cher pour vivre maintenant une sexualité sensible. Quand je dis cher, ce n’est pas seulement les stages et formations de milliers d’euros pendant des années, le prix le plus cher était celui du dépassement de soi. J’ai marché sur le feu et je peux vous dire que c’était bien plus facile que d’assumer qui je suis pour être dans l’authenticité avec ma partenaire alors que nous sommes nus et dans un moment de grande intimité.

@@ -1,10 +1,10 @@
 ---
 verifieParDuy: false
-livreFableDanPhu: true
+livreFableDanPhu: false
 livreAnalyseConte: false
 livreMetaphore: true
-livreVersus: false
-livreAimerSansDisparaitre: false
+livreVersus: true
+livreAimerSansDisparaitre: true
 title: "Du sexe au cœur comme de la bouche au ventre"
 excerpt: "La bouche et le sexe crient leur besoin ; le cœur et le ventre murmurent leur plénitude."
 category: "corps-desir"

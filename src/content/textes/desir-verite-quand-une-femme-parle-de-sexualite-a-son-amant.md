@@ -4,13 +4,13 @@ livreFableDanPhu: false
 livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
-livreAimerSansDisparaitre: false
+livreAimerSansDisparaitre: true
 title: "Quand une femme parle de sexualité à son amant"
 excerpt: "Elle parle depuis le cœur, lui est pris par la peur dans le corps : il faut changer d'approche pour être entendue."
 category: "corps-desir"
 order: 80
 draft: false
-parcours: false
+parcours: true
 ---
 Toutes les femmes ne sont pas les mêmes et tous les hommes n’ont plus. Ceci posé, il y a des points communs à beaucoup de femmes et idem entre les hommes. Au sujet de la sexualité sensible, il y a un sujet pour lequel j’ai entendu beaucoup de femmes se plaindre. Elles n’arrivent pas à parler efficacement de sexualité avec leur partenaire. Souvent, elles ne se sentent pas entendues, pas comprises dans leurs désirs et parfois même pas respectées dans leurs besoins physiologiques et psychologiques. 
 

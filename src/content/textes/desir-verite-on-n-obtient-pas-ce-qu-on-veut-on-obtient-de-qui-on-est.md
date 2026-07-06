@@ -2,9 +2,9 @@
 verifieParDuy: false
 livreFableDanPhu: false
 livreAnalyseConte: false
-livreMetaphore: false
+livreMetaphore: true
 livreVersus: false
-livreAimerSansDisparaitre: false
+livreAimerSansDisparaitre: true
 title: "On n’obtient pas ce qu’on veut, on obtient de qui on est"
 excerpt: "On n’obtient pas quelque chose parce qu’on le veut, mais parce que c’est l’expression de qui on est."
 category: "vrai-de-soi"

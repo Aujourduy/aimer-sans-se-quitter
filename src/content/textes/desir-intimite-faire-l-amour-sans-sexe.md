@@ -11,6 +11,7 @@ category: "corps-desir"
 order: 18
 draft: true
 draftReason: "texte intime explicite, non surfacé pour l’instant ; corps source incomplet, à rédiger"
+parcours: false
 ---
 
 <!-- À RÉDIGER : version source incomplète -->

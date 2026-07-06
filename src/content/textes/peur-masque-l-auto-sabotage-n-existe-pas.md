@@ -2,9 +2,9 @@
 verifieParDuy: false
 livreFableDanPhu: false
 livreAnalyseConte: false
-livreMetaphore: false
-livreVersus: false
-livreAimerSansDisparaitre: false
+livreMetaphore: true
+livreVersus: true
+livreAimerSansDisparaitre: true
 title: "L’auto-sabotage n’existe pas"
 excerpt: "Il n’y a pas d’ennemi en nous, seulement des amis ; le blocage est une porte vers plus d’amour."
 category: "vrai-de-soi"

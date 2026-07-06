@@ -2,9 +2,9 @@
 verifieParDuy: false
 livreFableDanPhu: false
 livreAnalyseConte: false
-livreMetaphore: true
+livreMetaphore: false
 livreVersus: false
-livreAimerSansDisparaitre: false
+livreAimerSansDisparaitre: true
 title: "La danse comme présence totale"
 excerpt: "La présence authentique dans la danse comme voie vers l'intimité profonde"
 category: "lien-relation"

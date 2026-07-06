@@ -1,10 +1,10 @@
 ---
 verifieParDuy: false
-livreFableDanPhu: false
+livreFableDanPhu: true
 livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
-livreAimerSansDisparaitre: false
+livreAimerSansDisparaitre: true
 title: "Comment l’histoire de sa vie se retourne en 10 minutes"
 excerpt: "Reprendre les éléments un par un, jusqu’à ce que l’illusion négative de soi cède."
 category: "vrai-de-soi"

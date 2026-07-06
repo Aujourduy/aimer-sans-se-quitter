@@ -1,10 +1,10 @@
 ---
 verifieParDuy: false
-livreFableDanPhu: true
+livreFableDanPhu: false
 livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: true
-livreAimerSansDisparaitre: false
+livreAimerSansDisparaitre: true
 title: "La Reine vs la Princesse"
 excerpt: "La Princesse se veut belle pour plaire ; la Reine n’a plus besoin d’être aimée pour se sentir bien."
 category: "vrai-de-soi"

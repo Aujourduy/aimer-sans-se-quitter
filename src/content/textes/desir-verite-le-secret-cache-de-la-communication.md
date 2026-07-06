@@ -4,7 +4,7 @@ livreFableDanPhu: false
 livreAnalyseConte: false
 livreMetaphore: true
 livreVersus: false
-livreAimerSansDisparaitre: false
+livreAimerSansDisparaitre: true
 title: "Le secret caché de la communication"
 excerpt: "L’essentiel n’est pas l’outil mais la main qui le tient."
 category: "lien-relation"

@@ -2,9 +2,9 @@
 verifieParDuy: false
 livreFableDanPhu: false
 livreAnalyseConte: false
-livreMetaphore: false
-livreVersus: false
-livreAimerSansDisparaitre: false
+livreMetaphore: true
+livreVersus: true
+livreAimerSansDisparaitre: true
 title: "Comment retrouver confiance en l’homme ?"
 excerpt: "La vraie question n’est pas la confiance en l’homme, mais la confiance en soi face à lui."
 category: "vrai-de-soi"

@@ -11,6 +11,7 @@ category: "corps-desir"
 order: 44
 draft: true
 draftReason: "texte intime explicite, non surfacé pour l’instant"
+parcours: false
 ---
 
 Partager son ressenti permet de créer une plus grande intimité pendant la relation sexuelle. Les gémissements, les râlements permettent d’exprimer son excitation mais ça reste limité. Et on n’a pas forcément l’esprit clair pour trouver les mots justes. En plus, certains mots pour certaines personnes peuvent choquer. Ça m’est arrivé une seule fois mais c’était suffisamment désagréable pour que je m’en souvienne encore. J’avais utilisé une expression qui pour moi exprimait mon degré d’excitation mais ma partenaire l’a très mal prise. Même si elle comprenait mon intention et ne m’en voulait pas, l’image qui lui était venue l’a complètement déstabilisée.

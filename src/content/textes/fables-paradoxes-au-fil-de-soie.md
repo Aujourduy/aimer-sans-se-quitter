@@ -1,7 +1,7 @@
 ---
 verifieParDuy: false
-livreFableDanPhu: true
-livreAnalyseConte: false
+livreFableDanPhu: false
+livreAnalyseConte: true
 livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false

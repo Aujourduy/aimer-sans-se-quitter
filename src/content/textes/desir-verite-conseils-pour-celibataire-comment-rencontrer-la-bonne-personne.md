@@ -4,13 +4,13 @@ livreFableDanPhu: false
 livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
-livreAimerSansDisparaitre: false
+livreAimerSansDisparaitre: true
 title: "Conseils pour célibataire : comment rencontrer la bonne personne"
 excerpt: "Partager ses fondamentaux avant toute relation aide l'autre à trouver la bonne personne pour lui."
 category: "lien-relation"
 order: 23
 draft: false
-parcours: false
+parcours: true
 ---
 Si vous êtes célibataire pour le moment et que vous rechercher une personne avec qui vivre une belle histoire, je vais vous partager mon expérience.
 

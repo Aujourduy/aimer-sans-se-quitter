@@ -2,15 +2,15 @@
 verifieParDuy: false
 livreFableDanPhu: false
 livreAnalyseConte: false
-livreMetaphore: false
-livreVersus: false
-livreAimerSansDisparaitre: false
+livreMetaphore: true
+livreVersus: true
+livreAimerSansDisparaitre: true
 title: "Tout est une question de dosage"
 excerpt: "Je ne suis pas supérieur à l'autre, juste un autre dosage : juger l'autre, c'est le tuer en pensée."
 category: "regard-vie"
 order: 22
 draft: false
-parcours: false
+parcours: true
 ---
 Avec n’importe quel produit, on peut obtenir un effet complètement différent suivant la quantité. L’eau si vitale à boire, deviendrait néfaste s’il fallait en boire dix litres par jour. La vaccination repose sur le principe du poison qui guérit à très faible dose, comme l’homéopathie. 
 

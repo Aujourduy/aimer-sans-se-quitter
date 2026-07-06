@@ -4,13 +4,14 @@ livreFableDanPhu: false
 livreAnalyseConte: false
 livreMetaphore: true
 livreVersus: false
-livreAimerSansDisparaitre: false
+livreAimerSansDisparaitre: true
 title: "De la nourriture relationnelle à la relation nourrissante"
 excerpt: "Un aliment nourrissant nous apporte ce dont nous avons besoin pour être mieux."
 category: "lien-relation"
 order: 2
 draft: true
 draftReason: "thème sexuel à recadrer vers le relationnel"
+parcours: true
 ---
 
 On parle de relations nourrissantes. Qu’elles soient amicales, amoureuses, sexuelles ou autres ; les relations peuvent être nourrissantes. Qu’est-ce qu’un aliment nourrissant ? Un aliment qui va nous apporter ce dont nous avons besoin pour être bien, pour être mieux. Une plus grande forme, une plus grande joie, une plus grande vitalité.

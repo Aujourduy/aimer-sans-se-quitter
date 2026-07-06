@@ -4,7 +4,7 @@ livreFableDanPhu: false
 livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
-livreAimerSansDisparaitre: false
+livreAimerSansDisparaitre: true
 title: "Les caresses avant les caresses"
 excerpt: "Ce n’était pas la caresse, mais l’atmosphère, qui a suscité le désir."
 category: "corps-desir"

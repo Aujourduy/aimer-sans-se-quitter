@@ -4,7 +4,7 @@ livreFableDanPhu: false
 livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: true
-livreAimerSansDisparaitre: false
+livreAimerSansDisparaitre: true
 title: "Travailler DANS vs POUR la sexualité sensible"
 excerpt: "Ne plus faire du business avec le message, mais se mettre au service du message lui-même."
 category: "pratique-posture"

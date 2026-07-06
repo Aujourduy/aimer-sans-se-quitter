@@ -3,8 +3,8 @@ verifieParDuy: false
 livreFableDanPhu: false
 livreAnalyseConte: false
 livreMetaphore: true
-livreVersus: false
-livreAimerSansDisparaitre: false
+livreVersus: true
+livreAimerSansDisparaitre: true
 title: "Faire l'amour en spirale"
 excerpt: "Explorer le corps de l'autre non comme une ligne droite vers le sexe mais en spirale, en se rassasiant de chaque partie."
 category: "corps-desir"

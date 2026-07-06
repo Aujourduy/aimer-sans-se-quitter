@@ -1,16 +1,17 @@
 ---
 verifieParDuy: false
-livreFableDanPhu: true
+livreFableDanPhu: false
 livreAnalyseConte: false
 livreMetaphore: true
-livreVersus: false
-livreAimerSansDisparaitre: false
+livreVersus: true
+livreAimerSansDisparaitre: true
 title: "Le sexe comme boussole et non comme destination"
 excerpt: "Ce n’était pas lié à ce que nous avions fait, mais à la manière dont nous l’avions fait."
 category: "corps-desir"
 order: 89
 draft: true
 draftReason: "thème sexuel à recadrer vers le relationnel"
+parcours: true
 ---
 
 La plupart des stages de développement personnel que j’ai faits avaient pour but d’améliorer ma sexualité. Ce n’était pas vraiment clair à l’époque mais avec le recul, cela l’est devenu.

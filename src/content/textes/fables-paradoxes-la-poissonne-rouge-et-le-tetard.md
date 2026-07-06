@@ -4,7 +4,7 @@ livreFableDanPhu: true
 livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
-livreAimerSansDisparaitre: false
+livreAimerSansDisparaitre: true
 title: "La poissonne rouge et le têtard"
 excerpt: "On ne peut pas demander à un têtard de grandir dans l’eau où il est né."
 category: "vrai-de-soi"

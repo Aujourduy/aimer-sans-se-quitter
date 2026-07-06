@@ -4,13 +4,13 @@ livreFableDanPhu: false
 livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
-livreAimerSansDisparaitre: false
+livreAimerSansDisparaitre: true
 title: "Ne rien demander"
 excerpt: "Tout est plus facile quand je ne demande rien à ma partenaire : ni soigner mes blessures, ni me rassurer, ni m'honorer."
 category: "lien-relation"
 order: 11
 draft: true
-parcours: false
+parcours: true
 ---
 Tout est plus facile quand je ne demande rien à ma partenaire.
 

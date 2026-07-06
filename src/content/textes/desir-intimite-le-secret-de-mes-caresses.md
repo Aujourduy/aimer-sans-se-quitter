@@ -4,13 +4,13 @@ livreFableDanPhu: false
 livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: true
-livreAimerSansDisparaitre: false
+livreAimerSansDisparaitre: true
 title: "Le secret de mes caresses"
 excerpt: "Ne plus donner des caresses avec sa main, mais recevoir avec sa main les caresses de la peau de l'autre."
 category: "corps-desir"
 order: 46
 draft: false
-parcours: false
+parcours: true
 ---
 Normalement, je partage dans mes posts seulement des principes généraux et les techniques pratiques ne sont données que dans mon accompagnement. Aujourd’hui est l’exception.
 

@@ -2,9 +2,9 @@
 verifieParDuy: false
 livreFableDanPhu: false
 livreAnalyseConte: false
-livreMetaphore: false
-livreVersus: true
-livreAimerSansDisparaitre: false
+livreMetaphore: true
+livreVersus: false
+livreAimerSansDisparaitre: true
 title: "Je n'ai pas d'âme… Je suis l'âme"
 excerpt: "Selon qu'on se pense âme dans un corps ou corps dans une âme, la connexion sexuelle change du tout au tout."
 category: "corps-desir"

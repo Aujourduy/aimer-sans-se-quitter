@@ -2,9 +2,9 @@
 verifieParDuy: false
 livreFableDanPhu: false
 livreAnalyseConte: false
-livreMetaphore: true
+livreMetaphore: false
 livreVersus: false
-livreAimerSansDisparaitre: false
+livreAimerSansDisparaitre: true
 title: "Aime-toi toi-même avant d’aimer l’autre"
 excerpt: "Entrer dans son royaume d’abord, remplir sa bulle de soi, puis amener sa richesse vers l’autre."
 category: "vrai-de-soi"

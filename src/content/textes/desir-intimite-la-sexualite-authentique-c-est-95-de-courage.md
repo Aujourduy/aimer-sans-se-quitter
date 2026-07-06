@@ -2,15 +2,15 @@
 verifieParDuy: false
 livreFableDanPhu: false
 livreAnalyseConte: false
-livreMetaphore: false
-livreVersus: false
-livreAimerSansDisparaitre: false
+livreMetaphore: true
+livreVersus: true
+livreAimerSansDisparaitre: true
 title: "La sexualité authentique, c'est 95 % de courage"
 excerpt: "Distinction être/faire dans la sexualité, développée et intemporelle"
 category: "corps-desir"
 order: 39
 draft: false
-parcours: false
+parcours: true
 ---
 Ce qu’on ne m’a jamais dit dans les stages de sur la sexualité.
 

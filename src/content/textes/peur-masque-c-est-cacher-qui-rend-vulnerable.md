@@ -1,10 +1,10 @@
 ---
 verifieParDuy: false
-livreFableDanPhu: true
-livreAnalyseConte: false
-livreMetaphore: true
+livreFableDanPhu: false
+livreAnalyseConte: true
+livreMetaphore: false
 livreVersus: false
-livreAimerSansDisparaitre: false
+livreAimerSansDisparaitre: true
 title: "C’est cacher qui rend vulnérable"
 excerpt: "Achille, Siegfried, et ce point faible qu’on protège : c’est en cachant sa vulnérabilité qu’on se rend vulnérable."
 category: "vrai-de-soi"

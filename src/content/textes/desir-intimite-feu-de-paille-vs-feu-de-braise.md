@@ -1,9 +1,9 @@
 ---
 verifieParDuy: false
-livreFableDanPhu: true
+livreFableDanPhu: false
 livreAnalyseConte: false
-livreMetaphore: true
-livreVersus: true
+livreMetaphore: false
+livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Feu de paille vs Feu de braise"
 excerpt: "Déconstruire l'imaginaire du coup de foudre fougueux vu au cinéma face à la réalité sexuelle."

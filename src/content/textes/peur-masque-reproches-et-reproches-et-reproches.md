@@ -11,6 +11,7 @@ category: "lien-relation"
 order: 48
 draft: true
 draftReason: "forme à retravailler"
+parcours: false
 ---
 
 Il y a 2 façons pour arrêter de se reprocher des choses. Changer ces choses ou arrêter de se les reprocher. Je travaille à la 2e. Cela ne veut pas dire ne rien faire. Mais accepter psychologiquement la situation, arrêter de penser que le présent pourrait être différent de ce qu’il est, et faire de son mieux avec ce qu’on a comme capacités physiques, intellectuelles, émotionnelles, financières, sociales etc.

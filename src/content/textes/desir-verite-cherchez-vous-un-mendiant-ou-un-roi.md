@@ -4,7 +4,7 @@ livreFableDanPhu: false
 livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: true
-livreAimerSansDisparaitre: false
+livreAimerSansDisparaitre: true
 title: "Cherchez-vous un Mendiant ou un Roi ?"
 excerpt: "Deux archétypes dans la rencontre : le mendiant qui réclame, le roi qui déborde."
 category: "lien-relation"

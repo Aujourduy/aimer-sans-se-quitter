@@ -4,8 +4,8 @@ verifieParDuy: false
 livreFableDanPhu: true
 livreAnalyseConte: false
 livreMetaphore: false
-livreVersus: true
-livreAimerSansDisparaitre: false
+livreVersus: false
+livreAimerSansDisparaitre: true
 title: "J’ai cru que j’étais quitté, en fait j’étais aimé"
 excerpt: "Toutes ces fois où je me suis dit que j’étais quitté, en fait j’étais aimé."
 category: "lien-relation"

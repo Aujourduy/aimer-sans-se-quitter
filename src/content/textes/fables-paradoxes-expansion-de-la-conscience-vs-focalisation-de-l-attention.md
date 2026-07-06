@@ -2,13 +2,14 @@
 verifieParDuy: false
 livreFableDanPhu: false
 livreAnalyseConte: false
-livreMetaphore: false
+livreMetaphore: true
 livreVersus: true
-livreAimerSansDisparaitre: false
+livreAimerSansDisparaitre: true
 title: "Expansion de la conscience vs focalisation de l’attention"
 excerpt: "On n’agrandit pas la perception dans l’espace, on l’affine et la concentre vers l’intérieur : le ici."
 category: "regard-vie"
 order: 15
+parcours: false
 ---
 
 L’expression “expansion de la conscience” donne bien une idée aux personnes qui ne connaissent pas l’expérience, ça parle à leur imaginaire, mais induit en erreur d’interprétation pour celles qui veulent la pratiquer. Elle sous-entend un mouvement vers quelque chose à l’extérieur. Pour les néophytes, ce qui importe c’est de percevoir sur une plus longue distance, dans un espace physique ou vibratoire plus vaste. En réalité, on n’agrandit pas la perception dans l’espace mais on affine et concentre la perception vers l’intérieur : le ici.

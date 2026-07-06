@@ -3,7 +3,7 @@ verifieParDuy: true
 livreFableDanPhu: false
 livreAnalyseConte: false
 livreMetaphore: false
-livreVersus: false
+livreVersus: true
 livreAimerSansDisparaitre: true
 title: "Il suffit de trouver la bonne personne ?"
 excerpt: "Être heureux pour rencontrer, au lieu de rencontrer pour être heureux."

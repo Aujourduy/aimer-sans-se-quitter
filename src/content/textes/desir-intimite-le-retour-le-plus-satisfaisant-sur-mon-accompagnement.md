@@ -4,13 +4,13 @@ livreFableDanPhu: false
 livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
-livreAimerSansDisparaitre: false
+livreAimerSansDisparaitre: true
 title: "Le retour le plus satisfaisant sur mon accompagnement"
 excerpt: "Une participante réalise qu'elle pourrait vivre heureuse sans sexualité — et sent que de belles explorations arrivent."
 category: "pratique-posture"
 order: 5
 draft: false
-parcours: false
+parcours: true
 ---
 Hier c’était la fin de l’accompagnement du groupe de Février. Cela fait un an que je propose cet accompagnement et c’est la première fois que je reçois ce retour. 
 

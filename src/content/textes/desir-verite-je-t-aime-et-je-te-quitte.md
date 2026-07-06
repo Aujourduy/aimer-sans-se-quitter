@@ -1,10 +1,10 @@
 ---
 verifieParDuy: false
-livreFableDanPhu: false
+livreFableDanPhu: true
 livreAnalyseConte: false
 livreMetaphore: false
-livreVersus: false
-livreAimerSansDisparaitre: false
+livreVersus: true
+livreAimerSansDisparaitre: true
 title: "Je t’aime et je te quitte"
 excerpt: "Aimer n’est pas une bonne raison de rester ; le bon critère, c’est d’être plus heureux."
 category: "lien-relation"

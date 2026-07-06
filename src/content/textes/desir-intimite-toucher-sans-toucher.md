@@ -2,15 +2,15 @@
 verifieParDuy: false
 livreFableDanPhu: false
 livreAnalyseConte: false
-livreMetaphore: false
-livreVersus: false
-livreAimerSansDisparaitre: false
+livreMetaphore: true
+livreVersus: true
+livreAimerSansDisparaitre: true
 title: "Toucher sans toucher"
 excerpt: "Le toucher passif et l'écoute du corps : ressentir le contact et la sensualité avant même de se toucher."
 category: "corps-desir"
 order: 64
 draft: false
-parcours: false
+parcours: true
 ---
 Ce dont je parle ici n’est pas un absolu de caresse, ce n’est pas ce qu’on doit faire mais quelque chose qu’on peut faire. C’est pour faire découvrir d’autres types de contact.
 

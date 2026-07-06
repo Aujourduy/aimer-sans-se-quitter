@@ -1,10 +1,10 @@
 ---
 verifieParDuy: false
-livreFableDanPhu: true
-livreAnalyseConte: false
+livreFableDanPhu: false
+livreAnalyseConte: true
 livreMetaphore: false
 livreVersus: false
-livreAimerSansDisparaitre: false
+livreAimerSansDisparaitre: true
 title: "Le tigre et le masque"
 excerpt: "Jeter le sel, c’est porter le masque d’un autre moi ; derrière, il n’y a pas de tigre."
 category: "vrai-de-soi"

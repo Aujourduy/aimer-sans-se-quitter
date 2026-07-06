@@ -4,7 +4,7 @@ livreFableDanPhu: false
 livreAnalyseConte: false
 livreMetaphore: true
 livreVersus: false
-livreAimerSansDisparaitre: false
+livreAimerSansDisparaitre: true
 title: "L’aphrodisiaque le plus méconnu"
 excerpt: "Mon plus grand aphrodisiaque n’est ni un aliment ni une posture : c’est la vérité."
 category: "corps-desir"

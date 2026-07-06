@@ -1,10 +1,10 @@
 ---
 verifieParDuy: false
-livreFableDanPhu: true
-livreAnalyseConte: false
-livreMetaphore: true
+livreFableDanPhu: false
+livreAnalyseConte: true
+livreMetaphore: false
 livreVersus: false
-livreAimerSansDisparaitre: false
+livreAimerSansDisparaitre: true
 title: "La jouissance et l’art du tir à l’arc"
 excerpt: "Atteindre la cible ne suffit pas : c’est enlever les entraves qui compte."
 category: "corps-desir"

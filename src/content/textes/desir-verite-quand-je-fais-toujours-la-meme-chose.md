@@ -4,13 +4,13 @@ livreFableDanPhu: false
 livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
-livreAimerSansDisparaitre: false
+livreAimerSansDisparaitre: true
 title: "Quand je fais toujours la même chose"
 excerpt: "Pour des résultats différents, il faut oser l'authenticité totale, même au prix d'un long célibat."
 category: "vrai-de-soi"
 order: 42
 draft: false
-parcours: false
+parcours: true
 ---
 En faisant toujours la même chose, il y a beaucoup de chances d’obtenir toujours le même résultat. Donc, pour avoir des résultats différents, il faut faire quelque chose de différent.
 

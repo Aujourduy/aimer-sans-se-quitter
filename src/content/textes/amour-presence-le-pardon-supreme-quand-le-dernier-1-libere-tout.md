@@ -4,13 +4,13 @@ livreFableDanPhu: false
 livreAnalyseConte: false
 livreMetaphore: true
 livreVersus: false
-livreAimerSansDisparaitre: false
+livreAimerSansDisparaitre: true
 title: "Le pardon suprême — quand le dernier 1 % libère tout"
 excerpt: "Processus de pardon profond, métaphore caillou/grain de sable, intemporel"
 category: "vrai-de-soi"
 order: 7
 draft: false
-parcours: false
+parcours: true
 ---
 Hello les chercheurs de vérité, de liberté et de l'amour. 
 

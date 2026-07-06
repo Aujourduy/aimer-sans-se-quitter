@@ -1,10 +1,10 @@
 ---
 verifieParDuy: false
-livreFableDanPhu: true
-livreAnalyseConte: false
-livreMetaphore: true
-livreVersus: false
-livreAimerSansDisparaitre: false
+livreFableDanPhu: false
+livreAnalyseConte: true
+livreMetaphore: false
+livreVersus: true
+livreAimerSansDisparaitre: true
 title: "L’amour de l’autre, l’amour de soi"
 excerpt: "Chercher d’abord son propre soleil plutôt que la lune fantasmée d’une joie venue de l’extérieur."
 category: "vrai-de-soi"

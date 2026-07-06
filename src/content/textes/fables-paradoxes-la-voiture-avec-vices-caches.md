@@ -2,15 +2,15 @@
 verifieParDuy: false
 livreFableDanPhu: true
 livreAnalyseConte: false
-livreMetaphore: true
+livreMetaphore: false
 livreVersus: false
-livreAimerSansDisparaitre: false
+livreAimerSansDisparaitre: true
 title: "La voiture avec vices cachés !"
 excerpt: "Une voiture d'occasion pleine de pannes révèle une leçon sur le prix payé pour ce qui compte vraiment."
 category: "vrai-de-soi"
 order: 53
 draft: false
-parcours: false
+parcours: true
 ---
 Il y a quelque temps, je cherchais une voiture et je suis tombé sur une super occasion. Elle était à vingt pour cent de son prix. Je l’ai tout de suite acheté. Vraiment 1000 euros, c’ était une excellente affaire. 
 

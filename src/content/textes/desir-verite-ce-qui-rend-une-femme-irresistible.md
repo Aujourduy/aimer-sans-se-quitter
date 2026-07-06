@@ -4,13 +4,13 @@ livreFableDanPhu: false
 livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: true
-livreAimerSansDisparaitre: false
+livreAimerSansDisparaitre: true
 title: "Ce qui rend une femme irrésistible"
 excerpt: "Le désir intérieur visible sur le visage : présence vs apparence physique"
 category: "vrai-de-soi"
 order: 19
 draft: false
-parcours: false
+parcours: true
 ---
 À priori ce n’est pas une femme remarquable quand on la croise dans la rue. Mon regard n’aurait pas été attiré du premier coup ni du second d’ailleurs.
 

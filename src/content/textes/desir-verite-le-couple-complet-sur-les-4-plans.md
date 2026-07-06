@@ -2,15 +2,15 @@
 verifieParDuy: false
 livreFableDanPhu: false
 livreAnalyseConte: false
-livreMetaphore: false
+livreMetaphore: true
 livreVersus: false
-livreAimerSansDisparaitre: false
+livreAimerSansDisparaitre: true
 title: "Le couple complet sur les 4 plans"
 excerpt: "Au-delà du mental, de l'émotion et du corps, la sexualité est un 4e plan à reconnaître pour identifier ses vrais besoins amoureux."
 category: "lien-relation"
 order: 31
 draft: false
-parcours: false
+parcours: true
 ---
 Dans plusieurs approches humaniste on parle des 3 dimensions de l’humain : le mental, l’émotion et le corps. Or on connaît l’importance de la sexualité dans notre vie. Ce n’est pas seulement dans les relations sexuelles. Elle se manifeste dans la mode, dans le maquillage, dans la minceur, dans la gestuelle, dans la voix et beaucoup d'autres formes.
 

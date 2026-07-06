@@ -1,16 +1,16 @@
 ---
 verifieParDuy: false
 livreFableDanPhu: false
-livreAnalyseConte: false
+livreAnalyseConte: true
 livreMetaphore: false
 livreVersus: false
-livreAimerSansDisparaitre: false
+livreAimerSansDisparaitre: true
 title: "Ouvrir votre amant à une sexualité sensible"
 excerpt: "Ouvrir son partenaire à une sexualité sensible : faire le deuil du dire, devenir pédagogue et trouver les mots qui touchent."
 category: "lien-relation"
 order: 17
 draft: false
-parcours: false
+parcours: true
 ---
 Dans mes entretiens, je rencontre de nombreuses femmes qui se plaignent du manque d’ouverture de leur partenaire sur une sexualité sensible. Ils sont souvent prisonniers du schéma Excitation-Pénétration-Éjaculation.
 

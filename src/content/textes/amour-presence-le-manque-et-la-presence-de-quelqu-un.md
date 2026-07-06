@@ -2,9 +2,9 @@
 verifieParDuy: false
 livreFableDanPhu: false
 livreAnalyseConte: false
-livreMetaphore: false
+livreMetaphore: true
 livreVersus: true
-livreAimerSansDisparaitre: false
+livreAimerSansDisparaitre: true
 title: "Le manque et la présence de quelqu’un"
 excerpt: "Ce que j’appelle manque, c’est en réalité de la présence intérieure."
 category: "vrai-de-soi"

@@ -4,14 +4,14 @@ livreFableDanPhu: false
 livreAnalyseConte: false
 livreMetaphore: true
 livreVersus: false
-livreAimerSansDisparaitre: false
+livreAimerSansDisparaitre: true
 title: "La sexualité comme pouls de la relation amoureuse"
 excerpt: "La sexualité est rarement le problème ; elle révèle ce qui se joue ailleurs."
 category: "corps-desir"
 order: 70
 draft: true
 draftReason: "thème sexuel à recadrer vers le relationnel"
-parcours: true
+parcours: false
 ---
 
 La sexualité est une thématique qui m’est très chère et en fin de compte mes posts parlent très peu de la sexualité directement mais abordent tout ce qu’il y a autour. Pourquoi ? Parce que la sexualité est rarement un problème, mis à part quelques pathologies physiologiques. C’est plutôt que les problèmes autour finissent par déteindre sur la sexualité : toutes nos peurs, nos attentes, nos compulsions, nos blessures affectives.

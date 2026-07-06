@@ -3,14 +3,15 @@ verifieParDuy: false
 livreFableDanPhu: false
 livreAnalyseConte: false
 livreMetaphore: false
-livreVersus: false
-livreAimerSansDisparaitre: false
+livreVersus: true
+livreAimerSansDisparaitre: true
 title: "Le consentement : une mauvaise question"
 excerpt: "Utiliser le mot consentement au lieu du mot désir, c’est déplacer le problème et éviter d’expliciter les choses."
 category: "corps-desir"
 order: 74
 draft: true
 draftReason: "thème sexuel à recadrer vers le relationnel"
+parcours: true
 ---
 
 La question du consentement est souvent posée quand on parle des relations sexuelles et du respect des femmes. Personnellement, je n’ai jamais demandé et ne demanderai jamais à une femme si elle consent à faire l’amour avec moi.

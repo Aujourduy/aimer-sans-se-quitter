@@ -4,13 +4,13 @@ livreFableDanPhu: false
 livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
-livreAimerSansDisparaitre: false
+livreAimerSansDisparaitre: true
 title: "Dire que c'est important sans bouger"
 excerpt: "Réflexion développée : si l'objectif est vrai, l'inaction crée colère et victimisation"
 category: "vrai-de-soi"
 order: 24
 draft: false
-parcours: false
+parcours: true
 ---
 Dans cette expression, à laquelle j’adhère totalement, qui dit que l’important c’est le voyage et non la destination, il y a une implication fondamentale qu’on ne voit pas immédiatement. Si j’ai un objectif important pour moi, alors il est important pour moi de voyager vers cette destination. Si je dis que quelque chose est importante pour moi et que je ne fais rien pour y aller cela n’a que deux conséquences possibles. 
  

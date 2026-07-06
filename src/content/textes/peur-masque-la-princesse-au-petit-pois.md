@@ -1,10 +1,10 @@
 ---
 verifieParDuy: false
-livreFableDanPhu: true
+livreFableDanPhu: false
 livreAnalyseConte: true
 livreMetaphore: false
 livreVersus: false
-livreAimerSansDisparaitre: false
+livreAimerSansDisparaitre: true
 title: "La princesse au petit pois"
 excerpt: "Le petit pois sous mes matelas, c’était le masque que je portais."
 category: "vrai-de-soi"

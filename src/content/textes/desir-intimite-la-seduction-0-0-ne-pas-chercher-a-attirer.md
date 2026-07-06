@@ -3,14 +3,14 @@ verifieParDuy: false
 livreFableDanPhu: false
 livreAnalyseConte: false
 livreMetaphore: false
-livreVersus: false
-livreAimerSansDisparaitre: false
+livreVersus: true
+livreAimerSansDisparaitre: true
 title: "La séduction 0.0 — ne pas chercher à attirer"
 excerpt: "Théorie originale de la non-séduction : être sans chercher à plaire"
 category: "vrai-de-soi"
 order: 13
 draft: false
-parcours: false
+parcours: true
 ---
 Il y a quelques jours, un homme que je coachais me demandait si j’avais du succès avec les femmes et sans me laisser répondre, il expliqua qu'il n'en avait pas. Et là, je lui ai expliqué mon expérience et ma vision de la séduction : la “non séduction”. Il ne faut pas chercher à attirer. Au contraire, il faut chercher à éloigner.
 

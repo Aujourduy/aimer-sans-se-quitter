@@ -2,9 +2,9 @@
 verifieParDuy: false
 livreFableDanPhu: false
 livreAnalyseConte: false
-livreMetaphore: true
-livreVersus: false
-livreAimerSansDisparaitre: false
+livreMetaphore: false
+livreVersus: true
+livreAimerSansDisparaitre: true
 title: "L’orgasme de la vallée"
 excerpt: "Deux corps immobiles, et l’amour qui passe par un fil de lumière."
 category: "corps-desir"

@@ -4,7 +4,7 @@ livreFableDanPhu: false
 livreAnalyseConte: false
 livreMetaphore: true
 livreVersus: true
-livreAimerSansDisparaitre: false
+livreAimerSansDisparaitre: true
 title: "La vie n’est pas une fenêtre mais un miroir"
 excerpt: "Ce que je vois au-dehors n’est peut-être que le reflet de ce qui m’habite."
 category: "regard-vie"

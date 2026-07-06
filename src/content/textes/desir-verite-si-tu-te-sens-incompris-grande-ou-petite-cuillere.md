@@ -4,13 +4,13 @@ livreFableDanPhu: false
 livreAnalyseConte: false
 livreMetaphore: true
 livreVersus: false
-livreAimerSansDisparaitre: false
+livreAimerSansDisparaitre: true
 title: "Si tu te sens incompris : Grande ou petite cuillère ?"
 excerpt: "Se faire comprendre de sa partenaire demande d'adapter sa 'cuillère' : dose, rythme et quantité, comme on nourrit un bébé."
 category: "lien-relation"
 order: 38
 draft: false
-parcours: false
+parcours: true
 ---
 Dans mes entretiens, je rencontre beaucoup de femmes qui n’arrivent pas à se faire comprendre de leur amant quand elles parlent de sexualité sensible, de connexion émotionnelle ou de présence. Et c’est complètement normal de ne pas y arriver parce que cela traite de deux disciplines qu’on ne nous enseigne pas du tout à l’école : la communication et la pédagogie.
 

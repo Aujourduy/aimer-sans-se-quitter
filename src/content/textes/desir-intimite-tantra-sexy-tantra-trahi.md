@@ -4,13 +4,13 @@ livreFableDanPhu: false
 livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: true
-livreAimerSansDisparaitre: false
+livreAimerSansDisparaitre: true
 title: "Tantra sexy, tantra trahi"
 excerpt: "Les affiches sexy du tantra trahissent son message : la sexualité sensible se vit dans l'authenticité, pas la performance."
 category: "corps-desir"
 order: 63
 draft: false
-parcours: false
+parcours: true
 ---
 Précisons les choses, j’ai le plus grand respect pour les différentes approches tantriques. Ma bibliothèque contient un rayon complet de livres d’Osho, Néo-Tantra, et un autre de livres d’Eric Baret, Shivaïsme du Cachemire. Certains des outils que je transmets à mes stagiaires viennent du tantra.
 

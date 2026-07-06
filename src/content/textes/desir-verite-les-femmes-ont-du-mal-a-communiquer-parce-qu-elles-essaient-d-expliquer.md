@@ -4,13 +4,13 @@ livreFableDanPhu: false
 livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
-livreAimerSansDisparaitre: false
+livreAimerSansDisparaitre: true
 title: "Les femmes ont du mal à communiquer parce qu'elles essaient d'expliquer"
 excerpt: "Communiquer sur la sexualité demande de voir la peur du partenaire et de créer un cadre plutôt que d'expliquer."
 category: "lien-relation"
 order: 35
 draft: false
-parcours: false
+parcours: true
 ---
 Pendant sept ans, j’ai été formateurs en prise de parole en public dans différents pays du Maghreb, et à plusieurs reprises des personnes expliquaient qu’elles n’en avaient pas besoin parce qu’elles étaient à l’aise. D’ailleurs souvent c’était des professeurs. Les gens confondent aisance à parler en public et efficacité de la présentation. Ce que le grand public ignore, c’est qu’il y a des stratégies pour construire un discours quand on veut motiver son auditoire, des stratégies pour faire adhérer au changement, des stratégies pour expliquer des concepts ardus.
 

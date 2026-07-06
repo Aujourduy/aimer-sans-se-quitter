@@ -3,8 +3,8 @@ verifieParDuy: false
 livreFableDanPhu: false
 livreAnalyseConte: false
 livreMetaphore: false
-livreVersus: true
-livreAimerSansDisparaitre: false
+livreVersus: false
+livreAimerSansDisparaitre: true
 title: "Action ou vérité-s"
 excerpt: "On passe à l’action ou on se dit une vérité, jusqu’à ce que le désir revienne."
 category: "corps-desir"

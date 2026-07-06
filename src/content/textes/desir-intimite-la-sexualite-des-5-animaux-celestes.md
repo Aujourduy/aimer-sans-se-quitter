@@ -1,8 +1,8 @@
 ---
 verifieParDuy: false
-livreFableDanPhu: true
+livreFableDanPhu: false
 livreAnalyseConte: false
-livreMetaphore: true
+livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
 title: "La sexualité des 5 animaux célestes"

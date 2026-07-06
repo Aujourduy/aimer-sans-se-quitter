@@ -2,15 +2,16 @@
 verifieParDuy: false
 livreFableDanPhu: false
 livreAnalyseConte: false
-livreMetaphore: false
+livreMetaphore: true
 livreVersus: false
-livreAimerSansDisparaitre: false
+livreAimerSansDisparaitre: true
 title: "Mère Teresa et les lépreux"
 excerpt: "Accepter le dégoût pour rester présent, privilégier le contact plutôt que de fuir le désagrément."
 category: "regard-vie"
 order: 6
 draft: true
 draftReason: "thème sexuel à recadrer vers le relationnel"
+parcours: true
 ---
 
 Elle s’occupait des lépreux, les soignait, faisait leur toilette. Un jour quelqu’un lui a demandé comment elle faisait pour ne pas trouver cela répugnant. Elle répondit qu’elle aussi trouvait cela dégoûtant, mais elle acceptait de ressentir cette sensation de dégoût pour pouvoir s’occuper des malades.

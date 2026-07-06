@@ -4,7 +4,7 @@ livreFableDanPhu: false
 livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: true
-livreAimerSansDisparaitre: false
+livreAimerSansDisparaitre: true
 title: "Excitation vs présence"
 excerpt: "On cherche l’excitation, le plaisir, parce qu’on oublie l’essentiel : la présence."
 category: "corps-desir"

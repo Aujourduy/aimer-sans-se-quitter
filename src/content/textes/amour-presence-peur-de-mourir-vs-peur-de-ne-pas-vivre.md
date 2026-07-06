@@ -4,13 +4,14 @@ livreFableDanPhu: false
 livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: true
-livreAimerSansDisparaitre: false
+livreAimerSansDisparaitre: true
 title: "Peur de mourir vs peur de ne pas vivre"
 excerpt: "Ne pas lutter contre la peur de la mort, mais remplir la vie de ce qui compte."
 category: "regard-vie"
 order: 7
 draft: true
 draftReason: "mention biographique intime à alléger"
+parcours: true
 ---
 
 Pendant des années, je croyais que c’était la même chose. Je croyais que mourir et ne pas vivre c’était blanc bonnet et bonnet blanc. En fait, non. C’est très différent.

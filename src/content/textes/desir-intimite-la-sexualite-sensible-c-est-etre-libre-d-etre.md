@@ -3,14 +3,14 @@ verifieParDuy: false
 livreFableDanPhu: false
 livreAnalyseConte: false
 livreMetaphore: false
-livreVersus: false
-livreAimerSansDisparaitre: false
+livreVersus: true
+livreAimerSansDisparaitre: true
 title: "La sexualité sensible c'est être libre d'être"
 excerpt: "La sexualité sensible se résume à être libre d'être, sans paraître ni chercher à être plus."
 category: "corps-desir"
 order: 43
 draft: true
-parcours: false
+parcours: true
 ---
 Après plusieurs séances de debrief sur ce que je proposais, sur ce qu’était exactement la sexualité sensible, il m’est apparu évident que la sexualité sensible c’est être libre d’être.
 

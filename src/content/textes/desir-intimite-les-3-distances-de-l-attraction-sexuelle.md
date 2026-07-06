@@ -2,15 +2,15 @@
 verifieParDuy: false
 livreFableDanPhu: false
 livreAnalyseConte: false
-livreMetaphore: false
+livreMetaphore: true
 livreVersus: false
-livreAimerSansDisparaitre: false
+livreAimerSansDisparaitre: true
 title: "Les 3 distances de l'attraction sexuelle"
 excerpt: "Trois distances d'attraction — sociale, contact et pénétration — illustrées par une expérience vécue."
 category: "corps-desir"
 order: 47
 draft: false
-parcours: false
+parcours: true
 ---
 La perspective que je vous propose est unique parce que je n’ai trouvé aucun travail ou recherche sur ce sujet. C’est normal parce que pour différencier ces 3 distances, il faut avec un grand nombre de rencontres et des expériences d’attraction de type 2 et 3 qui sont très rares pour pouvoir les distinguer. 
 
