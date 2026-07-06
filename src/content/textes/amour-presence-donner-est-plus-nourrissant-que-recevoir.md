@@ -9,7 +9,7 @@ title: "Donner est plus nourrissant que recevoir"
 excerpt: "Renversement court mais développé sur l'amour et la sexualité, intemporel"
 category: "lien-relation"
 order: 3
-draft: false
+draft: true
 parcours: false
 ---
 Longtemps j'ai cru que j'avais besoin de recevoir de l'amour.
