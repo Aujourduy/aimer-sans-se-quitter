@@ -46,10 +46,30 @@ jobs:
   deploy:
     needs: build
     runs-on: ubuntu-latest
+    # Filet de sécurité : un job bloqué s'arrête au lieu de tourner des heures.
+    timeout-minutes: 10
     environment:
       name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
+      # L'URL vient de la tentative qui a réussi (1, 2 ou 3).
+      url: ${{ steps.deploy1.outputs.page_url || steps.deploy2.outputs.page_url || steps.deployment.outputs.page_url }}
     steps:
-      - name: Deploy to GitHub Pages
+      # L'API GitHub Pages échoue parfois de façon transitoire
+      # (« Deployment failed, try again later ») — sans rapport avec le contenu.
+      # On retente jusqu'à 3 fois. Seul le DEPLOY est retryé (l'action
+      # officielle deploy-pages, aucune dépendance tierce) ; le build en amont
+      # reste fail-fast pour ne jamais masquer une vraie erreur de code.
+      - name: Deploy to GitHub Pages (tentative 1)
+        id: deploy1
+        continue-on-error: true
+        uses: actions/deploy-pages@v4
+
+      - name: Deploy to GitHub Pages (tentative 2)
+        id: deploy2
+        if: steps.deploy1.outcome == 'failure'
+        continue-on-error: true
+        uses: actions/deploy-pages@v4
+
+      - name: Deploy to GitHub Pages (tentative 3)
         id: deployment
+        if: steps.deploy1.outcome == 'failure' && steps.deploy2.outcome == 'failure'
         uses: actions/deploy-pages@v4
