@@ -540,10 +540,10 @@ function pageHtml() {
         <div class="sujets-actions">
           <button class="sujets-toggle" id="sujets-toggle">masquer les faits</button>
           <button class="sujets-toggle" id="sujets-save" title="Commit + push sur GitHub">sauvegarder</button>
-          <button class="sujets-toggle" id="sujets-fold">replier</button>
+          <button class="sujets-toggle" id="sujets-fold">déplier</button>
         </div>
       </div>
-      <div id="sujets-body">
+      <div id="sujets-body" hidden>
         <form class="sujet-add" id="sujet-add">
           <input id="sujet-input" placeholder="Nouveau sujet de texte…" autocomplete="off">
           <button type="submit">+</button>
