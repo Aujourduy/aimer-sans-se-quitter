@@ -7,8 +7,8 @@ livreVersus: false
 livreAimerSansDisparaitre: false
 title: "La frustration de liberté d’être"
 excerpt: "Chercher non plus le plaisir mais la liberté d’être qui nous sommes, complètement."
-category: "desir-verite"
-order: 31
+category: "vrai-de-soi"
+order: 32
 draft: true
 draftReason: "thème sexuel à recadrer vers le relationnel"
 ---

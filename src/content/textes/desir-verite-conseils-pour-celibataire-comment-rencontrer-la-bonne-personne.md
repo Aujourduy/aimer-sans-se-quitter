@@ -7,8 +7,8 @@ livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Conseils pour célibataire : comment rencontrer la bonne personne"
 excerpt: "Partager ses fondamentaux avant toute relation aide l'autre à trouver la bonne personne pour lui."
-category: "desir-verite"
-order: 41
+category: "lien-relation"
+order: 23
 draft: false
 parcours: false
 ---

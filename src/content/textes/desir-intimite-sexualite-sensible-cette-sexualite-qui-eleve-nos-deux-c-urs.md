@@ -7,8 +7,8 @@ livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Sexualité sensible : cette sexualité qui élève nos deux cœurs"
 excerpt: "Titre seul, texte à écrire sur la sexualité qui élève les deux cœurs."
-category: "desir-intimite"
-order: 38
+category: "corps-desir"
+order: 61
 draft: true
 parcours: false
 ---

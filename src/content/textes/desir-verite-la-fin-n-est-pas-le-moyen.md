@@ -7,8 +7,8 @@ livreVersus: false
 livreAimerSansDisparaitre: false
 title: "La fin n’est pas le moyen"
 excerpt: "On ne gagne pas la tranquillité en réduisant l’activité ; c’est l’apaisement qui espace les besoins."
-category: "desir-verite"
-order: 6
+category: "regard-vie"
+order: 10
 ---
 
 Une vérité simple qui a aidé de nombreuses personnes que j’ai accompagnées c’est qu’il ne faut pas confondre le moyen et l’objectif, la finalité. Je l’ai découverte dans “Conversation avec Dieu”. L’auteur dit qu’il y a une erreur d’interprétation sur les péchés. Quand Dieu dit “Tu ne tueras point”, cela ne veut pas dire qu’il ne faut pas tuer pour aller au paradis mais que lorsqu’on est au paradis, on ne tuera pas ou plutôt on ne tuera plus. Cela a été une révélation pour moi. Il est certain que quand on est tranquille, apaisé, on a une sexualité plus calme, détendue, en présence, qui n’exclut pas une intensité physique pouvant s’exprimer par un côté sauvage ou violent, les expériences sexuelles ont tendance à s’espacer. C’est comme une nourriture saine, riche en nutriments qui nous nourrit en profondeur, il y a alors moins de compulsion alimentaire. Les gens se goinfrent de chips, sodas, gâteaux, charcuterie et non de légumes crus ou graines germées. La tranquillité réduit et espace les expériences et besoins sexuels. Ce n’est pas en réduisant l’activité sexuelle qu’on gagne en tranquillité.

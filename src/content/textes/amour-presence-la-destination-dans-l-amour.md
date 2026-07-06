@@ -7,8 +7,8 @@ livreVersus: false
 livreAimerSansDisparaitre: false
 title: "La destination dans l'amour"
 excerpt: "Idée développée : présence comme objectif, faire l'amour dans le Vrai"
-category: "amour-presence"
-order: 42
+category: "corps-desir"
+order: 2
 draft: false
 parcours: false
 ---

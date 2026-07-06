@@ -1,14 +1,14 @@
 ---
 verifieParDuy: false
-livreFableDanPhu: false
+livreFableDanPhu: true
 livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Le crocodile et l'antilope"
 excerpt: "Fable intemporelle sur blessures d'enfance et force méconnue de soi"
-category: "fables-paradoxes"
-order: 31
+category: "vrai-de-soi"
+order: 54
 draft: true
 parcours: false
 ---

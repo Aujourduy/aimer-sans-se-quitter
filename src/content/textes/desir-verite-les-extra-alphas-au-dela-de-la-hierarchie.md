@@ -7,8 +7,8 @@ livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Les extra-alphas : au-delà de la hiérarchie"
 excerpt: "Réflexion originale sur masculin/féminin hors domination, concept propre à Duy"
-category: "desir-verite"
-order: 85
+category: "vrai-de-soi"
+order: 33
 draft: false
 parcours: false
 ---

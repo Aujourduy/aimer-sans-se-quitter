@@ -2,13 +2,13 @@
 verifieParDuy: false
 livreFableDanPhu: true
 livreAnalyseConte: false
-livreMetaphore: false
-livreVersus: false
+livreMetaphore: true
+livreVersus: true
 livreAimerSansDisparaitre: false
 title: "Comme je prie, comme je fais l’amour"
 excerpt: "Demander pour avoir ce que je n’ai pas, ou remercier pour ce qui est déjà là."
-category: "desir-intimite"
-order: 18
+category: "corps-desir"
+order: 8
 draft: true
 draftReason: "texte intime explicite, non surfacé pour l’instant"
 parcours: true

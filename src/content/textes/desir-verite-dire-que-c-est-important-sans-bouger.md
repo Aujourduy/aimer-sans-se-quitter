@@ -7,8 +7,8 @@ livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Dire que c'est important sans bouger"
 excerpt: "Réflexion développée : si l'objectif est vrai, l'inaction crée colère et victimisation"
-category: "desir-verite"
-order: 87
+category: "vrai-de-soi"
+order: 24
 draft: false
 parcours: false
 ---

@@ -7,8 +7,8 @@ livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Être libre d'être"
 excerpt: "Quatre mots pour définir la sexualité sensible : être libre de son imaginaire, de ses fantasmes, de ses désirs."
-category: "desir-intimite"
-order: 48
+category: "corps-desir"
+order: 16
 draft: true
 parcours: false
 ---

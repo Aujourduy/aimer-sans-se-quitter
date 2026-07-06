@@ -7,8 +7,8 @@ livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Toucher sans toucher"
 excerpt: "Le toucher passif et l'écoute du corps : ressentir le contact et la sensualité avant même de se toucher."
-category: "desir-intimite"
-order: 23
+category: "corps-desir"
+order: 64
 draft: false
 parcours: false
 ---

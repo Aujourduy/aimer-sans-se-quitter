@@ -7,8 +7,8 @@ livreVersus: false
 livreAimerSansDisparaitre: false
 title: "L’art est d’abord dans l’écoute"
 excerpt: "L’art ne s’apprend pas dans le faire mais dans l’écoute."
-category: "desir-verite"
-order: 22
+category: "pratique-posture"
+order: 9
 draft: true
 draftReason: "thème sexuel à recadrer vers le relationnel"
 ---

@@ -7,8 +7,8 @@ livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Qui ne comprend pas qui ?"
 excerpt: "Le vrai enjeu n'est pas le manque de communication mais la pédagogie pour faire comprendre son plaisir à l'autre."
-category: "desir-verite"
-order: 82
+category: "corps-desir"
+order: 81
 draft: false
 parcours: false
 ---

@@ -7,8 +7,8 @@ livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Ce que je veux vraiment"
 excerpt: "La première erreur est de ne pas admettre nos besoins réels."
-category: "desir-verite"
-order: 20
+category: "vrai-de-soi"
+order: 18
 draft: true
 draftReason: "thème sexuel à recadrer vers le relationnel"
 parcours: true

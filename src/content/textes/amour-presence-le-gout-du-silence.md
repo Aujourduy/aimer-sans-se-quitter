@@ -7,8 +7,8 @@ livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Le goût du silence"
 excerpt: "Le silence après une belle rencontre n’est pas vide : il est dense."
-category: "amour-presence"
-order: 17
+category: "lien-relation"
+order: 9
 draft: true
 draftReason: "thème sexuel à recadrer vers le relationnel"
 ---

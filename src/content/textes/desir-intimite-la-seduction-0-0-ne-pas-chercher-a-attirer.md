@@ -7,8 +7,8 @@ livreVersus: false
 livreAimerSansDisparaitre: false
 title: "La séduction 0.0 — ne pas chercher à attirer"
 excerpt: "Théorie originale de la non-séduction : être sans chercher à plaire"
-category: "desir-intimite"
-order: 68
+category: "vrai-de-soi"
+order: 13
 draft: false
 parcours: false
 ---

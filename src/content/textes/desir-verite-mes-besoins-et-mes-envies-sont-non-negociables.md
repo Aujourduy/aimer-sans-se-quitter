@@ -7,8 +7,8 @@ livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Mes besoins et mes envies sont non négociables"
 excerpt: "Trouver d’abord ce que chacun veut, avant de chercher ce que le couple veut."
-category: "desir-verite"
-order: 23
+category: "vrai-de-soi"
+order: 35
 draft: true
 draftReason: "thème sexuel à recadrer vers le relationnel"
 parcours: true

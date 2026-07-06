@@ -7,8 +7,8 @@ livreVersus: false
 livreAimerSansDisparaitre: false
 title: "L’instase sexuelle"
 excerpt: "L’instase, c’est quand l’univers s’est transporté à l’intérieur de soi."
-category: "desir-intimite"
-order: 3
+category: "corps-desir"
+order: 32
 parcours: true
 ---
 

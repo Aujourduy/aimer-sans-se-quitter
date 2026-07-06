@@ -7,8 +7,8 @@ livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Marre des relations bancales ?"
 excerpt: "L'histoire d'Aurélie, femme dévastée par des amants consommateurs, qui retrouve une sexualité respectée et nourrissante."
-category: "desir-intimite"
-order: 55
+category: "corps-desir"
+order: 54
 draft: false
 parcours: false
 ---

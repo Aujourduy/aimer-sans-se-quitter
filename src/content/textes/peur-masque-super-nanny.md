@@ -7,8 +7,8 @@ livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Super Nanny"
 excerpt: "Beaucoup d'hommes ont peur en sexualité ; leur parler à la tête ou au coeur ne marche pas, ils sont en mode reptilien."
-category: "peur-masque"
-order: 19
+category: "corps-desir"
+order: 93
 draft: true
 parcours: false
 ---

@@ -3,12 +3,12 @@ verifieParDuy: false
 livreFableDanPhu: false
 livreAnalyseConte: false
 livreMetaphore: false
-livreVersus: false
+livreVersus: true
 livreAimerSansDisparaitre: false
 title: "L'excitation n'est pas un problème, l'agitation l'est"
 excerpt: "Distinguer l'excitation physiologique de l'agitation née de la peur : calmer l'agitation pour libérer l'excitation."
-category: "desir-intimite"
-order: 58
+category: "corps-desir"
+order: 29
 draft: false
 parcours: false
 ---

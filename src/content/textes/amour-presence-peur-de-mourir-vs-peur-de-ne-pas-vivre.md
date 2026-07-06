@@ -3,12 +3,12 @@ verifieParDuy: false
 livreFableDanPhu: false
 livreAnalyseConte: false
 livreMetaphore: false
-livreVersus: false
+livreVersus: true
 livreAimerSansDisparaitre: false
 title: "Peur de mourir vs peur de ne pas vivre"
 excerpt: "Ne pas lutter contre la peur de la mort, mais remplir la vie de ce qui compte."
-category: "amour-presence"
-order: 13
+category: "regard-vie"
+order: 7
 draft: true
 draftReason: "mention biographique intime à alléger"
 ---

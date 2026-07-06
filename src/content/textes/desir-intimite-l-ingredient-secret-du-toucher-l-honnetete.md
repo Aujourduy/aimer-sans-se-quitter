@@ -7,8 +7,8 @@ livreVersus: false
 livreAimerSansDisparaitre: false
 title: "L'ingrédient secret du toucher : l'honnêteté"
 excerpt: "Ce n'est pas l'honnêteté qui améliore le toucher, c'est le mensonge caché qui le tend et le détériore."
-category: "desir-intimite"
-order: 35
+category: "corps-desir"
+order: 31
 draft: false
 parcours: false
 ---

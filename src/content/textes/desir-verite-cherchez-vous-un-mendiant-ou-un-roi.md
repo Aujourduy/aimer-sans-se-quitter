@@ -3,12 +3,12 @@ verifieParDuy: false
 livreFableDanPhu: false
 livreAnalyseConte: false
 livreMetaphore: false
-livreVersus: false
+livreVersus: true
 livreAimerSansDisparaitre: false
 title: "Cherchez-vous un Mendiant ou un Roi ?"
 excerpt: "Deux archétypes dans la rencontre : le mendiant qui réclame, le roi qui déborde."
-category: "desir-verite"
-order: 19
+category: "lien-relation"
+order: 21
 draft: true
 draftReason: "thème sexuel à recadrer vers le relationnel"
 parcours: true

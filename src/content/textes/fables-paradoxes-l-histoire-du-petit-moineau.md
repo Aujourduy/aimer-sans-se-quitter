@@ -7,8 +7,8 @@ livreVersus: false
 livreAimerSansDisparaitre: false
 title: "L’histoire du petit moineau"
 excerpt: "Vouloir sortir de la boue à tout prix, c’est risquer de se faire avaler."
-category: "fables-paradoxes"
-order: 7
+category: "vrai-de-soi"
+order: 50
 ---
 
 Un jour d’hiver, un oisillon tomba du nid et se retrouva sur le sol gelé.

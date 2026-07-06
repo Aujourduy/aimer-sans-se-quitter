@@ -1,14 +1,14 @@
 ---
 verifieParDuy: false
-livreFableDanPhu: false
+livreFableDanPhu: true
 livreAnalyseConte: false
-livreMetaphore: false
+livreMetaphore: true
 livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Du sexe au cœur comme de la bouche au ventre"
 excerpt: "La bouche et le sexe crient leur besoin ; le cœur et le ventre murmurent leur plénitude."
-category: "fables-paradoxes"
-order: 17
+category: "corps-desir"
+order: 84
 draft: true
 draftReason: "thème sexuel à recadrer vers le relationnel"
 parcours: true

@@ -2,13 +2,13 @@
 verifieParDuy: false
 livreFableDanPhu: false
 livreAnalyseConte: false
-livreMetaphore: false
+livreMetaphore: true
 livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Quand on est affamé, on a les yeux plus gros que le ventre"
 excerpt: "Après une longue privation d'un besoin, on l'exagère et on a alors plus de mal à le satisfaire."
-category: "amour-presence"
-order: 37
+category: "vrai-de-soi"
+order: 10
 draft: true
 parcours: false
 ---

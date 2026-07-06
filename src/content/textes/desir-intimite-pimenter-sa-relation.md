@@ -2,13 +2,13 @@
 verifieParDuy: false
 livreFableDanPhu: false
 livreAnalyseConte: false
-livreMetaphore: false
+livreMetaphore: true
 livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Pimenter sa relation"
 excerpt: "La sauce ne sauve pas un plat médiocre : pimenter n’a de sens que sur de bonnes bases."
-category: "desir-intimite"
-order: 19
+category: "lien-relation"
+order: 18
 draft: true
 draftReason: "texte intime explicite, non surfacé pour l’instant"
 ---

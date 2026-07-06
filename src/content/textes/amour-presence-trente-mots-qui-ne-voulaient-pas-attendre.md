@@ -7,8 +7,8 @@ livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Trente mots qui ne voulaient pas attendre"
 excerpt: "Poème-liste né d'un stage de danse, réflexion sur la création comme révélation divine"
-category: "amour-presence"
-order: 45
+category: "regard-vie"
+order: 8
 draft: false
 parcours: false
 ---

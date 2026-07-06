@@ -3,12 +3,12 @@ verifieParDuy: false
 livreFableDanPhu: false
 livreAnalyseConte: false
 livreMetaphore: false
-livreVersus: false
+livreVersus: true
 livreAimerSansDisparaitre: false
 title: "La sexualité sacrée ou Le sacré sexualisé"
 excerpt: "Ce n'est pas la sexualité qui devient sacrée : c'est le sacré, où l'on se place d'abord, qui se déploie dans la sexualité."
-category: "desir-intimite"
-order: 49
+category: "corps-desir"
+order: 41
 draft: false
 parcours: false
 ---

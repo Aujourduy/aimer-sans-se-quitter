@@ -7,8 +7,8 @@ livreVersus: false
 livreAimerSansDisparaitre: false
 title: "De la clarté"
 excerpt: "Au lieu de chercher une solution, mieux vaut d’abord chercher à y voir plus clair."
-category: "desir-verite"
-order: 3
+category: "vrai-de-soi"
+order: 22
 ---
 
 La clarté amène la certitude.

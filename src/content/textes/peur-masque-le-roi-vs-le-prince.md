@@ -1,14 +1,14 @@
 ---
 verifieParDuy: false
-livreFableDanPhu: false
+livreFableDanPhu: true
 livreAnalyseConte: false
 livreMetaphore: false
-livreVersus: false
+livreVersus: true
 livreAimerSansDisparaitre: false
 title: "Le Roi vs le Prince"
 excerpt: "Le prince combat pour prouver sa valeur ; le roi règne pour la paix."
-category: "peur-masque"
-order: 4
+category: "vrai-de-soi"
+order: 66
 draft: true
 draftReason: "thème sexuel à recadrer vers le relationnel"
 ---

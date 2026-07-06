@@ -7,8 +7,8 @@ livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Charge mentale des femmes initiatrices"
 excerpt: "Il n'y a charge mentale que faute de clarté ; quand le chemin est clair, faire grandir l'autre est une joie."
-category: "desir-verite"
-order: 51
+category: "lien-relation"
+order: 20
 draft: true
 parcours: false
 ---

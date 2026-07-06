@@ -2,13 +2,13 @@
 verifieParDuy: false
 livreFableDanPhu: true
 livreAnalyseConte: false
-livreMetaphore: false
+livreMetaphore: true
 livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Le nez malade"
 excerpt: "La souffrance ne vient pas de la sexualité, mais de la perception de la sexualité."
-category: "fables-paradoxes"
-order: 6
+category: "corps-desir"
+order: 88
 parcours: true
 ---
 

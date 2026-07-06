@@ -2,13 +2,13 @@
 verifieParDuy: false
 livreFableDanPhu: false
 livreAnalyseConte: false
-livreMetaphore: false
+livreMetaphore: true
 livreVersus: false
 livreAimerSansDisparaitre: false
 title: "La sexualité comme pouls de la relation amoureuse"
 excerpt: "La sexualité est rarement le problème ; elle révèle ce qui se joue ailleurs."
-category: "desir-verite"
-order: 21
+category: "corps-desir"
+order: 70
 draft: true
 draftReason: "thème sexuel à recadrer vers le relationnel"
 parcours: true

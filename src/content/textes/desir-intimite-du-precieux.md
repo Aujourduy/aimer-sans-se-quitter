@@ -7,8 +7,8 @@ livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Du précieux"
 excerpt: "Caresser en étant connecté au précieux du corps de l'autre rend la partenaire vivante plutôt que seulement excitée."
-category: "desir-intimite"
-order: 53
+category: "corps-desir"
+order: 14
 draft: false
 parcours: false
 ---

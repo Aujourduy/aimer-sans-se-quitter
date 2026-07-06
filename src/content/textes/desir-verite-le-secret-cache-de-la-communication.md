@@ -2,13 +2,13 @@
 verifieParDuy: false
 livreFableDanPhu: false
 livreAnalyseConte: false
-livreMetaphore: false
+livreMetaphore: true
 livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Le secret caché de la communication"
 excerpt: "L’essentiel n’est pas l’outil mais la main qui le tient."
-category: "desir-verite"
-order: 13
+category: "lien-relation"
+order: 33
 parcours: true
 ---
 

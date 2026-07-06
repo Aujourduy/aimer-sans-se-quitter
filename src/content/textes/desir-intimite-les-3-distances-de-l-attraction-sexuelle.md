@@ -7,8 +7,8 @@ livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Les 3 distances de l'attraction sexuelle"
 excerpt: "Trois distances d'attraction — sociale, contact et pénétration — illustrées par une expérience vécue."
-category: "desir-intimite"
-order: 67
+category: "corps-desir"
+order: 47
 draft: false
 parcours: false
 ---

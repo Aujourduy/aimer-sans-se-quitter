@@ -7,8 +7,8 @@ livreVersus: false
 livreAimerSansDisparaitre: false
 title: "La liberté d'être comme excitation"
 excerpt: "Réflexion sur la liberté d'être soi comme source d'éros, idée originale"
-category: "desir-intimite"
-order: 72
+category: "corps-desir"
+order: 35
 draft: false
 parcours: false
 ---

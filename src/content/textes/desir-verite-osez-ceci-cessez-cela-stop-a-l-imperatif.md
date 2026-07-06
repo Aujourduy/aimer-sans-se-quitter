@@ -7,8 +7,8 @@ livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Osez ceci, cessez cela : stop à l’impératif"
 excerpt: "Stop à l’impératif, aux injonctions, aux ordres ; ne rien forcer, ne rien retenir, juste s’écouter."
-category: "desir-verite"
-order: 32
+category: "vrai-de-soi"
+order: 40
 draft: true
 draftReason: "fin à compléter"
 ---

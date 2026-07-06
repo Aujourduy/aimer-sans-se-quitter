@@ -2,13 +2,13 @@
 verifieParDuy: false
 livreFableDanPhu: false
 livreAnalyseConte: false
-livreMetaphore: false
+livreMetaphore: true
 livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Le territoire du mâle"
 excerpt: "Le Roi occupe l'espace par la présence, la lumière et le souffle plutôt que par les biens matériels."
-category: "desir-intimite"
-order: 26
+category: "vrai-de-soi"
+order: 14
 draft: true
 parcours: false
 ---

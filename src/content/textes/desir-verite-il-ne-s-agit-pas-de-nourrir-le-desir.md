@@ -7,8 +7,8 @@ livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Il ne s’agit pas de nourrir le désir"
 excerpt: "Le désir est déjà grand : il faut lui ôter les entraves, pas le nourrir. S'aimer soi suffit."
-category: "desir-verite"
-order: 70
+category: "vrai-de-soi"
+order: 27
 draft: false
 parcours: false
 ---

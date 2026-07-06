@@ -7,8 +7,8 @@ livreVersus: false
 livreAimerSansDisparaitre: false
 title: "L’auto-sabotage n’existe pas"
 excerpt: "Il n’y a pas d’ennemi en nous, seulement des amis ; le blocage est une porte vers plus d’amour."
-category: "peur-masque"
-order: 6
+category: "vrai-de-soi"
+order: 60
 parcours: true
 ---
 

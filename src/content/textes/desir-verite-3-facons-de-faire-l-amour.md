@@ -7,8 +7,8 @@ livreVersus: false
 livreAimerSansDisparaitre: false
 title: "3 façons de faire l'amour"
 excerpt: "Trois façons de faire l'amour : chercher la perfection, ne rien chercher, ou chercher à progresser."
-category: "desir-verite"
-order: 57
+category: "corps-desir"
+order: 66
 draft: false
 parcours: false
 ---

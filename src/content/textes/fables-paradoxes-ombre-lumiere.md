@@ -1,14 +1,14 @@
 ---
 verifieParDuy: false
-livreFableDanPhu: false
+livreFableDanPhu: true
 livreAnalyseConte: false
-livreMetaphore: false
+livreMetaphore: true
 livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Ombre & Lumière"
 excerpt: "S'il y a une ombre, c'est qu'il y a assez de lumière pour la faire apparaître ; regarde dans l'autre direction."
-category: "fables-paradoxes"
-order: 25
+category: "regard-vie"
+order: 19
 draft: true
 parcours: false
 ---

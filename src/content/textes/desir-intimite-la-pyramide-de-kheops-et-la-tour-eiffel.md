@@ -1,14 +1,14 @@
 ---
 verifieParDuy: false
-livreFableDanPhu: false
+livreFableDanPhu: true
 livreAnalyseConte: false
-livreMetaphore: false
-livreVersus: false
+livreMetaphore: true
+livreVersus: true
 livreAimerSansDisparaitre: false
 title: "La pyramide de Khéops et la tour Eiffel"
 excerpt: "Plutôt qu’éveiller quelques zones, développer la sensibilité de tout le corps, couche après couche."
-category: "desir-intimite"
-order: 9
+category: "corps-desir"
+order: 37
 draft: true
 draftReason: "texte intime explicite, non surfacé pour l’instant"
 ---

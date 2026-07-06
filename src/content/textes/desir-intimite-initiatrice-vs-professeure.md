@@ -3,12 +3,12 @@ verifieParDuy: false
 livreFableDanPhu: false
 livreAnalyseConte: false
 livreMetaphore: false
-livreVersus: false
+livreVersus: true
 livreAimerSansDisparaitre: false
 title: "Initiatrice vs Professeure"
 excerpt: "Guider son partenaire dans le sexe, c'est initier et non enseigner : lui laisser le temps d'y voir clair."
-category: "desir-intimite"
-order: 31
+category: "corps-desir"
+order: 22
 draft: true
 parcours: false
 ---

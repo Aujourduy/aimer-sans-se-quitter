@@ -3,12 +3,12 @@ verifieParDuy: false
 livreFableDanPhu: false
 livreAnalyseConte: false
 livreMetaphore: false
-livreVersus: false
+livreVersus: true
 livreAimerSansDisparaitre: false
 title: "Je n'ai pas d'âme… Je suis l'âme"
 excerpt: "Selon qu'on se pense âme dans un corps ou corps dans une âme, la connexion sexuelle change du tout au tout."
-category: "desir-intimite"
-order: 25
+category: "corps-desir"
+order: 24
 draft: false
 parcours: false
 ---

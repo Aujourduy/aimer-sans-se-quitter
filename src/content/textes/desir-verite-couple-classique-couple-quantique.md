@@ -3,12 +3,12 @@ verifieParDuy: false
 livreFableDanPhu: false
 livreAnalyseConte: false
 livreMetaphore: false
-livreVersus: false
+livreVersus: true
 livreAimerSansDisparaitre: false
 title: "Couple classique / couple quantique"
 excerpt: "Deux paradigmes de la relation amoureuse : le manque ou l’abondance, le confort ou la vérité."
-category: "desir-verite"
-order: 37
+category: "lien-relation"
+order: 24
 ---
 
 Après un an d’accompagnement vers la sexualité sensible, je me rends compte à quel point cela change la vie des gens et l’ampleur de la remise en question des fondamentaux dans la relation amoureuse.

@@ -7,8 +7,8 @@ livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Faire l’amour sans sexe"
 excerpt: "Faire l’amour sans masque, entièrement exposé, ouvert à l’autre."
-category: "desir-intimite"
-order: 15
+category: "corps-desir"
+order: 18
 draft: true
 draftReason: "texte intime explicite, non surfacé pour l’instant ; corps source incomplet, à rédiger"
 ---

@@ -2,13 +2,13 @@
 verifieParDuy: false
 livreFableDanPhu: false
 livreAnalyseConte: false
-livreMetaphore: false
+livreMetaphore: true
 livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Pénis défaillant, vérité manquante"
 excerpt: "L'impuissance et l'éjaculation précoce comme signe d'une vérité du cœur non partagée, pas d'un problème physique."
-category: "desir-verite"
-order: 76
+category: "corps-desir"
+order: 79
 draft: false
 parcours: false
 ---

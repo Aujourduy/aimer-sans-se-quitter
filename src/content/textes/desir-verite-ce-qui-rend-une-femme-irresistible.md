@@ -3,12 +3,12 @@ verifieParDuy: false
 livreFableDanPhu: false
 livreAnalyseConte: false
 livreMetaphore: false
-livreVersus: false
+livreVersus: true
 livreAimerSansDisparaitre: false
 title: "Ce qui rend une femme irrésistible"
 excerpt: "Le désir intérieur visible sur le visage : présence vs apparence physique"
-category: "desir-verite"
-order: 84
+category: "vrai-de-soi"
+order: 19
 draft: false
 parcours: false
 ---

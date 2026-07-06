@@ -7,8 +7,8 @@ livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Les caresses avant les caresses"
 excerpt: "Ce n’était pas la caresse, mais l’atmosphère, qui a suscité le désir."
-category: "desir-intimite"
-order: 2
+category: "corps-desir"
+order: 50
 parcours: true
 ---
 

@@ -7,8 +7,8 @@ livreVersus: false
 livreAimerSansDisparaitre: false
 title: "De l'impuissance masculine à la puissance de l'amour"
 excerpt: "Des hommes vivent leur non-érection comme un ennemi à combattre et culpabilisent."
-category: "desir-verite"
-order: 77
+category: "corps-desir"
+order: 67
 draft: true
 parcours: false
 ---

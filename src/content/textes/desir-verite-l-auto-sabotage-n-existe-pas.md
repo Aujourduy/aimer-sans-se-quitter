@@ -7,8 +7,8 @@ livreVersus: false
 livreAimerSansDisparaitre: false
 title: "L'auto-sabotage n'existe pas"
 excerpt: "Thèse contre-intuitive intemporelle : ce qu'on croit sabotage est amour non reconnu"
-category: "desir-verite"
-order: 86
+category: "vrai-de-soi"
+order: 30
 draft: false
 parcours: false
 ---

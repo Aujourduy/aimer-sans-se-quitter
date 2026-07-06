@@ -7,8 +7,8 @@ livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Pour lutter contre les complexes"
 excerpt: "Plaire non au plus grand nombre, mais à une femme qui me plaît vraiment."
-category: "peur-masque"
-order: 10
+category: "vrai-de-soi"
+order: 69
 ---
 
 Plus jeune, je croyais que pour trouver la partenaire idéale il fallait que j’aie le maximum de qualités du mâle alpha pour pouvoir plaire à une femme. Grand, beau, musclé, riche, avec une belle situation professionnelle. Personnellement, à 21 ans j’étais plutôt petit (ça n’a pas changé) et vraiment maigrelet. Pas doué du tout avec les filles. J’étais encore vierge et j’avais eu à peine 3 flirts qui ont duré entre 3 jours et 3 semaines. Je croyais que de ce fait, je ne trouverais jamais de femme. Si si. Vraiment, on ne se moque pas s’il vous plaît.

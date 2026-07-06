@@ -7,8 +7,8 @@ livreVersus: false
 livreAimerSansDisparaitre: false
 title: "De la honte à la gratitude"
 excerpt: "D’un trauma longtemps caché, il a fait une force, une histoire, une gratitude."
-category: "desir-intimite"
-order: 21
+category: "vrai-de-soi"
+order: 12
 draft: true
 draftReason: "zone sensible à valider"
 ---

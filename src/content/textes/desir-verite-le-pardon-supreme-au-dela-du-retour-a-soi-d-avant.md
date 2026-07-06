@@ -7,8 +7,8 @@ livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Le Pardon Suprême — au-delà du retour à soi d'avant"
 excerpt: "Pardon comme dépassement : joie nouvelle plus grande que l'originale"
-category: "desir-verite"
-order: 83
+category: "lien-relation"
+order: 32
 draft: false
 parcours: false
 ---

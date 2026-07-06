@@ -7,8 +7,8 @@ livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Mère Teresa et les lépreux"
 excerpt: "Accepter le dégoût pour rester présent, privilégier le contact plutôt que de fuir le désagrément."
-category: "amour-presence"
-order: 16
+category: "regard-vie"
+order: 6
 draft: true
 draftReason: "thème sexuel à recadrer vers le relationnel"
 ---

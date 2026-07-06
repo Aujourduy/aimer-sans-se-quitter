@@ -3,12 +3,12 @@ verifieParDuy: false
 livreFableDanPhu: false
 livreAnalyseConte: false
 livreMetaphore: false
-livreVersus: false
+livreVersus: true
 livreAimerSansDisparaitre: false
 title: "Une envie vs une demande"
 excerpt: "Une demande part d’un manque ; une envie part du neutre vers le positif."
-category: "desir-verite"
-order: 28
+category: "lien-relation"
+order: 40
 draft: true
 draftReason: "thème sexuel à recadrer vers le relationnel"
 parcours: true

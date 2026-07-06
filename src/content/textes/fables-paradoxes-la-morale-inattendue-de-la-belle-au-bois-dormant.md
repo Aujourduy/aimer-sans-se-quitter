@@ -1,14 +1,14 @@
 ---
 verifieParDuy: false
 livreFableDanPhu: true
-livreAnalyseConte: false
+livreAnalyseConte: true
 livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
 title: "La morale inattendue de la Belle au bois dormant"
 excerpt: "Réveiller l’autre de son endormissement demande le courage et la détermination du prince."
-category: "fables-paradoxes"
-order: 18
+category: "lien-relation"
+order: 43
 draft: true
 draftReason: "thème sexuel à recadrer vers le relationnel"
 ---

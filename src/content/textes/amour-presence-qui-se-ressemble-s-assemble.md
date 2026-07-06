@@ -7,8 +7,8 @@ livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Qui se ressemble s'assemble"
 excerpt: "Des personnes demandent à leur partenaire ce qu'elles ne savent pas s'offrir à elles-mêmes."
-category: "amour-presence"
-order: 28
+category: "lien-relation"
+order: 14
 draft: true
 parcours: false
 ---

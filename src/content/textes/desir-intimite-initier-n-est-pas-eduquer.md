@@ -3,12 +3,12 @@ verifieParDuy: false
 livreFableDanPhu: false
 livreAnalyseConte: false
 livreMetaphore: false
-livreVersus: false
+livreVersus: true
 livreAimerSansDisparaitre: false
 title: "Initier n'est pas éduquer"
 excerpt: "Distinction originale : éduquer vs échouer, initier vs enseigner en sexualité"
-category: "desir-intimite"
-order: 70
+category: "corps-desir"
+order: 23
 draft: false
 parcours: false
 ---

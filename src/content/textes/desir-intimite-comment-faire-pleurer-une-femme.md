@@ -7,8 +7,8 @@ livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Comment faire pleurer une femme"
 excerpt: "Si peu de mots sur les larmes de joie, ce trop-plein qui vient quand la confiance s’ouvre."
-category: "desir-intimite"
-order: 3
+category: "corps-desir"
+order: 9
 parcours: true
 ---
 

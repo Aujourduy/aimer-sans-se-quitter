@@ -7,8 +7,8 @@ livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Pour un toucher exceptionnel : le recevoir"
 excerpt: "Un toucher qui n'est ni caresse ni massage : accueillir l'autre, lui donner une place en soi."
-category: "desir-intimite"
-order: 36
+category: "corps-desir"
+order: 58
 draft: false
 parcours: false
 ---

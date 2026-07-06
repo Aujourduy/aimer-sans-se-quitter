@@ -7,8 +7,8 @@ livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Ils auraient pu, peut-être, sauver leur couple"
 excerpt: "L'insatisfaction sexuelle n'est pas la cause mais le symptôme d'un couple déjà en danger."
-category: "desir-verite"
-order: 78
+category: "lien-relation"
+order: 27
 draft: false
 parcours: false
 ---

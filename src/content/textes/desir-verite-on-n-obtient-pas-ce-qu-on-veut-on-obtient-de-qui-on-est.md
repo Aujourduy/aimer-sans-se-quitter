@@ -7,7 +7,7 @@ livreVersus: false
 livreAimerSansDisparaitre: false
 title: "On n’obtient pas ce qu’on veut, on obtient de qui on est"
 excerpt: "On n’obtient pas quelque chose parce qu’on le veut, mais parce que c’est l’expression de qui on est."
-category: "desir-verite"
+category: "vrai-de-soi"
 order: 38
 draft: true
 draftReason: "thème sexuel à recadrer vers le relationnel"

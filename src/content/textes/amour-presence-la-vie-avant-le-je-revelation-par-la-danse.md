@@ -7,8 +7,8 @@ livreVersus: false
 livreAimerSansDisparaitre: false
 title: "La vie avant le je — révélation par la danse"
 excerpt: "Expérience mystique : découverte de la vie qui se vit avant le moi"
-category: "amour-presence"
-order: 38
+category: "regard-vie"
+order: 4
 draft: false
 parcours: false
 ---

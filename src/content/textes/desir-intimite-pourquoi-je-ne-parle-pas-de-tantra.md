@@ -7,8 +7,8 @@ livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Pourquoi je ne parle pas de Tantra"
 excerpt: "On me demande si la Sexualité sensible est du Tantra : je prends des précautions pour répondre."
-category: "desir-intimite"
-order: 37
+category: "pratique-posture"
+order: 6
 draft: true
 parcours: false
 ---

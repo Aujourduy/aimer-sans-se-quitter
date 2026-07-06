@@ -7,8 +7,8 @@ livreVersus: false
 livreAimerSansDisparaitre: false
 title: "J'accueille vos donations"
 excerpt: "Accepter de recevoir des dons révèle une peur plus profonde : la peur d'être grand et de recevoir beaucoup."
-category: "desir-verite"
-order: 61
+category: "vrai-de-soi"
+order: 28
 draft: false
 parcours: false
 ---

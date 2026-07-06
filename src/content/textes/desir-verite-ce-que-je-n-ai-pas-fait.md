@@ -7,8 +7,8 @@ livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Ce que je n’ai pas fait"
 excerpt: "Assumer ce qu’on n’a pas osé dire ou faire : oser sa vérité, cultiver sa liberté."
-category: "desir-verite"
-order: 67
+category: "vrai-de-soi"
+order: 17
 draft: false
 parcours: false
 ---

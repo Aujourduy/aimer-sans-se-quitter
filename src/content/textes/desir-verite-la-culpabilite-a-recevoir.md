@@ -7,8 +7,8 @@ livreVersus: false
 livreAimerSansDisparaitre: false
 title: "La culpabilité à recevoir"
 excerpt: "Recevoir sans dette : il n’y a pas d’échange, seulement des dons."
-category: "desir-verite"
-order: 33
+category: "lien-relation"
+order: 29
 draft: true
 draftReason: "thème sexuel à recadrer vers le relationnel"
 parcours: true

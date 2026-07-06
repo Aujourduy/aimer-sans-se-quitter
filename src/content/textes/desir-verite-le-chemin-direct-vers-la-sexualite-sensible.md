@@ -7,8 +7,8 @@ livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Le chemin direct vers la sexualité sensible"
 excerpt: "Les 4 étapes vers une sexualité sensible : transmuter les peurs, s'écouter, communiquer, explorer les énergies."
-category: "desir-verite"
-order: 63
+category: "corps-desir"
+order: 73
 draft: false
 parcours: false
 ---

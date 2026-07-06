@@ -3,12 +3,12 @@ verifieParDuy: false
 livreFableDanPhu: false
 livreAnalyseConte: false
 livreMetaphore: false
-livreVersus: false
+livreVersus: true
 livreAimerSansDisparaitre: false
 title: "Confort vs effort"
 excerpt: "L’effort crée une dette implicite ; le confort, lui, laisse place au vrai don."
-category: "desir-verite"
-order: 11
+category: "lien-relation"
+order: 22
 parcours: true
 ---
 

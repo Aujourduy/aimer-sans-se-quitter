@@ -2,13 +2,13 @@
 verifieParDuy: false
 livreFableDanPhu: false
 livreAnalyseConte: false
-livreMetaphore: false
+livreMetaphore: true
 livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Ma messagerie est chez moi, pas chez toi"
 excerpt: "Réflexion sur la responsabilité de la colère et les frontières de l'espace personnel"
-category: "peur-masque"
-order: 24
+category: "vrai-de-soi"
+order: 68
 draft: false
 parcours: false
 ---

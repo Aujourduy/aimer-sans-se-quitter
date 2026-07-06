@@ -7,8 +7,8 @@ livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Les ingrédients secrets d'une sexualité sensible"
 excerpt: "Au-delà de l'attirance, deux ingrédients indispensables : la Vérité et la Liberté."
-category: "desir-verite"
-order: 53
+category: "corps-desir"
+order: 77
 draft: false
 parcours: false
 ---

@@ -7,8 +7,8 @@ livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Oser ma Vérité, Cultiver ma Liberté"
 excerpt: "Les problèmes viennent de ne pas assumer sa vérité ou de ne pas respecter sa liberté : difficile mais simple."
-category: "desir-verite"
-order: 68
+category: "vrai-de-soi"
+order: 39
 draft: false
 parcours: false
 ---

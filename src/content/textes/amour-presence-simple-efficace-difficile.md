@@ -7,8 +7,8 @@ livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Simple, Efficace, Difficile"
 excerpt: "Jeûne, marche sur le feu, Vipassana : des pratiques simples et efficaces mais difficiles à faire sans accompagnement."
-category: "amour-presence"
-order: 29
+category: "pratique-posture"
+order: 2
 draft: false
 parcours: false
 ---

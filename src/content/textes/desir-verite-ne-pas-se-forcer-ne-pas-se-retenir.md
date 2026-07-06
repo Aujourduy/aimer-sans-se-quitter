@@ -3,12 +3,12 @@ verifieParDuy: false
 livreFableDanPhu: false
 livreAnalyseConte: false
 livreMetaphore: false
-livreVersus: false
+livreVersus: true
 livreAimerSansDisparaitre: false
 title: "Ne pas se forcer, ne pas se retenir"
 excerpt: "Se forcer à être bien ou se retenir d'être mal : dans les deux cas on s'éloigne de soi et on ment."
-category: "desir-verite"
-order: 46
+category: "vrai-de-soi"
+order: 36
 draft: false
 parcours: false
 ---

@@ -1,14 +1,14 @@
 ---
 verifieParDuy: false
-livreFableDanPhu: false
+livreFableDanPhu: true
 livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Au fil de soie"
 excerpt: "Un maître emprisonné se libère grâce à des escargots portant des fils de soie qui se démultiplient."
-category: "fables-paradoxes"
-order: 28
+category: "vrai-de-soi"
+order: 47
 draft: false
 parcours: false
 ---

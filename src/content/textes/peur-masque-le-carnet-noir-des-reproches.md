@@ -2,13 +2,13 @@
 verifieParDuy: false
 livreFableDanPhu: false
 livreAnalyseConte: false
-livreMetaphore: false
+livreMetaphore: true
 livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Le carnet noir des reproches"
 excerpt: "Ce qui ne s’exprime pas s’imprime dans le carnet noir, et s’exprime quand même plus tard."
-category: "peur-masque"
-order: 12
+category: "lien-relation"
+order: 47
 draft: true
 draftReason: "thème sexuel à recadrer vers le relationnel"
 parcours: true

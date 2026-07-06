@@ -7,8 +7,8 @@ livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Tu es ma femme pour aujourd'hui"
 excerpt: "Poème érotique sur la fugacité, présence totale sans possession, vraie idée développée"
-category: "amour-presence"
-order: 47
+category: "corps-desir"
+order: 4
 draft: false
 parcours: false
 ---

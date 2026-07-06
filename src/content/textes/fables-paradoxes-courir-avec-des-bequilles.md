@@ -2,13 +2,13 @@
 verifieParDuy: false
 livreFableDanPhu: true
 livreAnalyseConte: false
-livreMetaphore: false
+livreMetaphore: true
 livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Courir avec des béquilles"
 excerpt: "Ce qui nous a aidé un jour devient notre entrave si on le garde toujours."
-category: "fables-paradoxes"
-order: 8
+category: "vrai-de-soi"
+order: 48
 parcours: true
 ---
 

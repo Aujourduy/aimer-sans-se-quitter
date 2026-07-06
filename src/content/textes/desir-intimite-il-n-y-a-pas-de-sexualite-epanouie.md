@@ -7,8 +7,8 @@ livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Il n’y a pas de sexualité épanouie"
 excerpt: "Il y a des personnes épanouies dans leur sexualité ; le reste n’est qu’un mot."
-category: "desir-intimite"
-order: 8
+category: "corps-desir"
+order: 21
 draft: true
 draftReason: "texte intime explicite, non surfacé pour l’instant"
 parcours: true

@@ -1,14 +1,14 @@
 ---
 verifieParDuy: false
-livreFableDanPhu: false
+livreFableDanPhu: true
 livreAnalyseConte: false
-livreMetaphore: false
+livreMetaphore: true
 livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Les roues patinent et on fait du sur place en voulant aller trop vite"
 excerpt: "Comme des pneus qui patinent, vouloir aller trop vite fait faire du surplace."
-category: "fables-paradoxes"
-order: 19
+category: "regard-vie"
+order: 18
 draft: true
 parcours: false
 ---

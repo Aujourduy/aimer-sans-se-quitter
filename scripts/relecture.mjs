@@ -69,18 +69,18 @@ const HOST = process.env.RELECTURE_HOST || '0.0.0.0';
 
 // Libellés et ordre des thématiques (repris de src/lib/categories.ts).
 const CATEGORY_LABELS = {
-  'amour-presence': 'Amour et présence',
-  'desir-verite': 'Désir et vérité',
-  'peur-masque': 'Peur et masque',
-  'fables-paradoxes': 'Fables et paradoxes',
-  'desir-intimite': 'Désir et intimité',
+  'lien-relation': 'Le lien et la relation',
+  'vrai-de-soi': 'Le vrai de soi',
+  'corps-desir': 'Le corps qui dit vrai',
+  'regard-vie': 'Le regard sur la vie',
+  'pratique-posture': 'La pratique et la posture',
 };
 const CATEGORY_ORDER = [
-  'amour-presence',
-  'desir-verite',
-  'peur-masque',
-  'fables-paradoxes',
-  'desir-intimite',
+  'lien-relation',
+  'vrai-de-soi',
+  'corps-desir',
+  'regard-vie',
+  'pratique-posture',
 ];
 
 // Indicateurs de classement par livre / type (booléens, basculés dans l'UI).
@@ -625,8 +625,8 @@ function render(){
   $('#stats').textContent=s;
   const cats={};
   TEXTES.filter(visible).forEach(t=>{(cats[t.category]=cats[t.category]||[]).push(t);});
-  const order=['amour-presence','desir-verite','peur-masque','fables-paradoxes','desir-intimite'];
-  const labels={'amour-presence':'Amour et présence','desir-verite':'Désir et vérité','peur-masque':'Peur et masque','fables-paradoxes':'Fables et paradoxes','desir-intimite':'Désir et intimité'};
+  const order=['lien-relation','vrai-de-soi','corps-desir','regard-vie','pratique-posture'];
+  const labels={'lien-relation':'Le lien et la relation','vrai-de-soi':'Le vrai de soi','corps-desir':'Le corps qui dit vrai','regard-vie':'Le regard sur la vie','pratique-posture':'La pratique et la posture'};
   let h='';
   for(const c of order){ if(!cats[c])continue;
     h+='<div class="cat">'+(labels[c]||c)+' ('+cats[c].length+')</div>';

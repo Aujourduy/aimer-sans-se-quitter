@@ -3,12 +3,12 @@ verifieParDuy: false
 livreFableDanPhu: false
 livreAnalyseConte: false
 livreMetaphore: false
-livreVersus: false
+livreVersus: true
 livreAimerSansDisparaitre: false
 title: "Gratitude vs colère"
 excerpt: "La colère naît quand je crois qu’on me doit quelque chose ; voilà comment je suis passé de la colère à la gratitude."
-category: "desir-verite"
-order: 24
+category: "vrai-de-soi"
+order: 26
 draft: true
 draftReason: "thème sexuel à recadrer vers le relationnel"
 ---

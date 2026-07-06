@@ -14,11 +14,11 @@ const textes = defineCollection({
     title: z.string(),
     excerpt: z.string(), // une ligne, affichée sur la carte
     category: z.enum([
-      'amour-presence',
-      'desir-verite',
-      'peur-masque',
-      'fables-paradoxes',
-      'desir-intimite',
+      'lien-relation',
+      'vrai-de-soi',
+      'corps-desir',
+      'regard-vie',
+      'pratique-posture',
     ]),
     entry: z.boolean().default(false), // true = texte d'entrée mis en avant
     entryRole: z

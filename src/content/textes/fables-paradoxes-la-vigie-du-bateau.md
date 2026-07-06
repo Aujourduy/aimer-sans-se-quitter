@@ -1,14 +1,14 @@
 ---
 verifieParDuy: false
-livreFableDanPhu: false
+livreFableDanPhu: true
 livreAnalyseConte: false
-livreMetaphore: false
+livreMetaphore: true
 livreVersus: false
 livreAimerSansDisparaitre: false
 title: "La vigie du bateau"
 excerpt: "Comme la vigie voit la terre avant l'équipage, la femme perçoit souvent en sexualité ce que l'homme ne voit pas encore."
-category: "fables-paradoxes"
-order: 27
+category: "corps-desir"
+order: 87
 draft: false
 parcours: false
 ---

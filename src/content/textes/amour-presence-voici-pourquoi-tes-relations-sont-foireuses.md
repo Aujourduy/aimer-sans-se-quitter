@@ -7,8 +7,8 @@ livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Voici pourquoi tes relations sont foireuses"
 excerpt: "Cesse de chercher l’homme bien : deviens d’abord la femme que cet homme cherche."
-category: "amour-presence"
-order: 23
+category: "vrai-de-soi"
+order: 11
 draft: true
 draftReason: "titre à valider"
 ---

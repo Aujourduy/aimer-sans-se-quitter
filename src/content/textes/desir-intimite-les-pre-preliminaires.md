@@ -7,8 +7,8 @@ livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Les pré-préliminaires"
 excerpt: "Avant les préliminaires, un temps sans contact où les esprits puis les cœurs se retrouvent avant les corps."
-category: "desir-intimite"
-order: 54
+category: "corps-desir"
+order: 53
 draft: false
 parcours: false
 ---

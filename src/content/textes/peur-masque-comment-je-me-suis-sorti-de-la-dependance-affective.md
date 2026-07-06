@@ -7,8 +7,8 @@ livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Comment je me suis sorti de la dépendance affective"
 excerpt: "L’émotion n’est pas déclenchée par aujourd’hui mais par toutes les blessures accumulées depuis des années."
-category: "peur-masque"
-order: 14
+category: "vrai-de-soi"
+order: 57
 draft: true
 draftReason: "zone sensible à valider"
 parcours: true

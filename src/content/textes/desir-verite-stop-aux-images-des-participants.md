@@ -7,8 +7,8 @@ livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Stop aux images des participants"
 excerpt: "Contre la pratique de photographier les participants dans des moments intimes de stage, au mépris de la confidentialité."
-category: "desir-verite"
-order: 58
+category: "pratique-posture"
+order: 13
 draft: false
 parcours: false
 ---

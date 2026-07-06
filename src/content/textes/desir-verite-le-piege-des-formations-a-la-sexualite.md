@@ -7,8 +7,8 @@ livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Le piège des formations à la sexualité"
 excerpt: "Savoir faire ne suffit pas : accompagner un partenaire débutant demande des outils pédagogiques."
-category: "desir-verite"
-order: 66
+category: "pratique-posture"
+order: 11
 draft: false
 parcours: false
 ---

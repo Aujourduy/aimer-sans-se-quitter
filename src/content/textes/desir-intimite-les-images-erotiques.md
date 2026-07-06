@@ -3,12 +3,12 @@ verifieParDuy: false
 livreFableDanPhu: false
 livreAnalyseConte: false
 livreMetaphore: false
-livreVersus: false
+livreVersus: true
 livreAimerSansDisparaitre: false
 title: "Les images érotiques"
 excerpt: "Le toucher prime sur la vue : contre les canons de beauté véhiculés par les images érotiques, même 'en conscience'."
-category: "desir-intimite"
-order: 34
+category: "corps-desir"
+order: 52
 draft: false
 parcours: false
 ---

@@ -2,13 +2,13 @@
 verifieParDuy: false
 livreFableDanPhu: true
 livreAnalyseConte: false
-livreMetaphore: false
+livreMetaphore: true
 livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Le jeu de go et la relation amoureuse"
 excerpt: "L’ordinateur n’a pas gagné en calculant plus vite, mais en se posant les bonnes questions."
-category: "fables-paradoxes"
-order: 10
+category: "lien-relation"
+order: 44
 ---
 
 En 2015, un ordinateur a réussi à battre le champion du jeu de go pour la première fois. Et l’enseignement le plus important que j’ai retiré n’était pas que l’ordinateur pouvait calculer plus vite que nous mais que depuis la nuit des temps l’homme a mal interprété le but.

@@ -7,8 +7,8 @@ livreVersus: false
 livreAimerSansDisparaitre: false
 title: "La parole du maître est souvent déformée par le peuple"
 excerpt: "Ce que nous croyons être connaissance n’est souvent que croyance remâchée."
-category: "desir-verite"
-order: 17
+category: "regard-vie"
+order: 11
 draft: true
 draftReason: "thème sexuel à recadrer vers le relationnel"
 ---

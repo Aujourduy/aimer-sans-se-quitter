@@ -7,8 +7,8 @@ livreVersus: false
 livreAimerSansDisparaitre: false
 title: "La question qui a réveillé son désir"
 excerpt: "Une peur inconsciente bloquait l’énergie sexuelle ; l’écoute lui a donné l’espace de prendre forme."
-category: "desir-intimite"
-order: 7
+category: "corps-desir"
+order: 38
 draft: true
 draftReason: "texte intime explicite, non surfacé pour l’instant"
 parcours: true

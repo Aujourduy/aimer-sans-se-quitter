@@ -7,8 +7,8 @@ livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Chérie, je suis excité ! Sauve-moi !"
 excerpt: "L'excitation n'est pas un problème à résoudre : respecter les besoins de son sexe avant ceux de l'autre."
-category: "desir-intimite"
-order: 56
+category: "corps-desir"
+order: 7
 draft: false
 parcours: false
 ---

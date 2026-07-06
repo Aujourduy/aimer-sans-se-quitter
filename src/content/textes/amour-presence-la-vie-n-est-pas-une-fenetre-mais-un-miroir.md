@@ -2,13 +2,13 @@
 verifieParDuy: false
 livreFableDanPhu: false
 livreAnalyseConte: false
-livreMetaphore: false
-livreVersus: false
+livreMetaphore: true
+livreVersus: true
 livreAimerSansDisparaitre: false
 title: "La vie n’est pas une fenêtre mais un miroir"
 excerpt: "Ce que je vois au-dehors n’est peut-être que le reflet de ce qui m’habite."
-category: "amour-presence"
-order: 11
+category: "regard-vie"
+order: 5
 parcours: true
 ---
 

@@ -1,14 +1,14 @@
 ---
 verifieParDuy: false
 livreFableDanPhu: true
-livreAnalyseConte: false
+livreAnalyseConte: true
 livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
 title: "La princesse au petit pois"
 excerpt: "Le petit pois sous mes matelas, c’était le masque que je portais."
-category: "peur-masque"
-order: 11
+category: "vrai-de-soi"
+order: 63
 draft: true
 draftReason: "thème sexuel à recadrer vers le relationnel"
 parcours: true

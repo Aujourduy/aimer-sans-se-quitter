@@ -7,8 +7,8 @@ livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Le consentement : une mauvaise question"
 excerpt: "Utiliser le mot consentement au lieu du mot désir, c’est déplacer le problème et éviter d’expliciter les choses."
-category: "desir-verite"
-order: 12
+category: "corps-desir"
+order: 74
 draft: true
 draftReason: "thème sexuel à recadrer vers le relationnel"
 ---

@@ -7,8 +7,8 @@ livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Sur la fidélité, l'infidélité, le polyamour"
 excerpt: "Ni pour ni contre : sortir du débat et de la justification pour revenir à ses propres besoins et peurs."
-category: "desir-verite"
-order: 43
+category: "lien-relation"
+order: 39
 draft: false
 parcours: false
 ---

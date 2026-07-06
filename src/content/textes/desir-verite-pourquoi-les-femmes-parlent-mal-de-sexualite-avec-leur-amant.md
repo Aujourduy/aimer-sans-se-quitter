@@ -7,8 +7,8 @@ livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Pourquoi les femmes parlent mal de sexualité avec leur amant"
 excerpt: "La femme parle de sexualité par la tête et le cœur, ce qui est normal mais pas toujours efficace."
-category: "desir-verite"
-order: 49
+category: "lien-relation"
+order: 36
 draft: true
 parcours: false
 ---

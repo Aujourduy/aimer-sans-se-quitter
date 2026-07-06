@@ -7,10 +7,10 @@ livreVersus: false
 livreAimerSansDisparaitre: true
 title: "Il suffit de trouver la bonne personne ?"
 excerpt: "Être heureux pour rencontrer, au lieu de rencontrer pour être heureux."
-category: "amour-presence"
+category: "regard-vie"
 entry: true
 entryRole: "deplacement"
-order: 2
+order: 14
 parcours: true
 ---
 

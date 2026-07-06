@@ -7,8 +7,8 @@ livreVersus: false
 livreAimerSansDisparaitre: false
 title: "C’est un privilège de danser avec toi"
 excerpt: "La danse devient une écoute silencieuse, sans demande, où deux présences se rencontrent et s’abandonnent."
-category: "amour-presence"
-order: 20
+category: "lien-relation"
+order: 1
 ---
 
 La danse est un réel espace de pratique méditative pour moi. Écouter chaque partie de mon corps, les doigts, la hanche, la tête. Percevoir une tension, une gêne, le début d’un mouvement. C’est un moment d’attention, solennel, précieux. Alors toutes les interactions avec les autres personnes le deviennent aussi : solennelles et précieuses.

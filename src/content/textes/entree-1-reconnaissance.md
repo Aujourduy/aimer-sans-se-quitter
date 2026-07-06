@@ -7,10 +7,10 @@ livreVersus: false
 livreAimerSansDisparaitre: true
 title: "Merci de m’avoir quittée"
 excerpt: "Au final, j’aime plus ma vérité sans toi que mon confort avec toi."
-category: "amour-presence"
+category: "lien-relation"
 entry: true
 entryRole: "reconnaissance"
-order: 1
+order: 41
 parcours: true
 ---
 

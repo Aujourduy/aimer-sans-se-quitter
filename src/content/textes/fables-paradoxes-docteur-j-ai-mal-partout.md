@@ -1,14 +1,14 @@
 ---
 verifieParDuy: false
-livreFableDanPhu: false
+livreFableDanPhu: true
 livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Docteur, j'ai mal partout"
 excerpt: "Un sketch de Devos sur le doigt cassé pour dire que le détecteur du bon et du mauvais s'abîme après de mauvaises relations."
-category: "fables-paradoxes"
-order: 30
+category: "lien-relation"
+order: 42
 draft: false
 parcours: false
 ---

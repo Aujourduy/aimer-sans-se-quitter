@@ -7,8 +7,8 @@ livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Quand j’aurai, je serai"
 excerpt: "L’Amour guérit, mais la Vérité est la condition nécessaire."
-category: "desir-verite"
-order: 8
+category: "vrai-de-soi"
+order: 41
 parcours: true
 ---
 

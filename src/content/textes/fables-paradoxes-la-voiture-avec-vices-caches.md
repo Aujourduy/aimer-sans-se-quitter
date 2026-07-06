@@ -1,14 +1,14 @@
 ---
 verifieParDuy: false
-livreFableDanPhu: false
+livreFableDanPhu: true
 livreAnalyseConte: false
-livreMetaphore: false
+livreMetaphore: true
 livreVersus: false
 livreAimerSansDisparaitre: false
 title: "La voiture avec vices cachés !"
 excerpt: "Une voiture d'occasion pleine de pannes révèle une leçon sur le prix payé pour ce qui compte vraiment."
-category: "fables-paradoxes"
-order: 29
+category: "vrai-de-soi"
+order: 53
 draft: false
 parcours: false
 ---

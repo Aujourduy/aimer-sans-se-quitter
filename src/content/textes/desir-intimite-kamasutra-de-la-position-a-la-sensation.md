@@ -7,8 +7,8 @@ livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Kamasutra, de la position à la sensation"
 excerpt: "Le Kamasutra n'est pas une collection de postures acrobatiques mais une recherche subtile des sensations."
-category: "desir-intimite"
-order: 47
+category: "corps-desir"
+order: 26
 draft: false
 parcours: false
 ---

@@ -1,14 +1,14 @@
 ---
 verifieParDuy: false
-livreFableDanPhu: false
+livreFableDanPhu: true
 livreAnalyseConte: false
-livreMetaphore: false
-livreVersus: false
+livreMetaphore: true
+livreVersus: true
 livreAimerSansDisparaitre: false
 title: "L’amant glouton vs l’amant gourmet"
 excerpt: "Le glouton se dépêche de consommer ; le gourmet prend le temps de déguster."
-category: "desir-intimite"
-order: 17
+category: "corps-desir"
+order: 27
 draft: true
 draftReason: "texte intime explicite, non surfacé pour l’instant"
 ---

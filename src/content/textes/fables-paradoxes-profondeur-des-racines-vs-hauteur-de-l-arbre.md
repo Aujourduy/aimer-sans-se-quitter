@@ -1,14 +1,14 @@
 ---
 verifieParDuy: false
-livreFableDanPhu: false
+livreFableDanPhu: true
 livreAnalyseConte: false
-livreMetaphore: false
-livreVersus: false
+livreMetaphore: true
+livreVersus: true
 livreAimerSansDisparaitre: false
 title: "Profondeur des racines vs hauteur de l’arbre"
 excerpt: "Les choses fortes demandent un long temps de préparation invisible, comme les rhizomes du bambou sous la terre."
-category: "fables-paradoxes"
-order: 15
+category: "regard-vie"
+order: 20
 draft: true
 draftReason: "thème sexuel à recadrer vers le relationnel"
 parcours: true

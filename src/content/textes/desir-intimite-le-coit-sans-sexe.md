@@ -7,8 +7,8 @@ livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Le coït sans sexe"
 excerpt: "Dans un coït, si tu crois que tu as un sexe, c’est que tu n’es plus dans ton ressenti."
-category: "desir-intimite"
-order: 14
+category: "corps-desir"
+order: 45
 draft: true
 draftReason: "texte intime explicite, non surfacé pour l’instant"
 ---

@@ -1,10 +1,10 @@
 // Libellés affichés et ordre des catégories de la collection « textes ».
 export const CATEGORY_LABELS = {
-  'amour-presence': 'Amour et présence',
-  'desir-verite': 'Désir et vérité',
-  'peur-masque': 'Peur et masque',
-  'fables-paradoxes': 'Fables et paradoxes',
-  'desir-intimite': 'Désir et intimité',
+  'lien-relation': 'Le lien et la relation',
+  'vrai-de-soi': 'Le vrai de soi',
+  'corps-desir': 'Le corps qui dit vrai',
+  'regard-vie': 'Le regard sur la vie',
+  'pratique-posture': 'La pratique et la posture',
 } as const;
 
 export type Category = keyof typeof CATEGORY_LABELS;
@@ -12,79 +12,55 @@ export type Category = keyof typeof CATEGORY_LABELS;
 // Description courte affichée sur les CARTES du sommaire (page « Écrits »).
 // En italique sépia sous le nom de chaque thème.
 export const CATEGORY_DESCRIPTIONS: Record<Category, string> = {
-  'amour-presence':
-    'Présence, relation à soi, l’amour déjà là, le manque, l’après-rupture.',
-  'desir-verite':
-    'Vérité, non-dits, se montrer, clarté, don vs investissement, dire ses peurs.',
-  'peur-masque': 'Le masque, la peur, le trauma du passé, les reproches.',
-  'fables-paradoxes':
-    'Récits, déplacements de regard, vérités qui apparaissent indirectement.',
-  'desir-intimite':
-    'Le registre intime, en bas de page — un seuil qu’on franchit volontairement.',
+  'lien-relation':
+    'Ce qui se joue entre deux : rupture, manque, communication, don, choisir l’autre.',
+  'vrai-de-soi':
+    'Le masque, la peur, la suradaptation, le courage de se montrer tel que l’on est.',
+  'corps-desir':
+    'Le désir, le corps, l’intimité — la sexualité comme lieu où l’on cesse de se mentir.',
+  'regard-vie':
+    'Présence, conscience, gratitude, la vie et la mort — un regard sur l’humain.',
+  'pratique-posture':
+    'L’approche, la posture, la manière d’accompagner — comment je travaille.',
 };
 
 // Sous-titre court affiché en TÊTE de chaque page de thème (sous le titre).
 export const CATEGORY_SUBTITLES: Record<Category, string> = {
-  'amour-presence':
-    'Présence, relation à soi, manque, séparation et retour à soi.',
-  'desir-verite':
-    'Vérité, non-dits, clarté, vulnérabilité, peur de se montrer et courage de dire.',
-  'peur-masque': 'Peur, protection, adaptation, reproches et histoires du passé.',
-  'fables-paradoxes':
-    'Certaines choses se comprennent mieux lorsqu’on cesse d’essayer de les expliquer.',
-  'desir-intimite': 'Le registre intime.',
+  'lien-relation':
+    'Rupture, manque, communication, don, confiance et choix de l’autre.',
+  'vrai-de-soi':
+    'Masque, peur, adaptation, honte, et le courage de se montrer.',
+  'corps-desir':
+    'Désir, corps, caresses, intimité — le corps comme lieu de vérité.',
+  'regard-vie':
+    'Présence, conscience, gratitude, sagesse — un regard sur la vie.',
+  'pratique-posture': 'L’approche, la posture, la manière d’accompagner.',
 };
 
 // Intro longue (un ou plusieurs paragraphes) affichée en haut de chaque page de
 // thème, après le sous-titre. Chaque entrée est un tableau de paragraphes.
 export const CATEGORY_INTROS: Record<Category, string[]> = {
-  'amour-presence': [
+  'lien-relation': [
     'Certains de ces textes ont été écrits après une rupture.',
     'D’autres au cœur même d’une relation.',
-    'Tous reviennent pourtant à une même question :',
-    'Que reste-t-il lorsque l’on cesse de courir après ce qui manque ?',
+    'Tous parlent de ce qui se joue entre deux êtres :',
+    'le manque, les non-dits, le don, la confiance, le choix.',
+    'Et de ce qui reste possible lorsque l’on cesse de courir après ce qui manque.',
   ],
-  'desir-verite': [
-    'Beaucoup de souffrances relationnelles ne viennent pas de ce que nous ressentons.',
-    'Elles viennent de ce que nous n’osons pas reconnaître.',
-    'Ou de ce que nous reconnaissons déjà mais que nous n’osons pas encore dire.',
-    'Les textes rassemblés ici parlent de vérité.',
-    'Pas d’une vérité abstraite.',
-    'D’une vérité vécue.',
-    'Celle qui apparaît lorsqu’on cesse peu à peu de négocier avec ce que l’on sait déjà.',
-    'Ils parlent des non-dits.',
-    'Des peurs.',
-    'Du désir.',
-    'De ce que nous risquons lorsque nous nous montrons tels que nous sommes.',
-    'Et de ce qui devient parfois possible lorsque nous le faisons malgré tout.',
-  ],
-  'peur-masque': [
+  'vrai-de-soi': [
     'Nous portons rarement un masque par hasard.',
     'Nous le portons pour protéger quelque chose.',
     'Pour éviter une douleur.',
     'Une honte.',
     'Un rejet.',
     'Une peur ancienne.',
-    'Les textes rassemblés ici explorent ces mouvements souvent invisibles.',
-    'Les façons dont nous nous adaptons.',
-    'Les rôles que nous adoptons.',
-    'Les reproches que nous formulons parfois à l’autre pour ne pas regarder ce qui se joue en nous.',
+    'Les textes rassemblés ici explorent ces mouvements souvent invisibles :',
+    'les façons dont nous nous adaptons, les rôles que nous adoptons.',
     'Ils ne cherchent pas à faire disparaître la peur.',
     'Ils cherchent à la rendre visible.',
     'Car ce que l’on voit clairement commence déjà à perdre une partie de son pouvoir.',
   ],
-  'fables-paradoxes': [
-    'Les textes rassemblés ici empruntent parfois le détour d’une histoire.',
-    'D’une image.',
-    'D’un paradoxe.',
-    'Non pour rendre les choses plus compliquées.',
-    'Mais parce que certaines vérités deviennent soudain évidentes lorsqu’on les regarde de côté.',
-    'Ces textes parlent d’amour, de désir, de peur, de séparation et de présence.',
-    'Comme les autres.',
-    'Mais ils le font autrement.',
-    'Ils laissent davantage de place à la découverte qu’à l’explication.',
-  ],
-  'desir-intimite': [
+  'corps-desir': [
     'Le désir est parfois l’endroit où il devient le plus difficile de se mentir.',
     'Le corps sait.',
     'Les émotions savent.',
@@ -93,16 +69,29 @@ export const CATEGORY_INTROS: Record<Category, string[]> = {
     'Les textes rassemblés ici parlent du désir, du corps, de l’intimité et de cette rencontre fragile entre ce que nous ressentons et ce que nous sommes prêts à reconnaître.',
     'Ils ne sont pas là pour enseigner une manière de faire.',
     'Ils sont là pour montrer qu’une autre manière d’aimer, de désirer et d’être présent à soi-même existe.',
-    'Pour que la part de vous qui le pressentait sache qu’elle ne se trompait pas.',
+  ],
+  'regard-vie': [
+    'Certaines vérités ne concernent pas seulement l’amour.',
+    'Elles concernent la vie tout entière.',
+    'La présence, la conscience, la gratitude.',
+    'Ce que l’on voit quand on cesse de courir.',
+    'Les textes rassemblés ici parlent de l’humain, du temps, de la mort, de la joie.',
+    'Ils regardent la vie de côté, pour mieux la voir.',
+  ],
+  'pratique-posture': [
+    'Ces textes parlent de la manière dont je travaille.',
+    'De la posture plutôt que de la technique.',
+    'De ce que j’ai appris en accompagnant, et de ce que je n’enseigne pas.',
+    'Ils disent le regard depuis lequel tout le reste est écrit.',
   ],
 };
 
 export const CATEGORY_ORDER: Category[] = [
-  'amour-presence',
-  'desir-verite',
-  'peur-masque',
-  'fables-paradoxes',
-  'desir-intimite',
+  'lien-relation',
+  'vrai-de-soi',
+  'corps-desir',
+  'regard-vie',
+  'pratique-posture',
 ];
 
 // Ordre des trois textes d'entrée.

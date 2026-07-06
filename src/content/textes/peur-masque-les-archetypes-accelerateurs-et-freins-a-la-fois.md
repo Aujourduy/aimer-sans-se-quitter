@@ -2,13 +2,13 @@
 verifieParDuy: false
 livreFableDanPhu: false
 livreAnalyseConte: false
-livreMetaphore: false
+livreMetaphore: true
 livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Les archétypes : accélérateurs et freins à la fois"
 excerpt: "Les archétypes sont des béquilles utiles pour explorer notre humanité, à abandonner une fois guéri."
-category: "peur-masque"
-order: 18
+category: "pratique-posture"
+order: 17
 draft: false
 parcours: false
 ---

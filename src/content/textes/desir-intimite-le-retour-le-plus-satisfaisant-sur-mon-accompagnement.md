@@ -7,8 +7,8 @@ livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Le retour le plus satisfaisant sur mon accompagnement"
 excerpt: "Une participante réalise qu'elle pourrait vivre heureuse sans sexualité — et sent que de belles explorations arrivent."
-category: "desir-intimite"
-order: 64
+category: "pratique-posture"
+order: 5
 draft: false
 parcours: false
 ---

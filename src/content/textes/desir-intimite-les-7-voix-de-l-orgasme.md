@@ -7,8 +7,8 @@ livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Les 7 voix de l’orgasme"
 excerpt: "Explorer la voix comme un membre à part entière de l’amour."
-category: "desir-intimite"
-order: 6
+category: "corps-desir"
+order: 49
 draft: true
 draftReason: "texte intime explicite, non surfacé pour l’instant"
 ---

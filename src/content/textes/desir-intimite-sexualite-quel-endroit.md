@@ -7,8 +7,8 @@ livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Sexualité : quel endroit ?"
 excerpt: "D'où je pars vers l'autre importe plus que vers quel endroit je vais : la présence avant la carte du plaisir."
-category: "desir-intimite"
-order: 28
+category: "corps-desir"
+order: 60
 draft: false
 parcours: false
 ---

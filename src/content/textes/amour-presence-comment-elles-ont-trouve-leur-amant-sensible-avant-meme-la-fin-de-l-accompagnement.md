@@ -7,8 +7,8 @@ livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Comment elles ont trouvé leur amant sensible avant même la fin de l'accompagnement"
 excerpt: "Elles trouvent leur amant sensible en devenant d'abord elles-mêmes des amantes sensibles."
-category: "amour-presence"
-order: 36
+category: "pratique-posture"
+order: 1
 draft: false
 parcours: false
 ---

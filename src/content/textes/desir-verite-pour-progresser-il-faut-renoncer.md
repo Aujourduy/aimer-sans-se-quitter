@@ -3,12 +3,12 @@ verifieParDuy: false
 livreFableDanPhu: false
 livreAnalyseConte: false
 livreMetaphore: false
-livreVersus: false
+livreVersus: true
 livreAimerSansDisparaitre: false
 title: "Pour progresser il faut renoncer"
 excerpt: "Entre la performance et l’entraînement, deux temporalités inconciliables : il faut choisir."
-category: "desir-verite"
-order: 34
+category: "regard-vie"
+order: 13
 draft: true
 draftReason: "thème sexuel à recadrer vers le relationnel"
 ---

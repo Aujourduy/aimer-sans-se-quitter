@@ -7,8 +7,8 @@ livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Si tu cherches à attirer le bon partenaire"
 excerpt: "Arrête de chercher à attirer les bons partenaires : repousser les mauvais est la vraie stratégie."
-category: "peur-masque"
-order: 21
+category: "vrai-de-soi"
+order: 70
 draft: false
 parcours: false
 ---

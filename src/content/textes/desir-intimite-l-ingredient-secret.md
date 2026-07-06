@@ -7,8 +7,8 @@ livreVersus: false
 livreAimerSansDisparaitre: false
 title: "L'ingrédient secret"
 excerpt: "L'ingrédient secret d'une sexualité sacrée n'est rien de matériel : c'est l'état d'esprit qui voit l'autre et soi comme précieux."
-category: "desir-intimite"
-order: 24
+category: "corps-desir"
+order: 30
 draft: false
 parcours: false
 ---

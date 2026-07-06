@@ -7,8 +7,8 @@ livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Thich Nhat Hanh"
 excerpt: "Des citations du maître zen relues comme autant d'invitations à une sexualité de présence et de pleine conscience."
-category: "amour-presence"
-order: 24
+category: "corps-desir"
+order: 3
 draft: false
 parcours: false
 ---

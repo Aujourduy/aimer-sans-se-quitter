@@ -1,14 +1,14 @@
 ---
 verifieParDuy: false
-livreFableDanPhu: false
+livreFableDanPhu: true
 livreAnalyseConte: false
-livreMetaphore: false
+livreMetaphore: true
 livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Du fumier ou de l’or"
 excerpt: "Le travail transforme le fumier en engrais pour voir fleurir des roses."
-category: "peur-masque"
-order: 7
+category: "vrai-de-soi"
+order: 58
 draft: true
 draftReason: "zone sensible à valider"
 ---

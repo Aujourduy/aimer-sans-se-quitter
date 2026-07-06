@@ -2,13 +2,13 @@
 verifieParDuy: false
 livreFableDanPhu: false
 livreAnalyseConte: false
-livreMetaphore: false
+livreMetaphore: true
 livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Qu’est-ce que ça veut dire partenaire ?"
 excerpt: "Partenaire signifie allié : non pas face à face, mais côte à côte vers la lumière."
-category: "amour-presence"
-order: 14
+category: "lien-relation"
+order: 13
 draft: true
 draftReason: "thème sexuel à recadrer vers le relationnel"
 parcours: true

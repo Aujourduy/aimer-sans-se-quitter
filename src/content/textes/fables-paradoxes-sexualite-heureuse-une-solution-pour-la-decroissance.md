@@ -1,14 +1,14 @@
 ---
 verifieParDuy: false
-livreFableDanPhu: false
+livreFableDanPhu: true
 livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Sexualité heureuse, une solution pour la décroissance"
 excerpt: "Le chemin d’une sexualité heureuse nous transforme et nous fait consommer moins."
-category: "fables-paradoxes"
-order: 20
+category: "corps-desir"
+order: 91
 draft: true
 parcours: false
 ---

@@ -3,12 +3,12 @@ verifieParDuy: false
 livreFableDanPhu: false
 livreAnalyseConte: false
 livreMetaphore: false
-livreVersus: false
+livreVersus: true
 livreAimerSansDisparaitre: false
 title: "Orgasme énergétique démystifié"
 excerpt: "Aussi fabuleux que tu l'imagines, mais moins important : le chemin vaut plus que l'expérience."
-category: "desir-intimite"
-order: 59
+category: "corps-desir"
+order: 56
 draft: false
 parcours: false
 ---

@@ -7,8 +7,8 @@ livreVersus: false
 livreAimerSansDisparaitre: false
 title: "La liberté d'être dans la sexualité sensible"
 excerpt: "On parle peu de cette chose précieuse à offrir à l'aimé : la liberté d'être."
-category: "desir-verite"
-order: 64
+category: "corps-desir"
+order: 69
 draft: true
 parcours: false
 ---

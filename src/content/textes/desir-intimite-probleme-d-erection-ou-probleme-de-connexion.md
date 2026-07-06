@@ -2,13 +2,13 @@
 verifieParDuy: false
 livreFableDanPhu: false
 livreAnalyseConte: false
-livreMetaphore: false
-livreVersus: false
+livreMetaphore: true
+livreVersus: true
 livreAimerSansDisparaitre: false
 title: "Problème d’érection ou problème de connexion"
 excerpt: "Le pénis comme mesureur d'authenticité : l'érection suit la vérité de la connexion, pas la performance."
-category: "desir-intimite"
-order: 60
+category: "corps-desir"
+order: 59
 draft: false
 parcours: false
 ---

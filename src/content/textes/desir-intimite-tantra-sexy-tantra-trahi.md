@@ -3,12 +3,12 @@ verifieParDuy: false
 livreFableDanPhu: false
 livreAnalyseConte: false
 livreMetaphore: false
-livreVersus: false
+livreVersus: true
 livreAimerSansDisparaitre: false
 title: "Tantra sexy, tantra trahi"
 excerpt: "Les affiches sexy du tantra trahissent son message : la sexualité sensible se vit dans l'authenticité, pas la performance."
-category: "desir-intimite"
-order: 45
+category: "corps-desir"
+order: 63
 draft: false
 parcours: false
 ---

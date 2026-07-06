@@ -7,8 +7,8 @@ livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Tout est une question de dosage"
 excerpt: "Je ne suis pas supérieur à l'autre, juste un autre dosage : juger l'autre, c'est le tuer en pensée."
-category: "peur-masque"
-order: 23
+category: "regard-vie"
+order: 22
 draft: false
 parcours: false
 ---

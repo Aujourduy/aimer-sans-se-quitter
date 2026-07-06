@@ -7,8 +7,8 @@ livreVersus: false
 livreAimerSansDisparaitre: false
 title: "La sexualité authentique, c'est 95 % de courage"
 excerpt: "Distinction être/faire dans la sexualité, développée et intemporelle"
-category: "desir-intimite"
-order: 71
+category: "corps-desir"
+order: 39
 draft: false
 parcours: false
 ---

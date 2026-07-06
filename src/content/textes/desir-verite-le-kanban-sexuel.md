@@ -2,13 +2,13 @@
 verifieParDuy: false
 livreFableDanPhu: false
 livreAnalyseConte: false
-livreMetaphore: false
+livreMetaphore: true
 livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Le kanban sexuel"
 excerpt: "Plutôt que compenser un désir défaillant, éliminer les non-dits : la vérité comme premier aphrodisiaque."
-category: "desir-verite"
-order: 40
+category: "corps-desir"
+order: 75
 draft: false
 parcours: false
 ---

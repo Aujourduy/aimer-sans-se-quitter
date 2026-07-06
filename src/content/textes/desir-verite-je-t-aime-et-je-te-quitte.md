@@ -7,8 +7,8 @@ livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Je t’aime et je te quitte"
 excerpt: "Aimer n’est pas une bonne raison de rester ; le bon critère, c’est d’être plus heureux."
-category: "desir-verite"
-order: 2
+category: "lien-relation"
+order: 28
 parcours: true
 ---
 

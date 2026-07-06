@@ -7,8 +7,8 @@ livreVersus: false
 livreAimerSansDisparaitre: false
 title: "La force de dire non, la faiblesse d’accepter et la sagesse de dire oui"
 excerpt: "Je ne peux pas être heureux dans une relation si je dois renoncer à moi-même."
-category: "desir-verite"
-order: 1
+category: "vrai-de-soi"
+order: 31
 parcours: true
 ---
 

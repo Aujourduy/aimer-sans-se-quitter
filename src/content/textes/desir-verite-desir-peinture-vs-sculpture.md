@@ -1,14 +1,14 @@
 ---
 verifieParDuy: false
-livreFableDanPhu: false
+livreFableDanPhu: true
 livreAnalyseConte: false
-livreMetaphore: false
-livreVersus: false
+livreMetaphore: true
+livreVersus: true
 livreAimerSansDisparaitre: false
 title: "Désir peinture vs sculpture"
 excerpt: "On ne peut pas embellir un cœur : on peut seulement enlever les couches qui le cachent."
-category: "desir-verite"
-order: 30
+category: "vrai-de-soi"
+order: 23
 draft: true
 draftReason: "thème sexuel à recadrer vers le relationnel"
 parcours: true

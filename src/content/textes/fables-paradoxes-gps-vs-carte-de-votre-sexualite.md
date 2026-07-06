@@ -1,14 +1,14 @@
 ---
 verifieParDuy: false
-livreFableDanPhu: false
+livreFableDanPhu: true
 livreAnalyseConte: false
-livreMetaphore: false
-livreVersus: false
+livreMetaphore: true
+livreVersus: true
 livreAimerSansDisparaitre: false
 title: "GPS vs Carte de votre sexualité"
 excerpt: "Comme Uber n’existe que grâce au GPS, on suit une carte au lieu de vivre le présent."
-category: "fables-paradoxes"
-order: 21
+category: "corps-desir"
+order: 85
 draft: true
 parcours: false
 ---

@@ -7,8 +7,8 @@ livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Reproches & reproches & reproches"
 excerpt: "Moins il y a de reproches, et plus il y a de l’action."
-category: "peur-masque"
-order: 15
+category: "lien-relation"
+order: 48
 draft: true
 draftReason: "forme à retravailler"
 ---

@@ -1,14 +1,14 @@
 ---
 verifieParDuy: false
-livreFableDanPhu: false
+livreFableDanPhu: true
 livreAnalyseConte: false
-livreMetaphore: false
+livreMetaphore: true
 livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Démarrer une voiture, démarrer une relation sexuelle"
 excerpt: "Comme au permis, une relation sexuelle demande de passer en revue les vérifications avant de démarrer."
-category: "desir-intimite"
-order: 30
+category: "corps-desir"
+order: 11
 draft: true
 parcours: false
 ---

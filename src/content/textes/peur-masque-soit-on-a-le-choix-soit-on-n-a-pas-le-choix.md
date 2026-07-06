@@ -7,8 +7,8 @@ livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Soit on a le choix soit on n'a pas le choix"
 excerpt: "Cesser d'en vouloir à l'autre qui n'avait pas le choix."
-category: "peur-masque"
-order: 20
+category: "vrai-de-soi"
+order: 71
 draft: true
 parcours: false
 ---

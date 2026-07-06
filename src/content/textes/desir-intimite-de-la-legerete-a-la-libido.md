@@ -2,13 +2,13 @@
 verifieParDuy: false
 livreFableDanPhu: false
 livreAnalyseConte: false
-livreMetaphore: false
+livreMetaphore: true
 livreVersus: false
 livreAimerSansDisparaitre: false
 title: "De la légèreté à la libido"
 excerpt: "La propreté du corps avant l'amour : et si on soignait aussi la propreté de nos émotions ?"
-category: "desir-intimite"
-order: 57
+category: "corps-desir"
+order: 10
 draft: false
 parcours: false
 ---

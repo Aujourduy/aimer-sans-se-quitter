@@ -7,8 +7,8 @@ livreVersus: false
 livreAimerSansDisparaitre: false
 title: "La sexualité sensible vient de l'intérieur"
 excerpt: "Réponse à une femme : l'essentiel de la sexualité sensible vient de l'intérieur, pas des grands mots."
-category: "desir-verite"
-order: 48
+category: "corps-desir"
+order: 72
 draft: true
 parcours: false
 ---

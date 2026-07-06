@@ -7,8 +7,8 @@ livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Du tout ou rien"
 excerpt: "Se dévoiler dès la première rencontre : soit ça matche en turbo, soit on s'évite déceptions et reproches."
-category: "desir-verite"
-order: 69
+category: "vrai-de-soi"
+order: 25
 draft: false
 parcours: false
 ---

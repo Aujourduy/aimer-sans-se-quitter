@@ -7,8 +7,8 @@ livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Tout a un prix"
 excerpt: "Le prix le plus cher fut celui du dépassement de soi, vers l’authenticité."
-category: "desir-verite"
-order: 35
+category: "vrai-de-soi"
+order: 43
 draft: true
 draftReason: "thème sexuel à recadrer vers le relationnel"
 ---

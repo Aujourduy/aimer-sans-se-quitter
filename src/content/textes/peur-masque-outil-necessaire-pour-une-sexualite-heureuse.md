@@ -7,8 +7,8 @@ livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Outil nécessaire pour une sexualité heureuse"
 excerpt: "La sexualité cristallise peurs et traumas : il faut un outil de transmutation qui change les crises en révélations."
-category: "peur-masque"
-order: 16
+category: "corps-desir"
+order: 92
 draft: false
 parcours: false
 ---

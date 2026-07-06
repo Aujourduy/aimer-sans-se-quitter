@@ -2,13 +2,13 @@
 verifieParDuy: false
 livreFableDanPhu: true
 livreAnalyseConte: false
-livreMetaphore: false
+livreMetaphore: true
 livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Comment j’ai su que j’avais besoin de lunettes ?"
 excerpt: "C’est en portant des lunettes qu’on découvre qu’on croyait voir clair sans l’être."
-category: "desir-verite"
-order: 25
+category: "vrai-de-soi"
+order: 21
 draft: true
 draftReason: "thème sexuel à recadrer vers le relationnel"
 ---

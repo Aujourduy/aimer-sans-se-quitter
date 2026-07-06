@@ -7,8 +7,8 @@ livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Il n'y a pas d'insatisfaction sexuelle"
 excerpt: "L'insatisfaction sexuelle n'est qu'un indicateur de son insatisfaction de vie : on souffre d'avoir trop peu donné, pas trop peu reçu."
-category: "desir-intimite"
-order: 33
+category: "corps-desir"
+order: 20
 draft: false
 parcours: false
 ---

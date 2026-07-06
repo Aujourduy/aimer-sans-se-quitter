@@ -1,14 +1,14 @@
 ---
 verifieParDuy: false
-livreFableDanPhu: false
+livreFableDanPhu: true
 livreAnalyseConte: false
-livreMetaphore: false
+livreMetaphore: true
 livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Le sexe comme boussole et non comme destination"
 excerpt: "Ce n’était pas lié à ce que nous avions fait, mais à la manière dont nous l’avions fait."
-category: "fables-paradoxes"
-order: 14
+category: "corps-desir"
+order: 89
 draft: true
 draftReason: "thème sexuel à recadrer vers le relationnel"
 ---

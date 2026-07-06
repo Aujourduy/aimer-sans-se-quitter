@@ -3,12 +3,12 @@ verifieParDuy: false
 livreFableDanPhu: false
 livreAnalyseConte: false
 livreMetaphore: false
-livreVersus: false
+livreVersus: true
 livreAimerSansDisparaitre: false
 title: "La sexualité sensible n'est pas l'arrivée mais le départ"
 excerpt: "La sexualité sensible tient en deux mots : oser ma vérité, honorer ma liberté — mon point de départ."
-category: "desir-verite"
-order: 74
+category: "corps-desir"
+order: 71
 draft: false
 parcours: false
 ---

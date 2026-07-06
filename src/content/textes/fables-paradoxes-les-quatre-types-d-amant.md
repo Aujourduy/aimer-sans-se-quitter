@@ -1,14 +1,14 @@
 ---
 verifieParDuy: false
-livreFableDanPhu: false
+livreFableDanPhu: true
 livreAnalyseConte: false
-livreMetaphore: false
+livreMetaphore: true
 livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Les quatre types d'amant"
 excerpt: "Aigle, moineau, coq, lapin : quatre altitudes d'amant, et comment aider un partenaire à voler plus haut."
-category: "fables-paradoxes"
-order: 23
+category: "corps-desir"
+order: 90
 draft: false
 parcours: false
 ---

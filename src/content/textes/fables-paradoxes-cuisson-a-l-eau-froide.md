@@ -1,14 +1,14 @@
 ---
 verifieParDuy: false
-livreFableDanPhu: false
+livreFableDanPhu: true
 livreAnalyseConte: false
-livreMetaphore: false
+livreMetaphore: true
 livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Cuisson à l’eau froide"
 excerpt: "Donner le temps et l’espace pour que la sensualité s’exprime d’elle-même, sans forcer."
-category: "fables-paradoxes"
-order: 12
+category: "corps-desir"
+order: 83
 draft: true
 draftReason: "thème sexuel à recadrer vers le relationnel"
 parcours: true

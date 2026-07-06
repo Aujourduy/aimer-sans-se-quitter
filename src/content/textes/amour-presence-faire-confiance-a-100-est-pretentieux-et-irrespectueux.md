@@ -7,8 +7,8 @@ livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Faire confiance à 100% est prétentieux et irrespectueux"
 excerpt: "On ne rencontre l'autre qu'en étant profondément relié à soi ; la confiance totale nie sa liberté."
-category: "amour-presence"
-order: 34
+category: "lien-relation"
+order: 4
 draft: false
 parcours: false
 ---

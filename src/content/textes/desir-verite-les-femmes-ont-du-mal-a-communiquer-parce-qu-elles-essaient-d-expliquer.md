@@ -7,8 +7,8 @@ livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Les femmes ont du mal à communiquer parce qu'elles essaient d'expliquer"
 excerpt: "Communiquer sur la sexualité demande de voir la peur du partenaire et de créer un cadre plutôt que d'expliquer."
-category: "desir-verite"
-order: 81
+category: "lien-relation"
+order: 35
 draft: false
 parcours: false
 ---

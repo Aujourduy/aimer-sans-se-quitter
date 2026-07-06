@@ -2,13 +2,13 @@
 verifieParDuy: false
 livreFableDanPhu: false
 livreAnalyseConte: false
-livreMetaphore: false
+livreMetaphore: true
 livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Amour, Conscience, Vérité et Lumière"
 excerpt: "Quatre versants d'une même montagne, et pleurer de gratitude aux enterrements : la douleur, c'est de l'amour."
-category: "amour-presence"
-order: 33
+category: "regard-vie"
+order: 1
 draft: false
 parcours: false
 ---

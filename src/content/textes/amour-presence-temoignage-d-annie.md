@@ -7,8 +7,8 @@ livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Témoignage d'Annie"
 excerpt: "Après un an d'attente, Annie trouve l'amour et la sexualité sensible, en accord avec elle-même."
-category: "amour-presence"
-order: 35
+category: "pratique-posture"
+order: 3
 draft: true
 parcours: false
 ---

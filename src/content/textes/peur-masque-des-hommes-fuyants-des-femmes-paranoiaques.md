@@ -7,8 +7,8 @@ livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Des hommes fuyants, des femmes paranoïaques"
 excerpt: "Derrière la peur de ne pas être aimé, chacun projette sur l’autre son propre jugement emprunté."
-category: "peur-masque"
-order: 13
+category: "lien-relation"
+order: 46
 draft: true
 draftReason: "titre à valider"
 parcours: true

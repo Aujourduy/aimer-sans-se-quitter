@@ -3,12 +3,12 @@ verifieParDuy: false
 livreFableDanPhu: false
 livreAnalyseConte: false
 livreMetaphore: false
-livreVersus: false
+livreVersus: true
 livreAimerSansDisparaitre: false
 title: "Honorer son partenaire"
 excerpt: "Concept intemporel : honorer vs attendre, posture de gratitude"
-category: "amour-presence"
-order: 43
+category: "lien-relation"
+order: 5
 draft: false
 parcours: false
 ---

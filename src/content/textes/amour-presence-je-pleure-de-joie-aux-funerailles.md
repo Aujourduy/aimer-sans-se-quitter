@@ -2,13 +2,13 @@
 verifieParDuy: false
 livreFableDanPhu: true
 livreAnalyseConte: false
-livreMetaphore: false
+livreMetaphore: true
 livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Je pleure de joie aux funérailles"
 excerpt: "Chaque larme devient une fleur déposée sur l’autel de la gratitude."
-category: "amour-presence"
-order: 18
+category: "regard-vie"
+order: 2
 ---
 
 Lors des quatre dernières funérailles, j’ai énormément pleuré. J’étais peut-être la personne qui pleurait le plus dans l’assemblée. Des gros sanglots à en faire exploser la poitrine. Des larmes coulant à torrent. Ça impressionne beaucoup. Je ne me retiens pas. Au contraire.

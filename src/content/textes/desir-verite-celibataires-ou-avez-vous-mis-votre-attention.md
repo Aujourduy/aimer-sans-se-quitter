@@ -2,13 +2,13 @@
 verifieParDuy: false
 livreFableDanPhu: false
 livreAnalyseConte: false
-livreMetaphore: false
+livreMetaphore: true
 livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Célibataires : Où avez-vous mis votre attention ?"
 excerpt: "Ce qui compte n'est pas le poisson visé mais l'appât que vous êtes : cessez de vous tordre aux attentes."
-category: "desir-verite"
-order: 42
+category: "vrai-de-soi"
+order: 20
 draft: false
 parcours: false
 ---

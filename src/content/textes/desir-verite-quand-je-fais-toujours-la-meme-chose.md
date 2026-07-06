@@ -7,8 +7,8 @@ livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Quand je fais toujours la même chose"
 excerpt: "Pour des résultats différents, il faut oser l'authenticité totale, même au prix d'un long célibat."
-category: "desir-verite"
-order: 55
+category: "vrai-de-soi"
+order: 42
 draft: false
 parcours: false
 ---

@@ -7,8 +7,8 @@ livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Va-t-elle sauver son couple ?"
 excerpt: "Un texto reçu d'une femme rencontrée en entretien pour l'accompagnement."
-category: "amour-presence"
-order: 27
+category: "lien-relation"
+order: 16
 draft: true
 parcours: false
 ---

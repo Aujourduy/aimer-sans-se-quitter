@@ -2,13 +2,13 @@
 verifieParDuy: false
 livreFableDanPhu: true
 livreAnalyseConte: false
-livreMetaphore: false
+livreMetaphore: true
 livreVersus: false
 livreAimerSansDisparaitre: false
 title: "La jouissance et l’art du tir à l’arc"
 excerpt: "Atteindre la cible ne suffit pas : c’est enlever les entraves qui compte."
-category: "fables-paradoxes"
-order: 16
+category: "corps-desir"
+order: 86
 draft: true
 draftReason: "thème sexuel à recadrer vers le relationnel"
 parcours: true

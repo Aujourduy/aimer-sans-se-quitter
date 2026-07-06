@@ -7,8 +7,8 @@ livreVersus: false
 livreAimerSansDisparaitre: false
 title: "J'arrête les voeux en 2022"
 excerpt: "À la place des vœux, un rappel : accueillir et partager notre vérité intérieure, la peur d'abord."
-category: "desir-verite"
-order: 60
+category: "vrai-de-soi"
+order: 29
 draft: false
 parcours: false
 ---
