@@ -1,0 +1,19 @@
+#!/usr/bin/env bash
+# Hook pre-commit versionné. Activer une fois par machine :
+#   git config core.hooksPath .githooks
+#
+# Régénère la section « Outils » du README depuis package.json, et re-stage
+# le README s'il a changé (pour que la MAJ entre dans le même commit).
+
+set -e
+ROOT="$(git rev-parse --show-toplevel)"
+cd "$ROOT"
+
+# Ne régénérer que si les sources de la liste d'outils sont dans le commit.
+if git diff --cached --name-only | grep -qE '^(package\.json|scripts/.*\.mjs)$'; then
+  node scripts/generer-outils-readme.mjs
+  if ! git diff --quiet -- README.md; then
+    git add README.md
+    echo "pre-commit : README (section Outils) mis à jour et re-stagé."
+  fi
+fi

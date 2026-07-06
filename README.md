@@ -10,6 +10,7 @@ fichier `.md` dans `src/content/textes/` — sans toucher à la mise en page.
 
 - [Repartir d'un serveur neuf (reprise après crash)](#repartir-dun-serveur-neuf-reprise-après-crash)
 - [Développer en local](#développer-en-local)
+- [Outils (scripts npm)](#outils-scripts-npm)
 - [Modifier le site soi-même](#modifier-le-site-soi-même)
   - [Depuis son ordinateur (VS Code)](#depuis-son-ordinateur-vs-code)
   - [Depuis github.com (sans rien installer, pratique sur mobile)](#depuis-githubcom-sans-rien-installer-pratique-sur-mobile)
@@ -121,6 +122,39 @@ npm run build    # construit dans dist/
 npm run preview  # prévisualise le build
 npm run relecture # outil de relecture local (voir « Relire et valider les textes »)
 ```
+
+## Outils (scripts npm)
+
+Tous les outils du projet sont des commandes `npm run …`. La liste ci-dessous
+est **générée automatiquement** depuis `package.json` (hook pre-commit).
+
+> Après un `git clone`, activer le hook une fois : `git config core.hooksPath .githooks`.
+> Il régénère cette section à chaque commit qui touche `package.json` ou un
+> script. On peut aussi la régénérer à la main : `npm run outils-readme`.
+
+<!-- OUTILS:START -->
+
+> _Section générée automatiquement par `scripts/generer-outils-readme.mjs`
+> (hook pre-commit). Ne pas éditer à la main : modifier les scripts ou leur
+> commentaire d’en-tête, puis committer._
+
+| Commande | Rôle |
+| --- | --- |
+| `npm run dev` | Serveur de développement Astro, avec indicateurs de relecture (http://localhost:4321). |
+| `npm run build` | Construit le site de production dans `dist/`. |
+| `npm run preview` | Prévisualise le dernier build de production. |
+| `npm run relecture` | Outil de relecture LOCAL (dev only) — JAMAIS déployé. |
+| `npm run build:drafts` | Construit le site **avec les brouillons** dans `dist-dev/` (aperçu de relecture). |
+| `npm run serve-dist` | Serveur statique LOCAL (dev only) — sert le build de production `dist/` du site danphu, pour pouvoir l'utiliser comme PWA installable via Tailscale. |
+| `npm run livres` | Génère les dossiers de livres À PARTIR des indicateurs cochés sur les textes. |
+| `npm run tous-ecrits` | Génère docs/tous-les-ecrits.md : tous les textes à plat (titre + corps), en un seul fichier. |
+| `npm run outils-readme` | Régénère la section « Outils » du README à partir de package.json et des commentaires d'en-tête des scripts. |
+| `npm run astro` | Passe-plat vers la CLI Astro (`npm run astro -- <cmd>`). |
+
+Fichiers systemd fournis dans `scripts/` : `relecture.service` (outil de
+relecture en service permanent), `danphu-dev.service` (aperçu de dev).
+
+<!-- OUTILS:END -->
 
 ## Modifier le site soi-même
 

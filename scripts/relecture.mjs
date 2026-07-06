@@ -21,6 +21,44 @@ import { genererTousEcrits } from './tous-les-ecrits.mjs';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const TEXTES_DIR = join(__dirname, '..', 'src', 'content', 'textes');
+const ROOT_DIR = join(__dirname, '..');
+
+// Liste des outils du projet (scripts npm), pour la section « Outils » de l'UI.
+// Description = 1re phrase du commentaire d'en-tête du .mjs, sinon libellé natif.
+// Les outils actionnables depuis l'interface portent une `action` (endpoint).
+function listeOutils() {
+  const DESCR_NATIVES = {
+    dev: 'Serveur de développement Astro (repères de relecture, http://localhost:4321).',
+    build: 'Construit le site de production dans dist/.',
+    'build:drafts': 'Construit le site AVEC les brouillons dans dist-dev/.',
+    preview: 'Prévisualise le dernier build de production.',
+    astro: 'Passe-plat vers la CLI Astro.',
+  };
+  const ACTIONS = {
+    livres: { action: 'generer-livres', label: 'Régénérer les livres' },
+    'tous-ecrits': { action: 'tous-ecrits', label: 'Régénérer « tous les écrits »' },
+  };
+  let scripts = {};
+  try { scripts = JSON.parse(readFileSync(join(ROOT_DIR, 'package.json'), 'utf8')).scripts || {}; }
+  catch { scripts = {}; }
+  const descr = (cmd) => {
+    const m = /node\s+(scripts\/[\w.-]+\.mjs)/.exec(scripts[cmd] || '');
+    if (!m) return DESCR_NATIVES[cmd] || '';
+    const p = join(ROOT_DIR, m[1]);
+    if (!existsSync(p)) return DESCR_NATIVES[cmd] || '';
+    const buf = [];
+    for (const line of readFileSync(p, 'utf8').split('\n')) {
+      const t = line.trim();
+      if (t.startsWith('//')) buf.push(t.replace(/^\/\/\s?/, ''));
+      else if (buf.length) break;
+    }
+    const texte = buf.join(' ').trim();
+    return (texte.match(/^.*?\.(\s|$)/) || [texte])[0].trim() || DESCR_NATIVES[cmd] || '';
+  };
+  return Object.keys(scripts).map((cmd) => ({
+    cmd, descr: descr(cmd), ...(ACTIONS[cmd] || {}),
+  }));
+}
 // Todolist des sujets de textes à écrire — JSON versionné (suivi git).
 const SUJETS_FILE = join(__dirname, '..', 'content', 'sujets-todo.json');
 const PORT = 4455;
@@ -449,6 +487,12 @@ function pageHtml() {
   .gen{width:100%;margin-bottom:.4rem;padding:.5rem;border:1px solid var(--bleu);background:var(--bleu);color:#fff;border-radius:.4rem;cursor:pointer;font-size:.82rem;}
   .gen:hover{background:#16243b;} .gen:disabled{opacity:.6;cursor:default;}
   .gen-msg{font-size:.72rem;color:var(--sepia);margin-bottom:.6rem;min-height:1em;white-space:pre-line;}
+  .outil{padding:.4rem 0;border-top:1px solid var(--filet);}
+  .outil:first-child{border-top:none;}
+  .outil-cmd{font-family:ui-monospace,Menlo,Consolas,monospace;font-size:.76rem;color:var(--bleu);font-weight:700;}
+  .outil-desc{font-size:.74rem;color:var(--sepia);line-height:1.35;margin:.15rem 0 .3rem;}
+  .outil-run{font-size:.74rem;padding:.28rem .7rem;border:1px solid var(--bleu);background:var(--bleu);color:#fff;border-radius:1rem;cursor:pointer;}
+  .outil-run:hover{background:#16243b;} .outil-run:disabled{opacity:.6;cursor:default;}
   .back{display:none;}
   /* --- Mobile : une seule colonne, navigation liste <-> lecture --- */
   @media (max-width:760px){
@@ -502,15 +546,21 @@ function pageHtml() {
       <div id="sujets-list"></div>
       <div class="sujets-msg" id="sujets-msg"></div>
     </section>
-    <button class="gen" id="gen">Régénérer les livres</button>
-    <button class="gen" id="gen-ecrits">Régénérer « tous les écrits »</button>
-    <div class="gen-msg" id="gen-msg"></div>
+    <section class="sujets outils">
+      <div class="sujets-head">
+        <h2>Outils</h2>
+        <button class="sujets-toggle" id="outils-toggle">déplier</button>
+      </div>
+      <div id="outils-body" hidden></div>
+      <div class="gen-msg" id="gen-msg"></div>
+    </section>
     <div id="list"></div>
   </aside>
   <main class="main" id="main"><p class="empty">Sélectionne un texte à gauche.</p></main>
 </div>
 <script>
 const LIVRE_FLAGS=${JSON.stringify(LIVRE_FLAGS)};
+const OUTILS=${JSON.stringify(listeOutils())};
 let TEXTES=[], filter='all', q='', sel=null;
 let SUJETS=[], masquerFaits=false;
 const $=s=>document.querySelector(s);
@@ -720,23 +770,37 @@ $('#sujets-toggle').addEventListener('click',()=>{
   $('#sujets-toggle').textContent=masquerFaits?'montrer les faits':'masquer les faits';
   renderSujets();
 });
-$('#gen').addEventListener('click',async()=>{
-  const btn=$('#gen'); btn.disabled=true; btn.textContent='Génération…'; $('#gen-msg').textContent='';
-  try{
-    const r=await (await fetch('/api/generer-livres',{method:'POST'})).json();
-    if(r.ok){ $('#gen-msg').textContent=r.resume.map(x=>x.count+' — '+x.title).join('\\n'); }
-    else { $('#gen-msg').textContent='Erreur : '+(r.error||'inconnue'); }
-  }catch(e){ $('#gen-msg').textContent='Erreur : '+e; }
-  btn.disabled=false; btn.textContent='Régénérer les livres';
+// --- Section Outils : liste tous les outils du projet (scripts npm). Ceux qui
+// portent une action sont lançables ici ; les autres sont documentés (CLI).
+function esc(s){return String(s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));}
+function renderOutils(){
+  $('#outils-body').innerHTML=OUTILS.map(o=>{
+    const btn=o.action?'<button class="outil-run" data-action="'+o.action+'">'+esc(o.label)+'</button>'
+                       :'<span class="outil-desc" style="opacity:.7">(en ligne de commande)</span>';
+    return '<div class="outil"><div class="outil-cmd">npm run '+esc(o.cmd)+'</div>'
+      +'<div class="outil-desc">'+esc(o.descr||'')+'</div>'+btn+'</div>';
+  }).join('');
+}
+$('#outils-toggle').addEventListener('click',()=>{
+  const body=$('#outils-body'); const open=body.hidden;
+  body.hidden=!open; $('#outils-toggle').textContent=open?'replier':'déplier';
+  if(open&&!body.dataset.rendered){ renderOutils(); body.dataset.rendered='1'; }
 });
-// Régénérer docs/tous-les-ecrits.md (regroupement à plat des 116 textes).
-$('#gen-ecrits').addEventListener('click',async()=>{
-  const btn=$('#gen-ecrits'); btn.disabled=true; btn.textContent='Génération…'; $('#gen-msg').textContent='';
+// Handler délégué pour les boutons d'action des outils.
+$('#outils-body').addEventListener('click',async e=>{
+  const btn=e.target.closest('.outil-run'); if(!btn)return;
+  const action=btn.dataset.action; const old=btn.textContent;
+  btn.disabled=true; btn.textContent='Génération…'; $('#gen-msg').textContent='';
   try{
-    const r=await (await fetch('/api/tous-ecrits',{method:'POST'})).json();
-    $('#gen-msg').textContent=r.ok?('✓ tous-les-ecrits.md — '+r.count+' textes · '+(r.git||'')):('Erreur : '+(r.error||'inconnue'));
-  }catch(e){ $('#gen-msg').textContent='Erreur : '+e; }
-  btn.disabled=false; btn.textContent='Régénérer « tous les écrits »';
+    if(action==='generer-livres'){
+      const r=await (await fetch('/api/generer-livres',{method:'POST'})).json();
+      $('#gen-msg').textContent=r.ok?r.resume.map(x=>x.count+' — '+x.title).join('\\n'):'Erreur : '+(r.error||'inconnue');
+    } else if(action==='tous-ecrits'){
+      const r=await (await fetch('/api/tous-ecrits',{method:'POST'})).json();
+      $('#gen-msg').textContent=r.ok?('✓ tous-les-ecrits.md — '+r.count+' textes · '+(r.git||'')):('Erreur : '+(r.error||'inconnue'));
+    }
+  }catch(err){ $('#gen-msg').textContent='Erreur : '+err; }
+  btn.disabled=false; btn.textContent=old;
 });
 // Sauvegarder la todolist des sujets (commit + push GitHub).
 $('#sujets-save').addEventListener('click',async()=>{

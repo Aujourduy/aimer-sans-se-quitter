@@ -1,4 +1,4 @@
-// Génère docs/tous-les-ecrits.md : les 116 textes à plat (titre + corps), en un
+// Génère docs/tous-les-ecrits.md : tous les textes à plat (titre + corps), en un
 // seul fichier. Instantané depuis src/content/textes/. Exporte genererTousEcrits()
 // pour l'outil de relecture, et s'exécute en direct via `npm run tous-ecrits`.
 
