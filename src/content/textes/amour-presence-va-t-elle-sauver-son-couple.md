@@ -1,0 +1,15 @@
+---
+verifieParDuy: false
+livreFableDanPhu: false
+livreAnalyseConte: false
+livreMetaphore: false
+livreVersus: false
+livreAimerSansDisparaitre: false
+title: "Va-t-elle sauver son couple ?"
+excerpt: "Un texto reçu d'une femme rencontrée en entretien pour l'accompagnement."
+category: "amour-presence"
+order: 27
+draft: true
+parcours: false
+---
+C’était lundi de la semaine d’avant. Je reçois un texto. C’était une femme avec qui j’ai eu un entretien téléphonique pour la prochaine session de l’accompagnement à la sexualité sensible.

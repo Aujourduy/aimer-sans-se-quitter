@@ -1,5 +1,419 @@
 [
   {
+    "id": "pssmr8v6tg3",
+    "titre": "Pourquoi boire l'eau corrompue dans le désert quand on sait que ça rend malade",
+    "fait": false,
+    "cree": "2026-07-06T06:54:08.787Z"
+  },
+  {
+    "id": "pssmr8v6tg2",
+    "titre": "J'ai arrêté les préliminaires : Le Pré-préliminaire",
+    "fait": false,
+    "cree": "2026-07-06T06:54:08.786Z"
+  },
+  {
+    "id": "pssmr8v6tg1",
+    "titre": "Comment plaire quand on est au RSA, habite chez sa mère à 40 ans, sans emploi",
+    "fait": false,
+    "cree": "2026-07-06T06:54:08.785Z"
+  },
+  {
+    "id": "pssmr8v6tg0",
+    "titre": "Le Tantra et l'après Tantra",
+    "fait": false,
+    "cree": "2026-07-06T06:54:08.784Z"
+  },
+  {
+    "id": "pssmr8v6tfz",
+    "titre": "Une peine de coeur, ce n'est pas parce que tu l'aimes trop mais que tu ne t'aimes pas assez",
+    "fait": false,
+    "cree": "2026-07-06T06:54:08.783Z"
+  },
+  {
+    "id": "pssmr8v6tfy",
+    "titre": "Egalité vs Efficacité",
+    "fait": false,
+    "cree": "2026-07-06T06:54:08.782Z"
+  },
+  {
+    "id": "pssmr8v6tfx",
+    "titre": "M'aimer assez pour accueillir ma vérité, respecter ma liberté",
+    "fait": false,
+    "cree": "2026-07-06T06:54:08.781Z"
+  },
+  {
+    "id": "pssmr8v6tfw",
+    "titre": "Faire l'amour à une personne en aimant deux",
+    "fait": false,
+    "cree": "2026-07-06T06:54:08.780Z"
+  },
+  {
+    "id": "pssmr8v6tfv",
+    "titre": "Moi au ski, et dans ma sexualité",
+    "fait": false,
+    "cree": "2026-07-06T06:54:08.779Z"
+  },
+  {
+    "id": "pssmr8v6tfu",
+    "titre": "Comparaison, mauvais élève",
+    "fait": false,
+    "cree": "2026-07-06T06:54:08.778Z"
+  },
+  {
+    "id": "pssmr8v6tft",
+    "titre": "L'espoir rassure mais ne fait pas avancer",
+    "fait": false,
+    "cree": "2026-07-06T06:54:08.777Z"
+  },
+  {
+    "id": "pssmr8v6tfs",
+    "titre": "Deux dilemmes : Je ne suis pas aimable vs je suis aimable",
+    "fait": false,
+    "cree": "2026-07-06T06:54:08.776Z"
+  },
+  {
+    "id": "pssmr8v6tfr",
+    "titre": "Attirer le bon partenaire",
+    "fait": false,
+    "cree": "2026-07-06T06:54:08.775Z"
+  },
+  {
+    "id": "pssmr8v6tfq",
+    "titre": "Se forcer / Faire des efforts",
+    "fait": false,
+    "cree": "2026-07-06T06:54:08.774Z"
+  },
+  {
+    "id": "pssmr8v6tfp",
+    "titre": "Ce n'est pas la sexualité qu'il faut préparer mais la personne",
+    "fait": false,
+    "cree": "2026-07-06T06:54:08.773Z"
+  },
+  {
+    "id": "pssmr8v6tfo",
+    "titre": "Confiance en l'avenir que si on a la gratitude par rapport au passé",
+    "fait": false,
+    "cree": "2026-07-06T06:54:08.772Z"
+  },
+  {
+    "id": "pssmr8v6tfn",
+    "titre": "Il n'y a pas de normalité, il y a des individualités",
+    "fait": false,
+    "cree": "2026-07-06T06:54:08.771Z"
+  },
+  {
+    "id": "pssmr8v6tfm",
+    "titre": "Ne pas avoir d'attente vs Se préparer au non",
+    "fait": false,
+    "cree": "2026-07-06T06:54:08.770Z"
+  },
+  {
+    "id": "pssmr8v6tfl",
+    "titre": "La trahison est en réalité mon ignorance de l’autre",
+    "fait": false,
+    "cree": "2026-07-06T06:54:08.769Z"
+  },
+  {
+    "id": "pssmr8v6tfk",
+    "titre": "Le problème après la solution",
+    "fait": false,
+    "cree": "2026-07-06T06:54:08.768Z"
+  },
+  {
+    "id": "pssmr8v6tfj",
+    "titre": "Thich Nhat Hanh est mort ou presque",
+    "fait": false,
+    "cree": "2026-07-06T06:54:08.767Z"
+  },
+  {
+    "id": "pssmr8v6tfi",
+    "titre": "Deux facteurs essentiels de réussite : l'état d'esprit et l'environnement",
+    "fait": false,
+    "cree": "2026-07-06T06:54:08.766Z"
+  },
+  {
+    "id": "pssmr8v6tfh",
+    "titre": "Le feu, la conscience, la liberté, la vérité se propagent",
+    "fait": false,
+    "cree": "2026-07-06T06:54:08.765Z"
+  },
+  {
+    "id": "pssmr8v6tfg",
+    "titre": "L'objectif n'est pas le moyen",
+    "fait": false,
+    "cree": "2026-07-06T06:54:08.764Z"
+  },
+  {
+    "id": "pssmr8v6tff",
+    "titre": "La communication non verbale (Quoi, Comment, Pourquoi)",
+    "fait": false,
+    "cree": "2026-07-06T06:54:08.763Z"
+  },
+  {
+    "id": "pssmr8v6tfe",
+    "titre": "Le feu de la conscience, de la vérité, de la liberté se communique",
+    "fait": false,
+    "cree": "2026-07-06T06:54:08.762Z"
+  },
+  {
+    "id": "pssmr8v6tfd",
+    "titre": "Je cherche plus la paix que le plaisir",
+    "fait": false,
+    "cree": "2026-07-06T06:54:08.761Z"
+  },
+  {
+    "id": "pssmr8v6tfc",
+    "titre": "Je te prête ma certitude pour l'énergie",
+    "fait": false,
+    "cree": "2026-07-06T06:54:08.760Z"
+  },
+  {
+    "id": "pssmr8v6tfb",
+    "titre": "Je te donne un environnement par ma présence",
+    "fait": false,
+    "cree": "2026-07-06T06:54:08.759Z"
+  },
+  {
+    "id": "pssmr8v6tfa",
+    "titre": "Devenir qui je suis en faisant ce que j'ai à faire même si je n'obtiens pas le résultat que je veux",
+    "fait": false,
+    "cree": "2026-07-06T06:54:08.758Z"
+  },
+  {
+    "id": "pssmr8v6tf9",
+    "titre": "Je réussis parce que j'ai le bon état d'esprit et le bon environnement",
+    "fait": false,
+    "cree": "2026-07-06T06:54:08.757Z"
+  },
+  {
+    "id": "pssmr8v6tf8",
+    "titre": "Je n'obtiens pas parce que je le veux mais parce que je ne le tolère plus",
+    "fait": false,
+    "cree": "2026-07-06T06:54:08.756Z"
+  },
+  {
+    "id": "pssmr8v6tf7",
+    "titre": "Analyse paralyse",
+    "fait": false,
+    "cree": "2026-07-06T06:54:08.755Z"
+  },
+  {
+    "id": "pssmr8v6tf6",
+    "titre": "Blessure non guérie",
+    "fait": false,
+    "cree": "2026-07-06T06:54:08.754Z"
+  },
+  {
+    "id": "pssmr8v6tf5",
+    "titre": "Aime ton prochain comme toi-même, et surtout pas plus",
+    "fait": false,
+    "cree": "2026-07-06T06:54:08.753Z"
+  },
+  {
+    "id": "pssmr8v6tf4",
+    "titre": "Une frustration d'Être qui se manifeste dans la sexualité",
+    "fait": false,
+    "cree": "2026-07-06T06:54:08.752Z"
+  },
+  {
+    "id": "pssmr8v6tf3",
+    "titre": "Chaque fois que je vois une ombre, c'est qu'il y avait assez de lumière pour la faire apparaître",
+    "fait": false,
+    "cree": "2026-07-06T06:54:08.751Z"
+  },
+  {
+    "id": "pssmr8v6tf2",
+    "titre": "L'opportunité est de ton côté",
+    "fait": false,
+    "cree": "2026-07-06T06:54:08.750Z"
+  },
+  {
+    "id": "pssmr8v6tf1",
+    "titre": "Joie, Amour, Liberté, Paix tout pareil",
+    "fait": false,
+    "cree": "2026-07-06T06:54:08.749Z"
+  },
+  {
+    "id": "pssmr8v6tf0",
+    "titre": "Émotion ≠ Transformation",
+    "fait": false,
+    "cree": "2026-07-06T06:54:08.748Z"
+  },
+  {
+    "id": "pssmr8v6tez",
+    "titre": "Les biais du feu tricolore",
+    "fait": false,
+    "cree": "2026-07-06T06:54:08.747Z"
+  },
+  {
+    "id": "pssmr8v6tey",
+    "titre": "L'infidélité peut conduire à la séparation mais pas forcément à cause du sexe",
+    "fait": false,
+    "cree": "2026-07-06T06:54:08.746Z"
+  },
+  {
+    "id": "pssmr8v6tex",
+    "titre": "Vérité, Liberté & Sexualité",
+    "fait": false,
+    "cree": "2026-07-06T06:54:08.745Z"
+  },
+  {
+    "id": "pssmr8v6tew",
+    "titre": "Honorer sa partenaire",
+    "fait": false,
+    "cree": "2026-07-06T06:54:08.744Z"
+  },
+  {
+    "id": "pssmr8v6tev",
+    "titre": "Blanche Neige",
+    "fait": false,
+    "cree": "2026-07-06T06:54:08.743Z"
+  },
+  {
+    "id": "pssmr8v6teu",
+    "titre": "Belle au bois dormant inversé",
+    "fait": false,
+    "cree": "2026-07-06T06:54:08.742Z"
+  },
+  {
+    "id": "pssmr8v6tet",
+    "titre": "L'exemple est la meilleure pédagogie",
+    "fait": false,
+    "cree": "2026-07-06T06:54:08.741Z"
+  },
+  {
+    "id": "pssmr8v6tes",
+    "titre": "Si je veux être aimé à 100%",
+    "fait": false,
+    "cree": "2026-07-06T06:54:08.740Z"
+  },
+  {
+    "id": "pssmr8v6ter",
+    "titre": "La sexualité est le plus noble des instincts",
+    "fait": false,
+    "cree": "2026-07-06T06:54:08.739Z"
+  },
+  {
+    "id": "pssmr8v6teq",
+    "titre": "Simplicité, efficacité, merveilleux",
+    "fait": false,
+    "cree": "2026-07-06T06:54:08.738Z"
+  },
+  {
+    "id": "pssmr8v6tep",
+    "titre": "Il n'y a rien à imposer, mais ne cédez sur rien",
+    "fait": false,
+    "cree": "2026-07-06T06:54:08.737Z"
+  },
+  {
+    "id": "pssmr8v6teo",
+    "titre": "Conseil numéro 1 absolu",
+    "fait": false,
+    "cree": "2026-07-06T06:54:08.736Z"
+  },
+  {
+    "id": "pssmr8v6ten",
+    "titre": "Sexualité sans cible",
+    "fait": false,
+    "cree": "2026-07-06T06:54:08.735Z"
+  },
+  {
+    "id": "pssmr8v6tem",
+    "titre": "Films de combat, films pornos",
+    "fait": false,
+    "cree": "2026-07-06T06:54:08.734Z"
+  },
+  {
+    "id": "pssmr8v6tel",
+    "titre": "Ta merde est précieuse que l'or",
+    "fait": false,
+    "cree": "2026-07-06T06:54:08.733Z"
+  },
+  {
+    "id": "pssmr8v6tek",
+    "titre": "L'économie bleue : les déchets sont des ressources",
+    "fait": false,
+    "cree": "2026-07-06T06:54:08.732Z"
+  },
+  {
+    "id": "pssmr8v6tej",
+    "titre": "La sexualité sensible : être libre d'être",
+    "fait": false,
+    "cree": "2026-07-06T06:54:08.731Z"
+  },
+  {
+    "id": "pssmr8v6tei",
+    "titre": "Aikido, systema, viser plus loin que ce qu'on veut atteindre",
+    "fait": false,
+    "cree": "2026-07-06T06:54:08.730Z"
+  },
+  {
+    "id": "pssmr8v6teh",
+    "titre": "Sexualité phallocratique",
+    "fait": false,
+    "cree": "2026-07-06T06:54:08.729Z"
+  },
+  {
+    "id": "pssmr8v6teg",
+    "titre": "Ce qui tue le désir des hypersensibles",
+    "fait": false,
+    "cree": "2026-07-06T06:54:08.728Z"
+  },
+  {
+    "id": "pssmr8v6tef",
+    "titre": "Quel est le premier pas vers une sexualité sensible",
+    "fait": false,
+    "cree": "2026-07-06T06:54:08.727Z"
+  },
+  {
+    "id": "pssmr8v6tee",
+    "titre": "Logique implacable",
+    "fait": false,
+    "cree": "2026-07-06T06:54:08.726Z"
+  },
+  {
+    "id": "pssmr8v6ted",
+    "titre": "Le masculin sauvage",
+    "fait": false,
+    "cree": "2026-07-06T06:54:08.725Z"
+  },
+  {
+    "id": "pssmr8v6tec",
+    "titre": "Laisser monter le désir vs chercher à provoquer l'excitation",
+    "fait": false,
+    "cree": "2026-07-06T06:54:08.724Z"
+  },
+  {
+    "id": "pssmr8v6teb",
+    "titre": "Pourquoi tu ne seras jamais assez bien",
+    "fait": false,
+    "cree": "2026-07-06T06:54:08.723Z"
+  },
+  {
+    "id": "pssmr8v6tea",
+    "titre": "Pas de confidentialité inconditionnelle",
+    "fait": false,
+    "cree": "2026-07-06T06:54:08.722Z"
+  },
+  {
+    "id": "pssmr8v6te9",
+    "titre": "Le conseil que je donnerai à mon fils",
+    "fait": false,
+    "cree": "2026-07-06T06:54:08.721Z"
+  },
+  {
+    "id": "pssmr8v6te8",
+    "titre": "Le lâcher prise",
+    "fait": false,
+    "cree": "2026-07-06T06:54:08.720Z"
+  },
+  {
+    "id": "pssmr8v6te7",
+    "titre": "La colère contre ma partenaire est une illusion",
+    "fait": false,
+    "cree": "2026-07-06T06:54:08.719Z"
+  },
+  {
     "id": "smr3bka0v4ez",
     "titre": "Vider expirer vs recevoir inspirer",
     "fait": false,
