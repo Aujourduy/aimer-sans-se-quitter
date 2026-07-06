@@ -11,6 +11,7 @@ fichier `.md` dans `src/content/textes/` — sans toucher à la mise en page.
 - [Repartir d'un serveur neuf (reprise après crash)](#repartir-dun-serveur-neuf-reprise-après-crash)
 - [Développer en local](#développer-en-local)
 - [Outils (scripts npm)](#outils-scripts-npm)
+- [Suivi et tâches](#suivi-et-tâches)
 - [Modifier le site soi-même](#modifier-le-site-soi-même)
   - [Depuis son ordinateur (VS Code)](#depuis-son-ordinateur-vs-code)
   - [Depuis github.com (sans rien installer, pratique sur mobile)](#depuis-githubcom-sans-rien-installer-pratique-sur-mobile)
@@ -155,6 +156,13 @@ Fichiers systemd fournis dans `scripts/` : `relecture.service` (outil de
 relecture en service permanent), `danphu-dev.service` (aperçu de dev).
 
 <!-- OUTILS:END -->
+
+## Suivi et tâches
+
+Deux listes distinctes :
+
+- **`docs/TODO.md`** — tâches **techniques** en attente (bugs, CI, config, dette).
+- **`content/sujets-todo.json`** — **sujets de textes** à écrire, éditables dans l'outil de relecture (section « Sujets à écrire »).
 
 ## Modifier le site soi-même
 
