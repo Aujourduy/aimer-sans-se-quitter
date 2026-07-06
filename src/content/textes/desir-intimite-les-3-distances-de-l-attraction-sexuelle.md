@@ -36,12 +36,3 @@ L'attraction “contact” n’est pas quelque chose qui se développe. Cela arr
 L’attraction “pénétration” se développe lorsqu’on s’inscrit radicalement dans une démarche de sexualité authentique. Ce n’est pas une sexualité plus qu’une sexualité ordinaire. C’est une sexualité différente. Par analogie, ce n’est pas une eau qu’on chauffe plus pour devenir plus chaude. C’est une eau tellement chaude qu’elle se transforme en vapeur. Elle change de nature. Au lieu de simplement donner un bain chaud, une tisane ou cuire des aliments, elle devient vapeur, fait tourner des machines, des centrales électriques, permet le fonctionnement des foyers, des écoles, des hôpitaux.
 
 Voilà, j’espère que cet éclairage va aider certains d’entre vous à mieux comprendre les enjeux de leur relation et vous permettra de vivre une relation amoureuse nourrissante et une sexualité authentique.
-
-Et pour les personnes qui aspirent à vivre l'attraction “pénétration” dans leur relation actuelle ou future, surtout si tu es une femme sensible aux énergies, avec une activité tournée vers les autres (médecin, infirmière, masseuse, coach, naturo, mère au foyer, astrologue, …), qui a déjà cheminé personnellement pendant plusieurs années (thérapies, stages, spiritualités, …) et avec une pratique artistique régulière (danse, chant, poterie, poésie, photo, …) contacte-moi pour une séance de clarification complètement offerte et sans engagement.
-
-[https://tidycal.com/duy-dang/seance-de-clarification-femme](https://tidycal.com/duy-dang/seance-de-clarification-femme)  
-Très belle journée,
-
-Duy  
-Coach en Relation Amoureuse & Sexualité Authentique  
-Contact : [https://tally.so/r/w4Md2k](https://tally.so/r/w4Md2k)

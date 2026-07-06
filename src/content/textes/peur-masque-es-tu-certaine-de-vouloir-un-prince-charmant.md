@@ -41,5 +41,3 @@ Chaque femme possède déjà un royaume intérieur, une richesse inhérente, sa 
 Oui, c’est un honneur pour un Roi d’être choisi. Elle lui ouvre la porte de son royaume précieux et sacré. Il y vient en tant qu’invité et non en territoire conquis. Ce n’est pas sa terre. Ce pays a déjà une souveraine qui lui offre l’hospitalité. Il doit prendre soin de lui pour venir à la rencontre de la Reine. Il doit prendre soin de lui extérieurement et intérieurement. Des habits propres, des habits précieux. Des intentions nobles, des intentions bienveillantes. Des émotions claires, des émotions partagées. Toutes allusions sexuelles dans ce paragraphe étaient purement volontaires.
 
 À toutes les Reines et à tous les Rois, bienvenue au royaume des royaumes, celui des Rois et des Reines.
-
-— Duy DANG, le 16 Mai 2020

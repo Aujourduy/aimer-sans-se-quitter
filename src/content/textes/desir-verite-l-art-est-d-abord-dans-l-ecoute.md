@@ -32,4 +32,4 @@ Alors voici deux secrets :
 * Il n’y a pas que le Tantra qui permet d’aller vers une sexualité épanouie.
 * Il faut d’abord développer la perception avant de développer la technique
 
-Il y a une application gratuite que j’utilise et que je fais utiliser à mes clients pour développer la qualité de l’écoute. Pour les curieux d’esprit, écrivez en commentaire “Application pour l’écoute” et envoyez-moi un message et je vous dirai quelle application et comment l’utiliser.
+Il y a une application gratuite que j’utilise et que je fais utiliser à mes clients pour développer la qualité de l’écoute.

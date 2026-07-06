@@ -33,7 +33,3 @@ Alors si tu as une sexualité complètement authentique et nourrissante avec une
 Si ce n'est pas encore le cas, voici un conseil qui va te faire gagner beaucoup de temps, d’argent et d’énergie dans ta démarche. Je te suggère de chercher à changer d’abord ta sexualité en y injectant du courage à dire, à faire, à ne pas faire suivant les élans de ton être voire de ton âme.  
 
 Il ne s’agit pas de faire l’amour avec le corps mais d'exprimer l’être d’amour à travers nos corps.
-
-@[100070375365062:2048:Duy Dang]
-Révélateur d'Amants Sensibles
-www.duy-dang.fr

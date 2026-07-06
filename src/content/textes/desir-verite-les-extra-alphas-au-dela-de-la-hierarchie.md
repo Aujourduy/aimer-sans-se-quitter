@@ -28,26 +28,4 @@ Un homme extra-alpha n’a pas besoin de démontrer sa virilité et sa puissance
 
 J'arrête de vouloir être mieux, de devenir meilleur. D'ailleurs cela fait parti des 5 points non négociables dans mes relations amoureuses : "Je ne chercherai pas à m'améliorer pour toi. Si ça te gène, je l'entends mais je ne chercherai pas à changer"
 
-Quand les deux amants arrivent à s’ancrer dans leur extra-alpha, la rencontre sexuelle se déploie dans toutes les dimensions de l’être. 
-
-Duy 
-Accompagnateur vers la Sexualité Sensible
-www.sexualite-sensible.fr
-
--------------------------------------------------------------------
-*** PLUS D'INFOS ***
-
-1/ Tu veux avancer vers une sexualité authentique et sensible ?
-C'est par ici : www.sexualite-sensible.fr
-
-2/ Des conseils ? C'est là : www.conseils-pour-amants-sensibles.fr
-
-3/ D'autres posts ? Abonne-toi à mon profil pro : 
-https://www.facebook.com/inspirateur.des.amants.sensibles
-
-4/ Mon groupe privé des personnes désireuses d'une sexualité authentique et sensible ? Voilà : www.la-tribu-des-amants-sensibles.fr
-
-5/ Si tu veux faire une donation :
-https://lydia-app.com/collect/sexualite-sensible/fr
-
-6/ N'hésite pas à faire une demande en ami Facebook, il y a encore de la place.
+Quand les deux amants arrivent à s’ancrer dans leur extra-alpha, la rencontre sexuelle se déploie dans toutes les dimensions de l’être.

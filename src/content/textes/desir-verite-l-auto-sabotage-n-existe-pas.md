@@ -30,26 +30,4 @@ Si tu réponds “Rien” en moins de 5 secondes, ce n’est pas une réponse pr
  
 Attention, je précise. Je dis qu’il n’y a pas d’auto sabotage. Je ne dis pas que ce n’est pas difficile voire douloureux, grave ou dramatique. 
  
-Après, je peux me tromper, et je veux bien des exemples de vrais auto-sabotages. Mais, je veux recevoir l'exemple de la personne qui la vit. En commentaire ou message personnel. Pas d’une tierce personne qui connaît la situation par ouï dire ou par une observation externe.
- 
-Duy 
-Accompagnateur vers un Amour Authentique & une Sexualité Sensible
-www.sexualite-sensible.fr
-
--------------------------------------------------------------------
-*** PLUS D'INFOS ***
-
-1/ Tu veux avancer vers une sexualité authentique et sensible ?
-C'est par ici : www.sexualite-sensible.fr
-
-2/ Des conseils ? C'est là : www.conseils-pour-amants-sensibles.fr
-
-3/ D'autres posts ? Abonne-toi à mon profil pro : 
-https://www.facebook.com/inspirateur.des.amants.sensibles
-
-4/ Mon groupe privé des personnes désireuses d'une sexualité authentique et sensible ? Voilà : www.la-tribu-des-amants-sensibles.fr
-
-5/ Si tu veux faire une donation :
-https://lydia-app.com/collect/sexualite-sensible/fr
-
-6/ N'hésite pas à faire une demande en ami Facebook, il y a encore de la place.
+Après, je peux me tromper, et je veux bien des exemples de vrais auto-sabotages. Mais je veux l’exemple de la personne qui la vit. Pas d’une tierce personne qui connaît la situation par ouï dire ou par une observation externe.

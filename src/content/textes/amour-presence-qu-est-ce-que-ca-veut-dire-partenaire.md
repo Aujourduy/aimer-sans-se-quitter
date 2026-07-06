@@ -9,7 +9,7 @@ title: "Qu’est-ce que ça veut dire partenaire ?"
 excerpt: "Partenaire signifie allié : non pas face à face, mais côte à côte vers la lumière."
 category: "lien-relation"
 order: 13
-draft: true
+draft: false
 draftReason: "thème sexuel à recadrer vers le relationnel"
 parcours: true
 ---

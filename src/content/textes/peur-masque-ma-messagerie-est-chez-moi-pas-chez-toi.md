@@ -26,6 +26,3 @@ Je bloque le profil
 Mon espace, même numérique, m'appartient. Ma messagerie, mon téléphone, mon mail, ma page etc. C'est chez moi. Les personnes qui y viennent sont des invités pas des locataires. J'accueille qui je veux, quand je veux, comme je veux sans la nécessité de me justifier. Idem pour les refus. 
 
 Je peux tout à fait refuser qu'une personne entre dans ma maison avec respect, bienveillance et de manière confidentielle.
-
-Duy @[100070375365062:2048:Duy Dang]
-Frère Révélateur de sexualité sensible

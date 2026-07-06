@@ -47,6 +47,3 @@ Pour devenir riche, apprends un métier lucratif ou comment investir efficacemen
 
 Pour revenir à la sexualité sensible, je répète mon conseil : “Arrête de chercher un homme bien. Cherche d’abord à être la femme que cet homme cherche.”
 
-Pour devenir Reine ou Roi, contacte-moi.
-
-Peut-être que ce post n’est pas pour toi mais pour une bonne amie ou un bon ami qui en a besoin.

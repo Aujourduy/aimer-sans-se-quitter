@@ -71,8 +71,3 @@ Mais quand je suis prêt à ME donner entièrement alors je donne un espace de l
 C’est ce que je fais depuis 20 ans pour moi.
 
 Et j’accompagne depuis 5 ans des amants et des amantes sensibles à vivre une sexualité authentique.
-
-Si cela t’appelle, je propose d’autres textes sur www.duy-dang.fr
-
-@[100070375365062:2048:Duy Dang]
-Révélateur d'Amants Sensibles

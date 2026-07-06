@@ -27,18 +27,3 @@ Peut-être que notre cœur est comme ce crocodile. Certaines blessures de l'enfa
 Extrait de mon livre "Contes zen de la vie moderne".
 
 Maintenant, c'est le moment de se confronter aux anciennes blessures et les manger. Maintenant, c'est le temps de digérer... tout digérer... pour pouvoir vivre pleinement.
-@[100070375365062:2048:Duy Dang]
-Inspirateur de Sexualité sensible
-www.sexualite-sensible.fr
-
--------------------------------------------------------------------
-
-PS : Tu as depuis longtemps une envie irrésistible et profonde de vivre les instants de grâce d'une sexualité authentique et sensible ? C'est par ici :  www.sexualite-sensible.fr
-
-PPS : Quelques infos complémentaires
-
-1/ Pour recevoir des conseils sur la sexualité sensible, connaître mon actualité,  inscris-toi  😉 sur https://forms.gle/2bDWT7vuJUGqgTvJ6
-
-2/ Pour lire mes autres posts 😘, abonne-toi à sur mon profil pro  https://www.facebook.com/amour.charnel.sensible
-
-3/ Mon groupe privé de partages amicaux, sensuels et charnels entre personnes désireuses d'une sexualité authentique et sensible : https://www.facebook.com/groups/les.amants.sensibles

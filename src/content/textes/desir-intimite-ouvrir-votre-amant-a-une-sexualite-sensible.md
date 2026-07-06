@@ -39,6 +39,3 @@ Ensuite, prendre le temps de trouver les mots qui auront le plus de chance d’�
 Belle et joyeuse journée,
 
 23 Mai 2021
-
-Duy DANG   
-Frère de Sexualité sensible

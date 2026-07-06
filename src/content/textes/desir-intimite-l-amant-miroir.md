@@ -58,20 +58,3 @@ Oui, je suis un amant exceptionnel mais je n’ai rien d’exceptionnel. Je ne s
 Mais j’ai appris à oser ma vérité. J’ai appris à honorer ma liberté. J’ai appris à déployer mon être. Les ayant appris, je peux les partager avec ma partenaire et lui permettre d'en faire autant.
 
 Et tout cela, je peux te le transmettre. A toi aussi. Que tu sois un homme ou une femme. Pour que tu puisses vivre cette sexualité authentique entre amants sensibles.
-
-Pour toi, j’ai rassemblé l’essentiel des principes sur une fiche. Attention, ce ne sont pas du tout des trucs et astuces à utiliser et qui vont te changer instantanément. Ceux sont de nouvelles perspectives, ou d’anciennes reformulées. Ce sont des points de vigilance pour que tu comprennes clairement pourquoi cela a bien fonctionné parfois et au contraire d’autres pas du tout.
-
-C’est les étapes de l’itinéraire afin d’arriver à destination pour les personnes qui aspirent à faire l’amour de tout leur être.
-
-Tu peux obtenir cette fiche gratuitement ici : https://www.duydangdeclics.fr/fiche-memo/accueil
-
-Belle journée,
-
-@[100070375365062:2048:Duy Dang]
-Coach en Sexualité Authentique pour les Amants Sensibles
-
-PS : Tu peux aussi me contacter en privé pour plus d'infos sur mes accompagnements.
-
-PPS : Pour vous les amis 
-@followers
-@[61561809587367:2048:À la une]

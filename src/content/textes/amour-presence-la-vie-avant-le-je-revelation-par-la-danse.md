@@ -65,19 +65,3 @@ A l’échelle de mon corps, je bouge des bras, des jambes, la tête, bref diff�
 A l’échelle de l’Univers, il bouge des Pierre, des Paul, des Sophies, des Caroline, bref différentes parties du corps de la Vie.
 
 Simplicité - Clarté - Émerveillement
- 
-
-Pour cet tout premier atelier, ça sera un petit groupe. Donc si ça t'intéresse, inscris-toi rapidement.
-
-Le Dimanche 17.03.2024
-De 16h00 à 18h00
-Au Studio Bleu, Paris 20e
-Tarif : 20 euros.
-
-https://www.billetweb.fr/la-danse-du-merveilleux
-
-Très belle journée,
-
-Duy Dang
-Révélateur d'amants sensibles - Danseur
-www.duy-dang.fr

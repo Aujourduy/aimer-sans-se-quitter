@@ -86,15 +86,3 @@ Tu mérites du bon et du beau. Mais il faut le dire, l’assumer, le clamer haut
 Un petit complément, deux personnes ont demandé si j'étais en relation avec ces 3 femmes en même. La réponse est non.
 
 Après c'est peut-être intéressant de regarder pourquoi une telle interprétation. 
-
-@[100070375365062:2048:Duy Dang]
-Révélateur d'Amants Sensibles - Danseur
-www.duy-dang.fr 
-
-Séance de coaching-diagnostic gratuit : https://www.sexualite-sensible.fr/
-
-Pour la newsletter, envoie un message en privé avec ton nom, prénom, email et le type d'infos que tu veux recevoir : 
-
-1/ Amants Sensibles & Sexualité authentique : Posts - Partages - Mentorat.
-2/ "La Voie de la Danse" : Atelier / Stage sur Paris 
-3/  "Danseurs Sauvages - Amants Sensibles" : Atelier / Stage dans le Var

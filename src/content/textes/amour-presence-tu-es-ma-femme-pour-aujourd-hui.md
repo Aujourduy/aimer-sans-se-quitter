@@ -31,5 +31,3 @@ T'offrir tout ce que je peux sans pouvoir te combler ni le chercher. Simplement 
 Tu es toutes les femmes.
 
 Tu es ma femme ... pour aujourd'hui.
-
-Duy Dang

@@ -24,4 +24,3 @@ La deuxième façon, moins coûteuse financièrement mais bien plus difficile à
 
 Si vous avez le pressentiment qu’il y a une connexion possible de cœur à cœur qui est plus profonde que l’attirance de corps à corps, demandez-vous ce qu’est un beau cœur. On peut rendre un corps plus beau en y ajoutant de multiples artifices. Mais comment rendre un cœur plus beau ? On ne peut pas embellir un cœur  parce qu’il est déjà magnifique. La seule chose qu’on peut faire c’est enlever les couches de protection qu’on a mises dessus pour que notre partenaire puisse le voir tel qu’il est.
 
-C’est le pilier de l’accompagnement Sexualité sensible que je proposerai sur 12 semaines à la rentrée. Si cela vous intéresse, contactez-moi.

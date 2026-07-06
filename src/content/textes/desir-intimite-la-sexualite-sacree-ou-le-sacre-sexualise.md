@@ -62,6 +62,4 @@ Expression “La meilleure défense c’est l'attaque”
 
 Vient de “La meilleure défense, c’est l’attaque sur l’attaque de l’ennemi” C’est le principe des boucliers anti-missile où on ne construit pas un dôme-bouclier pour protéger le pays des missiles mais on installe une batterie d’anti-missiles pour attaquer les missiles envoyés par l’ennemi.
 
-Pour revenir à au raccourci que j’avais d'utiliser l’expression “sexualité sacrée” alors qu’il s’agissait pour moi de “sacré sexualisé”. 
-
-Dites-moi en commentaire si “le sacré sexualisé” fait sens pour vous. D’ailleurs, ça peut être une autre formulation auquel cas je suis preneur pour l’entendre.
+Pour revenir à au raccourci que j’avais d’utiliser l’expression “sexualité sacrée” alors qu’il s’agissait pour moi de “sacré sexualisé”.

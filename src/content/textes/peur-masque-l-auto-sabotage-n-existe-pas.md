@@ -58,6 +58,6 @@ Il n’y a pas à se battre contre soi-même. Il y a seulement à se donner plus
 
 Quand vous utilisez le concept d’auto-sabotage : vous vous voyez comme l’ennemi de vous-même alors que vous êtes déjà votre meilleur ami et c’est simplement que la situation est le 1/100 des cas où l’expression de cette affection n’est pas adaptée. Un ami qui vous a fait du tort une fois et vous a sauvé 99 fois. Traitez-le avec l’affection, le respect qu’il mérite.
 
-Dans la sexualité, si vous vivez vos blocages comme des ennemis à votre plaisir, à votre légèreté et à votre présence, vous rajoutez du chagrin à la difficulté. Vous surchargez la frustration avec de la colère. Cherchez simplement un moyen plus adapté pour exprimer l’amour et la liberté. Mon séminaire est un moyen parmi d’autres.
+Dans la sexualité, si vous vivez vos blocages comme des ennemis à votre plaisir, à votre légèreté et à votre présence, vous rajoutez du chagrin à la difficulté. Vous surchargez la frustration avec de la colère. Cherchez simplement un moyen plus adapté pour exprimer l’amour et la liberté.
 
 Ce que d’autres appellent auto-sabotage, je les vois comme des occasions précieuses de faire grandir la liberté, la clarté en moi. Je les accueille comme un rappel pour me donner plus d’amour à moi-même. Je n’ai pas toujours la disponibilité et l’énergie pour le faire. Mais quand j’y arrive, je suis rempli de gratitude pour la vie.

@@ -41,7 +41,7 @@ Couple quantique, reconnaît le désagréable comme opportunité de croissance p
 Couple classique, le partenaire est source d’agacements parce qu’il est imparfait
 Couple quantique, le partenaire est source d’agacements parce que la vie offre l’opportunité de grandir
 
-Même si ma pensée est encore à l’état d’ébauche, elle va continuer à s’élaborer, j’ai la certitude que cela résonne à certains d’entre vous. Si c’est ton cas, manifeste-toi s’il te plaît pour que je voie si ça parle réellement aux autres ou si c’est seulement mon chemin personnel. Tu peux liker, commenter et partager pour contribuer à diffuser la vision de ce message.
+Même si ma pensée est encore à l’état d’ébauche, elle va continuer à s’élaborer, j’ai la certitude que cela résonne à certains d’entre vous.
 
 Précisions par rapport au terme « Couple quantique », j’ai choisi le mot quantique pour deux raisons :
 

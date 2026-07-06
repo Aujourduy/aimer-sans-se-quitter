@@ -43,20 +43,3 @@ Comment donner confiance à l’autre ? Aux autres ?
 Quels indices démontrent un intérêt réciproque ? Une envie de se rapprocher ?
 
 Quelles sont les différentes façons de se connecter à l’autre pour qu’il se sente libre et respecté ?
-
-C’est ce que je vais partager avec toi dans notre prochain atelier “La Voie de la Danse” dont le thème est justement “Entrer et sortir du lien” que je vais animer avec @[1048337975:2048:Martine Shakti]. Justement une des femmes avec qui il y a eu plusieurs de ces rencontres magiques dans la danse et qui ont abouti à une belle relation d’amitié entre nous.
-
-Au plaisir de partager avec toi les principes qui nous donnent le plaisir de la rencontre.
-
-Oui, ce n’est pas un atelier de danse mais un atelier pour apprendre à vivre dans et par la danse.
-
-C’est Dimanche 29/10/2023
-de 11h à 13h
-Studio Kim Kan 
-46 rue des Rigolles
-75020 Paris
-
-Tarif 25/15 euros pour l’atelier
-70 euros pour les 3 ateliers
-
-Réservation sur : https://www.billetweb.fr/entrer-et-sortir-du-lien

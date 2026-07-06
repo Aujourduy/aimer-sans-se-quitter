@@ -23,20 +23,3 @@ Quand on joue aux échecs, il faut vouloir gagner à tout prix pour bien jouer. 
 Dans la sexualité, quand je fais l'amour, j'ai un objectif. Ce n’est plus un objectif de performance, de jouissance comme avant mais j’ai un objectif. Celui d’être présent à moi-même, d’être présent à l’autre, d’être présent à l’instant présent. 
 
 Donc, chez moi, la destination de l’acte d’amour ne se mesure pas à la fin du voyage, orgasme ou pas, mais à chaque moment, au chemin parcouru. Parce qu’on ne peut pas Vraiment faire l’Amour sans faire l’Amour dans le Vrai. Et cela demande un investissement total dans l’écoute de soi et d’oser sa vérité.
-
-NB : Je m'adresse tantôt aux femmes, tantôt aux hommes mais biens sûr que cela s'adresse aux deux genres mais je ne dédouble pas les accords de genre pour ne pas alourdir le texte. Il faut lire pour les femmes et les hommes et vice et versa 🙂
-Pour sortir de cette frustration et avancer réellement vers tes aspirations d'une relation authentique et d'une sexualité sensible, je t'invite à mon prochain webinaire. 
-
-Duy,
-Révélateur d’Amants Sensibles
-
-------------------------------------------------------
-*   PROCHAIN WEBINAIRE GRATUIT  *
-------------------------------------------------------
-Pour t'aider à avancer vers une relation authentique et sexualité sensible, viens à mon prochain webinaire gratuit : https://forms.gle/vWYPXPUAPXdf2tXJ9 
-
-------------------------------------------------------
-*   PROCHAIN STAGE PRESENTIEL   *
-------------------------------------------------------
-Mon prochain stage en présentiel : 
-www.aujourduy.com

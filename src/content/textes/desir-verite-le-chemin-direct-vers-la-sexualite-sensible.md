@@ -34,6 +34,4 @@ Si tu veux gagner du temps, t’économiser de nombreux détours et de peines, e
 
 Ça fait depuis 18 ans que j’accompagne les personnes vers leurs objectifs et 7 ans que je me suis spécialisé sur le thème de la sexualité sensible.. 
 
-Ose ta Vérité, Cultive ta Liberté et Déploie ta Sexualité. 
-
-La prochaine session de coaching collectif démarre le 17 Février 2022\. Si cela t’intéresse c’est sur www.sexualite-sensible.fr
+Ose ta Vérité, Cultive ta Liberté et Déploie ta Sexualité.

@@ -107,34 +107,3 @@ Mimi : Je ne sais même pas quoi dire.
 Moi : Prends ton temps. Il n’y a pas forcément de mot pour l’instant.
 
 Voilà le voyage transformationnel que je te propose pour te libérer du passé et te déployer dans ton présent.
-
-Attention, cela ne s’adresse pas à tout le monde. Pour participer à cet atelier il faut 3 conditions impératives.
-
-Les faits reprochés à ton malfaiteur ou malfaitrice se sont déroulés il y a au moins 3 ans. Je ne veux pas que ce soit trop frais et douloureux pour toi d’en parler. Que ce soit douloureux, oui, mais trop douloureux non.
-
-Tu as déjà des stages, thérapies, séminaires ou retraites de développement personnel, spirituel ou autres approches d’évolution personnelle pour une durée de plus de 30 jours. Je veux des personnes assez solides pour supporter une remise en question fondamentale qui va bousculer complètement leur conception du monde.
-
-Tu peux citer au moins 3 choses précieuses dans ta vie actuelle qui te connectent à l’Amour, la Beauté, la Paix, la Vérité ou la Vie. J’ai besoin que tu aies déjà trouvé un minimum d’ancrage dans la vie pour avancer dans le processus.
-
-Voilà, comment cela va s’organiser.
-
-Ce sera le dimanche 23 juin 2024 de 09h00 à 13h00 sur Zoom.
-
-Le prix est 120 euros.
-
-Pour participer, il faut passer par ce formulaire de qualification ensuite, tu seras redirigé sur la billetterie : https://tally.so/r/mOPByR
-
-Ce dont tu vas avoir besoin :
-
-* D’une connexion Zoom de bonne qualité.
-* De l’espace pour pouvoir danser et intégrer dans le corps la nouvelle restructuration de l’esprit.
-* De calme et de la tranquillité pour méditer et parce que c’est un moment de grande vulnérabilité puisque nous allons déconstruire des fondations dépassées pour en reconstruire des fondations d’amour, de vérité et de puissance.
-* Des feuilles.
-* Des stylos.
-* Une bonne paire de ciseaux pour découper les feuilles.
-
-C’est tout 
-
-Pour participer au processus, c’est ici : https://tally.so/r/mOPByR
-A très vite,
-Duy DANG

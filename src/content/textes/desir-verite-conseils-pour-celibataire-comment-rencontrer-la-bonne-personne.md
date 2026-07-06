@@ -53,15 +53,3 @@ Evidemment pour effectuer une telle démarche, il faut un travail au préalable 
 Cherchez et vous trouverez votre cheminement pour une telle démarche. 
 
 A ce qu’on dit, quand le disciple est prêt, le maître apparaît. Je ne suis pas un maître mais je propose un stage. Alors peut être que quand le participant est prêt, le stage apparaît.
-
-En tout cas, c’est cette démarche complète que je vous propose dans le stage “Rencontres d’Aujourduy” le samedi 31 octobre 2020 à Paris.
-
-Pour plus d’information, m’écrire sur Messenger [https://www.facebook.com/messages/t/heureux.de.faire.l.amour](https://www.facebook.com/messages/t/heureux.de.faire.l.amour)
-
-Il y a un autre sens à “Comment rencontrer la bonne personne”. La bonne personne, c’est d’abord vous. Comment vous rencontrez vous-même ? Comment déterminer vos besoins, vos envies et votre fonctionnement. Si vous êtes célibataire, c’est le bon moment pour le faire. Quand vous serez en relation, ça sera plus difficile parce qu’il y aura des enjeux. Là il n’y a pas d’enjeux, pas de relation à préserver, pas de partenaire à ménager. Vous pourrez vraiment vous autoriser à penser librement sur vous même. Si vous voulez, je peux vous y aider. C’est pour cela que j’ai créé le stage.
-
-Je ne suis pas un modèle à suivre mais un exemple qui peut vous aider à trouver votre chemin.
-
-En vous souhaitant une belle journée et une sexualité heureuse,
-
-Duy DANG

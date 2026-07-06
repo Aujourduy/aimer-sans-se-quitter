@@ -43,6 +43,3 @@ La participation esr à prix libre entre Gratuit et Plein tarif (0 à 200 euros)
 Pour postuler, m'envoyer un message pour expliquer la problématique et je regarderai si cela rentre bien dans le cadre du processus.
 
 Très belle journée à toi.
-
-Duy Dang
-Révélateur d'Amants Sensibles & Danseur

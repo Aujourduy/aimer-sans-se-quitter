@@ -29,23 +29,3 @@ L’essentiel c’est notre relation au sol pour le boxeur et à soi pour l’am
 Tout entraînement efficace à la boxe doit faire travailler les jambes, tout accompagnement efficace à l’amant sensible doit faire travailler sur la relation à  soi.    
 
 Le chemin que je propose peut sembler plus ingrat mais il est plus efficace pour devenir réellement un boxeur ou un amant sensible.
-
-NB : Je m'adresse tantôt aux femmes, tantôt aux hommes mais biens sûr que cela s'adresse aux deux genres mais je ne dédouble pas les accords de genre pour ne pas alourdir le texte. Il faut lire pour les femmes et les hommes et vice et versa :-)
-
-Pour sortir de cette frustration et avancer réellement vers tes aspirations d'une relation authentique et d'une sexualité sensible, je t'invite à mon prochain webinaire. 
-
-Duy,
-Révélateur d’Amants Sensibles
-
-------------------------------------------------------
-*   PROCHAIN WEBINAIRE GRATUIT  *
-------------------------------------------------------
-
-Pour t'aider à avancer vers une relation authentique et sexualité sensible, viens à mon prochain webinaire gratuit : https://forms.gle/vWYPXPUAPXdf2tXJ9 
-
-------------------------------------------------------
-*   PROCHAIN STAGE PRESENTIEL   *
-------------------------------------------------------
-
-Mon prochain stage en présentiel : 
-www.aujourduy.com
