@@ -86,12 +86,12 @@ const CATEGORY_ORDER = [
 // Indicateurs de classement par livre / type (booléens, basculés dans l'UI).
 // `key` = nom du champ dans le frontmatter ; `label` = libellé affiché.
 const LIVRE_FLAGS = [
-  { key: 'livreFableDanPhu', label: 'Fable de Dan Phu' },
-  { key: 'livreAnalyseConte', label: 'Analyse de conte' },
+  { key: 'livreFableDanPhu', label: 'Fable' },
+  { key: 'livreAnalyseConte', label: 'Conte' },
   { key: 'livreMetaphore', label: 'Métaphore' },
   { key: 'livreVersus', label: 'Versus' },
-  { key: 'livreAimerSansDisparaitre', label: 'Aimer sans disparaître' },
-  { key: 'parcours', label: 'Le parcours' },
+  { key: 'livreAimerSansDisparaitre', label: 'ASD' },
+  { key: 'parcours', label: 'Parcours' },
 ];
 // Champs booléens autorisés au toggle (relecture + indicateurs de livre).
 const TOGGLEABLE = ['verifieParDuy', 'draft', ...LIVRE_FLAGS.map((f) => f.key)];
