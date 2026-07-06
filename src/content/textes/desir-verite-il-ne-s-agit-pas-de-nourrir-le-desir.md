@@ -12,11 +12,11 @@ order: 27
 draft: false
 parcours: true
 ---
-Lors d’une séance de clarification, une femme disait qu’elle voulait “Nourrir son désir” pour son compagnon. C’est un fonctionnement possible du désir. Il y a aussi un autre aspect essentiel. Le désir est déjà grand en soi et il a surtout besoin qu’on lui enlève les entraves. Quelles entraves ? 
+Lors d’une séance de clarification, une femme disait qu’elle voulait “Nourrir son désir” pour son compagnon. C’est un fonctionnement possible du désir. Il y a aussi un autre aspect essentiel. Le désir est déjà grand en soi et il a surtout besoin qu’on lui enlève les entraves. Quelles entraves ? 
 
 Le manque d’authenticité, le manque de liberté, le manque de respect, le manque de considération …
 
-J’entends certaines personnes me répondre :  
+J’entends certaines personnes me répondre :  
 
 “ Mais j’ai besoin de me sentir aimé pour ressentir du désir pour quelqu’un.
 

@@ -12,7 +12,7 @@ order: 33
 draft: false
 parcours: true
 ---
-(extra : Préfixe, du latin extra, en dehors, exprimant l'extériorité )
+(extra : Préfixe, du latin extra, en dehors, exprimant l'extériorité )
 
 J’ai longtemps cherché à devenir un mâle alpha pour connaître une meilleure sexualité. Au fil des nombreuses formations et stages (constellations familiales, tantra, néo-tantra, zen,développement personnel), et surtout des relations amoureuses, je me suis rendu compte qu’en réalité, ma nature profonde est celui d’un mâle extra-alpha, c’est à dire en dehors du alpha, qui veut rencontrer des femmes aussi extra-alpha.
 
@@ -26,6 +26,6 @@ Elle ne veut pas un homme meilleur que les autres hommes. Elle veut un homme cap
 
 Un homme extra-alpha n’a pas besoin de démontrer sa virilité et sa puissance parce qu’elles sont déjà manifestées. Pas besoin de chercher à être le plus fort, le plus musclé, avoir la plus grosse voiture, être ou avoir le plus de ceci ou de cela. Il peut être doux, tendre, se montrer vulnérable, dévoiler ses émotions sans se plaindre ni fuir parce qu’il est solide. Il peut être ferme, dur tout en restant bienveillant.  
 
-J'arrête de vouloir être mieux, de devenir meilleur. D'ailleurs cela fait parti des 5 points non négociables dans mes relations amoureuses : "Je ne chercherai pas à m'améliorer pour toi. Si ça te gène, je l'entends mais je ne chercherai pas à changer"
+J'arrête de vouloir être mieux, de devenir meilleur. D'ailleurs cela fait parti des 5 points non négociables dans mes relations amoureuses : "Je ne chercherai pas à m'améliorer pour toi. Si ça te gène, je l'entends mais je ne chercherai pas à changer"
 
 Quand les deux amants arrivent à s’ancrer dans leur extra-alpha, la rencontre sexuelle se déploie dans toutes les dimensions de l’être.

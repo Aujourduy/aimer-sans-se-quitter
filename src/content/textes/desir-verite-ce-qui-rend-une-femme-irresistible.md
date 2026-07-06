@@ -16,9 +16,9 @@ parcours: true
 
 A posteriori, elle est exceptionnelle.
 
-Ce qui attire mon regard sur les femmes dans la rue ? Une belle poitrine, un beau corps, une belle tenue et un beau visage. Peut-être comme beaucoup de personnes d’ailleurs. Ce n’est pas la peine de définir ce que je veux dire par “beau” et “belle”. Chacun de nous possède ses propres critères esthétiques. Par conséquent, je comprends que certaines femmes investissent de l’argent en vêtements, en maquillage, en séances de sport et en implants mammaires et autre chirurgie. 
+Ce qui attire mon regard sur les femmes dans la rue ? Une belle poitrine, un beau corps, une belle tenue et un beau visage. Peut-être comme beaucoup de personnes d’ailleurs. Ce n’est pas la peine de définir ce que je veux dire par “beau” et “belle”. Chacun de nous possède ses propres critères esthétiques. Par conséquent, je comprends que certaines femmes investissent de l’argent en vêtements, en maquillage, en séances de sport et en implants mammaires et autre chirurgie. 
 
-Maintenant la question à un million. Est-ce si important, pour une femme, d’attirer les regards des hommes dans la rue ? C’est une vraie question.
+Maintenant la question à un million. Est-ce si important, pour une femme, d’attirer les regards des hommes dans la rue ? C’est une vraie question.
 
 Il y a une femme dans ma famille qui a eu beaucoup de succès avec les hommes. Des hommes qui se retournent sur elle. Des inconnus qui viennent l’aborder. Mais au final, elle n’a pas connu tant d’années de bonheur amoureux que ça. Quand elle raconte sa vie amoureuse, c’est en termes de nombre d’hommes séduits, des hommes avec un statut social, des hommes beaux, des hommes riches mais elle a peu de choses à dire sur la qualité de ces relations.
 
@@ -48,9 +48,9 @@ Son visage rayonne de désir, de plaisir, de contentement … et d’amour.
 
 Pourtant, nous avons déjà fait l’amour plusieurs fois. Nos corps sont repus, relâchés, comblés.
 
-Mais le désir est là dans ses yeux. Le désir de quoi ? Peut-être simplement  le désir de vivre la beauté, vivre la paix, vivre la vérité, vivre l’amour … vivre la vie.
+Mais le désir est là dans ses yeux. Le désir de quoi ? Peut-être simplement  le désir de vivre la beauté, vivre la paix, vivre la vérité, vivre l’amour … vivre la vie.
 
-De tout cela, on en parle peu, très peu. Pourquoi ? 
+De tout cela, on en parle peu, très peu. Pourquoi ? 
 
 Évidemment c’est beaucoup trop difficile de le montrer. C’est bien plus facile de montrer une image d’une femme avec un beau visage, un beau corps, une belle tenue etc. 
 
@@ -62,7 +62,7 @@ La sexualité authentique n’est pas une question de quoi faire ni de comment f
 
 La sexualité classique c’est se donner du plaisir mutuellement. C'est-à-dire je te donne du plaisir. Tu me donnes du plaisir.
 
-La sexualité authentique c’est SE donner mutuellement. Je me donne à toi. Mais pour cela, il faut d’abord que je me saisisse dans ma totalité. J’englobe tous mes contours, tous les contours de mon Être pour te le donner. Est-ce que je suis vraiment prêt à cela ? 
+La sexualité authentique c’est SE donner mutuellement. Je me donne à toi. Mais pour cela, il faut d’abord que je me saisisse dans ma totalité. J’englobe tous mes contours, tous les contours de mon Être pour te le donner. Est-ce que je suis vraiment prêt à cela ? 
 
 Et si je ne suis pas encore prêt, comment pourrais-je demander à ma partenaire de l’être.
 

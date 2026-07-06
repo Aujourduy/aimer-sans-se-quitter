@@ -12,7 +12,7 @@ order: 67
 parcours: true
 ---
 
-Le voisin de Nasreddine le voyait tous les matins jeter des pincées de sel autour de sa maison. Nasreddine avait la réputation d’être souvent farfelu donc cela ne choquait pas le voisin mais quand même très intrigué, il décide un jour de demander la raison à ce rituel étrange. Nasreddine : « C’est une recette très ancienne. Je fais ça pour éloigner les tigres ». Le voisin s’étonne : « Mais Nasreddine, il n’y a pas de tigre dans ce pays ! »
+Le voisin de Nasreddine le voyait tous les matins jeter des pincées de sel autour de sa maison. Nasreddine avait la réputation d’être souvent farfelu donc cela ne choquait pas le voisin mais quand même très intrigué, il décide un jour de demander la raison à ce rituel étrange. Nasreddine : « C’est une recette très ancienne. Je fais ça pour éloigner les tigres ». Le voisin s’étonne : « Mais Nasreddine, il n’y a pas de tigre dans ce pays ! »
 
 Nasreddine d’un ton assuré et fier : « Et voilà, tu vois bien que ça marche ! »
 
@@ -52,6 +52,6 @@ Tout va bien. Garde espoir d’être aimé mais reconnais qu’il faut d’abord
 
 Tu n’as absolument pas besoin du stage que je propose pour y arriver. Ça se fera. Mais j’ai créé le stage pour que chacun puisse visiter l’espace derrière le masque : le silence. Parce que les peurs ne sont que des blablas entendus et entretenus dans notre esprit. Dans le Silence, il n’y a pas de tigres. Il y a la vie, la beauté. Durant cette journée, je te proposerai de rencontrer le Silence par la danse (ta danse intérieure), par le chant (ton chant de tes entrailles), par la musique. Tu pourras aussi entrer en contact avec les autres en étant d’abord ancré dans ton silence et dans ta présence. Là où il n’y a pas de tigre, il n’y a jamais eu de tigre. Il n’y a pas non plus de sel, ni de maison, ni de ville d’ailleurs, ni de voisin non plus. Il n’y a que toi … c’est-à-dire une immense scène où l’univers prend vie.
 
-Il n’y a que toi sous différentes formes. Comme l’eau peut être nuage, thé, océan ou larmes ; tu seras danse, chant, en relation, en solitaire. Il y a de l’espace derrière le masque. Cette journée est pour toi si tu as envie de le visiter.
+Il n’y a que toi sous différentes formes. Comme l’eau peut être nuage, thé, océan ou larmes ; tu seras danse, chant, en relation, en solitaire. Il y a de l’espace derrière le masque. Cette journée est pour toi si tu as envie de le visiter.
 
 Une précision encore. La journée n’est pas faite pour que nous enlevions nos masques donc pas de pression. Tranquille-tranquille. Au plus ça te permettra de prendre moins de temps que moi avant le plongeon. Nous pouvons tout à fait chanter, danser, écouter avec et partager un merveilleux ensemble parce que nous savons que nous avons un masque. Sans nous le cacher. Je porte encore le mien très souvent. Mais l’authenticité c’est de reconnaître que des fois nous l’avons. Et ce qui nous rapproche c’est de savoir qu’il y a une personne derrière le masque. Je danse avec celui qui est derrière le masque. J’entends celle qui chante derrière le masque. Tout va bien ;-) Bon, nous pourrons aussi de temps en temps l’enlever … comme ça … juste pour voir … pour voir s’il n’y a pas de tigre.

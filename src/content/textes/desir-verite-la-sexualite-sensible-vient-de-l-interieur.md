@@ -12,7 +12,7 @@ order: 72
 draft: true
 parcours: false
 ---
-La question qu’une femme m’a posé hier soir qui mérite une réponse détaillée. Est-ce que dans la sexualité sensible les choses viennent de l’extérieur ou de l’intérieur ?  
+La question qu’une femme m’a posé hier soir qui mérite une réponse détaillée. Est-ce que dans la sexualité sensible les choses viennent de l’extérieur ou de l’intérieur ?  
 
 Oui, évidemment les choses viennent de l’intérieur. Les choses essentielles viennent forcément de l’intérieur. 
 

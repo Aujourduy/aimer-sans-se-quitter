@@ -14,7 +14,7 @@ parcours: false
 ---
 Comme beaucoup de concepts traditionnels, la compréhension populaire en occident prend des raccourcis qui dénature complètement ces concepts et leurs richesses. Le Kamasutra est un exemple typique.
 
-Premièrement, le Kamasutra n’est pas un traité sur la sexualité mais un traité sur la vie en général. Dharma : le devoir, ce qui est bon au plan moral ; Artha: les intérêts, ce qui est utile sur le plan social ; Kâma : l'amour, ce qui est agréable sur le plan sensoriel.
+Premièrement, le Kamasutra n’est pas un traité sur la sexualité mais un traité sur la vie en général. Dharma : le devoir, ce qui est bon au plan moral ; Artha: les intérêts, ce qui est utile sur le plan social ; Kâma : l'amour, ce qui est agréable sur le plan sensoriel.
 
 Deuxièmement, dans la partie de ce qui est agréable pour le corps, il y a la sexualité au sens large avec des conseils sur les baisers, les morsures, les griffures et les caresses.
 

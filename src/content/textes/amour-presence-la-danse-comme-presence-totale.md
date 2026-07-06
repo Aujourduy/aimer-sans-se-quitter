@@ -36,10 +36,10 @@ C’est ce cheminement qui m’a permis de développer la légèreté, l’auton
 
 Toute cette expérience m’a enseigné les principes fondamentaux pour entrer en lien avec une femme, pour vivre la sensualité quand elle se présente. La même chose se passe aussi évidemment vis à vis d’un homme.
 
-Comment construire la confiance en soi ?
+Comment construire la confiance en soi ?
 
-Comment donner confiance à l’autre ? Aux autres ?
+Comment donner confiance à l’autre ? Aux autres ?
 
-Quels indices démontrent un intérêt réciproque ? Une envie de se rapprocher ?
+Quels indices démontrent un intérêt réciproque ? Une envie de se rapprocher ?
 
-Quelles sont les différentes façons de se connecter à l’autre pour qu’il se sente libre et respecté ?
+Quelles sont les différentes façons de se connecter à l’autre pour qu’il se sente libre et respecté ?

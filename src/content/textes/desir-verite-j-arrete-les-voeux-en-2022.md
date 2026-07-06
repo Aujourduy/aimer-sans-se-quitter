@@ -32,7 +32,7 @@ Regarder pour reconnaître et accueillir. Parce qu’en fin de compte, chaque fo
 
 La Vérité est la direction pour l’action.
 
-Toute cette violence, cette colère que je ressens autour de moi, je la ressens aussi en moi. Elles ont la même racine : la Peur. Et quand j’arrive à regarder ma peur, à l’accueillir, à la laisser vivre sa vie dans mon cœur et mon corps, elle perd de son intensité. Elle me ramène à ma vulnérabilité. Elle me ramène à l’amour de moi-même et de l’autre. Elle me rappelle que les gens, moi y compris, nous ne faisons que gesticuler dans tous les sens pour refouler cette peur, pour éviter de la rencontrer.
+Toute cette violence, cette colère que je ressens autour de moi, je la ressens aussi en moi. Elles ont la même racine : la Peur. Et quand j’arrive à regarder ma peur, à l’accueillir, à la laisser vivre sa vie dans mon cœur et mon corps, elle perd de son intensité. Elle me ramène à ma vulnérabilité. Elle me ramène à l’amour de moi-même et de l’autre. Elle me rappelle que les gens, moi y compris, nous ne faisons que gesticuler dans tous les sens pour refouler cette peur, pour éviter de la rencontrer.
 
 Alors pour cette année et le reste de ma vie, j’ai envie de mettre mon attention sur la Vérité.
 
@@ -42,7 +42,7 @@ Accepter la peur allège la colère, évite le mépris, nourrit la compassion sa
 
 Depuis plusieurs années, je comprends les mamans moustiques qui cherchent à me piquer pour nourrir leurs œufs. Je les respecte. J’ai de la compassion pour elles. J’admire leur courage de prendre de tels risques. J’en suis arrivé à éprouver pour elles de l’affection. Depuis, je suis plus calme et détendu quand j’en vois … et j’arrive mieux à les écraser.
 
-Alors qu’est-ce que je te souhaite exactement ? Qu’est-ce que je souhaite pour nous ? C’est plus un rappel en fait. C’est de se rappeler que la vérité est importante. Mais pas la vérité du monde extérieur qui est toujours sujette à erreur, biaisée par les opinions des uns et les convictions des autres. Je parle de la vérité intérieure : des ressentis et des émotions. De la Vérité qui est vivante en soi à cet instant.
+Alors qu’est-ce que je te souhaite exactement ? Qu’est-ce que je souhaite pour nous ? C’est plus un rappel en fait. C’est de se rappeler que la vérité est importante. Mais pas la vérité du monde extérieur qui est toujours sujette à erreur, biaisée par les opinions des uns et les convictions des autres. Je parle de la vérité intérieure : des ressentis et des émotions. De la Vérité qui est vivante en soi à cet instant.
 
 Donc voilà mon message pour cette année et aussi toutes les autres.
 

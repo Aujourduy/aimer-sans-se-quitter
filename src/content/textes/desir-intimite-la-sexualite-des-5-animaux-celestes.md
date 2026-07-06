@@ -14,7 +14,7 @@ parcours: false
 ---
 Dans la cosmologie chinoise, les 5 animaux célestes, correspondant aux 5 éléments, représentent les caractéristiques principales de chaque domaine de l’univers. Qu’il s’agisse de sens, doigts, couleurs, sons, directions, saisons, goûts, odeurs, anatomie, etc tout est ramené à ces 5 éléments.
 
-Ces 5 animaux-éléments sont : 
+Ces 5 animaux-éléments sont : 
 
 Le Dragon (mythique chinois qui est filiforme comme un serpent), l’élément Bois, représente la croissance, la floraison, la spontanéité et la curiosité.
 
@@ -26,7 +26,7 @@ Le Tigre, l’élément Métal, évoque la compression, la bravoure et la force.
 
 La Tortue, l’élément Eau, exprime la descente, la sécurité et la douceur.
 
-Ce qui est très intéressant c’est que ces 5 éléments ne sont pas du tout indépendants entre eux. Au contraire, ils forment un ensemble cohérent et équilibré par un cycle de génération (par exemple : le bois engendre le feu, plus il y a de bois et plus il y a de feu) et un cycle de domination (par exemple : l’eau domine le feu, plus il y a d’eau moins il y a de feu). Ces deux cycles structurent les éléments entre eux pour permettre une harmonie global du système. Si un élément est trop fort ou trop faible par rapport aux autres, cela entraîne un déséquilibre ce qui crée désordre, maladie et trouble. Pour rétablir l'équilibre et l’harmonie il faut travailler sur l’élément en question mais aussi sur les autres éléments en relation avec lui.
+Ce qui est très intéressant c’est que ces 5 éléments ne sont pas du tout indépendants entre eux. Au contraire, ils forment un ensemble cohérent et équilibré par un cycle de génération (par exemple : le bois engendre le feu, plus il y a de bois et plus il y a de feu) et un cycle de domination (par exemple : l’eau domine le feu, plus il y a d’eau moins il y a de feu). Ces deux cycles structurent les éléments entre eux pour permettre une harmonie global du système. Si un élément est trop fort ou trop faible par rapport aux autres, cela entraîne un déséquilibre ce qui crée désordre, maladie et trouble. Pour rétablir l'équilibre et l’harmonie il faut travailler sur l’élément en question mais aussi sur les autres éléments en relation avec lui.
 
 Maintenant regardons ce qui se passe si nous invitons ces animaux dans notre qualité d’être pendant la sexualité.
 

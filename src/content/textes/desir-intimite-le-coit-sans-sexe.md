@@ -14,11 +14,11 @@ draftReason: "texte intime explicite, non surfacé pour l’instant"
 parcours: true
 ---
 
-Ce titre est un hommage à “La vision sans tête” de Douglas Harding, une de mes grandes sources d’inspiration. Un tout petit livre qui a été une gifle sur la joue de mes certitudes. Pourquoi une vision sans tête ? Parce que vous n’avez pas de tête.
+Ce titre est un hommage à “La vision sans tête” de Douglas Harding, une de mes grandes sources d’inspiration. Un tout petit livre qui a été une gifle sur la joue de mes certitudes. Pourquoi une vision sans tête ? Parce que vous n’avez pas de tête.
 
 Regardons ce que signifie le mot “tête” pour vous. Comment savez-vous si ce truc est une tête ou non ? Oui, posons-nous la question, comment savoir si un truc est une tête ou non. Si on peut le voir, il doit avoir une forme à peu près ronde. Il y a deux autres ronds à un tiers de la hauteur pour des yeux, une forme qui avance pour le nez. Un truc en bas qui peut se fermer et s’ouvrir qu’on appelle une bouche.
 
-Est-ce que tu as déjà vu la tête de ton partenaire ? Est-ce que tu as déjà vu la tête de ton père ? Est-ce que tu as déjà vu la tête de ta mère ? Est-ce que tu as déjà vu ta tête ?
+Est-ce que tu as déjà vu la tête de ton partenaire ? Est-ce que tu as déjà vu la tête de ton père ? Est-ce que tu as déjà vu la tête de ta mère ? Est-ce que tu as déjà vu ta tête ?
 
 Les bonnes réponses sont : “sûrement oui”, “sûrement oui”, “sûrement oui” et “non, jamais”.
 

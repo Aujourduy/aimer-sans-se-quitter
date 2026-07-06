@@ -24,9 +24,9 @@ En faisant la synthèse des entretiens sur la sexualité sensible que j’ai eu,
 
 Maintenant, voilà le problème de beaucoup de femmes ici. Il y a surtout des hommes lapins et des hommes coqs. Mais vous, ce que vous voulez c’est un homme qui vole comme vous ou mieux encore plus haut. L’idéal c’est de trouver un aigle. Dans la pratique c’est difficile pour ne pas dire très très difficile. Et le pire, c’est pour les femmes qui ont fait des stages sur la sexualité parce que ça les a transformées en aigles et elles ne veulent plus voler qu’avec des aigles. Comme les aigles sont rares, elles sont très déçues et même pour certaines encore plus frustrées qu’avant la formation parce que maintenant qu’elles savent ce que c’est de voler à haute altitude, voler bas devient encore plus fastidieux voire impossible.
 
-Voici un des thèmes abordés dans mon accompagnement : Comment voler avec un aigle. 
+Voici un des thèmes abordés dans mon accompagnement : Comment voler avec un aigle. 
 
-La réponse est simple. Aussi simple que la réponse de Nasreddin à son fils qui lui demandait si c’était vrai qu’Allah était tout puissant et pouvait tout accomplir, même faire passer un chameau dans le trou d’un aiguille. Il répondit : “Oui, mon fils. En effet, Allah est tout puissant. En réalité, ce problème est vraiment simple. Soit il agrandit le trou, soit il rapetisse le chameau.” 
+La réponse est simple. Aussi simple que la réponse de Nasreddin à son fils qui lui demandait si c’était vrai qu’Allah était tout puissant et pouvait tout accomplir, même faire passer un chameau dans le trou d’un aiguille. Il répondit : “Oui, mon fils. En effet, Allah est tout puissant. En réalité, ce problème est vraiment simple. Soit il agrandit le trou, soit il rapetisse le chameau.” 
 
 Donc mesdames, si vous voulez voler avec un aigle, soit vous trouvez un aigle, soit vous trouvez un homme qui deviendra un aigle. Pas d’autre solution.
 

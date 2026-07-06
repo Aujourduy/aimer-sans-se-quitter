@@ -16,9 +16,9 @@ Récemment je discustais avec une femme qui disait que tant qu’elle était dan
 
 Il y a souvent confusion entre l’excitation et l’agitation.
 
-L’excitation est physiologique : un pénis en érection, une vulve mouillée et chaude, des sensations, des modifications corporelles.
+L’excitation est physiologique : un pénis en érection, une vulve mouillée et chaude, des sensations, des modifications corporelles.
 
-L’agitation est psychologique : un comportement compulsif pour éviter de ressentir des sensations ou des émotions. Parfois un homme excité va chercher à tout prix à faire quelque chose. Il a besoin d’être dans l’action. Il n’arrive pas à rester tranquille et détendu. En fait, c’est typiquement un comportement de réponse à la peur. La peur crée l’agitation. Peur de ne pas jouir, peut de ne pas aller au bout, peur de ne pas être à la hauteur, …
+L’agitation est psychologique : un comportement compulsif pour éviter de ressentir des sensations ou des émotions. Parfois un homme excité va chercher à tout prix à faire quelque chose. Il a besoin d’être dans l’action. Il n’arrive pas à rester tranquille et détendu. En fait, c’est typiquement un comportement de réponse à la peur. La peur crée l’agitation. Peur de ne pas jouir, peut de ne pas aller au bout, peur de ne pas être à la hauteur, …
 
 Quand on est bien avec une chose, on en profite, on prend le temps de savourer, on se délecte.
 

@@ -22,7 +22,7 @@ Très troublé par cette annonce, Laïos décida de ne rien dire à sa femme pou
 
 Redoutant la procréation du fils parricide, Laïos évita tout contact intime avec son épouse. Ne supportant plus que son mari l’ignore sexuellement malgré des avances répétées, un soir Jocaste s’est mise à séduire son mari tout en l’enivrant. Oubliant l’oracle de Delphes, Laïos honora son épouse d’une nuit d’amour, elle tomba enceinte.
 
-Laïos raconta à sa femme l’oracle et ils décidèrent de faire tuer leur enfant. Ils ordonnèrent à un garde d’emmener le nourrisson dans la forêt pour l’exécuter. Le garde abandonne l’enfant en l’attachant par le pied à un arbre, d’où le nom Œdipe signifiant « pied enflé ». Un paysan recueille l’enfant et l’emmène à Polybe et Mérope qui l’adoptent.
+Laïos raconta à sa femme l’oracle et ils décidèrent de faire tuer leur enfant. Ils ordonnèrent à un garde d’emmener le nourrisson dans la forêt pour l’exécuter. Le garde abandonne l’enfant en l’attachant par le pied à un arbre, d’où le nom Œdipe signifiant « pied enflé ». Un paysan recueille l’enfant et l’emmène à Polybe et Mérope qui l’adoptent.
 
 Ils ne dirent jamais à Œdipe qu’il a été trouvé et adopté. Encore un mensonge par omission bien intentionné.
 

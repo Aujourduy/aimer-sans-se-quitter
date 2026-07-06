@@ -14,7 +14,7 @@ parcours: false
 ---
 Dans une formation à la sexualité, en général, on accompagne les participants à découvrir leur potentiel et à s’épanouir dans un cadre sécurisant, avec d’autres participants motivés, des expériences de connexions profondes et de grandes intimités.
 
-Que se passe-t-il si après on rencontre un partenaire qui n’a pas fait de stages ? Que se passe-t-il quand on rencontre une personne qui n’a jamais entendu parler d’autre forme de sexualité ? Un débutant ? 
+Que se passe-t-il si après on rencontre un partenaire qui n’a pas fait de stages ? Que se passe-t-il quand on rencontre une personne qui n’a jamais entendu parler d’autre forme de sexualité ? Un débutant ? 
 
 C’est la même chose pour le ski par exemple. J’apprends à skier, je suis capable de descendre des pistes noires, des murs à bosses. Si je rencontre une personne qui a appris aussi, qui est de mon niveau, c’est cool \! Nous pouvons faire plein de descentes ensemble. Mais quand je suis avec un ami débutant, je ne peux faire grande chose parce que je ne suis pas formateur de ski. Je peux simplement lui montrer quelques rudiments.
 

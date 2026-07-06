@@ -14,7 +14,7 @@ parcours: false
 ---
 Des fois, on croit que pour avoir des résultats, il faut faire forcément quelque chose de compliqué. En vrai, il y a beaucoup d'exemples de pratiques extrêmement efficaces, qui donnent d'excellents résultats tout en étant d’une grande simplicité.
 
-Mais alors pourquoi tout le monde ne le fait pas ? Parce que c’est difficile ;-) 
+Mais alors pourquoi tout le monde ne le fait pas ? Parce que c’est difficile ;-) 
 
 Faire un jeûne sec, c’est simple. Il suffit d’arrêter de manger et de boire pendant 3 jours. Pour moi, c’était au premier confinement et ça a guéri mon hernie inguinale \! 
 

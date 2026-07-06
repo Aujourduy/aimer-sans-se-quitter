@@ -12,7 +12,7 @@ order: 1
 draft: false
 parcours: false
 ---
-Une chose importante que j’ai comprise des constellations familiales que j’ai animées, c'est que ces quatre mots : Amour, Conscience, Vérité et Lumière pointent dans la même direction. C’est simplement quatre versants de la même montagne. 
+Une chose importante que j’ai comprise des constellations familiales que j’ai animées, c'est que ces quatre mots : Amour, Conscience, Vérité et Lumière pointent dans la même direction. C’est simplement quatre versants de la même montagne. 
 
 Pour dissoudre un nœud, une problématique avec d’autres personnes, on peut soit développer l’amour envers chaque personne, soit prendre conscience des enjeux de chacun, soit exprimer une vérité profonde que le mental refuse, soit mettre de la lumière sur la situation pour voir ce qui se passe réellement.
 

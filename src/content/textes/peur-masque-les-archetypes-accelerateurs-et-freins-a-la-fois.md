@@ -16,7 +16,7 @@ L’être humain est ainsi fait que nous apprenons par mimétisme et par expéri
 
 Par exemple, les attitudes de l’archétype du guerrier et du mâle dominant étaient des caractères que je détestais. Je trouvais cela irrespectueux et malsain dans une relation sexuelle. Il fallait que la femme soit honorée, mise sur un pied d’estale et l’homme très révérencieux. Après un stage sur le masculin, je reviens rempli d’attitudes justement du guerrier et du mâle dominant. Ma chérie me déclare qu’elle ne m’avait jamais vu comme ça et que lui plaisait énormément. J’étais très surpris parce que ça allait à l’encontre de ce que je croyais sur les femmes et de ma partenaire notamment, mais en même temps je me sentais de plus libre d’exprimer ces parties qui faisaient après tout parti de moi. Qui font d'ailleurs parties de chaque homme … et aussi de chaque femme.
 
-Les archétypes sont vraiment de bons outils pour explorer les côtés de notre humanité car comme le disait Terence « Je suis homme, rien d’humain ne m’est étranger ».
+Les archétypes sont vraiment de bons outils pour explorer les côtés de notre humanité car comme le disait Terence « Je suis homme, rien d’humain ne m’est étranger ».
 
 Comme tout bon outil, il faut savoir le pratiquer, le maîtriser puis le laisser. De la même façon, que des béquilles vont vous aider à vous déplacer quand vous vous êtes blessé au pied, il faut savoir les abandonner quand la blessure va mieux pour marcher normalement. Personne n’aurait l’idée de garder des béquilles le reste de sa vie pour marcher parce qu’elles l’ont aidé durant la période de rétablissement. 
 

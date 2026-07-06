@@ -16,9 +16,9 @@ Un œuf de crocodile se fend. Lentement, un gentil petit crocodile sort de sa co
 
 Le petit crocodile quitte sa prairie. Bien heureux de ne plus voir l'antilope... ni aucune autre antilope d'ailleurs. Il arrive au pays des poissons. Un groupe de crocodiles s'est installé là depuis longtemps. Il les rejoint et grandit parmi eux. Il apprend à chasser les poissons. Plus aucun contact avec les antilopes durant des années. Cependant, une sécheresse arrive et les crocodiles doivent migrer vers sa prairie natale.
 
-En arrivant dans son pays d'origine, le crocodile se met à trembler. Il se rappelle qu'ici il y avait des antilopes. Des animaux trois fois plus grands que lui. Avec une force immense. Le malmenant et le traumatisant. Il a encore les cicatrices de ces blessures. Il cherche à tout prix à éviter les antilopes. Sur toute la longueur de sa queue, il y a la cicatrice en forme de sabot. Une trace de sabot de 3 m de large ! Imaginez un peu la bête qui a fait ça !!!
+En arrivant dans son pays d'origine, le crocodile se met à trembler. Il se rappelle qu'ici il y avait des antilopes. Des animaux trois fois plus grands que lui. Avec une force immense. Le malmenant et le traumatisant. Il a encore les cicatrices de ces blessures. Il cherche à tout prix à éviter les antilopes. Sur toute la longueur de sa queue, il y a la cicatrice en forme de sabot. Une trace de sabot de 3 m de large ! Imaginez un peu la bête qui a fait ça !!!
 
-Malgré tout, il rencontre une antilope. Il s'aperçoit que c'est une petite bestiole frêle et faisant un dixième de son poids !
+Malgré tout, il rencontre une antilope. Il s'aperçoit que c'est une petite bestiole frêle et faisant un dixième de son poids !
 
 Le crocodile a grandi, beaucoup grandi. Mais il ne s'était pas rendu compte que le temps l'avait renforcé. Il ne ferait qu'une seule bouchée d'une antilope. Il n'a plus à avoir peur des antilopes. Il peut les affronter. Il peut les manger... et les digérer facilement.
 

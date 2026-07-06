@@ -12,7 +12,7 @@ order: 38
 draft: false
 parcours: true
 ---
-Dans mes entretiens, je rencontre beaucoup de femmes qui n’arrivent pas à se faire comprendre de leur amant quand elles parlent de sexualité sensible, de connexion émotionnelle ou de présence. Et c’est complètement normal de ne pas y arriver parce que cela traite de deux disciplines qu’on ne nous enseigne pas du tout à l’école : la communication et la pédagogie.
+Dans mes entretiens, je rencontre beaucoup de femmes qui n’arrivent pas à se faire comprendre de leur amant quand elles parlent de sexualité sensible, de connexion émotionnelle ou de présence. Et c’est complètement normal de ne pas y arriver parce que cela traite de deux disciplines qu’on ne nous enseigne pas du tout à l’école : la communication et la pédagogie.
 
 Quand je mange de la soupe, j’utilise toujours une cuillère à soupe mais quand je donne à manger à un bébé, j’utilise une cuillère pour bébé. C’est important que je me rende compte que la bouche du bébé n’est pas aussi grande que la mienne. Si je donne la soupe au bébé avec ma cuillère à soupe cela peut lui faire mal et surtout il en perdra la moitié en route. Je ferai aussi attention de ne pas donner trop vite. J’attendrai bien qu’il ait fini ce qu’il a dans la bouche avant de lui proposer la cuillère. En plus, son estomac ne lui permet pas de manger la même quantité de soupe que moi. 
 
@@ -26,4 +26,4 @@ Bien évidemment, quand ma partenaire parle de sujet qui compte pour elle, c’e
 
 Longtemps, je vivais dans le mythe que ma partenaire devait me comprendre, complètement et totalement. Et aussi instantanément. Maintenant, je me rends compte que c’était illusoire.  
 
-M’adapter à l’autre, à ses capacités, à son rythme, à son fonctionnement. C’est une forme de respect. Si ma partenaire ne me comprend pas, peut-être que je peux voir si je fais réellement attention à la cuillère que j’ai utilisée : Quelle dose ? Quel rythme ? Quelle quantité au final ?
+M’adapter à l’autre, à ses capacités, à son rythme, à son fonctionnement. C’est une forme de respect. Si ma partenaire ne me comprend pas, peut-être que je peux voir si je fais réellement attention à la cuillère que j’ai utilisée : Quelle dose ? Quel rythme ? Quelle quantité au final ?

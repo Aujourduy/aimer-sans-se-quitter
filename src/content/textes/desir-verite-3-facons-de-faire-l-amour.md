@@ -12,7 +12,7 @@ order: 66
 draft: false
 parcours: false
 ---
-Il y a trois grandes façons de faire l'amour :
+Il y a trois grandes façons de faire l'amour :
 
 1/ "Je cherche la Perfection"
 

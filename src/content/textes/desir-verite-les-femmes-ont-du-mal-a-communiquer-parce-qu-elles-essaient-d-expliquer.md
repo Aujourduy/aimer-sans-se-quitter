@@ -18,17 +18,17 @@ Le point le plus important que j’enseignais aux participants, c'était de port
 
 Quand une femme parle de sexualité avec un homme, elle met beaucoup d’attention sur ce qu’elle ressent, ses besoins, ses souffrances mais elle en porte moins ou pas d’attention sur ce qui se passe chez son partenaire.
 
-Quand un homme répond à sa partenaire qu’elle est exigeante, qu’elle cherche la petite bête : 
+Quand un homme répond à sa partenaire qu’elle est exigeante, qu’elle cherche la petite bête : 
 
 C’est une Accusation \=\> Attaque \=\> Peur
 
-Quand un homme dit que c’est bien comme ça, c’est largement suffisant : 
+Quand un homme dit que c’est bien comme ça, c’est largement suffisant : 
 
 c’est un Déni \=\> Fuite \=\> Peur
 
 Donc si tu es une femme, que ton partenaire ne t’écoute pas, ne comprends pas, peut-être que tu n’avais pas vu sa peur ou du moins pas pris suffisamment en considération cette peur. 
 
-Plusieurs éléments permettent de gérer, contenir cette peur pour une discussion plus constructive :
+Plusieurs éléments permettent de gérer, contenir cette peur pour une discussion plus constructive :
 
 La posture avec laquelle on s’exprime
 

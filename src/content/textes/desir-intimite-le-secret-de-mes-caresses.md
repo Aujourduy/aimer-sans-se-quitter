@@ -22,4 +22,4 @@ Il ne s’agit plus de donner des caresses avec ma main sur la peau de ma parten
 
 C’est un changement de posture, de positionnement vraiment très riche à découvrir. 
 
-D’ailleurs, pour celles et ceux qui veulent explorer cette pratique et d’autres aussi riche en présentiel avec moi sur Paris, c’est là :
+D’ailleurs, pour celles et ceux qui veulent explorer cette pratique et d’autres aussi riche en présentiel avec moi sur Paris, c’est là :

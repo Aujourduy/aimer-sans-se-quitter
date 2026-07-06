@@ -14,7 +14,7 @@ parcours: false
 ---
 Il y a plusieurs mois, une femme qui suivaint mes posts depuis longtemps, m’a suggéré de mettre un lien pour recevoir des donations. Elle me disait que mes posts lui apportaient énormément mais qu’elle pensait aussi qu’elle ne participerait pas mes offrantes payantes parce qu’elle n’en avait pas besoin. Donc, me faire un don était un moyen d’exprimer une gratitude matériellement pour les bienfaits de mes partages. 
 
-J’ai été très touché par ses paroles et j’ai trouvé l’idée très intéressante. J’ai dit oui tout de suite. Seulement, je ne l’ai pas fait. Pourquoi ? L’idée était simple, juste un lien à rajouter dans le PS avec les autres infos.
+J’ai été très touché par ses paroles et j’ai trouvé l’idée très intéressante. J’ai dit oui tout de suite. Seulement, je ne l’ai pas fait. Pourquoi ? L’idée était simple, juste un lien à rajouter dans le PS avec les autres infos.
 
  Honnêtement, je trouve effectivement que mes posts peuvent beaucoup apporter et c’est dans ce but que je les écris. Ce sont des enseignements que je trouve précieux qui peuvent créer un déclic, une bascule. Mais en vérité, je n’étais pas encore prêt à cette idée. 
 

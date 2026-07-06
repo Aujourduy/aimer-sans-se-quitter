@@ -12,7 +12,7 @@ order: 54
 draft: false
 parcours: true
 ---
-Marre des relations bancales ?
+Marre des relations bancales ?
 
 Si tu désespères de trouver un homme qui entend tes craintes, accueille tes envies, respecte et honore ton corps et ton intimité, voici la situation d'Aurélie avant l’accompagnement.
 
@@ -26,7 +26,7 @@ Elle était perdue. Elle ne savait plus quoi faire, où aller ni par quel bout p
 
 Elle avait peur de ne pas être entendue dans ses besoins, dans ses paroles. Elle craignait de rester toujours malheureuse par rapport à ça.
 
-Elle ne savait pas si c'était elle qui avait un problème ou si cela venait de son partenaire. Était-ce normal ? Était-ce légitime de vouloir de l'attention, de la tendresse, de prendre le temps pour laisser le désir fleurir ? Était-ce possible de ne pas vouloir faire la course au plaisir à tout prix ?
+Elle ne savait pas si c'était elle qui avait un problème ou si cela venait de son partenaire. Était-ce normal ? Était-ce légitime de vouloir de l'attention, de la tendresse, de prendre le temps pour laisser le désir fleurir ? Était-ce possible de ne pas vouloir faire la course au plaisir à tout prix ?
 
 Elle se sentait dévalorisée, rejetée voire parfois jetée. Elle n'avait plus d'estime pour sa féminité. Elle en devenait souvent agressive. 
 

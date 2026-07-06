@@ -22,7 +22,7 @@ C’est le dernier jour du concours, l’empereur mongol entre d’abord dans la
 
 L’empereur se promène dans ce jardin en étant vraiment très impressionné par toute cette beauté, par tous ces chefs d’œuvres d'artisanat agencés dans ce magnifique tableau. 
 
-Il va ensuite dans la salle chinoise. Grande surprise, grande déception : la salle est  complètement vide à l'exception d’un grand rideau sombre sur le mur du fond. Il avance vers le rideau. Chaque pas augmente sa colère. Il se prépare à couper les têtes de ceux qui ont osé se moquer de lui. Une fois arrivé devant le mur, on retire le rideau.
+Il va ensuite dans la salle chinoise. Grande surprise, grande déception : la salle est  complètement vide à l'exception d’un grand rideau sombre sur le mur du fond. Il avance vers le rideau. Chaque pas augmente sa colère. Il se prépare à couper les têtes de ceux qui ont osé se moquer de lui. Une fois arrivé devant le mur, on retire le rideau.
 
 L’empereur vit juste devant lui un homme fier, puissant, imposant et charismatique. Il est vêtu d’une splendide robe méticuleusement et magnifiquement cousue d’or et de pierres précieuses aux motifs traditionnels mongoles. Derrière lui se trouve toute une cour majestueuse de nobles. Tous ont fière allure. Tous magnifiquement bien habillés. Ce tableau est sublime et bouleverse l'empereur. Il est subjugué.
 
@@ -48,9 +48,9 @@ Mais je ne suis pas un amant exceptionnel parce que j’arrive à donner du plai
 
 Je suis un amant exceptionnel parce que je donne à ma partenaire la liberté d’être. Ce n’est pas seulement la liberté dans les pratiques sexuelles de faire ce qu’elle veut. C’est surtout la liberté d’être ce qu’elle est au moment où elle est. C’est la liberté d’être sauvage, violente, gourmande, douce, vulnérable, lente, immobile, expectative, méditative, bruyante, silencieuse, subtile, légère ou bestiale.  
 
-Et nous revenons toujours aux fondamentaux de la sexualité authentique : la vérité, la liberté, l’être.
+Et nous revenons toujours aux fondamentaux de la sexualité authentique : la vérité, la liberté, l’être.
 
-Une amante m’a un jour écrit à propos de notre sexualité : 
+Une amante m’a un jour écrit à propos de notre sexualité : 
  "Ce qu’il te rend un amant exceptionnel, pour moi, est le fait que je me sens vue et aimée en étant pleinement moi"
 
 Oui, je suis un amant exceptionnel mais je n’ai rien d’exceptionnel. Je ne suis pas grand. Je ne suis pas musclé. Je ne suis pas jeune. Je n’ai pas un grand pénis. Je n’ai pas une voix de crooner. Je n’ai pas de beaux yeux ou un regard ténébreux. Je n’ai pas une longue chevelure.

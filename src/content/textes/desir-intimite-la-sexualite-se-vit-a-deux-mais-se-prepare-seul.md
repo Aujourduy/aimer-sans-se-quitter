@@ -16,7 +16,7 @@ Certaines personnes s’étonnent que mon accompagnement à la sexualité sensib
 
 Dans la sexualité, c’est la même chose.Vous avez besoin d'avoir un esprit clair et fonctionnel, pour cela il vous faut le développer seul, sans votre partenaire. Vous êtes le Roi, vous êtes la Reine de votre royaume, de votre espace intérieur. 
 
-Dans la sexualité, il y a deux étapes : soi et l’autre. Il y a donc deux possibilités. 
+Dans la sexualité, il y a deux étapes : soi et l’autre. Il y a donc deux possibilités. 
 
 La première, la plus répandue, on va vers l’autre d’abord pour être comblé, avoir du plaisir, un orgasme. Après la relation sexuelle, chacun (se) retourne de son côté. 
 

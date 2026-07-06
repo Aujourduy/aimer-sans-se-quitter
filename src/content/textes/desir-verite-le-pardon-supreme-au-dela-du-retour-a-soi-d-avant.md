@@ -14,9 +14,9 @@ parcours: true
 ---
 Bonjour amis chercheurs.ses de Vérité, d’Amour et de Liberté.
 
-Est-ce que tu te sens bloqué.e dans ta vie amoureuse, professionnelle ou ta santé ?
+Est-ce que tu te sens bloqué.e dans ta vie amoureuse, professionnelle ou ta santé ?
 
-Tu as l’impression que le sort s’acharne sur toi alors que tu as fait tout ce qui te semblait nécessaire ?
+Tu as l’impression que le sort s’acharne sur toi alors que tu as fait tout ce qui te semblait nécessaire ?
 
 Ce que je te propose c’est une hypothèse.
 
@@ -37,20 +37,20 @@ Alors j’ai une bonne et une mauvaise nouvelle pour toi avec Le Pardon Suprême
 
 Commençons par la mauvaise. De ce que j’ai expérimenté et compris du processus, tu ne retrouveras pas ta joie, ta légèreté et ta sécurité d’avant. Le toi d’avant est perdu et cette quête pour le retrouver est illusoire.
 
-Maintenant la bonne nouvelle. La super bonne nouvelle. La SUPER BONNE NOUVELLE : il y a une Joie, une Légèreté et une Sécurité encore plus grandes qui t’attendent.
+Maintenant la bonne nouvelle. La super bonne nouvelle. La SUPER BONNE NOUVELLE : il y a une Joie, une Légèreté et une Sécurité encore plus grandes qui t’attendent.
 
 Et c’est précisément pour cette raison que tu ne pouvais pas retourner vers l’ancien toi. Tu es appelé à aller vers le Toi. Comme disait Maître Eckhart “Moins il y a de soi, plus il y a de Soi”
 
 C’est pour cela que j’ai appelé ce processus Le Pardon Suprême parce qu’il ne s’agit pas de mon moi qui pardonne mais de mon Moi Suprême qui transcende la souffrance. Mon moi peut lui en vouloir mais si j’arrive à me connecter à mon Moi Suprême, je pourrais ne plus rien lui reprocher et sortir de la position de victime et briser le cercle infernal de la perte identitaire.
 
 Voici le schéma de ce mécanisme (dessin dans la rubrique
-commentaires/Discussion) :
+commentaires/Discussion) :
 
 (1) Douleur initiale. C’est ce qui s’est passé factuellement qui m’a blessé il y a des années. Cela a causé le problème (2).
 
 (2) Blessure identitaire. C’est ce que j’ai perdu de mon être au sens large. Je me vois diminué en tant qu’homme, femme, artiste, sportif, personne valide, personne compétente, personne désirable, personne méritante, etc.
 
-(3) Manque de ressources. Par ces blessures, je vais avoir moins de ressources : confiance, énergie, argent, capacité physique, capacité psychologique, attractivité.
+(3) Manque de ressources. Par ces blessures, je vais avoir moins de ressources : confiance, énergie, argent, capacité physique, capacité psychologique, attractivité.
 
 (4) Difficultés de la vie. Évidemment, comme j’ai moins de moyen, je réussis forcément moins bien. Je vais échouer plus. Que ce soit au niveau amoureux, professionnel, physique ou financier.
 
@@ -66,9 +66,9 @@ Le travail de coaching répond au niveau du point (3) en donnant de nouvelles re
 
 Le processus Le Pardon Suprême ® vise à dissoudre le point (6) Reproches. Comment, en se connectant à son Soi Suprême justement.
 
-Voici la retranscription de l’échange avec la dernière personne que j’ai coachée que j’appelle Mimi, quand elle réalise que … :
+Voici la retranscription de l’échange avec la dernière personne que j’ai coachée que j’appelle Mimi, quand elle réalise que … :
 
-Mimi : (large sourire) Attends, je prends 2 secondes pour accueillir.
+Mimi : (large sourire) Attends, je prends 2 secondes pour accueillir.
 
 A partir de là et pendant exactement 3 minutes et 53 secondes
 
@@ -94,16 +94,16 @@ A partir de là et pendant exactement 3 minutes et 53 secondes
 
 Au bout de 3 minutes et 53 secondes
 
-Mimi : (grand sourire) Bonjour
+Mimi : (grand sourire) Bonjour
 
-Moi : Bonjour. Bienvenue dans ce nouveau monde.
+Moi : Bonjour. Bienvenue dans ce nouveau monde.
 
-Mimi : Oh mon Dieu !!!
+Mimi : Oh mon Dieu !!!
 
 (elle secoue la tête plusieurs fois)
 
-Mimi : Je ne sais même pas quoi dire.
+Mimi : Je ne sais même pas quoi dire.
 
-Moi : Prends ton temps. Il n’y a pas forcément de mot pour l’instant.
+Moi : Prends ton temps. Il n’y a pas forcément de mot pour l’instant.
 
 Voilà le voyage transformationnel que je te propose pour te libérer du passé et te déployer dans ton présent.

@@ -18,11 +18,11 @@ Au début d’une relation, il y a la joie de la rencontre, on fait connaissance
 
 Je connais un certain nombre de femmes qui ne voulaient pas parler de leur désir d’enfant au début de la relation pour ne pas faire peur. Elles attendaient de voir si la relation évolue bien ou non. Le problème c’est plus que la relation s’approfondit plus il est difficile de parler de ça avec un homme qui hésite. Le problème c’est que plus la relation se renforce plus il est difficile pour un homme qui hésite de l’affirmer pleinement. Il proposera d’attendre pour voir, pour réfléchir. Lui non plus veut préserver cette relation. En définitive, ce n’est jamais le bon moment de parler des sujets qui fâchent. Ou plutôt, si. Le meilleur moment, c’est “demain”. Demain, nous parlerons sérieusement. Demain devient aujourd’hui, et on reporte encore à “demain” cette conversation.
 
-Il n’y a pas de moment facile pour ces sujets alors voici mon secret : parler des sujets qui pourraient être sensibles avant de commencer une relation.
+Il n’y a pas de moment facile pour ces sujets alors voici mon secret : parler des sujets qui pourraient être sensibles avant de commencer une relation.
 
 Avant toute approche physique, je partage toujours avec la femme qui me plaît mes 5 fondamentaux dans une relation. Je les cite pour exemple, ils n’ont pas vocation d’être universel. Bien au contraire, chacun doit réfléchir et trouver ses fondamentaux.
 
-Pour moi c’est :
+Pour moi c’est :
 
 1. Je ne veux pas d’enfants  
 2. Je ne veux pas me marier  
@@ -32,7 +32,7 @@ Pour moi c’est :
 
 Une autre fois, je pourrais expliquer en détails pourquoi ces principes mais le plus importants n’est pas de savoir pourquoi mais de voir ce que permet cette discussion.
 
-Dans le titre, il y a “Comment rencontrer la bonne personne”. Nous voulons savoir si c’est la bonne personne, nous pensons à nous, à nos envie, à nos besoins. En fait, je vous ai fait un piège. “Comment rencontrer la bonne personne” n’est pas pour vous mais pour l’autre. Il faut aider l’autre à trouver “Comment rencontrer la bonne personne” pour lui. Alors voilà, comment je l’aide à rencontrer la bonne personne : Je me dévoile. Je soulève d'emblée les questions difficiles. Je me positionne. 
+Dans le titre, il y a “Comment rencontrer la bonne personne”. Nous voulons savoir si c’est la bonne personne, nous pensons à nous, à nos envie, à nos besoins. En fait, je vous ai fait un piège. “Comment rencontrer la bonne personne” n’est pas pour vous mais pour l’autre. Il faut aider l’autre à trouver “Comment rencontrer la bonne personne” pour lui. Alors voilà, comment je l’aide à rencontrer la bonne personne : Je me dévoile. Je soulève d'emblée les questions difficiles. Je me positionne. 
 
 Curieusement, je n’ai jamais rencontré d’attitude négative face à ce partage. Au contraire, je n’ai reçu que des compliments. 
 
@@ -46,7 +46,7 @@ Pour les femmes qui s’intéressent à moi et qui ne sont pas gênées par mon 
 
 Aider l’autre à se positionner en vous positionnant. Aider l’autre à dire si vous lui convenez ou pas immédiatement. Parce que si c’est non, vous n’aurez pas à faire des efforts pour le/la séduire. Et si c’est oui, vous n’aurez pas non plus à la/le séduire. Vous pouvez être vous-même, vous montrez, vous dévoilez. 
 
-D’accord, c’est plus facile à dire qu’à faire. Je le sais, parce que les premières fois que j’ai fait ça, j’avais la respiration coupée, le coeur qui battait fort, et j’avais l’impression qu’une météorite allait tomber sur la terre si je disais tout ça. Mais vous savez quoi ?  Aucune météorite. Au contraire, que des compliments pour mon courage, ma sincérité, mon authenticité. On croit qu’il faut que la relation devienne sérieuse pour commencer à s’ouvrir. Au contraire, c’est parce qu’on s’ouvre qu’on donne l’importance à l’autre et à la relation.
+D’accord, c’est plus facile à dire qu’à faire. Je le sais, parce que les premières fois que j’ai fait ça, j’avais la respiration coupée, le coeur qui battait fort, et j’avais l’impression qu’une météorite allait tomber sur la terre si je disais tout ça. Mais vous savez quoi ?  Aucune météorite. Au contraire, que des compliments pour mon courage, ma sincérité, mon authenticité. On croit qu’il faut que la relation devienne sérieuse pour commencer à s’ouvrir. Au contraire, c’est parce qu’on s’ouvre qu’on donne l’importance à l’autre et à la relation.
 
 Evidemment pour effectuer une telle démarche, il faut un travail au préalable sur mes peurs de rejet, peur d’abandon, mes besoins affectifs. La bonne nouvelle c’est que c’est tout à fait possible.
 

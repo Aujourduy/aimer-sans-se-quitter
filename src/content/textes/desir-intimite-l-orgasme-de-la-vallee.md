@@ -20,9 +20,9 @@ Depuis que j’ai vu Cocoon il y a 30 ans, j’ai eu ce pressentiment que la sex
 
 La petite voix avait raison …
 
-Sur mon chemin d’évolution personnelle, j’ai découvert ce qu’on appelle dans certains tantras « L’orgasme de la vallée ».
+Sur mon chemin d’évolution personnelle, j’ai découvert ce qu’on appelle dans certains tantras « L’orgasme de la vallée ».
 
-L’orgasme sexuel classique est appelé « L’orgasme de la montagne » parce que l’excitation et le plaisir montent. Puis ils atteignent un sommet où il y a une explosion d’énergie et de plaisir. Ensuite, tout redescend. Vite pour les hommes. Plus lentement pour les femmes. Mais ça descend d’où l’image de la montagne avec une première phase où on monte, et une deuxième où on descend.
+L’orgasme sexuel classique est appelé « L’orgasme de la montagne » parce que l’excitation et le plaisir montent. Puis ils atteignent un sommet où il y a une explosion d’énergie et de plaisir. Ensuite, tout redescend. Vite pour les hommes. Plus lentement pour les femmes. Mais ça descend d’où l’image de la montagne avec une première phase où on monte, et une deuxième où on descend.
 
 L’orgasme de vallée arrive au contraire après un maintien du désir et de l’excitation à un niveau assez bas mais un niveau de conscience et d’attention élevés. Rien à voir avec les scènes érotiques d’amants passionnés au cinéma. Ici, il n’y a pas de passion d’ailleurs … mais de l’amour. La pratique est très simple. C’est une vraie méditation. Très intime.
 
@@ -42,10 +42,10 @@ Donc des larmes qui coulaient à flot. J’étais subjugué, empli de reconnaiss
 
 La sensation qu’une douce chaleur/lumière/énergie partait du sexe, du désir et se propageait à tout le corps entier. Alors ‘orgasme sexuel’ oui, ça a un sens de l’appeler comme ça. Mais c’était tellement plus doux, plus léger, plus grand, plus profond. En fait, pour moi, tout ce que j’aurais pu imaginer comme plaisir, extase a été dépassé. C’était lit-té-ra-le-ment un bain d’amour.
 
-Nous nous sommes dit « Je t’aime » comme jamais avant. C’était un « Je t’aime » éphémère mais d’une signification sans précédent. C’était un « Je t’aime » à l’autre mais aussi à soi, à la vie, à la lumière, à la conscience, à l’existence, aux émotions … en fait c’était pour dire « Je suis profondément heureux de vivre cet instant ».
+Nous nous sommes dit « Je t’aime » comme jamais avant. C’était un « Je t’aime » éphémère mais d’une signification sans précédent. C’était un « Je t’aime » à l’autre mais aussi à soi, à la vie, à la lumière, à la conscience, à l’existence, aux émotions … en fait c’était pour dire « Je suis profondément heureux de vivre cet instant ».
 
 La vibration a duré plusieurs heures après. C’était tout bonnement extraordinaire.
 
-Depuis ce jour, « faire l’amour » avait pris un autre sens. Le vrai sens avec le mot ‘amour’.
+Depuis ce jour, « faire l’amour » avait pris un autre sens. Le vrai sens avec le mot ‘amour’.
 
 Depuis, faire l’amour est une forme de méditation, une expérience de conscience et d’attention, à soi et à l’autre, d’expression des ressentis.

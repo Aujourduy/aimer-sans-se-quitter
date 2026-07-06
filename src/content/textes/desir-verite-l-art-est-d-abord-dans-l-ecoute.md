@@ -16,7 +16,7 @@ parcours: false
 
 Il y a quelque temps, j’ai retrouvé dans mes cartons des livres sur la sexualité avec un titre commençant par “L’art de …”. On nous “apprend” comment faire l’amour, comment caresser, comment embrasser, comment, comment et encore comment. Avec du recul, et un peu de maturité, je crois que la plupart de ces livres, comme des formations, qui ont pour titre “L’art de …” sont de mauvais enseignements. L’art ne s’apprend pas dans le faire mais dans l’écoute.
 
-Un musicien joue d’abord parce qu’il sait entendre la musique avant d’avoir une grande dextérité. J’avais un professeur de musique au conservatoire qui disait régulièrement : “Un mauvais musicien entend la musique qu’il vient de jouer. Un musicien moyen entend la musique qu’il est en train de jouer. Un bon musicien entend la musique qu’il va jouer”
+Un musicien joue d’abord parce qu’il sait entendre la musique avant d’avoir une grande dextérité. J’avais un professeur de musique au conservatoire qui disait régulièrement : “Un mauvais musicien entend la musique qu’il vient de jouer. Un musicien moyen entend la musique qu’il est en train de jouer. Un bon musicien entend la musique qu’il va jouer”
 
 Un peintre dessine d’abord parce qu’il voit mieux les lignes et les couleurs que les autres avant d’entraîner son geste. Le faire est important mais on doit d’abord développer le ressentir.
 
