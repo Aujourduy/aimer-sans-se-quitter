@@ -561,7 +561,8 @@ function pageHtml() {
 <script>
 const LIVRE_FLAGS=${JSON.stringify(LIVRE_FLAGS)};
 const OUTILS=${JSON.stringify(listeOutils())};
-let TEXTES=[], filter='all', q='', sel=null;
+// filtre statut (exclusif : all|todo|ok|draft|pub) + marqueurs cumulés (ET).
+let TEXTES=[], statut='all', flags=new Set(), q='', sel=null;
 let SUJETS=[], masquerFaits=false;
 const $=s=>document.querySelector(s);
 
@@ -610,11 +611,13 @@ async function load(){
 }
 
 function visible(t){
-  if(filter==='todo'&&t.verifieParDuy)return false;
-  if(filter==='ok'&&!t.verifieParDuy)return false;
-  if(filter==='draft'&&!t.draft)return false;
-  if(filter==='pub'&&t.draft)return false;
-  if(filter.startsWith('flag:')&&!t[filter.slice(5)])return false;
+  // Statut (exclusif)
+  if(statut==='todo'&&t.verifieParDuy)return false;
+  if(statut==='ok'&&!t.verifieParDuy)return false;
+  if(statut==='draft'&&!t.draft)return false;
+  if(statut==='pub'&&t.draft)return false;
+  // Marqueurs (cumulés en ET : le texte doit porter TOUS les marqueurs actifs)
+  for(const key of flags) if(!t[key]) return false;
   if(q&&!matcheRecherche(t.title))return false;
   return true;
 }
@@ -756,7 +759,26 @@ async function toggle(slug,field){
   const t=TEXTES.find(x=>x.slug===slug); t[field]=r.value;
   render(); open_(slug);
 }
-$('#filters').addEventListener('click',e=>{if(e.target.dataset.f){filter=e.target.dataset.f;[...$('#filters').children].forEach(b=>b.classList.toggle('active',b===e.target));render();}});
+// Filtres : statut exclusif (all|todo|ok|draft|pub) + marqueurs cumulés en ET.
+// Cliquer un marqueur le coche/décoche ; « Tous » remet tout à zéro.
+$('#filters').addEventListener('click',e=>{
+  const f=e.target.dataset.f; if(!f)return;
+  if(f==='all'){ statut='all'; flags.clear(); }
+  else if(f.startsWith('flag:')){ const k=f.slice(5); if(flags.has(k))flags.delete(k); else flags.add(k); }
+  else { statut = (statut===f) ? 'all' : f; } // re-cliquer un statut actif → retour à « all »
+  syncFilterButtons(); render();
+});
+function syncFilterButtons(){
+  const aucun = statut==='all' && flags.size===0;
+  [...$('#filters').children].forEach(b=>{
+    const f=b.dataset.f;
+    let on=false;
+    if(f==='all') on=aucun;
+    else if(f.startsWith('flag:')) on=flags.has(f.slice(5));
+    else on=(statut===f);
+    b.classList.toggle('active',on);
+  });
+}
 function backToList(){ document.querySelector('.app').classList.remove('reading'); window.scrollTo(0,0); }
 $('#search').addEventListener('input',e=>{q=norm(e.target.value).trim();render();renderSujets();});
 // --- Todolist des sujets : ajout, filtre « masquer les faits » ---
