@@ -537,14 +537,17 @@ function pageHtml() {
         <div class="sujets-actions">
           <button class="sujets-toggle" id="sujets-toggle">masquer les faits</button>
           <button class="sujets-toggle" id="sujets-save" title="Commit + push sur GitHub">sauvegarder</button>
+          <button class="sujets-toggle" id="sujets-fold">replier</button>
         </div>
       </div>
-      <form class="sujet-add" id="sujet-add">
-        <input id="sujet-input" placeholder="Nouveau sujet de texte…" autocomplete="off">
-        <button type="submit">+</button>
-      </form>
-      <div id="sujets-list"></div>
-      <div class="sujets-msg" id="sujets-msg"></div>
+      <div id="sujets-body">
+        <form class="sujet-add" id="sujet-add">
+          <input id="sujet-input" placeholder="Nouveau sujet de texte…" autocomplete="off">
+          <button type="submit">+</button>
+        </form>
+        <div id="sujets-list"></div>
+        <div class="sujets-msg" id="sujets-msg"></div>
+      </div>
     </section>
     <section class="sujets outils">
       <div class="sujets-head">
@@ -791,6 +794,11 @@ $('#sujets-toggle').addEventListener('click',()=>{
   masquerFaits=!masquerFaits;
   $('#sujets-toggle').textContent=masquerFaits?'montrer les faits':'masquer les faits';
   renderSujets();
+});
+// Replier / déplier toute la section Sujets (comme la section Outils).
+$('#sujets-fold').addEventListener('click',()=>{
+  const body=$('#sujets-body'); body.hidden=!body.hidden;
+  $('#sujets-fold').textContent=body.hidden?'déplier':'replier';
 });
 // --- Section Outils : liste tous les outils du projet (scripts npm). Ceux qui
 // portent une action sont lançables ici ; les autres sont documentés (CLI).
