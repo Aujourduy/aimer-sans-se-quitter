@@ -504,6 +504,9 @@ function pageHtml() {
     .app:not(.reading) .main{display:none;}
     .back{display:inline-block;margin-bottom:1rem;padding:.5rem .9rem;border:1px solid var(--bleu);
       background:#fff;color:var(--bleu);border-radius:.4rem;font-size:.9rem;cursor:pointer;}
+    /* Lecture du texte agrandie ×1.1 sur smartphone (confort de lecture) */
+    .prose{font-size:1.1rem;}
+    .main h2.read-title{font-size:1.98rem;}
     /* Zones tactiles plus grandes */
     .filters button{font-size:.85rem;padding:.4rem .7rem;}
     .row{padding:.7rem .5rem;}
