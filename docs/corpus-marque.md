@@ -14,7 +14,7 @@ _Analyse du CORPS de chaque texte (jamais le titre). 250 textes. Marqueurs de LI
 | CONTE | 18 |
 | FABLES | 18 |
 
-- Multi-marqués : 155 · Sans marqueur de livre : 43
+- Multi-marqués : 155 · Sans marqueur : 43
 
 ### Parcours
 
@@ -35,7 +35,7 @@ _Analyse du CORPS de chaque texte (jamais le titre). 250 textes. Marqueurs de LI
 ### ⚠️ Points de vigilance
 
 - FLAGSHIP très large (vivier, pas sélection).
-- Mvt 6 (corps) très fourni vs Mvt 7 (porte) et Mvt 3 (cœur) maigres.
+- Mvt 6 (corps) fourni vs Mvt 7 (porte) et Mvt 3 (cœur) maigres.
 - Version courte au-delà des ~15 visés.
 
 ## Liste FLAGSHIP — Aimer sans disparaître (202)
@@ -60,7 +60,7 @@ _Analyse du CORPS de chaque texte (jamais le titre). 250 textes. Marqueurs de LI
 - **Comment faire pleurer une femme** `[comment-faire-pleurer-une-femme]` — Le corps comme lieu de vérité : la présence sans intention ni consolation ouvre l'accès aux émotions enfouies et à la globalité de l'autre.
 - **Comment j’ai su que j’avais besoin de lunettes ?** _(brouillon)_ `[comment-j-ai-su-que-j-avais-besoin-de-lunettes]` — Chapitre 'le corps comme lieu de vérité' : mesurer combien on se retient en sexualité (rire, pleurer, parler) et s'autoriser à être pleinement soi.
 - **Comment je me suis sorti de la dépendance affective** _(brouillon)_ `[comment-je-me-suis-sorti-de-la-dependance-affective]` — Le mécanisme qui se rejoue : l'émotion disproportionnée n'est pas causée par l'événement présent mais par toutes les blessures analogues accumulées.
-- **Comment l’histoire de sa vie se retourne en 10 minutes** `[entree-3-mecanisme]` — Le mécanisme qui se rejoue : démonte la croyance-récit « je suis quittée » et révèle qui quitte vraiment ; se quitter dans la relation.
+- **Comment l’histoire de sa vie se retourne en 10 minutes** `[comment-l-histoire-de-sa-vie-se-retourne-en-10-minutes]` — Le mécanisme qui se rejoue : démonte la croyance-récit « je suis quittée » et révèle qui quitte vraiment ; se quitter dans la relation.
 - **Comment retrouver confiance en l’homme ?** `[comment-retrouver-confiance-en-l-homme]` — Nourrit le discernement : déplacer la confiance de l'autre vers soi, apprendre à repérer et quitter la relation nocive.
 - **Confort vs effort** `[confort-vs-effort]` — Chapitre 'le mécanisme qui se rejoue' : la dette implicite créée par l'effort, la rancœur qui s'accumule et étouffe le désir.
 - **Conseils pour célibataire : comment rencontrer la bonne personne** `[conseils-pour-celibataire-comment-rencontrer-la-bonne-personne]` — Chapitre 'discernement / non-négociables' : poser ses fondamentaux d'emblée, aimer et partir sans effort de séduction, vérité relationnelle dès le départ.
@@ -96,7 +96,7 @@ _Analyse du CORPS de chaque texte (jamais le titre). 250 textes. Marqueurs de LI
 - **Il n’y a pas de sexualité épanouie** _(brouillon)_ `[il-n-y-a-pas-de-sexualite-epanouie]` — Revenir à soi par le langage : cesser de projeter le problème sur un objet extérieur ('la sexualité', 'la relation') pour l'assumer en soi — mécanisme transférable à tout le couple.
 - **Il n’y avait personne dans la valise** `[il-n-y-avait-personne-dans-la-valise]` — Vérité relationnelle : dans une dispute, deux personnes traumatisées se font face ; agir sans faire l'autre coupable, sans attendre « quelqu'un » dans la valise.
 - **Il ne s’agit pas de nourrir le désir** `[il-ne-s-agit-pas-de-nourrir-le-desir]` — Revenir à soi : le désir libéré par l'amour de soi plutôt que conditionné à l'amour reçu — le corps comme lieu de vérité.
-- **Il suffit de trouver la bonne personne ?** `[entree-2-deplacement]` — Revenir à soi avant la relation : le bonheur et l'authenticité précèdent la rencontre, pas l'inverse.
+- **Il suffit de trouver la bonne personne ?** `[il-suffit-de-trouver-la-bonne-personne]` — Revenir à soi avant la relation : le bonheur et l'authenticité précèdent la rencontre, pas l'inverse.
 - **Ils auraient pu, peut-être, sauver leur couple** `[ils-auraient-pu-peut-etre-sauver-leur-couple]` — Vérité relationnelle : la sexualité comme conséquence et symptôme de la relation, signal de vigilance à ne pas sous-estimer.
 - **Initier n'est pas éduquer** `[initier-n-est-pas-eduquer]` — Discernement et responsabilité : distinguer un partenaire sans potentiel (aimer ne suffit pas) d'un problème de méthode, reprendre sa part pour sortir de l'amertume/résignation.
 - **J’ai cru que j’étais quitté, en fait j’étais aimé** `[j-ai-cru-que-j-etais-quitte-en-fait-j-etais-aime]` — Nourrit un chapitre sur « se quitter » vs « quitter l'autre » : elle quitte son ancienne elle, revenir à soi, discernement et vérité relationnelle.
@@ -193,7 +193,7 @@ _Analyse du CORPS de chaque texte (jamais le titre). 250 textes. Marqueurs de LI
 - **Ma messagerie est chez moi, pas chez toi** `[ma-messagerie-est-chez-moi-pas-chez-toi]` — Non-négociables et revenir à soi : poser une limite, se protéger sans se justifier, sortir d'un rôle de gentillesse forcée.
 - **Ma révolution** `[ma-revolution]` — Le non-négociable posé comme acte : préférer le renoncement à la trahison de soi.
 - **Marre des relations bancales ?** `[marre-des-relations-bancales]` — Discernement et non-négociables : Aurélie cesse de se faire objet, retrouve ses limites et la vérité de son désir — se quitter dans la relation puis revenir à soi.
-- **Merci de m’avoir quittée** `[entree-1-reconnaissance]` — Nourrit le coeur du livre 'se quitter' : la personne quittée qui revient à sa vérité, préférer sa vérité seule au confort de la relation morte, la rupture comme discernement de compatibilité.
+- **Merci de m’avoir quittée** `[merci-de-m-avoir-quittee]` — Nourrit le coeur du livre 'se quitter' : la personne quittée qui revient à sa vérité, préférer sa vérité seule au confort de la relation morte, la rupture comme discernement de compatibilité.
 - **Mère Teresa et les lépreux** _(brouillon)_ `[mere-teresa-et-les-lepreux]` — Le mécanisme qui se rejoue : le mode automatique en sexualité comme protection/fuite de la vulnérabilité ; rester présent pour offrir à l'autre un espace d'être.
 - **Mes 3 positions pour faire l’amour** _(brouillon)_ `[mes-3-positions-pour-faire-l-amour]` — Revenir à soi / discernement : passer de l'attente frustrée (Demande) à l'abandon sans centre — mouvement intérieur transférable à la relation en général.
 - **Mes besoins et mes envies sont non négociables** _(brouillon)_ `[mes-besoins-et-mes-envies-sont-non-negociables]` — Discernement : identifier ses non-négociables (idéal/besoin minimal) avant tout compromis relationnel.
@@ -245,7 +245,7 @@ _Analyse du CORPS de chaque texte (jamais le titre). 250 textes. Marqueurs de LI
 
 ## Liste FABLES (18)
 
-- **Comment l’histoire de sa vie se retourne en 10 minutes** `[entree-3-mecanisme]` — Histoire vécue à bascule : dialogue tendu + retournement (« je suis une personne qui parfois quitte, parfois est quittée »), image finale de l'illusionniste.
+- **Comment l’histoire de sa vie se retourne en 10 minutes** `[comment-l-histoire-de-sa-vie-se-retourne-en-10-minutes]` — Histoire vécue à bascule : dialogue tendu + retournement (« je suis une personne qui parfois quitte, parfois est quittée »), image finale de l'illusionniste.
 - **De la honte à la gratitude** _(brouillon)_ `[de-la-honte-a-la-gratitude]` — Récit vécu avec retournement : la honte cachée (puceau 5 ans) devient la force qu'on partage, bascule du drame à la gratitude.
 - **De la jalousie dans une simple soupe** `[de-la-jalousie-dans-une-simple-soupe]` — Scène vécue à bascule : bol de soupe vs curry du frère, l'esprit oscille, retournement — la jalousie n'était pas dans le curry mais dans l'imaginaire ; image finale du présent banal.
 - **Gratitude vs colère** _(brouillon)_ `[gratitude-vs-colere]` — Scène vécue (l'atelier, l'annulation du matin, la boule au ventre puis la joie) avec bascule intérieure colère→gratitude et image finale du puzzle.
@@ -290,7 +290,7 @@ _Analyse du CORPS de chaque texte (jamais le titre). 250 textes. Marqueurs de LI
 - **Faire l'amour en spirale** `[faire-l-amour-en-spirale]` — Catégorie ligne droite (le plus court, vers un but) vs spirale (le plus complet, sans destination), réutilisable au-delà du sexe.
 - **Gratitude vs colère** _(brouillon)_ `[gratitude-vs-colere]` — Catégorie « gratitude vs colère » comme deux régards sur ce que l'autre me doit (rien) ou m'offre (tout).
 - **Il n’y a rien à devenir** _(brouillon)_ `[il-n-y-a-rien-a-devenir]` — Catégorie « devenir vs exprimer » (transformer l'être vs accorder l'instrument), réutilisable comme grille de lecture de soi.
-- **Il suffit de trouver la bonne personne ?** `[entree-2-deplacement]` — Installe la paire « être heureux pour rencontrer vs rencontrer pour être heureux » comme catégorie réutilisable.
+- **Il suffit de trouver la bonne personne ?** `[il-suffit-de-trouver-la-bonne-personne]` — Installe la paire « être heureux pour rencontrer vs rencontrer pour être heureux » comme catégorie réutilisable.
 - **Initiatrice vs Professeure** _(brouillon)_ `[initiatrice-vs-professeure]` — Catégorie initiatrice vs professeure : montrer le seuil puis laisser l'autre explorer, réutilisable pour ne pas se placer en enseignante frustrée.
 - **Initier n'est pas éduquer** `[initier-n-est-pas-eduquer]` — Catégorie initier (donner la carte, cheminer à deux) vs éduquer (essayer d'imposer, s'épuiser), qu'une lectrice peut se réapproprier.
 - **Je pleure de joie aux funérailles** `[je-pleure-de-joie-aux-funerailles]` — Chagrin vs gratitude (ou perte vs intégration) : bascule d'un mouvement intérieur à l'autre, catégorie réutilisable face au deuil.
@@ -474,7 +474,7 @@ _Analyse du CORPS de chaque texte (jamais le titre). 250 textes. Marqueurs de LI
 - **La voiture avec vices cachés !** `[la-voiture-avec-vices-caches]` — Elle se reconnaît dans la participante qui en veut au 'vendeur' (le passé, l'autre) alors qu'au fond elle rachèterait ce qu'elle a vécu — libère du ressentiment qui alourdit le présent.
 - **Le manque et la présence de quelqu’un** `[le-manque-et-la-presence-de-quelqu-un]` ⭐ — Elle reconnaît son 'tu me manques (snif)' en posture de victime et le retourne : le manque est de la présence intérieure, de l'amour en noyau.
 - **Le Pardon Suprême — au-delà du retour à soi d'avant** `[le-pardon-supreme-au-dela-du-retour-a-soi-d-avant]` — Elle voit son mécanisme de victimisation qui se rejoue en boucle et entrevoit qu'il n'y a pas à retrouver le soi d'avant mais à devenir plus.
-- **Merci de m’avoir quittée** `[entree-1-reconnaissance]` ⭐ — Retourne la rupture : la personne quittée retrouve espace, vérité et liberté ; 'merci de m'avoir quittée' ouvre le premier retournement.
+- **Merci de m’avoir quittée** `[merci-de-m-avoir-quittee]` ⭐ — Retourne la rupture : la personne quittée retrouve espace, vérité et liberté ; 'merci de m'avoir quittée' ouvre le premier retournement.
 - **Personne ne mérite d’être quitté** `[personne-ne-merite-d-etre-quitte]` ⭐ — Nomme le fait qu'elle reste et accumule des griefs pour rester innocente au lieu de décider avec le cœur : elle se reconnaît dans ce qu'elle FAIT après/avant une rupture.
 - **Une bonne ou mauvaise nouvelle** `[une-bonne-ou-mauvaise-nouvelle]` — Relit la rupture : l'homme qui l'a quittée est peut-être un cadeau caché, ouvre le premier retournement sur la douleur récente.
 
@@ -482,7 +482,7 @@ _Analyse du CORPS de chaque texte (jamais le titre). 250 textes. Marqueurs de LI
 
 - **Ce que je n’ai pas fait** `[ce-que-je-n-ai-pas-fait]` — Elle voit qu'elle rejoue le même schéma de subir en n'osant pas dire/partir, et cesse de se voir en victime.
 - **Comment je me suis sorti de la dépendance affective** _(brouillon)_ `[comment-je-me-suis-sorti-de-la-dependance-affective]` — Nomme le mécanisme qui voyage avec elle : une émotion disproportionnée déclenchée non par l'événement mais par toutes les blessures accumulées.
-- **Comment l’histoire de sa vie se retourne en 10 minutes** `[entree-3-mecanisme]` ⭐ — Elle reconnaît le mécanisme : c'est souvent elle qui quitte intérieurement, pas elle qu'on abandonne — l'histoire qu'elle se raconte s'effondre
+- **Comment l’histoire de sa vie se retourne en 10 minutes** `[comment-l-histoire-de-sa-vie-se-retourne-en-10-minutes]` ⭐ — Elle reconnaît le mécanisme : c'est souvent elle qui quitte intérieurement, pas elle qu'on abandonne — l'histoire qu'elle se raconte s'effondre
 - **De la jalousie dans une simple soupe** `[de-la-jalousie-dans-une-simple-soupe]` — Elle repère que sa souffrance vient de son imaginaire projeté, pas de la réalité de l'autre
 - **Des hommes fuyants, des femmes paranoïaques** _(brouillon)_ `[des-hommes-fuyants-des-femmes-paranoiaques]` ⭐ — Fait reconnaître son comportement exact : interpréter chaque geste de l'homme comme preuve qu'il ne l'aime pas, projection du 'je ne peux pas être aimée'.
 - **Dire que c'est important sans bouger** `[dire-que-c-est-important-sans-bouger]` — Elle se reconnaît dans le fait de dire qu'une relation vraie est importante sans jamais bouger vers elle, et voit sa frustration se déguiser en colère et rumination.
@@ -516,7 +516,7 @@ _Analyse du CORPS de chaque texte (jamais le titre). 250 textes. Marqueurs de LI
 - **Cherchez-vous un Mendiant ou un Roi ?** _(brouillon)_ `[cherchez-vous-un-mendiant-ou-un-roi]` [N1] — Elle voit comment elle arrive en manque/quémandeuse et comprend qu'elle peut combler ses besoins seule pour venir comblée.
 - **Courir avec des béquilles** `[courir-avec-des-bequilles]` — Elle voit qu'une stratégie qui l'a sauvée (tout comprendre, tout analyser) est devenue son entrave — elle court avec des béquilles
 - **Il ne s’agit pas de nourrir le désir** `[il-ne-s-agit-pas-de-nourrir-le-desir]` [N2] — Elle voit que son désir n'est pas à produire ni conditionné à être aimée par l'autre, mais libéré quand elle s'aime assez elle-même.
-- **Il suffit de trouver la bonne personne ?** `[entree-2-deplacement]` — Elle voit qu'elle attend d'être aimée pour s'autoriser à être elle-même, au lieu de commencer par soi
+- **Il suffit de trouver la bonne personne ?** `[il-suffit-de-trouver-la-bonne-personne]` — Elle voit qu'elle attend d'être aimée pour s'autoriser à être elle-même, au lieu de commencer par soi
 - **L’amour de l’autre, l’amour de soi** `[l-amour-de-l-autre-l-amour-de-soi]` — Elle repère qu'elle attend qu'une relation illumine sa vie (la lune) au lieu de faire briller son propre soleil d'abord.
 - **L’histoire du petit moineau** `[l-histoire-du-petit-moineau]` — Elle interroge son réflexe de vouloir sortir de l'inconfort à tout prix, avant d'en avoir tiré ce qu'il avait à lui donner
 - **La morale cachée de Cendrillon** _(brouillon)_ `[la-morale-cachee-de-cendrillon]` — Elle cesse d'attendre un sauveur qui la révèlerait et reconnaît sa propre valeur comme préalable à l'exigence.
@@ -655,8 +655,8 @@ _Analyse du CORPS de chaque texte (jamais le titre). 250 textes. Marqueurs de LI
 - (Mvt 1) **Ce n’est pas parce qu’un reproche est justifié qu’il est juste** `[ce-n-est-pas-parce-qu-un-reproche-est-justifie-qu-il-est-juste]` — Elle relit une rupture : les reproches justifiés qui masquaient une distance déjà là et non assumée — comprend qu'on l'a peut-être accusée pour ne pas dire que l'amour partait, et cesse de porter la faute.
 - (Mvt 1) **Donner c’est donner ?** `[donner-c-est-donner]` — Après la rupture, elle voit que ce qu'elle croyait donner par amour était un investissement dans l'espoir d'un retour, ce qui déculpabilise son regret.
 - (Mvt 1) **La fin d’une relation, ce séisme (presque) inévitable** `[la-fin-d-une-relation-ce-seisme-presque-inevitable]` — Elle comprend pourquoi sa rupture a viré au séisme : les non-dits accumulés, les efforts donnés pour recevoir en retour, l'addition impossible.
-- (Mvt 1) **Merci de m’avoir quittée** `[entree-1-reconnaissance]` — Retourne la rupture : la personne quittée retrouve espace, vérité et liberté ; 'merci de m'avoir quittée' ouvre le premier retournement.
-- (Mvt 2) **Comment l’histoire de sa vie se retourne en 10 minutes** `[entree-3-mecanisme]` — Elle reconnaît le mécanisme : c'est souvent elle qui quitte intérieurement, pas elle qu'on abandonne — l'histoire qu'elle se raconte s'effondre
+- (Mvt 1) **Merci de m’avoir quittée** `[merci-de-m-avoir-quittee]` — Retourne la rupture : la personne quittée retrouve espace, vérité et liberté ; 'merci de m'avoir quittée' ouvre le premier retournement.
+- (Mvt 2) **Comment l’histoire de sa vie se retourne en 10 minutes** `[comment-l-histoire-de-sa-vie-se-retourne-en-10-minutes]` — Elle reconnaît le mécanisme : c'est souvent elle qui quitte intérieurement, pas elle qu'on abandonne — l'histoire qu'elle se raconte s'effondre
 - (Mvt 2) **Des hommes fuyants, des femmes paranoïaques** _(brouillon)_ `[des-hommes-fuyants-des-femmes-paranoiaques]` — Fait reconnaître son comportement exact : interpréter chaque geste de l'homme comme preuve qu'il ne l'aime pas, projection du 'je ne peux pas être aimée'.
 - (Mvt 3) **Qui se ressemble s'assemble** _(brouillon)_ `[qui-se-ressemble-s-assemble]` — Nomme pile son mécanisme : elle demande à l'homme ce qu'elle ne se donne pas (être aimée pour qui elle est alors qu'elle ne s'aime pas) — le cœur de 'je me perds quand j'aime'.
 - (Mvt 3) **De la honte à la gratitude** _(brouillon)_ `[de-la-honte-a-la-gratitude]` — Récit de trauma qui installe la confiance dans l'auteur et nomme le cœur de sa douleur à elle : chercher des techniques alors qu'on cherche en fait à se sentir aimée pour qui on est à 100%.
@@ -977,7 +977,7 @@ _Analyse du CORPS de chaque texte (jamais le titre). 250 textes. Marqueurs de LI
   - flagship : Le mécanisme qui se rejoue : l'émotion disproportionnée n'est pas causée par l'événement présent mais par toutes les blessures analogues accumulées.
   - parcours : Nomme le mécanisme qui voyage avec elle : une émotion disproportionnée déclenchée non par l'événement mais par toutes les blessures accumulées. [tags: je-me-perds-quand-j-aime]
 
-### 24. Comment l’histoire de sa vie se retourne en 10 minutes `[entree-3-mecanisme]`
+### 24. Comment l’histoire de sa vie se retourne en 10 minutes `[comment-l-histoire-de-sa-vie-se-retourne-en-10-minutes]`
 - Contenu réel : Scène de coaching : une femme croit « c'est l'histoire de ma vie que d'être quittée » ; le coach démontre qu'elle a le plus souvent quitté intérieurement. Retournement de l'image de soi.
 - Marqueurs : FLAGSHIP · FABLES · PARCOURS(mvt 2/court)
   - flagship : Le mécanisme qui se rejoue : démonte la croyance-récit « je suis quittée » et révèle qui quitte vraiment ; se quitter dans la relation.
@@ -1284,7 +1284,7 @@ _Analyse du CORPS de chaque texte (jamais le titre). 250 textes. Marqueurs de LI
   - flagship : Revenir à soi : le désir libéré par l'amour de soi plutôt que conditionné à l'amour reçu — le corps comme lieu de vérité.
   - parcours : Elle voit que son désir n'est pas à produire ni conditionné à être aimée par l'autre, mais libéré quand elle s'aime assez elle-même. [tags: desir, je-me-perds-quand-j-aime]
 
-### 68. Il suffit de trouver la bonne personne ? `[entree-2-deplacement]`
+### 68. Il suffit de trouver la bonne personne ? `[il-suffit-de-trouver-la-bonne-personne]`
 - Contenu réel : Renverse la croyance « trouver la bonne personne rend heureux » : c'est être heureux/authentique/s'aimer soi qui permet la rencontre. Concept relationnel, pas de récit.
 - Marqueurs : FLAGSHIP · VERSUS · PARCOURS(mvt 4)
   - flagship : Revenir à soi avant la relation : le bonheur et l'authenticité précèdent la rencontre, pas l'inverse.
@@ -2069,7 +2069,7 @@ _Analyse du CORPS de chaque texte (jamais le titre). 250 textes. Marqueurs de LI
   - fables : Histoire vécue à bascule : personnage (Aurélie), tension (au bord de renoncer à être femme), retournement (elle rayonne, guérit une amie par un hug), image finale (la petite voix « je suis précieuse »).
   - parcours : Elle se reconnaît entièrement dans Aurélie — faire l'amour pour recevoir de la tendresse, se sentir utilisée, pleurer après — et reçoit l'espoir qu'une relation respectueuse est possible. [tags: homme-distant, je-me-perds-quand-j-aime, relation-floue, desir]
 
-### 182. Merci de m’avoir quittée `[entree-1-reconnaissance]`
+### 182. Merci de m’avoir quittée `[merci-de-m-avoir-quittee]`
 - Contenu réel : Récit d'une participante quittée qui bascule : elle voit trois choses cachées (elle retrouve espace/liberté, la vérité que l'autre ne voulait plus, le courage qu'elle-même n'a pas eu) ; la rupture comme nouveau départ, 'merci de m'avoir quittée', j'aime plus ma vérité sans toi que mon confort avec toi.
 - Marqueurs : FLAGSHIP · PARCOURS(mvt 1/court)
   - flagship : Nourrit le coeur du livre 'se quitter' : la personne quittée qui revient à sa vérité, préférer sa vérité seule au confort de la relation morte, la rupture comme discernement de compatibilité.
