@@ -148,7 +148,6 @@ est **générée automatiquement** depuis `package.json` (hook pre-commit).
 | `npm run relecture` | Outil de relecture LOCAL (dev only) — JAMAIS déployé. |
 | `npm run build:drafts` | Construit le site **avec les brouillons** dans `dist-dev/` (aperçu de relecture). |
 | `npm run serve-dist` | Serveur statique LOCAL (dev only) — sert le build de production `dist/` du site danphu, pour pouvoir l'utiliser comme PWA installable via Tailscale. |
-| `npm run livres` | Génère les dossiers de livres À PARTIR des indicateurs cochés sur les textes. |
 | `npm run tous-ecrits` | Génère docs/tous-les-ecrits.md : tous les textes à plat (titre + corps), en un seul fichier. |
 | `npm run outils-readme` | Régénère la section « Outils » du README à partir de package.json et des commentaires d'en-tête des scripts. |
 | `npm run astro` | Passe-plat vers la CLI Astro (`npm run astro -- <cmd>`). |
@@ -531,12 +530,15 @@ les livres et le parcours de lecture. Un texte peut en porter **plusieurs**.
 | `livreMetaphore` | Métaphore | Image qui fait voir d'un coup, sans récit |
 | `parcours` | Parcours | Entre dans le chemin de lecture (douleur → conversation) |
 
-Ces marqueurs se cochent dans l'outil de relecture (filtres cumulables en ET),
-et alimentent `npm run livres` (dossiers de livres). Le **détail complet** du
-marquage (résumé réel de chaque texte, fonction par livre, mouvement et niveau
-d'intimité du parcours, diagnostic des déséquilibres, textes forts) est dans
-**`docs/corpus-marque.md`** — la matière brute pour concevoir les tables des
-matières. Régénéré par une analyse du corps de chaque texte (jamais le titre).
+Ces marqueurs se cochent dans l'outil de relecture (filtres cumulables en ET).
+Ils sont la **source unique de vérité** des livres et du parcours : un livre ou
+le parcours n'est pas un fichier, c'est simplement l'ensemble des textes qui
+portent le marqueur correspondant — pas de duplication de contenu. Le **détail
+complet** du marquage (résumé réel de chaque texte, fonction par livre,
+mouvement et niveau d'intimité du parcours, diagnostic des déséquilibres, textes
+forts) est dans **`docs/corpus-marque.md`** — la matière brute pour concevoir
+les tables des matières. Régénéré par une analyse du corps de chaque texte
+(jamais le titre).
 
 > Distinction clé : la `category` trie par **thème** (site public) ; les
 > marqueurs de livre trient par **forme** ; le `parcours` trie par **fonction**

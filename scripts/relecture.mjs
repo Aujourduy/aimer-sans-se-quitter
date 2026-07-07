@@ -16,8 +16,12 @@ import { dirname, join } from 'node:path';
 import { networkInterfaces } from 'node:os';
 import { spawn } from 'node:child_process';
 import matter from 'gray-matter';
-import { genererLivres } from './generer-livres.mjs';
 import { genererTousEcrits } from './tous-les-ecrits.mjs';
+// Source unique des catégories (partagée avec categories.ts).
+import {
+  CATEGORY_LABELS,
+  CATEGORY_ORDER,
+} from '../src/lib/categories.data.mjs';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const TEXTES_DIR = join(__dirname, '..', 'src', 'content', 'textes');
@@ -35,7 +39,6 @@ function listeOutils() {
     astro: 'Passe-plat vers la CLI Astro.',
   };
   const ACTIONS = {
-    livres: { action: 'generer-livres', label: 'Régénérer les livres' },
     'tous-ecrits': { action: 'tous-ecrits', label: 'Régénérer « tous les écrits »' },
   };
   let scripts = {};
@@ -68,20 +71,7 @@ const PORT = 4455;
 const HOST = process.env.RELECTURE_HOST || '0.0.0.0';
 
 // Libellés et ordre des thématiques (repris de src/lib/categories.ts).
-const CATEGORY_LABELS = {
-  'lien-relation': 'Le lien et la relation',
-  'vrai-de-soi': 'Le vrai de soi',
-  'corps-desir': 'Le corps qui dit vrai',
-  'regard-vie': 'Le regard sur la vie',
-  'pratique-posture': 'La pratique et la posture',
-};
-const CATEGORY_ORDER = [
-  'lien-relation',
-  'vrai-de-soi',
-  'corps-desir',
-  'regard-vie',
-  'pratique-posture',
-];
+// CATEGORY_LABELS / CATEGORY_ORDER importés de categories.data.mjs (voir en-tête).
 
 // Indicateurs de classement par livre / type (booléens, basculés dans l'UI).
 // `key` = nom du champ dans le frontmatter ; `label` = libellé affiché.
@@ -567,6 +557,8 @@ function pageHtml() {
 <script>
 const LIVRE_FLAGS=${JSON.stringify(LIVRE_FLAGS)};
 const OUTILS=${JSON.stringify(listeOutils())};
+const CAT_ORDER=${JSON.stringify(CATEGORY_ORDER)};
+const CAT_LABELS=${JSON.stringify(CATEGORY_LABELS)};
 // filtre statut (exclusif : all|todo|ok|draft|pub) + marqueurs cumulés (ET).
 let TEXTES=[], statut='all', flags=new Set(), q='', sel=null;
 let SUJETS=[], masquerFaits=false;
@@ -634,8 +626,7 @@ function render(){
   $('#stats').textContent=s;
   const cats={};
   TEXTES.filter(visible).forEach(t=>{(cats[t.category]=cats[t.category]||[]).push(t);});
-  const order=['lien-relation','vrai-de-soi','corps-desir','regard-vie','pratique-posture'];
-  const labels={'lien-relation':'Le lien et la relation','vrai-de-soi':'Le vrai de soi','corps-desir':'Le corps qui dit vrai','regard-vie':'Le regard sur la vie','pratique-posture':'La pratique et la posture'};
+  const order=CAT_ORDER, labels=CAT_LABELS;
   let h='';
   for(const c of order){ if(!cats[c])continue;
     h+='<div class="cat">'+(labels[c]||c)+' ('+cats[c].length+')</div>';
@@ -825,10 +816,7 @@ $('#outils-body').addEventListener('click',async e=>{
   const action=btn.dataset.action; const old=btn.textContent;
   btn.disabled=true; btn.textContent='Génération…'; $('#gen-msg').textContent='';
   try{
-    if(action==='generer-livres'){
-      const r=await (await fetch('/api/generer-livres',{method:'POST'})).json();
-      $('#gen-msg').textContent=r.ok?r.resume.map(x=>x.count+' — '+x.title).join('\\n'):'Erreur : '+(r.error||'inconnue');
-    } else if(action==='tous-ecrits'){
+    if(action==='tous-ecrits'){
       const r=await (await fetch('/api/tous-ecrits',{method:'POST'})).json();
       $('#gen-msg').textContent=r.ok?('✓ tous-les-ecrits.md — '+r.count+' textes · '+(r.git||'')):('Erreur : '+(r.error||'inconnue'));
     }
@@ -978,10 +966,6 @@ const server = createServer((req, res) => {
         }
       });
       return;
-    }
-    if (req.method === 'POST' && url.pathname === '/api/generer-livres') {
-      const resume = genererLivres();
-      return json(res, { ok: true, resume });
     }
     // --- Regroupement de tous les écrits (docs/tous-les-ecrits.md) + git ---
     if (req.method === 'POST' && url.pathname === '/api/tous-ecrits') {

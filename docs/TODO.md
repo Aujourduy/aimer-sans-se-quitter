@@ -4,7 +4,14 @@ Tâches techniques en attente (≠ `content/sujets-todo.json` qui liste les suje
 
 ## À faire
 
-_(rien pour l'instant)_
+- [ ] **Mise à jour Astro (5 → 7) bloquée par la PWA.** `@vite-pwa/astro` en est
+  resté à `1.2.0`, compatible Astro `≤5` uniquement (aucune version ne supporte
+  Astro 6/7). Passer à Astro 7 casserait la PWA installable de l'outil de
+  relecture. → Rester en Astro 5.x tant que le plugin PWA ne suit pas ; revérifier
+  `npm info @vite-pwa/astro peerDependencies` de temps en temps.
+- [ ] **Fichiers `audit-md/section-*.md`** portent les anciens noms de thème
+  (amour-presence, desir-verite, peur-masque, fables-paradoxes, desir-intimite).
+  À renommer/retravailler si l'audit copywriting reprend. Sans impact (hors build).
 
 ## Fait
 

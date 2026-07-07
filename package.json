@@ -10,7 +10,6 @@
     "relecture": "node scripts/relecture.mjs",
     "build:drafts": "INCLUDE_DRAFTS=true astro build --outDir dist-dev",
     "serve-dist": "node scripts/serve-dist.mjs",
-    "livres": "node scripts/generer-livres.mjs",
     "tous-ecrits": "node scripts/tous-les-ecrits.mjs",
     "outils-readme": "node scripts/generer-outils-readme.mjs",
     "astro": "astro"
