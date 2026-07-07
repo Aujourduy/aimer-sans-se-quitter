@@ -111,7 +111,7 @@ que :8444 réponde (le contenu se met à jour tout seul, c'est du dev).
 | DNS du domaine **danphu.com** | chez le registrar **IONOS** (4 enregistrements `A` vers `185.199.108–111.153` pour l'apex + `CNAME www → aujourduy.github.io`) — voir « Domaine personnalisé » |
 | Domaine perso côté GitHub | fichier `public/CNAME` (= `danphu.com`, versionné) ; Settings → Pages le relit au déploiement |
 
-> En cas de crash : un `git clone` restaure le site, les 116 textes, l'outil de
+> En cas de crash : un `git clone` restaure le site, les 250 textes, l'outil de
 > relecture et sa config systemd. Seul le **DNS** se gère chez IONOS (il n'est pas
 > affecté par un crash du serveur de toute façon).
 
@@ -324,7 +324,17 @@ propos…), qui sont des fichiers `.astro`.
 ### Les textes (page « Textes »)
 
 Chaque texte est un fichier `.md` dans `src/content/textes/`. Le **nom du
-fichier** devient l'adresse de la page (`mon-texte.md` → `/textes/mon-texte`).
+fichier** (le « slug ») devient l'adresse de la page (`le-tigre-et-le-masque.md`
+→ `/textes/le-tigre-et-le-masque`).
+
+> **Convention importante — le nom de fichier est un identifiant stable.**
+> - On **ne renomme pas** un fichier une fois créé, même si son titre change.
+>   Le titre vit dans le frontmatter (`title:`) et se modifie librement ;
+>   le nom de fichier reste figé. C'est lui qui sert d'ancre dans les listes
+>   des livres et du parcours (`docs/corpus-marque.md`) et dans l'URL.
+> - Le nom **n'encode pas la catégorie** : celle-ci vit dans le frontmatter
+>   (`category:`). Choisir un slug court et descriptif du sujet, sans préfixe
+>   de thème (ex. `le-tigre-et-le-masque`, pas `peur-masque-le-tigre…`).
 
 En-tête (« frontmatter ») de chaque fichier, suivi du corps en markdown :
 
@@ -347,7 +357,9 @@ Le corps du texte, en **markdown**.
   second `---`) et/ou les champs de l'en-tête.
   _(Les textes actuels contiennent un corps `[À REMPLACER]` à remplacer par le vrai contenu.)_
 - **Ajouter un texte** → créer un nouveau `.md` (le plus simple : copier un
-  existant), avec un nom de fichier court (il devient l'URL).
+  existant), avec un nom de fichier court et descriptif du sujet, **sans
+  préfixe de thème** (il devient l'URL et l'identifiant stable — voir la
+  convention ci-dessus).
 - **Supprimer** → supprimer le fichier `.md` (ou mettre `draft: true` pour le
   cacher sans l'effacer).
 - **Mettre en avant** → `entry: true` + un `entryRole` : le texte apparaît dans
@@ -565,13 +577,16 @@ Pratique pour relire et réécrire page par page.
 | `audit-md/accompagnement.md` | Accompagnement (`/accompagnement`) |
 | `audit-md/conversation-exploratoire.md` | Conversation exploratoire (`/conversation-exploratoire`) |
 | `audit-md/ecrits.md` | Écrits — page sommaire (`/textes`) : intro + cartes des thématiques |
-| `audit-md/section-amour-presence.md` | Présentation du thème « Amour et présence » (`/textes/amour-presence`) |
-| `audit-md/section-desir-verite.md` | Présentation du thème « Désir et vérité » |
-| `audit-md/section-peur-masque.md` | Présentation du thème « Peur et masque » |
-| `audit-md/section-fables-paradoxes.md` | Présentation du thème « Fables et paradoxes » |
-| `audit-md/section-desir-intimite.md` | Présentation du thème « Désir et intimité » (+ intro du registre intime) |
+| `audit-md/section-*.md` | Présentations des thèmes _(noms de fichiers d'après l'**ancienne** taxonomie — voir note)_ |
 
-Le **corps des ~116 textes** n'y figure pas : il vit déjà sous forme de `.md`
+> ⚠️ Les fichiers `audit-md/section-*.md` portent les **anciens** noms de thème
+> (`amour-presence`, `desir-verite`, `peur-masque`, `fables-paradoxes`,
+> `desir-intimite`). Les thématiques du site ont été refondues en
+> `lien-relation`, `vrai-de-soi`, `corps-desir`, `regard-vie`,
+> `pratique-posture` (voir « La page Textes »). Ces fichiers d'audit n'ont pas
+> été renommés ; à retravailler si l'audit copywriting reprend.
+
+Le **corps des ~250 textes** n'y figure pas : il vit déjà sous forme de `.md`
 dans `src/content/textes/`. `audit-md/` ne couvre que le **copy de présentation**
 (intro de page, libellé + description de chaque thème).
 
