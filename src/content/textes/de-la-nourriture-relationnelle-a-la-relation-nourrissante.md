@@ -1,5 +1,5 @@
 ---
-verifieParDuy: false
+verifieParDuy: true
 livreFableDanPhu: false
 livreAnalyseConte: false
 livreMetaphore: true
@@ -9,10 +9,11 @@ title: "De la nourriture relationnelle à la relation nourrissante"
 excerpt: "Un aliment nourrissant nous apporte ce dont nous avons besoin pour être mieux."
 category: "lien-relation"
 order: 2
-draft: true
+draft: false
 draftReason: "thème sexuel à recadrer vers le relationnel"
 parcours: true
 ---
+
 
 On parle de relations nourrissantes. Qu’elles soient amicales, amoureuses, sexuelles ou autres ; les relations peuvent être nourrissantes. Qu’est-ce qu’un aliment nourrissant ? Un aliment qui va nous apporter ce dont nous avons besoin pour être bien, pour être mieux. Une plus grande forme, une plus grande joie, une plus grande vitalité.
 
@@ -22,6 +23,6 @@ Il y a des personnes qui prennent soin de ce qu’elles mangent. Elles sont stri
 
 Entretenir une relation avec une personne qui ne nous respecte pas, pour qui nous n’avons pas de considération, envers qui nous avons une longue liste de reproches c’est comme nous empiffrer de chips, de pâtisseries, de charcuteries pour essayer de combler une sensation de vide. Ce n’est pas respectueux vis-à-vis de notre corps, ce n’est pas respectueux vis-à-vis de notre sexe, ce n’est pas respectueux vis-à-vis de notre cœur.
 
-Chacun fait ce qu’il peut, ce qu’il a à faire et il n’y a pas de jugement sur les comportements addictifs. Simplement, regarder les choses en face, reconnaître les conséquences de nos actes. Nous faisons ceci, c’est bon pour notre corps. Nous faisons cela, c’est mauvais pour notre corps. C’est vrai aussi pour notre cœur et pour notre sexe. Alors oui, un esprit sain dans un corps sain. Et pour les amants sensibles, c’est aussi un sexe sain dans un cœur sain. Bien nourrir notre cœur, bien nourrir notre sexe de joies, de respects, d’affections, de considérations. Si ce n’est pas le cas, nous pouvons envisager de changer de sexualité, ce qui ne signifie pas forcément changer de partenaire. Changer d’alimentation ne signifie pas forcément changer les aliments. Peut-être les cuire moins, peut-être en manger moins ou dans des proportions différentes, peut-être les laisser germer avant etc.
+Chacun fait ce qu’il peut, ce qu’il a à faire et il n’y a pas de jugement sur les comportements addictifs. J'en ai eu, j'en ai encore et j'en aurai sûrement encore. Simplement, regarder les choses en face, reconnaître les conséquences de nos actes. Nous faisons ceci, c’est bon pour notre corps. Nous faisons cela, c’est mauvais pour notre corps. C’est vrai aussi pour notre cœur et pour notre sexe. Alors oui, un esprit sain dans un corps sain. Et pour les amants sensibles, c’est aussi un sexe sain dans un cœur sain. Bien nourrir notre cœur, bien nourrir notre sexe de joies, de respects, d’affections, de considérations. Si ce n’est pas le cas, nous pouvons envisager de changer de sexualité, ce qui ne signifie pas forcément changer de partenaire. Changer d’alimentation ne signifie pas forcément changer les aliments. Peut-être les cuire moins, peut-être en manger moins ou dans des proportions ou associations différentes, peut-être les laisser germer avant etc.
 
 Pour nous amants sensibles, notre boussole pour une sexualité authentique et sensible c’est ce qui vibre après la sexualité : la joie, l’affection, le respect et la célébration de notre partenaire et de nous-mêmes.

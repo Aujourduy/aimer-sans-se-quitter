@@ -5,7 +5,7 @@ livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
-title: "Témoignage d'Annie"
+title: "Témoignage d'A."
 excerpt: "Après un an d'attente, Annie trouve l'amour et la sexualité sensible, en accord avec elle-même."
 category: "pratique-posture"
 order: 3
