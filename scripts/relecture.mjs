@@ -513,7 +513,7 @@ function pageHtml() {
 <body>
 <div class="app">
   <aside class="side">
-    <h1 class="app-title">Relecture — outil local</h1>
+    <h1 class="app-title" id="app-title">Relecture — outil local</h1>
     <div class="stats" id="stats"></div>
     <div class="filters" id="filters">
       <button data-f="all" class="active">Tous</button>
@@ -625,7 +625,10 @@ function render(){
   s+=' · '+LIVRE_FLAGS.map(f=>f.label+' '+TEXTES.filter(t=>t[f.key]).length).join(' · ');
   $('#stats').textContent=s;
   const cats={};
-  TEXTES.filter(visible).forEach(t=>{(cats[t.category]=cats[t.category]||[]).push(t);});
+  const vis=TEXTES.filter(visible);
+  // Total de textes affichés (selon les filtres/recherche) sur la ligne titre.
+  $('#app-title').textContent='Relecture — outil local · '+vis.length+' texte'+(vis.length>1?'s':'');
+  vis.forEach(t=>{(cats[t.category]=cats[t.category]||[]).push(t);});
   const order=CAT_ORDER, labels=CAT_LABELS;
   let h='';
   for(const c of order){ if(!cats[c])continue;
