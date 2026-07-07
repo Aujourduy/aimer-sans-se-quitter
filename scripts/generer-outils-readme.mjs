@@ -24,6 +24,7 @@ const DESCR_NATIVES = {
   build: 'Construit le site de production dans `dist/`.',
   'build:drafts': 'Construit le site **avec les brouillons** dans `dist-dev/` (aperçu de relecture).',
   preview: 'Prévisualise le dernier build de production.',
+  'sync-gist': 'Pousse `docs/etat-projet.md` vers le Gist secret lu par claude.ai.',
   astro: 'Passe-plat vers la CLI Astro (`npm run astro -- <cmd>`).',
 };
 

@@ -12,6 +12,7 @@
     "serve-dist": "node scripts/serve-dist.mjs",
     "tous-ecrits": "node scripts/tous-les-ecrits.mjs",
     "outils-readme": "node scripts/generer-outils-readme.mjs",
+    "sync-gist": "bash bin/sync-gist.sh",
     "astro": "astro"
   },
   "dependencies": {

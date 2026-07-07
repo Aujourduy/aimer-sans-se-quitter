@@ -150,6 +150,7 @@ est **générée automatiquement** depuis `package.json` (hook pre-commit).
 | `npm run serve-dist` | Serveur statique LOCAL (dev only) — sert le build de production `dist/` du site danphu, pour pouvoir l'utiliser comme PWA installable via Tailscale. |
 | `npm run tous-ecrits` | Génère docs/tous-les-ecrits.md : tous les textes à plat (titre + corps), en un seul fichier. |
 | `npm run outils-readme` | Régénère la section « Outils » du README à partir de package.json et des commentaires d'en-tête des scripts. |
+| `npm run sync-gist` | Pousse `docs/etat-projet.md` vers le Gist secret lu par claude.ai. |
 | `npm run astro` | Passe-plat vers la CLI Astro (`npm run astro -- <cmd>`). |
 
 Fichiers systemd fournis dans `scripts/` : `relecture.service` (outil de
@@ -159,8 +160,12 @@ relecture en service permanent), `danphu-dev.service` (aperçu de dev).
 
 ## Suivi et tâches
 
-Deux listes distinctes :
+Trois références distinctes :
 
+- **`docs/etat-projet.md`** — **synthèse de l'état du projet** (contenu, outils,
+  chantiers, TODO). Le repo étant privé, ce fichier est synchronisé vers un
+  **Gist secret** lu par claude.ai via `npm run sync-gist` — à relancer après
+  chaque mise à jour de l'état, avant un commit significatif.
 - **`docs/TODO.md`** — tâches **techniques** en attente (bugs, CI, config, dette).
 - **`content/sujets-todo.json`** — **sujets de textes** à écrire, éditables dans l'outil de relecture (section « Sujets à écrire »).
 
