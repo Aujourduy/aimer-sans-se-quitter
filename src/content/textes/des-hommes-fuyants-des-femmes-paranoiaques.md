@@ -6,6 +6,7 @@ livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Des hommes fuyants, des femmes paranoïaques"
+corpusNum: 39
 excerpt: "Derrière la peur de ne pas être aimé, chacun projette sur l’autre son propre jugement emprunté."
 category: "lien-relation"
 order: 46

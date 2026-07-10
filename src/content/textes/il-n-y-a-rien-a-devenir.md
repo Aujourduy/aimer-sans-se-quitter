@@ -6,6 +6,7 @@ livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Il n’y a rien à devenir"
+corpusNum: 65
 excerpt: "Tu es déjà qui tu veux être ; il n’y a rien à transformer, seulement à mieux exprimer."
 category: "regard-vie"
 order: 9

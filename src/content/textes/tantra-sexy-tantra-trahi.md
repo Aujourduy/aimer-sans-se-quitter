@@ -6,6 +6,7 @@ livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Tantra sexy, tantra trahi"
+corpusNum: 234
 excerpt: "Les affiches sexy du tantra trahissent son message : la sexualité sensible se vit dans l'authenticité, pas la performance."
 category: "corps-desir"
 order: 63

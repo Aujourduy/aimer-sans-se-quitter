@@ -6,6 +6,7 @@ livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Courir avec des béquilles"
+corpusNum: 29
 excerpt: "Ce qui nous a aidé un jour devient notre entrave si on le garde toujours."
 category: "vrai-de-soi"
 order: 48

@@ -6,6 +6,7 @@ livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Il n'y a pas d'insatisfaction sexuelle"
+corpusNum: 63
 excerpt: "L'insatisfaction sexuelle n'est qu'un indicateur de son insatisfaction de vie : on souffre d'avoir trop peu donné, pas trop peu reçu."
 category: "corps-desir"
 order: 20

@@ -6,6 +6,7 @@ livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Donner c’est donner ?"
+corpusNum: 45
 excerpt: "À la fin d’une relation, voir si j’ai vraiment donné, ou seulement investi dans l’espoir d’un retour."
 category: "lien-relation"
 order: 26

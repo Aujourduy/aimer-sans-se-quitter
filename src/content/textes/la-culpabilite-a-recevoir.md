@@ -6,6 +6,7 @@ livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
 title: "La culpabilité à recevoir"
+corpusNum: 96
 excerpt: "Recevoir sans dette : il n’y a pas d’échange, seulement des dons."
 category: "lien-relation"
 order: 29

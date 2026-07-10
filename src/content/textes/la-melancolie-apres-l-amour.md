@@ -6,6 +6,7 @@ livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
 title: "La mélancolie après l’amour"
+corpusNum: 107
 excerpt: "Deux mélancolies après le sexe : celle des petits cailloux, celle des bulles."
 category: "corps-desir"
 order: 36

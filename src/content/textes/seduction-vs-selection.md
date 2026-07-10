@@ -6,6 +6,7 @@ livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Séduction vs Sélection"
+corpusNum: 222
 excerpt: "L’important n’est pas la séduction mais la sélection : la stratégie de l’ovule."
 category: "lien-relation"
 order: 37

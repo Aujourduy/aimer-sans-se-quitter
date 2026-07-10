@@ -6,6 +6,7 @@ livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
 title: "La vie avant le je — révélation par la danse"
+corpusNum: 129
 excerpt: "Expérience mystique : découverte de la vie qui se vit avant le moi"
 category: "regard-vie"
 order: 4

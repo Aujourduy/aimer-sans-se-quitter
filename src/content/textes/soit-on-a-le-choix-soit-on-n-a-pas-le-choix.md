@@ -6,6 +6,7 @@ livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Soit on a le choix soit on n'a pas le choix"
+corpusNum: 229
 excerpt: "Cesser d'en vouloir à l'autre qui n'avait pas le choix."
 category: "vrai-de-soi"
 order: 71

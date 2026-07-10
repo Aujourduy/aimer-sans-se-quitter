@@ -6,6 +6,7 @@ livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Le jeu de go et la relation amoureuse"
+corpusNum: 144
 excerpt: "L’ordinateur n’a pas gagné en calculant plus vite, mais en se posant les bonnes questions."
 category: "lien-relation"
 order: 44

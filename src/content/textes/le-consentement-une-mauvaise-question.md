@@ -6,6 +6,7 @@ livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Le consentement : une mauvaise question"
+corpusNum: 139
 excerpt: "Utiliser le mot consentement au lieu du mot désir, c’est déplacer le problème et éviter d’expliciter les choses."
 category: "corps-desir"
 order: 74

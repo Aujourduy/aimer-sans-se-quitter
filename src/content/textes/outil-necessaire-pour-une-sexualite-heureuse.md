@@ -6,6 +6,7 @@ livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Outil nécessaire pour une sexualité heureuse"
+corpusNum: 196
 excerpt: "La sexualité cristallise peurs et traumas : il faut un outil de transmutation qui change les crises en révélations."
 category: "corps-desir"
 order: 92

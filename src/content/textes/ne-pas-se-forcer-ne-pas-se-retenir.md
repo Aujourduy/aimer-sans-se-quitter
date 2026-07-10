@@ -6,6 +6,7 @@ livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Ne pas se forcer, ne pas se retenir"
+corpusNum: 187
 excerpt: "Se forcer à être bien ou se retenir d'être mal : dans les deux cas on s'éloigne de soi et on ment."
 category: "vrai-de-soi"
 order: 36

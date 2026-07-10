@@ -6,6 +6,7 @@ livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
 title: "De la clarté"
+corpusNum: 32
 excerpt: "Au lieu de chercher une solution, mieux vaut d’abord chercher à y voir plus clair."
 category: "vrai-de-soi"
 order: 22

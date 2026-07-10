@@ -6,6 +6,7 @@ livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
 title: "La vie n’est pas une fenêtre mais un miroir"
+corpusNum: 130
 excerpt: "Ce que je vois au-dehors n’est peut-être que le reflet de ce qui m’habite."
 category: "regard-vie"
 order: 5

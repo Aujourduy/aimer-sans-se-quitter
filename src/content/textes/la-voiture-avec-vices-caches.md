@@ -6,6 +6,7 @@ livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
 title: "La voiture avec vices cachés !"
+corpusNum: 133
 excerpt: "Une voiture d'occasion pleine de pannes révèle une leçon sur le prix payé pour ce qui compte vraiment."
 category: "vrai-de-soi"
 order: 53

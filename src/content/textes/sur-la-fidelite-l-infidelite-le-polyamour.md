@@ -6,6 +6,7 @@ livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Sur la fidélité, l'infidélité, le polyamour"
+corpusNum: 233
 excerpt: "Ni pour ni contre : sortir du débat et de la justification pour revenir à ses propres besoins et peurs."
 category: "lien-relation"
 order: 39

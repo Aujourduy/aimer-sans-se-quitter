@@ -6,6 +6,7 @@ livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Être dans le plaisir vs le plaisir de l'Être"
+corpusNum: 52
 excerpt: "Au-delà des recettes pour plus de plaisir, distinguer le plaisir vécu et le plaisir d'être."
 category: "corps-desir"
 order: 15

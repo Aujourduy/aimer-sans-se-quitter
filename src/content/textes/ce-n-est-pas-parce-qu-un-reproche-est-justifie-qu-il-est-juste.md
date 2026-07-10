@@ -6,6 +6,7 @@ livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Ce n’est pas parce qu’un reproche est justifié qu’il est juste"
+corpusNum: 10
 excerpt: "Le cœur sent la distance grandir, puis cherche une raison raisonnable pour la justifier."
 category: "lien-relation"
 order: 19

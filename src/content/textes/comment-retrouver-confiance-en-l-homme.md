@@ -6,6 +6,7 @@ livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Comment retrouver confiance en l’homme ?"
+corpusNum: 25
 excerpt: "La vraie question n’est pas la confiance en l’homme, mais la confiance en soi face à lui."
 category: "vrai-de-soi"
 order: 2

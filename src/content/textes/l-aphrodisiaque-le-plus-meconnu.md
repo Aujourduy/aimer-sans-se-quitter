@@ -6,6 +6,7 @@ livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
 title: "L’aphrodisiaque le plus méconnu"
+corpusNum: 85
 excerpt: "Mon plus grand aphrodisiaque n’est ni un aliment ni une posture : c’est la vérité."
 category: "corps-desir"
 order: 68

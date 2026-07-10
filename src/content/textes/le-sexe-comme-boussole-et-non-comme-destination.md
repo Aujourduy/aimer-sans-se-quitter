@@ -6,6 +6,7 @@ livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Le sexe comme boussole et non comme destination"
+corpusNum: 157
 excerpt: "Ce n’était pas lié à ce que nous avions fait, mais à la manière dont nous l’avions fait."
 category: "corps-desir"
 order: 89

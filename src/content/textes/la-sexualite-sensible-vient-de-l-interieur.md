@@ -6,6 +6,7 @@ livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
 title: "La sexualité sensible vient de l'intérieur"
+corpusNum: 127
 excerpt: "Réponse à une femme : l'essentiel de la sexualité sensible vient de l'intérieur, pas des grands mots."
 category: "corps-desir"
 order: 72

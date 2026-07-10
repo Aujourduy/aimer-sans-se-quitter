@@ -6,6 +6,7 @@ livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Oedipe, le drame des mensonges par omission"
+corpusNum: 189
 excerpt: "Tous ont menti par omission pour protéger des êtres chers, et cela les a conduits au drame."
 category: "vrai-de-soi"
 order: 37

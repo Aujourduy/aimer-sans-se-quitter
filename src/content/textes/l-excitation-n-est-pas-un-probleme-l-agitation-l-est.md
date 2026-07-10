@@ -6,6 +6,7 @@ livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
 title: "L'excitation n'est pas un problème, l'agitation l'est"
+corpusNum: 89
 excerpt: "Distinguer l'excitation physiologique de l'agitation née de la peur : calmer l'agitation pour libérer l'excitation."
 category: "corps-desir"
 order: 29

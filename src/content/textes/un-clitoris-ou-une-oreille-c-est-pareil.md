@@ -6,6 +6,7 @@ livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Un clitoris ou une oreille, c’est pareil"
+corpusNum: 244
 excerpt: "On peut faire une toilette du corps avant de faire l’amour ; on peut aussi faire une toilette de l’esprit."
 category: "corps-desir"
 order: 65

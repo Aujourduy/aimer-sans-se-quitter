@@ -100,6 +100,7 @@ function listTextes() {
     const item = {
       slug: slugOf(file),
       title: data.title ?? slugOf(file),
+      corpusNum: typeof data.corpusNum === 'number' ? data.corpusNum : null,
       category: data.category ?? '(sans thème)',
       order: data.order ?? 0,
       verifieParDuy: data.verifieParDuy === true,
@@ -449,6 +450,7 @@ function pageHtml() {
   .row:hover{background:#ece5d8;}
   .row.sel{background:#e3d9c8;}
   .row-title{font-size:.85rem;line-height:1.25;}
+  .row-num{color:var(--bleu);font-variant-numeric:tabular-nums;font-size:.78rem;opacity:.7;}
   .badges{display:flex;gap:.3rem;}
   .b{font-size:.62rem;font-weight:600;padding:.05rem .4rem;border-radius:.6rem;line-height:1.4;}
   .b-ok{background:var(--vert);color:#fff;} .b-todo{background:#e7e0d4;color:var(--sepia);border:1px solid var(--filet);}
@@ -523,7 +525,7 @@ function pageHtml() {
       <button data-f="pub">Publiés</button>
       ${LIVRE_FLAGS.map((f) => `<button data-f="flag:${f.key}">${f.label}</button>`).join('')}
     </div>
-    <input class="search" id="search" placeholder="Rechercher (mots-clés, OU, fautes tolérées)…">
+    <input class="search" id="search" placeholder="Rechercher (mots-clés ou n° de texte, ex. 213)…">
     <section class="sujets">
       <div class="sujets-head">
         <h2>Sujets à écrire</h2>
@@ -616,6 +618,8 @@ function visible(t){
   if(statut==='pub'&&t.draft)return false;
   // Marqueurs (cumulés en ET : le texte doit porter TOUS les marqueurs actifs)
   for(const key of flags) if(!t[key]) return false;
+  // Requête purement numérique → match EXACT sur le n° de corpus (pas de flou).
+  if(q&&/^\\d+$/.test(q)) return t.corpusNum===Number(q);
   if(q&&!matcheRecherche(t.title))return false;
   return true;
 }
@@ -643,7 +647,9 @@ function renderSujets(){
   const cont=$('#sujets-list'); if(!cont) return;
   let items=SUJETS.slice();
   if(masquerFaits) items=items.filter(s=>!s.fait);
-  if(q) items=items.filter(s=>matcheRecherche(s.titre));
+  // Une requête numérique cible un n° de texte : elle ne filtre pas les sujets.
+  if(q&&/^\\d+$/.test(q)) items=[];
+  else if(q) items=items.filter(s=>matcheRecherche(s.titre));
   // Les sujets non faits d'abord, puis les faits.
   items.sort((a,b)=>(a.fait?1:0)-(b.fait?1:0));
   if(!items.length){ cont.innerHTML='<p class="sujets-empty">'+(SUJETS.length?'Aucun sujet ne correspond.':'Aucun sujet pour le moment.')+'</p>'; return; }
@@ -670,8 +676,9 @@ async function deleteSujet(id){
 window.toggleSujet=toggleSujet; window.deleteSujet=deleteSujet;
 
 function rowHtml(t){
+  const num = t.corpusNum!=null ? '<span class="row-num">#'+t.corpusNum+'</span> ' : '';
   return '<div class="row'+(sel===t.slug?' sel':'')+'" onclick="open_(\\''+t.slug+'\\')">'
-    +'<div class="row-title">'+t.title+'</div>'
+    +'<div class="row-title">'+num+t.title+'</div>'
     +'<div class="badges">'+badge(t)+'</div></div>';
 }
 function badge(t){

@@ -6,6 +6,7 @@ livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Ouvrir votre amant à une sexualité sensible"
+corpusNum: 197
 excerpt: "Ouvrir son partenaire à une sexualité sensible : faire le deuil du dire, devenir pédagogue et trouver les mots qui touchent."
 category: "lien-relation"
 order: 17

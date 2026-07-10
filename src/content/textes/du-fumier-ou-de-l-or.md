@@ -6,6 +6,7 @@ livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Du fumier ou de l’or"
+corpusNum: 47
 excerpt: "Le travail transforme le fumier en engrais pour voir fleurir des roses."
 category: "vrai-de-soi"
 order: 58

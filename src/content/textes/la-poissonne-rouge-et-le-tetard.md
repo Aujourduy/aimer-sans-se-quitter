@@ -6,6 +6,7 @@ livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
 title: "La poissonne rouge et le têtard"
+corpusNum: 114
 excerpt: "On ne peut pas demander à un têtard de grandir dans l’eau où il est né."
 category: "vrai-de-soi"
 order: 52

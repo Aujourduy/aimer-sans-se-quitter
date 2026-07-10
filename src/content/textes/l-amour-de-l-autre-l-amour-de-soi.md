@@ -6,6 +6,7 @@ livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
 title: "L’amour de l’autre, l’amour de soi"
+corpusNum: 84
 excerpt: "Chercher d’abord son propre soleil plutôt que la lune fantasmée d’une joie venue de l’extérieur."
 category: "vrai-de-soi"
 order: 4

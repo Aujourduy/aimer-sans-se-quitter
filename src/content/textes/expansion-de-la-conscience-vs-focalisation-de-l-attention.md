@@ -6,6 +6,7 @@ livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Expansion de la conscience vs focalisation de l’attention"
+corpusNum: 55
 excerpt: "On n’agrandit pas la perception dans l’espace, on l’affine et la concentre vers l’intérieur : le ici."
 category: "regard-vie"
 order: 15

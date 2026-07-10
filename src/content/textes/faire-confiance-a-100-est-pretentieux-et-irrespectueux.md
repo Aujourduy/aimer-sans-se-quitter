@@ -6,6 +6,7 @@ livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Faire confiance à 100% est prétentieux et irrespectueux"
+corpusNum: 56
 excerpt: "On ne rencontre l'autre qu'en étant profondément relié à soi ; la confiance totale nie sa liberté."
 category: "lien-relation"
 order: 4

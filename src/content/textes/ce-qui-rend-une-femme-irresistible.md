@@ -6,6 +6,7 @@ livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Ce qui rend une femme irrésistible"
+corpusNum: 13
 excerpt: "Le désir intérieur visible sur le visage : présence vs apparence physique"
 category: "vrai-de-soi"
 order: 19

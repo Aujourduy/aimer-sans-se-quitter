@@ -6,6 +6,7 @@ livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
 title: "La question qui a réveillé son désir"
+corpusNum: 117
 excerpt: "Une peur inconsciente bloquait l’énergie sexuelle ; l’écoute lui a donné l’espace de prendre forme."
 category: "corps-desir"
 order: 38

@@ -6,6 +6,7 @@ livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Cette frustration d'une sexualité sensible chez les femmes"
+corpusNum: 15
 excerpt: "Le déséquilibre physiologique homme/femme rend rare l'amant assez à l'écoute pour les femmes sensibles."
 category: "corps-desir"
 order: 6

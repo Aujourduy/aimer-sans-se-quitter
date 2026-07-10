@@ -6,6 +6,7 @@ livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Le coït sans sexe"
+corpusNum: 138
 excerpt: "Dans un coït, si tu crois que tu as un sexe, c’est que tu n’es plus dans ton ressenti."
 category: "corps-desir"
 order: 45

@@ -6,6 +6,7 @@ livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Trente mots qui ne voulaient pas attendre"
+corpusNum: 241
 excerpt: "Poème-liste né d'un stage de danse, réflexion sur la création comme révélation divine"
 category: "regard-vie"
 order: 8

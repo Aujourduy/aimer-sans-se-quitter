@@ -6,6 +6,7 @@ livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Quand une femme parle de sexualité à son amant"
+corpusNum: 216
 excerpt: "Elle parle depuis le cœur, lui est pris par la peur dans le corps : il faut changer d'approche pour être entendue."
 category: "corps-desir"
 order: 80

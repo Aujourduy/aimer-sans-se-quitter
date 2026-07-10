@@ -6,6 +6,7 @@ livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
 title: "La pyramide de Khéops et la tour Eiffel"
+corpusNum: 116
 excerpt: "Plutôt qu’éveiller quelques zones, développer la sensibilité de tout le corps, couche après couche."
 category: "corps-desir"
 order: 37

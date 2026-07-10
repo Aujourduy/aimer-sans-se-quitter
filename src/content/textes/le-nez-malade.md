@@ -6,6 +6,7 @@ livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Le nez malade"
+corpusNum: 147
 excerpt: "La souffrance ne vient pas de la sexualité, mais de la perception de la sexualité."
 category: "corps-desir"
 order: 88

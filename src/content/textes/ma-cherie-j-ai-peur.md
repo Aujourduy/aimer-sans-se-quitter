@@ -6,6 +6,7 @@ livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Ma chérie, j’ai peur"
+corpusNum: 176
 excerpt: "Avouer ses peurs, c’est partager sa réalité ; les taire élève un mur de solitude."
 category: "vrai-de-soi"
 order: 34

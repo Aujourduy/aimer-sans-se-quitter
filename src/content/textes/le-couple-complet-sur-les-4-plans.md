@@ -6,6 +6,7 @@ livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Le couple complet sur les 4 plans"
+corpusNum: 140
 excerpt: "Au-delà du mental, de l'émotion et du corps, la sexualité est un 4e plan à reconnaître pour identifier ses vrais besoins amoureux."
 category: "lien-relation"
 order: 31

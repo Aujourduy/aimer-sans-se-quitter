@@ -6,6 +6,7 @@ livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
 title: "La frustration de liberté d’être"
+corpusNum: 103
 excerpt: "Chercher non plus le plaisir mais la liberté d’être qui nous sommes, complètement."
 category: "vrai-de-soi"
 order: 32

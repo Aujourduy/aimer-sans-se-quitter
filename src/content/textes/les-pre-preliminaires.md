@@ -6,6 +6,7 @@ livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Les pré-préliminaires"
+corpusNum: 173
 excerpt: "Avant les préliminaires, un temps sans contact où les esprits puis les cœurs se retrouvent avant les corps."
 category: "corps-desir"
 order: 53

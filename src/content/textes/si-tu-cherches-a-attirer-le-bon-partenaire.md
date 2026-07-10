@@ -6,6 +6,7 @@ livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Si tu cherches à attirer le bon partenaire"
+corpusNum: 226
 excerpt: "Arrête de chercher à attirer les bons partenaires : repousser les mauvais est la vraie stratégie."
 category: "vrai-de-soi"
 order: 70

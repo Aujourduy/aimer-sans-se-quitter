@@ -6,6 +6,7 @@ livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Les 4 accords toltèques"
+corpusNum: 162
 excerpt: "Les quatre accords toltèques relus pour la relation : parole impeccable, sans supposition, sans prendre personnellement, faire de son mieux."
 category: "lien-relation"
 order: 34

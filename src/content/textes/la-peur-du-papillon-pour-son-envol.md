@@ -6,6 +6,7 @@ livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
 title: "La peur du papillon pour son envol"
+corpusNum: 113
 excerpt: "Le papillon ne voit pas son décollage, il sent le sol se dérober."
 category: "vrai-de-soi"
 order: 51

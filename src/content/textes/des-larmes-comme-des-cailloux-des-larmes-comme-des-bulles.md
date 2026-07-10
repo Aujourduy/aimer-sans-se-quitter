@@ -6,6 +6,7 @@ livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Des larmes comme des cailloux, des larmes comme des bulles"
+corpusNum: 40
 excerpt: "Deux sortes de larmes après l’amour, selon qu’on a porté un masque ou ouvert le cœur."
 category: "corps-desir"
 order: 12

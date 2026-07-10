@@ -6,6 +6,7 @@ livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Témoignage d'A."
+corpusNum: 235
 excerpt: "Après un an d'attente, Annie trouve l'amour et la sexualité sensible, en accord avec elle-même."
 category: "pratique-posture"
 order: 3

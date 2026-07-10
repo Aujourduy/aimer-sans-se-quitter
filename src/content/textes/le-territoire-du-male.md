@@ -6,6 +6,7 @@ livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Le territoire du mâle"
+corpusNum: 158
 excerpt: "Le Roi occupe l'espace par la présence, la lumière et le souffle plutôt que par les biens matériels."
 category: "vrai-de-soi"
 order: 14

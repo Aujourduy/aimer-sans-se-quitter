@@ -6,6 +6,7 @@ livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
 title: "La séduction 0.0 — ne pas chercher à attirer"
+corpusNum: 119
 excerpt: "Théorie originale de la non-séduction : être sans chercher à plaire"
 category: "vrai-de-soi"
 order: 13

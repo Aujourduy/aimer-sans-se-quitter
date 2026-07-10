@@ -6,6 +6,7 @@ livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
 title: "L’amant glouton vs l’amant gourmet"
+corpusNum: 82
 excerpt: "Le glouton se dépêche de consommer ; le gourmet prend le temps de déguster."
 category: "corps-desir"
 order: 27

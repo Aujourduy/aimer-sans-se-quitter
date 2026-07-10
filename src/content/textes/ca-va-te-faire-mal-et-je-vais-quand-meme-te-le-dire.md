@@ -6,6 +6,7 @@ livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Ca va te faire mal et je vais quand même te le dire"
+corpusNum: 8
 excerpt: "Le dilemme entre confort et vérité : se taire accumule l'inconfort, dire offre à l'autre l'occasion de grandir."
 category: "vrai-de-soi"
 order: 15

@@ -6,6 +6,7 @@ livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
 title: "La danse comme présence totale"
+corpusNum: 97
 excerpt: "La présence authentique dans la danse comme voie vers l'intimité profonde"
 category: "lien-relation"
 order: 8

@@ -6,6 +6,7 @@ livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Le secret de mes caresses"
+corpusNum: 156
 excerpt: "Ne plus donner des caresses avec sa main, mais recevoir avec sa main les caresses de la peau de l'autre."
 category: "corps-desir"
 order: 46

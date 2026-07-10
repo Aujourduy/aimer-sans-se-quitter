@@ -6,6 +6,7 @@ livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Voici pourquoi tes relations sont foireuses"
+corpusNum: 250
 excerpt: "Cesse de chercher l’homme bien : deviens d’abord la femme que cet homme cherche."
 category: "vrai-de-soi"
 order: 11

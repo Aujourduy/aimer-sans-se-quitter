@@ -6,6 +6,7 @@ livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Ma révolution"
+corpusNum: 180
 excerpt: "Le jour où j'ai décidé de ne vivre qu'une sexualité authentique, quitte à y renoncer entièrement."
 category: "pratique-posture"
 order: 12

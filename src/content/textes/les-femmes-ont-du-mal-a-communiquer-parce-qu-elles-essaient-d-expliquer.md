@@ -6,6 +6,7 @@ livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Les femmes ont du mal à communiquer parce qu'elles essaient d'expliquer"
+corpusNum: 170
 excerpt: "Communiquer sur la sexualité demande de voir la peur du partenaire et de créer un cadre plutôt que d'expliquer."
 category: "lien-relation"
 order: 35

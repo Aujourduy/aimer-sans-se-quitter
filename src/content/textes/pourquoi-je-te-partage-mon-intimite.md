@@ -6,6 +6,7 @@ livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Pourquoi je te partage mon intimité"
+corpusNum: 207
 excerpt: "On apprend par mimétisme : voir marcher, entendre parler ; alors partager son intimité pour transmettre."
 category: "pratique-posture"
 order: 7

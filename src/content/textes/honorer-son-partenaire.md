@@ -6,6 +6,7 @@ livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Honorer son partenaire"
+corpusNum: 62
 excerpt: "Concept intemporel : honorer vs attendre, posture de gratitude"
 category: "lien-relation"
 order: 5

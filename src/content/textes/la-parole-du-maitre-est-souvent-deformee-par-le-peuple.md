@@ -6,6 +6,7 @@ livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
 title: "La parole du maître est souvent déformée par le peuple"
+corpusNum: 112
 excerpt: "Ce que nous croyons être connaissance n’est souvent que croyance remâchée."
 category: "regard-vie"
 order: 11

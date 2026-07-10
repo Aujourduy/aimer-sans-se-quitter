@@ -6,6 +6,7 @@ livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Les 4 fondamentaux pour faire évoluer votre sexualité"
+corpusNum: 164
 excerpt: "Confiance, écoute, communication, exploration : les quatre piliers d'une sexualité qui évolue en profondeur."
 category: "corps-desir"
 order: 76

@@ -6,6 +6,7 @@ livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
 title: "La sexualité sensible c'est être libre d'être"
+corpusNum: 125
 excerpt: "La sexualité sensible se résume à être libre d'être, sans paraître ni chercher à être plus."
 category: "corps-desir"
 order: 43

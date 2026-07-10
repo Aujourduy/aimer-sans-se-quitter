@@ -6,6 +6,7 @@ livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Comment l’histoire de sa vie se retourne en 10 minutes"
+corpusNum: 24
 excerpt: "Reprendre les éléments un par un, jusqu’à ce que l’illusion négative de soi cède."
 category: "vrai-de-soi"
 entry: true

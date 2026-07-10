@@ -6,6 +6,7 @@ livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Vérité et réconciliation"
+corpusNum: 249
 excerpt: "La clé, c’est la vérité : se montrer victime ou bourreau pour retrouver sa dignité."
 category: "vrai-de-soi"
 order: 45

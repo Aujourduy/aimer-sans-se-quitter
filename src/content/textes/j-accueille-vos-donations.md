@@ -6,6 +6,7 @@ livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
 title: "J'accueille vos donations"
+corpusNum: 72
 excerpt: "Accepter de recevoir des dons révèle une peur plus profonde : la peur d'être grand et de recevoir beaucoup."
 category: "vrai-de-soi"
 order: 28

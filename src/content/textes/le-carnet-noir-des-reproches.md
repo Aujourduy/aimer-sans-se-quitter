@@ -6,6 +6,7 @@ livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Le carnet noir des reproches"
+corpusNum: 135
 excerpt: "Ce qui ne s’exprime pas s’imprime dans le carnet noir, et s’exprime quand même plus tard."
 category: "lien-relation"
 order: 47

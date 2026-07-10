@@ -12,6 +12,7 @@ const textes = defineCollection({
   }),
   schema: z.object({
     title: z.string(),
+    corpusNum: z.number().optional(), // n° du texte dans le corpus (1–250), pour la recherche dans l'outil de relecture
     excerpt: z.string(), // une ligne, affichée sur la carte
     category: z.enum([
       'lien-relation',

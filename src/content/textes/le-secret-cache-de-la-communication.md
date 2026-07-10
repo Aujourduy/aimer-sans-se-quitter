@@ -6,6 +6,7 @@ livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Le secret caché de la communication"
+corpusNum: 155
 excerpt: "L’essentiel n’est pas l’outil mais la main qui le tient."
 category: "lien-relation"
 order: 33

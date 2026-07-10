@@ -6,6 +6,7 @@ livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Quand je fais toujours la même chose"
+corpusNum: 214
 excerpt: "Pour des résultats différents, il faut oser l'authenticité totale, même au prix d'un long célibat."
 category: "vrai-de-soi"
 order: 42

@@ -6,6 +6,7 @@ livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Reproches & reproches & reproches"
+corpusNum: 219
 excerpt: "Moins il y a de reproches, et plus il y a de l’action."
 category: "lien-relation"
 order: 48

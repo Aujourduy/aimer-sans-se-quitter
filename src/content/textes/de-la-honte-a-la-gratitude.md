@@ -6,6 +6,7 @@ livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
 title: "De la honte à la gratitude"
+corpusNum: 33
 excerpt: "D’un trauma longtemps caché, il a fait une force, une histoire, une gratitude."
 category: "vrai-de-soi"
 order: 12

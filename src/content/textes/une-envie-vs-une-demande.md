@@ -6,6 +6,7 @@ livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Une envie vs une demande"
+corpusNum: 246
 excerpt: "Une demande part d’un manque ; une envie part du neutre vers le positif."
 category: "lien-relation"
 order: 40

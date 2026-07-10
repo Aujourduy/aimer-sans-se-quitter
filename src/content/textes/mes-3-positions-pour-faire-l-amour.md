@@ -6,6 +6,7 @@ livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Mes 3 positions pour faire l’amour"
+corpusNum: 184
 excerpt: "La Demande, le Don, l’Abandon : trois manières de faire l’amour venues avec la maturité."
 category: "corps-desir"
 order: 55

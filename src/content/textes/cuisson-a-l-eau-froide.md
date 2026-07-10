@@ -6,6 +6,7 @@ livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Cuisson à l’eau froide"
+corpusNum: 30
 excerpt: "Donner le temps et l’espace pour que la sensualité s’exprime d’elle-même, sans forcer."
 category: "corps-desir"
 order: 83

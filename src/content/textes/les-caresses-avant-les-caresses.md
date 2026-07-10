@@ -6,6 +6,7 @@ livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Les caresses avant les caresses"
+corpusNum: 167
 excerpt: "Ce n’était pas la caresse, mais l’atmosphère, qui a suscité le désir."
 category: "corps-desir"
 order: 50

@@ -6,6 +6,7 @@ livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Le manque et la présence de quelqu’un"
+corpusNum: 146
 excerpt: "Ce que j’appelle manque, c’est en réalité de la présence intérieure."
 category: "vrai-de-soi"
 order: 6

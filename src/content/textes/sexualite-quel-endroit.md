@@ -6,6 +6,7 @@ livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Sexualité : quel endroit ?"
+corpusNum: 224
 excerpt: "D'où je pars vers l'autre importe plus que vers quel endroit je vais : la présence avant la carte du plaisir."
 category: "corps-desir"
 order: 60

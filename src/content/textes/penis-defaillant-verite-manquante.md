@@ -6,6 +6,7 @@ livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Pénis défaillant, vérité manquante"
+corpusNum: 198
 excerpt: "L'impuissance et l'éjaculation précoce comme signe d'une vérité du cœur non partagée, pas d'un problème physique."
 category: "corps-desir"
 order: 79

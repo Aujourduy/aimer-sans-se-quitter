@@ -6,6 +6,7 @@ livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Aime-toi toi-même avant d’aimer l’autre"
+corpusNum: 3
 excerpt: "Entrer dans son royaume d’abord, remplir sa bulle de soi, puis amener sa richesse vers l’autre."
 category: "vrai-de-soi"
 order: 1

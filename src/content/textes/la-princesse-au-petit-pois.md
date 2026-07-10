@@ -6,6 +6,7 @@ livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
 title: "La princesse au petit pois"
+corpusNum: 115
 excerpt: "Le petit pois sous mes matelas, c’était le masque que je portais."
 category: "vrai-de-soi"
 order: 63

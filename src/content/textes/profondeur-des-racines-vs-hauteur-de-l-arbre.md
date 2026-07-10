@@ -6,6 +6,7 @@ livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Profondeur des racines vs hauteur de l’arbre"
+corpusNum: 211
 excerpt: "Les choses fortes demandent un long temps de préparation invisible, comme les rhizomes du bambou sous la terre."
 category: "regard-vie"
 order: 20

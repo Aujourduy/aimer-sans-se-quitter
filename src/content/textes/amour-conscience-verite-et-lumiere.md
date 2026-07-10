@@ -6,6 +6,7 @@ livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Amour, Conscience, Vérité et Lumière"
+corpusNum: 4
 excerpt: "Quatre versants d'une même montagne, et pleurer de gratitude aux enterrements : la douleur, c'est de l'amour."
 category: "regard-vie"
 order: 1

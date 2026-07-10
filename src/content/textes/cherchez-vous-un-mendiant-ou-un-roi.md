@@ -6,6 +6,7 @@ livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Cherchez-vous un Mendiant ou un Roi ?"
+corpusNum: 17
 excerpt: "Deux archétypes dans la rencontre : le mendiant qui réclame, le roi qui déborde."
 category: "lien-relation"
 order: 21

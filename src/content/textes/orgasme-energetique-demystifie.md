@@ -6,6 +6,7 @@ livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Orgasme énergétique démystifié"
+corpusNum: 193
 excerpt: "Aussi fabuleux que tu l'imagines, mais moins important : le chemin vaut plus que l'expérience."
 category: "corps-desir"
 order: 56

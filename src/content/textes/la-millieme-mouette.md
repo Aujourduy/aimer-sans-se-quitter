@@ -6,6 +6,7 @@ livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
 title: "La millième mouette"
+corpusNum: 108
 excerpt: "On ne progresse que par la pratique, et par l’exploration des aspects qu’on n’avait pas encore tentés."
 category: "pratique-posture"
 order: 15

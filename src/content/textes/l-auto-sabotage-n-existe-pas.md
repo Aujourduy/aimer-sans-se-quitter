@@ -6,6 +6,7 @@ livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
 title: "L'auto-sabotage n'existe pas"
+corpusNum: 87
 excerpt: "Thèse contre-intuitive intemporelle : ce qu'on croit sabotage est amour non reconnu"
 category: "vrai-de-soi"
 order: 30

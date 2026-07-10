@@ -6,6 +6,7 @@ livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Comment j’ai su que j’avais besoin de lunettes ?"
+corpusNum: 22
 excerpt: "C’est en portant des lunettes qu’on découvre qu’on croyait voir clair sans l’être."
 category: "vrai-de-soi"
 order: 21

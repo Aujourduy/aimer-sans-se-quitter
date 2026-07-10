@@ -6,6 +6,7 @@ livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Les roues patinent et on fait du sur place en voulant aller trop vite"
+corpusNum: 175
 excerpt: "Comme des pneus qui patinent, vouloir aller trop vite fait faire du surplace."
 category: "regard-vie"
 order: 18

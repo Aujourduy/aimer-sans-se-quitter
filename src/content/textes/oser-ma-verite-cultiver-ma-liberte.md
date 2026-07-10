@@ -6,6 +6,7 @@ livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Oser ma Vérité, Cultiver ma Liberté"
+corpusNum: 194
 excerpt: "Les problèmes viennent de ne pas assumer sa vérité ou de ne pas respecter sa liberté : difficile mais simple."
 category: "vrai-de-soi"
 order: 39

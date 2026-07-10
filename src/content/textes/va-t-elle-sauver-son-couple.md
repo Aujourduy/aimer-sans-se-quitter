@@ -6,6 +6,7 @@ livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Va-t-elle sauver son couple ?"
+corpusNum: 248
 excerpt: "Un texto reçu d'une femme rencontrée en entretien pour l'accompagnement."
 category: "lien-relation"
 order: 16

@@ -6,6 +6,7 @@ livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Les dimensions de l'être humain"
+corpusNum: 168
 excerpt: "Amorce sur les trois puis quatre dimensions de l'être : mental, émotion, physique et sexe."
 category: "corps-desir"
 order: 51

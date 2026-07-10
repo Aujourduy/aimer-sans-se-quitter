@@ -6,6 +6,7 @@ livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Dire que c'est important sans bouger"
+corpusNum: 43
 excerpt: "Réflexion développée : si l'objectif est vrai, l'inaction crée colère et victimisation"
 category: "vrai-de-soi"
 order: 24

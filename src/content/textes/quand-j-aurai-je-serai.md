@@ -6,6 +6,7 @@ livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Quand j’aurai, je serai"
+corpusNum: 213
 excerpt: "L’Amour guérit, mais la Vérité est la condition nécessaire."
 category: "vrai-de-soi"
 order: 41

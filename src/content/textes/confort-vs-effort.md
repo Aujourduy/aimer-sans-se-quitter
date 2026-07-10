@@ -6,6 +6,7 @@ livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Confort vs effort"
+corpusNum: 26
 excerpt: "L’effort crée une dette implicite ; le confort, lui, laisse place au vrai don."
 category: "lien-relation"
 order: 22

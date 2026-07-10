@@ -6,6 +6,7 @@ livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
 title: "La fin d’une relation, ce séisme (presque) inévitable"
+corpusNum: 100
 excerpt: "À la rupture vient le bilan obligatoire, quand les petits mensonges accumulés libèrent enfin leurs tensions."
 category: "lien-relation"
 order: 30

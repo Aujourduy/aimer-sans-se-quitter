@@ -6,6 +6,7 @@ livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Je suis un pinceau, pas l'auteur"
+corpusNum: 77
 excerpt: "Réflexion intemporelle sur la création comme canal : danse, amour, sagesse viennent à travers soi"
 category: "regard-vie"
 order: 3

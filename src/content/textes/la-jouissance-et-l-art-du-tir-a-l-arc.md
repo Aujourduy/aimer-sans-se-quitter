@@ -6,6 +6,7 @@ livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
 title: "La jouissance et l’art du tir à l’arc"
+corpusNum: 104
 excerpt: "Atteindre la cible ne suffit pas : c’est enlever les entraves qui compte."
 category: "corps-desir"
 order: 86

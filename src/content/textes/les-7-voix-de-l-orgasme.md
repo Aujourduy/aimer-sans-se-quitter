@@ -6,6 +6,7 @@ livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Les 7 voix de l’orgasme"
+corpusNum: 165
 excerpt: "Explorer la voix comme un membre à part entière de l’amour."
 category: "corps-desir"
 order: 49

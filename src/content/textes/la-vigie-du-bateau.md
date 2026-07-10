@@ -6,6 +6,7 @@ livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
 title: "La vigie du bateau"
+corpusNum: 131
 excerpt: "Comme la vigie voit la terre avant l'équipage, la femme perçoit souvent en sexualité ce que l'homme ne voit pas encore."
 category: "corps-desir"
 order: 87

@@ -6,6 +6,7 @@ livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
 title: "La sexualité sensible n'est pas l'arrivée mais le départ"
+corpusNum: 126
 excerpt: "La sexualité sensible tient en deux mots : oser ma vérité, honorer ma liberté — mon point de départ."
 category: "corps-desir"
 order: 71

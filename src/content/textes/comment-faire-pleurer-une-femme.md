@@ -6,6 +6,7 @@ livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Comment faire pleurer une femme"
+corpusNum: 21
 excerpt: "Si peu de mots sur les larmes de joie, ce trop-plein qui vient quand la confiance s’ouvre."
 category: "corps-desir"
 order: 9

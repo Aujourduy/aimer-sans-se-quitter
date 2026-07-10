@@ -6,6 +6,7 @@ livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Je touche l’autre"
+corpusNum: 80
 excerpt: "L'ordre des mots dit l'ordre de l'attention : le « Je », le « toucher », puis « l'autre »."
 category: "corps-desir"
 order: 25

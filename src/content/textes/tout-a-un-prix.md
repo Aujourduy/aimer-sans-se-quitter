@@ -6,6 +6,7 @@ livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Tout a un prix"
+corpusNum: 238
 excerpt: "Le prix le plus cher fut celui du dépassement de soi, vers l’authenticité."
 category: "vrai-de-soi"
 order: 43

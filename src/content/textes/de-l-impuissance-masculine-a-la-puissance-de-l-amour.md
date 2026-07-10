@@ -6,6 +6,7 @@ livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
 title: "De l'impuissance masculine à la puissance de l'amour"
+corpusNum: 31
 excerpt: "Des hommes vivent leur non-érection comme un ennemi à combattre et culpabilisent."
 category: "corps-desir"
 order: 67

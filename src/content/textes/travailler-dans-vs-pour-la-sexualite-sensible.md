@@ -6,6 +6,7 @@ livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Travailler DANS vs POUR la sexualité sensible"
+corpusNum: 240
 excerpt: "Ne plus faire du business avec le message, mais se mettre au service du message lui-même."
 category: "pratique-posture"
 order: 14

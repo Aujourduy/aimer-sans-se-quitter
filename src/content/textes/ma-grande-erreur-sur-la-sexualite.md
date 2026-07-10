@@ -6,6 +6,7 @@ livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Ma grande erreur sur la sexualité"
+corpusNum: 178
 excerpt: "La chaîne était prise à l'envers : c'est l'autonomie affective qui mène à une sexualité heureuse, pas l'inverse."
 category: "corps-desir"
 order: 78

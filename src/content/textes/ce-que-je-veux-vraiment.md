@@ -6,6 +6,7 @@ livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Ce que je veux vraiment"
+corpusNum: 12
 excerpt: "La première erreur est de ne pas admettre nos besoins réels."
 category: "vrai-de-soi"
 order: 18

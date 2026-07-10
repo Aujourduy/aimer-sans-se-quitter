@@ -6,6 +6,7 @@ livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Trois directions de l’amour"
+corpusNum: 242
 excerpt: "Être aimé, aimer, s’aimer dans la relation : trois directions, et le but est la troisième."
 category: "lien-relation"
 order: 15

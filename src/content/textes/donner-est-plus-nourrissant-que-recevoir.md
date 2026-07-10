@@ -6,6 +6,7 @@ livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Donner est plus nourrissant que recevoir"
+corpusNum: 46
 excerpt: "Renversement court mais développé sur l'amour et la sexualité, intemporel"
 category: "lien-relation"
 order: 3

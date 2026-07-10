@@ -6,6 +6,7 @@ livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Chérie, je suis excité ! Sauve-moi !"
+corpusNum: 18
 excerpt: "L'excitation n'est pas un problème à résoudre : respecter les besoins de son sexe avant ceux de l'autre."
 category: "corps-desir"
 order: 7

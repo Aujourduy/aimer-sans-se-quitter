@@ -6,6 +6,7 @@ livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
 title: "La liberté d'être comme excitation"
+corpusNum: 105
 excerpt: "Réflexion sur la liberté d'être soi comme source d'éros, idée originale"
 category: "corps-desir"
 order: 35

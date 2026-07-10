@@ -6,6 +6,7 @@ livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Pour progresser il faut renoncer"
+corpusNum: 204
 excerpt: "Entre la performance et l’entraînement, deux temporalités inconciliables : il faut choisir."
 category: "regard-vie"
 order: 13

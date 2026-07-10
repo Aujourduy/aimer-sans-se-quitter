@@ -6,6 +6,7 @@ livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Tu es ma femme pour aujourd'hui"
+corpusNum: 243
 excerpt: "Poème érotique sur la fugacité, présence totale sans possession, vraie idée développée"
 category: "corps-desir"
 order: 4

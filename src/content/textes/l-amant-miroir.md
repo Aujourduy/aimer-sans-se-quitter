@@ -6,6 +6,7 @@ livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
 title: "L'amant miroir"
+corpusNum: 83
 excerpt: "Fable du miroir mongol : être présence vs apporter des techniques"
 category: "corps-desir"
 order: 28

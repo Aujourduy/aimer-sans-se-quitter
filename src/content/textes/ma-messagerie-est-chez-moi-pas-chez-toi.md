@@ -6,6 +6,7 @@ livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Ma messagerie est chez moi, pas chez toi"
+corpusNum: 179
 excerpt: "Réflexion sur la responsabilité de la colère et les frontières de l'espace personnel"
 category: "vrai-de-soi"
 order: 68
