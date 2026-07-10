@@ -11,10 +11,10 @@ excerpt: "Elle parle depuis le cœur, lui est pris par la peur dans le corps : i
 category: "corps-desir"
 order: 80
 draft: false
-parcours: false
-statutParcours: "JAMAIS-SITE"
-parcoursBloc: null
-parcoursSegment: null
+parcours: true
+statutParcours: "PRET"
+parcoursBloc: 3
+parcoursSegment: "colonne"
 ---
 Toutes les femmes ne sont pas les mêmes et tous les hommes n’ont plus. Ceci posé, il y a des points communs à beaucoup de femmes et idem entre les hommes. Au sujet de la sexualité sensible, il y a un sujet pour lequel j’ai entendu beaucoup de femmes se plaindre. Elles n’arrivent pas à parler efficacement de sexualité avec leur partenaire. Souvent, elles ne se sentent pas entendues, pas comprises dans leurs désirs et parfois même pas respectées dans leurs besoins physiologiques et psychologiques. 
 
@@ -44,30 +44,4 @@ Si vous êtes une femme et que vous sentez que vous n’êtes pas comprise par v
 
 Dans l’hypothèse où votre homme a peur, arrêtez d’aborder le sujet de la même façon. Parce que 1-ça ne donne pas de résultats, 2-vous allez vous épuiser. 3-cela renforce l’image de votre partenaire qu’il n’est pas à la hauteur, donc renforce sa peur.
 
-Peut-être que le cas de votre homme est désespéré, c’est possible. Mais peut-être que c’est votre approche qui est inadaptée parce que vous pensiez qui fonctionnait comme vous, qu’il comprenait vos mots, vos arguments et vos explications. Et peut-être que ce n’est pas le cas. Alors, trouvez des façons de communiquer plus efficacement. Ce que je propose à mes participants vient de mes connaissances de la PNL, de la communication ericksonienne, du Process Comm et un peu de la CNV mais il y en a d’autres.
-
-Pour terminer, voici le témoignage d’une participante à mon accompagnement :
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-“ Lorsque j’ai commencé à lire les posts de Duy, je me suis dit : « Mais voilà, voilà ce que je veux \! ». Mais comment l’exprimer, comment l’expliquer ? Comment expliquer à un homme non sensibilisé au développement personnel, méditation, tantra… ce qui pour moi est aussi vital et simple que de respirer ou de marcher \!
-
-En m’inscrivant à ce séminaire, je ne savais pas trop ce que j’allais y trouver mais j’étais confiante. 
-
-...
-
-Pour avoir lu ses posts, je savais, je sentais que cette expérience me conviendrait, allait être bénéfique pour moi.
-
-Avant ce séminaire, dans ma sexualité, j’étais dans le « faire » et pas dans le « être ».
-
-Être soi, c’est facile et pas facile. Les outils simples proposés et pratiqués dans ce séminaire m’ont vraiment permis de me retrouver, de faire la paix et de prendre du recul par rapport à mes expériences passées. J’ai pu définir mes besoins fondamentaux sans lesquels je ne pouvais pas vivre une sexualité épanouie.
-
-…
-
-J’ai pu mettre en pratique avec mon partenaire ce que j’étais en train de découvrir : se relier à soi, à mes besoins et avoir le courage de l’exprimer en prenant en compte son « être ». J’avance en confiance. En confiance avec lui, mais surtout en confiance avec moi-même.
-
-La sexualité n’a de qualité que la qualité d’être moi, honnête et bienveillante avec mon partenaire. En lui ayant exprimé mes besoins, je le découvre et il m’étonne. Un homme n’ayant aucune connaissance, aucune approche de tantra \&co.”
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-Voilà, j'espère que certaines d'entre vous reprendront espoir pour vivre la sexualité qui vous a toujours inspirée avec votre partenaire.
+Peut-être que le cas de votre homme est désespéré, c’est possible. Mais peut-être que c’est votre approche qui est inadaptée parce que vous pensiez qui fonctionnait comme vous, qu’il comprenait vos mots, vos arguments et vos explications. Et peut-être que ce n’est pas le cas. Alors, trouvez des façons de communiquer plus efficacement.
