@@ -134,6 +134,21 @@ est **générée automatiquement** depuis `package.json` (hook pre-commit).
 > Il régénère cette section à chaque commit qui touche `package.json` ou un
 > script. On peut aussi la régénérer à la main : `npm run outils-readme`.
 
+**Garde-fous « README = mémoire longue ».** Deux mécaniques rappellent de tenir ce
+README à jour quand la **mécanique du projet** change (schéma des textes
+`src/content.config.ts`, scripts `scripts/*.mjs` et `scripts/*.sh`, hooks
+`.githooks/`, config `astro.config.mjs`, `package.json`) — parce qu'un changement
+de mécanique non documenté se perd d'une session de travail à l'autre :
+
+- **`.githooks/pre-commit`** — après avoir régénéré la section « Outils », si le
+  commit touche un fichier structurel **sans** toucher `README.md`, il affiche un
+  avertissement (non bloquant : le commit passe).
+- **Stop hook Claude Code** (`scripts/stop-hook-readme-reminder.sh`, branché dans
+  `.claude/settings.json`) — à la fin d'un tour de Claude qui a modifié un fichier
+  structurel non commité sans toucher au README, il renvoie un rappel à Claude
+  (exit 2, non destructif) pour qu'il documente ou justifie l'omission avant de
+  rendre la main. Aucune écriture, aucun blocage de commit.
+
 <!-- OUTILS:START -->
 
 > _Section générée automatiquement par `scripts/generer-outils-readme.mjs`

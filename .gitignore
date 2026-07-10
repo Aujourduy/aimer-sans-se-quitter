@@ -16,4 +16,9 @@ npm-debug.log*
 .DS_Store
 # fichiers temporaires / config locale Claude
 tmp/
-.claude/
+# Config locale Claude ignorée, SAUF les hooks partagés de l'équipe.
+# (Il faut ignorer le CONTENU de .claude/, pas le dossier lui-même : git n'entre
+#  pas dans un dossier ignoré, donc une exception sur un fichier resterait sans
+#  effet. On ignore .claude/* puis on ré-autorise settings.json.)
+.claude/*
+!.claude/settings.json

@@ -17,3 +17,17 @@ if git diff --cached --name-only | grep -qE '^(package\.json|scripts/.*\.mjs)$';
     echo "pre-commit : README (section Outils) mis à jour et re-stagé."
   fi
 fi
+
+# Garde-fou « README pour les sessions suivantes » : si le commit modifie la
+# MÉCANIQUE du projet (schéma des textes, outil de relecture, hooks, scripts,
+# config Astro) sans toucher au README, avertir — sans bloquer. Le README est la
+# mémoire longue : un changement de mécanique non documenté se perd d'une session
+# à l'autre. Le hook ne juge pas le contenu (rôle de l'auteur / de Claude), il
+# signale seulement l'oubli probable.
+STAGED="$(git diff --cached --name-only)"
+if echo "$STAGED" | grep -qE '^(src/content\.config\.ts|scripts/.*\.(mjs|sh)|\.githooks/|astro\.config\.mjs|package\.json)$' \
+   && ! echo "$STAGED" | grep -qE '^README\.md$'; then
+  echo "⚠  pre-commit : ce commit change la mécanique du projet mais ne touche pas README.md."
+  echo "   Si un futur toi (ou Claude) doit connaître ce changement, ajoute une note au README."
+  echo "   (Avertissement seulement — le commit continue.)"
+fi
