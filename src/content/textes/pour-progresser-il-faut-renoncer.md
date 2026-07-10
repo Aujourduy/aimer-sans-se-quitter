@@ -3,15 +3,15 @@ verifieParDuy: false
 livreFableDanPhu: false
 livreAnalyseConte: false
 livreMetaphore: false
-livreVersus: true
-livreAimerSansDisparaitre: true
+livreVersus: false
+livreAimerSansDisparaitre: false
 title: "Pour progresser il faut renoncer"
 excerpt: "Entre la performance et l’entraînement, deux temporalités inconciliables : il faut choisir."
 category: "regard-vie"
 order: 13
 draft: true
 draftReason: "thème sexuel à recadrer vers le relationnel"
-parcours: true
+parcours: false
 ---
 
 C’est très clair dans le sport en particulier mais c’est aussi vrai dans des domaines artistiques : il y a deux temporalités. Le court terme et le long terme.

@@ -3,15 +3,15 @@ verifieParDuy: false
 livreFableDanPhu: false
 livreAnalyseConte: false
 livreMetaphore: false
-livreVersus: true
-livreAimerSansDisparaitre: true
+livreVersus: false
+livreAimerSansDisparaitre: false
 title: "Le coït sans sexe"
 excerpt: "Dans un coït, si tu crois que tu as un sexe, c’est que tu n’es plus dans ton ressenti."
 category: "corps-desir"
 order: 45
 draft: true
 draftReason: "texte intime explicite, non surfacé pour l’instant"
-parcours: true
+parcours: false
 ---
 
 Ce titre est un hommage à “La vision sans tête” de Douglas Harding, une de mes grandes sources d’inspiration. Un tout petit livre qui a été une gifle sur la joue de mes certitudes. Pourquoi une vision sans tête ? Parce que vous n’avez pas de tête.

@@ -1,15 +1,15 @@
 ---
 verifieParDuy: false
-livreFableDanPhu: true
+livreFableDanPhu: false
 livreAnalyseConte: false
-livreMetaphore: true
+livreMetaphore: false
 livreVersus: false
-livreAimerSansDisparaitre: true
+livreAimerSansDisparaitre: false
 title: "Il n’y avait personne dans la valise"
 excerpt: "Il n’y a personne dans la valise : seulement des blessures, des peurs, des traumatismes."
 category: "vrai-de-soi"
 order: 49
-parcours: true
+parcours: false
 ---
 
 Cela s’est passé il y a quelques années dans un train de banlieue. Je revenais d’un cours de danse. Il était tard et il y avait une dame qui avait mis sa grosse valise sur le porte-bagages au-dessus d’elle. La valise bougeait avec les vibrations du train. Elle était instable et avec les tremblements commençait à sortir du porte-bagages dangereusement. Je suis venu l’aider à la remettre en place.

@@ -1,16 +1,16 @@
 ---
 draft: false
 verifieParDuy: false
-livreFableDanPhu: true
+livreFableDanPhu: false
 livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
-livreAimerSansDisparaitre: true
+livreAimerSansDisparaitre: false
 title: "J’ai cru que j’étais quitté, en fait j’étais aimé"
 excerpt: "Toutes ces fois où je me suis dit que j’étais quitté, en fait j’étais aimé."
 category: "lien-relation"
 order: 6
-parcours: true
+parcours: false
 ---
 
 Il y a un an jour pour jour, je me suis retrouvé dans le même atelier de danse que la femme qui venait d’arrêter notre relation deux jours avant. Elle était avec son nouveau chéri dans cet atelier.

@@ -1,17 +1,17 @@
 ---
 verifieParDuy: false
-livreFableDanPhu: true
+livreFableDanPhu: false
 livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
-livreAimerSansDisparaitre: true
+livreAimerSansDisparaitre: false
 title: "De la honte à la gratitude"
 excerpt: "D’un trauma longtemps caché, il a fait une force, une histoire, une gratitude."
 category: "vrai-de-soi"
 order: 12
 draft: true
 draftReason: "zone sensible à valider"
-parcours: true
+parcours: false
 ---
 
 Quand je suis interviewé, on me demande toujours comment j’en suis arrivé à accompagner des personnes vers la sexualité authentique et sensible.

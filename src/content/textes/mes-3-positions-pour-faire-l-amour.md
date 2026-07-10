@@ -3,15 +3,15 @@ verifieParDuy: false
 livreFableDanPhu: false
 livreAnalyseConte: false
 livreMetaphore: false
-livreVersus: true
-livreAimerSansDisparaitre: true
+livreVersus: false
+livreAimerSansDisparaitre: false
 title: "Mes 3 positions pour faire l’amour"
 excerpt: "La Demande, le Don, l’Abandon : trois manières de faire l’amour venues avec la maturité."
 category: "corps-desir"
 order: 55
 draft: true
 draftReason: "texte intime explicite, non surfacé pour l’instant"
-parcours: true
+parcours: false
 ---
 
 Un peu comme les 3 démarches de l’homme dans l’énigme du sphinx.

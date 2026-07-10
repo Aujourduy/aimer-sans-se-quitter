@@ -3,14 +3,14 @@ verifieParDuy: false
 livreFableDanPhu: false
 livreAnalyseConte: false
 livreMetaphore: false
-livreVersus: true
-livreAimerSansDisparaitre: true
+livreVersus: false
+livreAimerSansDisparaitre: false
 title: "Ne pas se forcer, ne pas se retenir"
 excerpt: "Se forcer à être bien ou se retenir d'être mal : dans les deux cas on s'éloigne de soi et on ment."
 category: "vrai-de-soi"
 order: 36
 draft: false
-parcours: true
+parcours: false
 ---
 Notre éducation, nos parents, la société, la religion nous a plus ou moins formatés. Il y a ce qui est bien et ce qui est mal. Ce qui est bien de faire et ce qui est mal de faire. Dans la sexualité où se trouve une pression sociale, une pression morale, la peur de déplaire voire de perdre le partenaire nous pousse à faire plus ou moins d’efforts. Des choses que je n’ai pas réellement, ou plus, envie de faire mais que je fais quand même. Des choses que je voudrais faire mais que je n’ose pas. Parfois il s’agit de quelque chose de nette et précise, parfois c’est juste d’un petit effort, d’une petite frustration. Dans les deux cas, ce sont des tensions. Des petites tensions qui s’accumulent avec le temps. Au final, on peut se retrouver à avoir construit le tombeau de notre désir, pierre après pierre, jour après jour sans s’en rendre compte. 
 

@@ -4,7 +4,7 @@ livreFableDanPhu: false
 livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
-livreAimerSansDisparaitre: true
+livreAimerSansDisparaitre: false
 title: "De la clarté"
 excerpt: "Au lieu de chercher une solution, mieux vaut d’abord chercher à y voir plus clair."
 category: "vrai-de-soi"

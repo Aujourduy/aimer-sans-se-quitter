@@ -2,9 +2,9 @@
 verifieParDuy: false
 livreFableDanPhu: false
 livreAnalyseConte: false
-livreMetaphore: true
-livreVersus: true
-livreAimerSansDisparaitre: true
+livreMetaphore: false
+livreVersus: false
+livreAimerSansDisparaitre: false
 title: "Les 3 niveaux du conflit ou plus jamais de conflit"
 excerpt: "Un pommier, deux pommiers, deux étages : trois images pour dissoudre tout conflit."
 category: "lien-relation"

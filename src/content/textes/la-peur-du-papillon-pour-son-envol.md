@@ -3,13 +3,13 @@ verifieParDuy: false
 livreFableDanPhu: false
 livreAnalyseConte: false
 livreMetaphore: false
-livreVersus: true
-livreAimerSansDisparaitre: true
+livreVersus: false
+livreAimerSansDisparaitre: false
 title: "La peur du papillon pour son envol"
 excerpt: "Le papillon ne voit pas son décollage, il sent le sol se dérober."
 category: "vrai-de-soi"
 order: 51
-parcours: true
+parcours: false
 ---
 
 Dans le milieu du développement personnel et de la spiritualité, j’entends et je lis souvent “la métamorphose du papillon”. La chrysalide qui se transforme pour prendre son envol.

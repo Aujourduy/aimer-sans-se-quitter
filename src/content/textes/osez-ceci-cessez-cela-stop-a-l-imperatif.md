@@ -4,14 +4,14 @@ livreFableDanPhu: false
 livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
-livreAimerSansDisparaitre: true
+livreAimerSansDisparaitre: false
 title: "Osez ceci, cessez cela : stop à l’impératif"
 excerpt: "Stop à l’impératif, aux injonctions, aux ordres ; ne rien forcer, ne rien retenir, juste s’écouter."
 category: "vrai-de-soi"
 order: 40
 draft: true
 draftReason: "fin à compléter"
-parcours: true
+parcours: false
 ---
 
 Ras le bol des titres de livres, de maximes “Osez ceci”, “Cessez cela”. Des titres accrocheurs, dynamisants certes mais où on doit se forcer. Encore et encore. Stop à l’impératif. Stop aux injonctions. Stop aux ordres.

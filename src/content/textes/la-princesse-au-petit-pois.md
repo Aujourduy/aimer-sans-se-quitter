@@ -1,17 +1,17 @@
 ---
 verifieParDuy: false
 livreFableDanPhu: false
-livreAnalyseConte: true
+livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
-livreAimerSansDisparaitre: true
+livreAimerSansDisparaitre: false
 title: "La princesse au petit pois"
 excerpt: "Le petit pois sous mes matelas, c’était le masque que je portais."
 category: "vrai-de-soi"
 order: 63
 draft: true
 draftReason: "thème sexuel à recadrer vers le relationnel"
-parcours: true
+parcours: false
 ---
 
 C’est un conte d’Andersen pas très connu. Quand j’ai entendu l’histoire la première fois, j’ai trouvé sa morale lamentable. C’était l’apologie de la fragilité de cette princesse, faible, sans défense mais surtout douillette.

@@ -4,13 +4,13 @@ livreFableDanPhu: false
 livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
-livreAimerSansDisparaitre: true
+livreAimerSansDisparaitre: false
 title: "Qui ne comprend pas qui ?"
 excerpt: "Le vrai enjeu n'est pas le manque de communication mais la pédagogie pour faire comprendre son plaisir à l'autre."
 category: "corps-desir"
 order: 81
 draft: false
-parcours: true
+parcours: false
 ---
 D’après mes échanges, une difficulté majeure pour les personnes qui aspirent à une sexualité authentique et sensible est la communication. Beaucoup n’arrivent pas à dire réellement ce qu’elles aiment ou non dans la sexualité. Sans compter le fait qu’on peut aimer une position à un moment et que cela devienne désagréable cinq minutes après.
 

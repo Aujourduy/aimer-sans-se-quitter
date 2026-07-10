@@ -4,14 +4,14 @@ livreFableDanPhu: false
 livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
-livreAimerSansDisparaitre: true
+livreAimerSansDisparaitre: false
 title: "Mes besoins et mes envies sont non négociables"
 excerpt: "Trouver d’abord ce que chacun veut, avant de chercher ce que le couple veut."
 category: "vrai-de-soi"
 order: 35
 draft: true
 draftReason: "thème sexuel à recadrer vers le relationnel"
-parcours: true
+parcours: false
 ---
 
 Dans une relation, on ne peut pas forcément avoir toujours ce qu’on veut. Le piège c’est de réfléchir à ce que le couple veut avant d’avoir trouvé ce que chacun veut.

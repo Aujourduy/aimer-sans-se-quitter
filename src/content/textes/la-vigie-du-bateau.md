@@ -2,15 +2,15 @@
 verifieParDuy: false
 livreFableDanPhu: false
 livreAnalyseConte: false
-livreMetaphore: true
+livreMetaphore: false
 livreVersus: false
-livreAimerSansDisparaitre: true
+livreAimerSansDisparaitre: false
 title: "La vigie du bateau"
 excerpt: "Comme la vigie voit la terre avant l'équipage, la femme perçoit souvent en sexualité ce que l'homme ne voit pas encore."
 category: "corps-desir"
 order: 87
 draft: false
-parcours: true
+parcours: false
 ---
 Sur les vieux bateaux, en haut du plus grand mât, on y plaçait la vigie. Le matelot placé à cet endroit, qu’on appelle aussi la vigie, peut voir plus loin que ce que voyait le matelot debout sur le bateau. Pourquoi ? Parce que la terre est ronde. 
 

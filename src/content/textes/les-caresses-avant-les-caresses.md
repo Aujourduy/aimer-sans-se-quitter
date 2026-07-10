@@ -4,12 +4,12 @@ livreFableDanPhu: false
 livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
-livreAimerSansDisparaitre: true
+livreAimerSansDisparaitre: false
 title: "Les caresses avant les caresses"
 excerpt: "Ce n’était pas la caresse, mais l’atmosphère, qui a suscité le désir."
 category: "corps-desir"
 order: 50
-parcours: true
+parcours: false
 ---
 
 Il y a quelques années, ma chérie me disait être étonnée de l’effet que lui faisait une simple de mes caresses sur l’épaule. C’est là que j’ai réalisé le principe des caresses avant les caresses.

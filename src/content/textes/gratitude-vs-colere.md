@@ -1,17 +1,17 @@
 ---
 verifieParDuy: false
-livreFableDanPhu: true
+livreFableDanPhu: false
 livreAnalyseConte: false
 livreMetaphore: false
-livreVersus: true
-livreAimerSansDisparaitre: true
+livreVersus: false
+livreAimerSansDisparaitre: false
 title: "Gratitude vs colère"
 excerpt: "La colère naît quand je crois qu’on me doit quelque chose ; voilà comment je suis passé de la colère à la gratitude."
 category: "vrai-de-soi"
 order: 26
 draft: true
 draftReason: "thème sexuel à recadrer vers le relationnel"
-parcours: true
+parcours: false
 ---
 
 Dans la sexualité, la colère est une termite qui mine la relation au fil du temps. Pour expliquer le sujet, je vais commencer par donner un exemple sur un autre sujet que la sexualité pour avoir un thème plus neutre.

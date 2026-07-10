@@ -3,15 +3,15 @@ verifieParDuy: false
 livreFableDanPhu: false
 livreAnalyseConte: false
 livreMetaphore: false
-livreVersus: true
-livreAimerSansDisparaitre: true
+livreVersus: false
+livreAimerSansDisparaitre: false
 title: "Ma formule de la joie"
 excerpt: "Quelle que soit l’expérience, pour peu qu’on mette assez de clarté, on peut y trouver de la joie."
 category: "regard-vie"
 order: 12
 draft: true
 draftReason: "mention biographique intime à alléger"
-parcours: true
+parcours: false
 ---
 
 Les mathématiciens sont des paresseux nés. Ils ont élevé la paresse à un tel niveau que cela devient de l’art. Ils passent leur temps, des fois des années, à inventer des trucs et astuces pour gagner du temps de calcul et de compréhension. Alors voici, ma formule du matin :

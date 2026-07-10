@@ -4,14 +4,14 @@ livreFableDanPhu: false
 livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
-livreAimerSansDisparaitre: true
+livreAimerSansDisparaitre: false
 title: "Il n’y a pas de sexualité épanouie"
 excerpt: "Il y a des personnes épanouies dans leur sexualité ; le reste n’est qu’un mot."
 category: "corps-desir"
 order: 21
 draft: true
 draftReason: "texte intime explicite, non surfacé pour l’instant"
-parcours: true
+parcours: false
 ---
 
 Il n’y a pas de sexualité épanouie, il y a des personnes qui sont épanouies dans leur sexualité.

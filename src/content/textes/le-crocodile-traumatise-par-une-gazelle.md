@@ -1,15 +1,15 @@
 ---
 verifieParDuy: false
-livreFableDanPhu: true
+livreFableDanPhu: false
 livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
-livreAimerSansDisparaitre: true
+livreAimerSansDisparaitre: false
 title: "Le crocodile traumatisé par une gazelle"
 excerpt: "Ce n’est pas la gazelle qui t’a blessé, mais la formule gazelle plus bébé Coco, qui n’existe plus."
 category: "vrai-de-soi"
 order: 65
-parcours: true
+parcours: false
 ---
 
 Un bébé crocodile, Coco, fraîchement sorti de son œuf, se promenait sur le bord de la rivière. Il rencontra un bébé gazelle faisant 50 fois sa taille, qui venait de naître aussi, en train de boire. Quand la gazelle aperçut le crocodile, elle paniqua, le piétina  et le blessa gravement à la queue. Le crocodile se retrouva avec une énorme entaille sur un quart de sa queue.

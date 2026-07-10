@@ -1,16 +1,16 @@
 ---
 verifieParDuy: false
-livreFableDanPhu: true
+livreFableDanPhu: false
 livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
-livreAimerSansDisparaitre: true
+livreAimerSansDisparaitre: false
 title: "Marre des relations bancales ?"
 excerpt: "L'histoire d'Aurélie, femme dévastée par des amants consommateurs, qui retrouve une sexualité respectée et nourrissante."
 category: "corps-desir"
 order: 54
 draft: false
-parcours: true
+parcours: false
 ---
 Marre des relations bancales ?
 

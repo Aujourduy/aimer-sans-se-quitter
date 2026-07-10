@@ -2,15 +2,15 @@
 verifieParDuy: false
 livreFableDanPhu: false
 livreAnalyseConte: false
-livreMetaphore: true
+livreMetaphore: false
 livreVersus: false
-livreAimerSansDisparaitre: true
+livreAimerSansDisparaitre: false
 title: "Célibataires : Où avez-vous mis votre attention ?"
 excerpt: "Ce qui compte n'est pas le poisson visé mais l'appât que vous êtes : cessez de vous tordre aux attentes."
 category: "vrai-de-soi"
 order: 20
 draft: false
-parcours: true
+parcours: false
 ---
 Un monsieur va à la pêche. Il veut attraper un certain type de poisson. Qu’est-ce qu’il doit faire ? Il choisit le bon coin de pêche, le bon appât adapté aux poissons qu’il cherche. C’est ce que certains célibataires font. Ils réfléchissent, déterminent quel partenaire ils ont envie d’avoir et essaient ensuite de le rencontrer.
 

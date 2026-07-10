@@ -4,7 +4,7 @@ livreFableDanPhu: false
 livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
-livreAimerSansDisparaitre: true
+livreAimerSansDisparaitre: false
 title: "La liberté d'être comme excitation"
 excerpt: "Réflexion sur la liberté d'être soi comme source d'éros, idée originale"
 category: "corps-desir"

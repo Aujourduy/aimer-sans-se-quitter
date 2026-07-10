@@ -4,13 +4,13 @@ livreFableDanPhu: false
 livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
-livreAimerSansDisparaitre: true
+livreAimerSansDisparaitre: false
 title: "Les pré-préliminaires"
 excerpt: "Avant les préliminaires, un temps sans contact où les esprits puis les cœurs se retrouvent avant les corps."
 category: "corps-desir"
 order: 53
 draft: false
-parcours: true
+parcours: false
 ---
 Quand je parle de sexualité sensible, je parle aussi de tout ce qui contribue de près ou de loin à une expérience riche en plaisirs mais surtout d’une expérience nourrissante remplie de joies. Parmi les choses qui participent à vivre une telle expérience il y a les préliminaires. Un moment de contacts physiques, plus ou moins intimes, avec une progression plus ou moins vers une rencontre sexuelle.
 

@@ -3,15 +3,15 @@ verifieParDuy: false
 livreFableDanPhu: false
 livreAnalyseConte: false
 livreMetaphore: false
-livreVersus: true
-livreAimerSansDisparaitre: true
+livreVersus: false
+livreAimerSansDisparaitre: false
 title: "Cherchez-vous un Mendiant ou un Roi ?"
 excerpt: "Deux archétypes dans la rencontre : le mendiant qui réclame, le roi qui déborde."
 category: "lien-relation"
 order: 21
 draft: true
 draftReason: "thème sexuel à recadrer vers le relationnel"
-parcours: true
+parcours: false
 ---
 
 Il y a deux grands archétypes dans la rencontre amoureuse.

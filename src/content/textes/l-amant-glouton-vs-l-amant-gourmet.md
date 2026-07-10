@@ -3,15 +3,15 @@ verifieParDuy: false
 livreFableDanPhu: false
 livreAnalyseConte: false
 livreMetaphore: false
-livreVersus: true
-livreAimerSansDisparaitre: true
+livreVersus: false
+livreAimerSansDisparaitre: false
 title: "L’amant glouton vs l’amant gourmet"
 excerpt: "Le glouton se dépêche de consommer ; le gourmet prend le temps de déguster."
 category: "corps-desir"
 order: 27
 draft: true
 draftReason: "texte intime explicite, non surfacé pour l’instant"
-parcours: true
+parcours: false
 ---
 
 Deux indicateurs qui montrent que votre amant est en stress dans sa sexualité.

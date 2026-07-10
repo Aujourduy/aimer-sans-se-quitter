@@ -2,9 +2,9 @@
 verifieParDuy: false
 livreFableDanPhu: false
 livreAnalyseConte: false
-livreMetaphore: true
-livreVersus: true
-livreAimerSansDisparaitre: true
+livreMetaphore: false
+livreVersus: false
+livreAimerSansDisparaitre: false
 title: "La fin n’est pas le moyen"
 excerpt: "On ne gagne pas la tranquillité en réduisant l’activité ; c’est l’apaisement qui espace les besoins."
 category: "regard-vie"

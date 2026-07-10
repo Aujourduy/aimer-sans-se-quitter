@@ -3,15 +3,15 @@ verifieParDuy: false
 livreFableDanPhu: false
 livreAnalyseConte: false
 livreMetaphore: false
-livreVersus: true
-livreAimerSansDisparaitre: true
+livreVersus: false
+livreAimerSansDisparaitre: false
 title: "Des hommes fuyants, des femmes paranoïaques"
 excerpt: "Derrière la peur de ne pas être aimé, chacun projette sur l’autre son propre jugement emprunté."
 category: "lien-relation"
 order: 46
 draft: true
 draftReason: "titre à valider"
-parcours: true
+parcours: false
 ---
 
 Évidemment la plupart des hommes ne sont pas fuyants, et la majorité des femmes ne sont pas paranoïaques. Je décris ici quelques personnes que je connais dont ces comportements arrivent de temps en temps.

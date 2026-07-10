@@ -2,14 +2,14 @@
 verifieParDuy: false
 livreFableDanPhu: false
 livreAnalyseConte: false
-livreMetaphore: true
-livreVersus: true
-livreAimerSansDisparaitre: true
+livreMetaphore: false
+livreVersus: false
+livreAimerSansDisparaitre: false
 title: "Des larmes comme des cailloux, des larmes comme des bulles"
 excerpt: "Deux sortes de larmes après l’amour, selon qu’on a porté un masque ou ouvert le cœur."
 category: "corps-desir"
 order: 12
-parcours: true
+parcours: false
 ---
 
 Parfois on pleure après avoir eu une relation sexuelle. De ce que j’ai observé pour mes partenaires et moi, il y a deux types de larmes après le sexe. Les larmes petits cailloux et les larmes bulles. Je parle des larmes après l’amour. Quelques minutes ou dizaines de minutes après. Je ne parle pas des larmes d’émotion qui arrivent pendant l’acte.

@@ -3,14 +3,14 @@ verifieParDuy: false
 livreFableDanPhu: false
 livreAnalyseConte: false
 livreMetaphore: false
-livreVersus: true
-livreAimerSansDisparaitre: true
+livreVersus: false
+livreAimerSansDisparaitre: false
 title: "Initier n'est pas éduquer"
 excerpt: "Distinction originale : éduquer vs échouer, initier vs enseigner en sexualité"
 category: "corps-desir"
 order: 23
 draft: false
-parcours: true
+parcours: false
 ---
 Cela fait des années que j’échange avec des femmes qui se disent en colère de devoir éduquer les hommes à une sexualité plus sensible, plus connectée et plus globale. En réalité, je ne connais aucune femme qui en a eu marre d’éduquer les hommes. En fait, elles ne veulent plus essayer, perdre du temps et de l’énergie sans y réussir. Ce n’est pas qu’elles ne veulent pas éduquer, c’est qu’elles ne veulent plus essayer d'éduquer et de ne pas y arriver. De mettre de l'énergie et du temps pour rien. Mais ça, ce n'est pas éduquer, c'est échouer. Ce n'est pas grave d'échouer, de se tromper, mais le reconnaître permettra d'avancer. Oh la la, si tu savais le nombre de fois que j'ai échoué à faire ce que je voulais ha ha ha.
 

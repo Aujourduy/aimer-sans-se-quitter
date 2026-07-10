@@ -2,16 +2,16 @@
 verifieParDuy: false
 livreFableDanPhu: false
 livreAnalyseConte: false
-livreMetaphore: true
+livreMetaphore: false
 livreVersus: false
-livreAimerSansDisparaitre: true
+livreAimerSansDisparaitre: false
 title: "L’aphrodisiaque le plus méconnu"
 excerpt: "Mon plus grand aphrodisiaque n’est ni un aliment ni une posture : c’est la vérité."
 category: "corps-desir"
 order: 68
 draft: true
 draftReason: "thème sexuel à recadrer vers le relationnel"
-parcours: true
+parcours: false
 ---
 
 Quand on entend le mot aphrodisiaque, on pense aux aliments, aux vêtements et lingeries, aux positions, aux situations, aux jeux de rôle ou à des pratiques. Mais vous n’avez probablement jamais entendu parler de mon plus grand aphrodisiaque : la vérité. Cet ingrédient a son pendant qui est la liberté d’être.

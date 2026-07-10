@@ -1,17 +1,17 @@
 ---
 verifieParDuy: false
 livreFableDanPhu: false
-livreAnalyseConte: true
+livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
-livreAimerSansDisparaitre: true
+livreAimerSansDisparaitre: false
 title: "La jouissance et l’art du tir à l’arc"
 excerpt: "Atteindre la cible ne suffit pas : c’est enlever les entraves qui compte."
 category: "corps-desir"
 order: 86
 draft: true
 draftReason: "thème sexuel à recadrer vers le relationnel"
-parcours: true
+parcours: false
 ---
 
 Comme je ne suis pas un trop mauvais amant, il m’est arrivé de faire jouir ma partenaire. Mais comme je ne suis pas un amant parfait, il est arrivé plusieurs fois qu’elle me dise “Tu m’as fait jouir trop tôt”. Expression qui est riche d’enseignement : la jouissance n’est pas ce qu’elle voulait. Nous avons atteint la cible mais ce n’était pas ça qu’elle voulait ? Mais quoi alors ?

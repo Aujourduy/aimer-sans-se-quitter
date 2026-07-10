@@ -2,9 +2,9 @@
 verifieParDuy: false
 livreFableDanPhu: false
 livreAnalyseConte: false
-livreMetaphore: true
+livreMetaphore: false
 livreVersus: false
-livreAimerSansDisparaitre: true
+livreAimerSansDisparaitre: false
 title: "Je suis un pinceau, pas l'auteur"
 excerpt: "Réflexion intemporelle sur la création comme canal : danse, amour, sagesse viennent à travers soi"
 category: "regard-vie"

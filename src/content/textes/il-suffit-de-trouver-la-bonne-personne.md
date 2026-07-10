@@ -3,15 +3,15 @@ verifieParDuy: true
 livreFableDanPhu: false
 livreAnalyseConte: false
 livreMetaphore: false
-livreVersus: true
-livreAimerSansDisparaitre: true
+livreVersus: false
+livreAimerSansDisparaitre: false
 title: "Il suffit de trouver la bonne personne ?"
 excerpt: "Être heureux pour rencontrer, au lieu de rencontrer pour être heureux."
 category: "regard-vie"
 entry: true
 entryRole: "deplacement"
 order: 14
-parcours: true
+parcours: false
 ---
 
 C’est pour certains le fantasme que les problèmes amoureux, les insatisfactions relationnelles et les frustrations sexuelles vont disparaître dès qu’on aura trouvé la bonne personne, le bon partenaire.

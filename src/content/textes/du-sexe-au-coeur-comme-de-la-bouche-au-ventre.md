@@ -2,16 +2,16 @@
 verifieParDuy: false
 livreFableDanPhu: false
 livreAnalyseConte: false
-livreMetaphore: true
-livreVersus: true
-livreAimerSansDisparaitre: true
+livreMetaphore: false
+livreVersus: false
+livreAimerSansDisparaitre: false
 title: "Du sexe au cœur comme de la bouche au ventre"
 excerpt: "La bouche et le sexe crient leur besoin ; le cœur et le ventre murmurent leur plénitude."
 category: "corps-desir"
 order: 84
 draft: true
 draftReason: "thème sexuel à recadrer vers le relationnel"
-parcours: true
+parcours: false
 ---
 
 L’excitation, le désir n’est pas un bon critère pour savoir si la relation sexuelle est de qualité ou non. Comme les saveurs d’un plat n’indiquent pas son excellence nutritionnelle. Si nous ne sommes pas attentifs, nous pouvons nous faire piéger par notre bouche. C’est elle qui nous donne les compulsions alimentaires. Les envies de chocolat, de sucre, de charcuterie. Dès que nous avons 2 des 3 saveurs sucré, salé et gras, cela peut nous rendre accro. D’ailleurs ce qui est addictif, c’est ce qui nous donne l’impression de remplir sans vraiment répondre à nos besoins.

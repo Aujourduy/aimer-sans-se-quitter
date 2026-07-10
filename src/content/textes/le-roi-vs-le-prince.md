@@ -3,15 +3,15 @@ verifieParDuy: false
 livreFableDanPhu: false
 livreAnalyseConte: false
 livreMetaphore: false
-livreVersus: true
-livreAimerSansDisparaitre: true
+livreVersus: false
+livreAimerSansDisparaitre: false
 title: "Le Roi vs le Prince"
 excerpt: "Le prince combat pour prouver sa valeur ; le roi règne pour la paix."
 category: "vrai-de-soi"
 order: 66
 draft: true
 draftReason: "thème sexuel à recadrer vers le relationnel"
-parcours: true
+parcours: false
 ---
 
 Il n’y a pas un statut mieux qu’un autre, il y a simplement des situations différentes et ce que j’ai envie de montrer c’est qu’un homme peut se considérer comme roi et il aura une sexualité qui lui convienne avec des partenaires lui correspondant.

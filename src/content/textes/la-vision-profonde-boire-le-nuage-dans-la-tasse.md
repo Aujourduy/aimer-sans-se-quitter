@@ -2,16 +2,16 @@
 verifieParDuy: false
 livreFableDanPhu: false
 livreAnalyseConte: false
-livreMetaphore: true
-livreVersus: true
-livreAimerSansDisparaitre: true
+livreMetaphore: false
+livreVersus: false
+livreAimerSansDisparaitre: false
 title: "La vision profonde : boire le nuage dans la tasse"
 excerpt: "Dans une tasse de thé, l’eau fut nuage, rivière, soleil ; ainsi l’être aimé porte une histoire immense."
 category: "regard-vie"
 order: 17
 draft: true
 draftReason: "thème sexuel à recadrer vers le relationnel"
-parcours: true
+parcours: false
 ---
 
 Un de mes précieux enseignants, Thich Nhat Hanh, maître du bouddhisme zen vietnamien, qui était à l’origine des pratiques de pleine conscience inspirant le MBSR, parlait aussi beaucoup de vision profonde. Beaucoup moins connu que la pleine conscience qui est à l’origine du mindfulness et du MBSR (et non le contraire comme le dit Wikipédia), la vision profonde est pourtant un outil magnifique et d’une efficacité extraordinaire quand il s’agit de percevoir l’amour.

@@ -2,9 +2,9 @@
 verifieParDuy: false
 livreFableDanPhu: false
 livreAnalyseConte: false
-livreMetaphore: true
+livreMetaphore: false
 livreVersus: false
-livreAimerSansDisparaitre: true
+livreAimerSansDisparaitre: false
 title: "Mohamed Ali et la relation à soi dans l'intimité"
 excerpt: "Métaphore intemporelle : jeu de jambes / ancrage intérieur avant technique"
 category: "vrai-de-soi"

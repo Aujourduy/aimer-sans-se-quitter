@@ -1,16 +1,16 @@
 ---
 verifieParDuy: false
-livreFableDanPhu: true
+livreFableDanPhu: false
 livreAnalyseConte: false
 livreMetaphore: false
-livreVersus: true
-livreAimerSansDisparaitre: true
+livreVersus: false
+livreAimerSansDisparaitre: false
 title: "Problème d’érection ou problème de connexion"
 excerpt: "Le pénis comme mesureur d'authenticité : l'érection suit la vérité de la connexion, pas la performance."
 category: "corps-desir"
 order: 59
 draft: false
-parcours: true
+parcours: false
 ---
 Dernièrement, j’ai coaché plusieurs hommes qui pensaient avoir des problèmes d’érection. Cela m’amène à partager plusieurs expériences que j’ai eu.
 

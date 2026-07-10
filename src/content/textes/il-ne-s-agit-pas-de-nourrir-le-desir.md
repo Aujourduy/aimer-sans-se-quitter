@@ -4,13 +4,13 @@ livreFableDanPhu: false
 livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
-livreAimerSansDisparaitre: true
+livreAimerSansDisparaitre: false
 title: "Il ne s’agit pas de nourrir le désir"
 excerpt: "Le désir est déjà grand : il faut lui ôter les entraves, pas le nourrir. S'aimer soi suffit."
 category: "vrai-de-soi"
 order: 27
 draft: false
-parcours: true
+parcours: false
 ---
 Lors d’une séance de clarification, une femme disait qu’elle voulait “Nourrir son désir” pour son compagnon. C’est un fonctionnement possible du désir. Il y a aussi un autre aspect essentiel. Le désir est déjà grand en soi et il a surtout besoin qu’on lui enlève les entraves. Quelles entraves ? 
 

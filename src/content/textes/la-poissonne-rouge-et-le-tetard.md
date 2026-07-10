@@ -1,15 +1,15 @@
 ---
 verifieParDuy: false
-livreFableDanPhu: true
+livreFableDanPhu: false
 livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
-livreAimerSansDisparaitre: true
+livreAimerSansDisparaitre: false
 title: "La poissonne rouge et le têtard"
 excerpt: "On ne peut pas demander à un têtard de grandir dans l’eau où il est né."
 category: "vrai-de-soi"
 order: 52
-parcours: true
+parcours: false
 ---
 
 Une histoire d’amour entre une poissonne rouge et un têtard.

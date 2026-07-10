@@ -1,16 +1,16 @@
 ---
 verifieParDuy: false
-livreFableDanPhu: true
+livreFableDanPhu: false
 livreAnalyseConte: false
 livreMetaphore: false
-livreVersus: true
-livreAimerSansDisparaitre: true
+livreVersus: false
+livreAimerSansDisparaitre: false
 title: "L'amant miroir"
 excerpt: "Fable du miroir mongol : être présence vs apporter des techniques"
 category: "corps-desir"
 order: 28
 draft: false
-parcours: true
+parcours: false
 ---
 (et comment tu pourrais le devenir)
 

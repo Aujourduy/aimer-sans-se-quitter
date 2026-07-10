@@ -3,8 +3,8 @@ verifieParDuy: false
 livreFableDanPhu: false
 livreAnalyseConte: false
 livreMetaphore: false
-livreVersus: true
-livreAimerSansDisparaitre: true
+livreVersus: false
+livreAimerSansDisparaitre: false
 title: "L’art est d’abord dans l’écoute"
 excerpt: "L’art ne s’apprend pas dans le faire mais dans l’écoute."
 category: "pratique-posture"

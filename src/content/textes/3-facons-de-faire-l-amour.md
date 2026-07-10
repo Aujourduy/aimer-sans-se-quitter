@@ -4,7 +4,7 @@ livreFableDanPhu: false
 livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
-livreAimerSansDisparaitre: true
+livreAimerSansDisparaitre: false
 title: "3 façons de faire l'amour"
 excerpt: "Trois façons de faire l'amour : chercher la perfection, ne rien chercher, ou chercher à progresser."
 category: "corps-desir"

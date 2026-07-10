@@ -4,13 +4,13 @@ livreFableDanPhu: false
 livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
-livreAimerSansDisparaitre: true
+livreAimerSansDisparaitre: false
 title: "Oser ma Vérité, Cultiver ma Liberté"
 excerpt: "Les problèmes viennent de ne pas assumer sa vérité ou de ne pas respecter sa liberté : difficile mais simple."
 category: "vrai-de-soi"
 order: 39
 draft: false
-parcours: true
+parcours: false
 ---
 Des différentes situations que j'ai pu observer aussi bien chez les autres que chez moi, les problèmes étaient liés à un moment ou à un autre au fait que je n’assumais pas ma vérité ou que je ne respectais pas ma liberté.
 

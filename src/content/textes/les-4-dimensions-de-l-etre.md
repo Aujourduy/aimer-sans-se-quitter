@@ -4,7 +4,7 @@ livreFableDanPhu: false
 livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
-livreAimerSansDisparaitre: true
+livreAimerSansDisparaitre: false
 title: "Les 4 dimensions de l’être"
 excerpt: "La sexualité n'est pas le corps : c'est une dimension à part entière, liée à la vie et à la lignée."
 category: "corps-desir"

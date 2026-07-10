@@ -4,13 +4,13 @@ livreFableDanPhu: false
 livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
-livreAimerSansDisparaitre: true
+livreAimerSansDisparaitre: false
 title: "Les 4 accords toltèques"
 excerpt: "Les quatre accords toltèques relus pour la relation : parole impeccable, sans supposition, sans prendre personnellement, faire de son mieux."
 category: "lien-relation"
 order: 34
 draft: false
-parcours: true
+parcours: false
 ---
 1. Que ma parole soit impeccable
 

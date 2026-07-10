@@ -1,17 +1,17 @@
 ---
 verifieParDuy: false
-livreFableDanPhu: true
+livreFableDanPhu: false
 livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
-livreAimerSansDisparaitre: true
+livreAimerSansDisparaitre: false
 title: "La question qui a réveillé son désir"
 excerpt: "Une peur inconsciente bloquait l’énergie sexuelle ; l’écoute lui a donné l’espace de prendre forme."
 category: "corps-desir"
 order: 38
 draft: true
 draftReason: "texte intime explicite, non surfacé pour l’instant"
-parcours: true
+parcours: false
 ---
 
 Nous étions dans la chambre, tous les deux prêts pour un partage sexuel. Elle avait envie d’avoir envie mais n’avait pas envie. Son esprit, son cœur voulait mais son corps ne réagissait pas. Je lui ai alors demandé calmement : “Est-ce qu’il y a quelque chose que tu n’arrives pas à me dire ?”. Elle réfléchit, ne voit rien de précis. Elle répète sa peur par rapport à notre relation. Et là, un déclic ! Elle avait aussi peur que nous reproduisions la relation de ses parents. Elle a peur pour moi, peur que je souffre comme son père. Elle pleure, s’effondre en larmes.

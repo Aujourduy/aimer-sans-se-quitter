@@ -4,14 +4,14 @@ livreFableDanPhu: false
 livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
-livreAimerSansDisparaitre: true
+livreAimerSansDisparaitre: false
 title: "Merci de m’avoir quittée"
 excerpt: "Au final, j’aime plus ma vérité sans toi que mon confort avec toi."
 category: "lien-relation"
 entry: true
 entryRole: "reconnaissance"
 order: 41
-parcours: true
+parcours: false
 ---
 
 

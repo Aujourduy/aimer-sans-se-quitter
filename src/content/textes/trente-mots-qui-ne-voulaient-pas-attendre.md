@@ -2,7 +2,7 @@
 verifieParDuy: false
 livreFableDanPhu: false
 livreAnalyseConte: false
-livreMetaphore: true
+livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
 title: "Trente mots qui ne voulaient pas attendre"

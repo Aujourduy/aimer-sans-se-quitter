@@ -1,15 +1,15 @@
 ---
 verifieParDuy: false
-livreFableDanPhu: true
+livreFableDanPhu: false
 livreAnalyseConte: false
 livreMetaphore: false
-livreVersus: true
-livreAimerSansDisparaitre: true
+livreVersus: false
+livreAimerSansDisparaitre: false
 title: "De la jalousie dans une simple soupe"
 excerpt: "La jalousie ne vient pas du curry, mais de l’imaginaire d’une autre vie que la mienne."
 category: "vrai-de-soi"
 order: 3
-parcours: true
+parcours: false
 ---
 
 Le moment du repas est un moment très solennel au village des pruniers, c’est un centre de retraite de Thich Nhat Hanh, décédé il y a une semaine. C’était durant mon deuxième séjour dans le centre, il y a plus de 10 ans, on était en début de soirée, j’étais allé chercher de la soupe dans un bol. Me voilà assis dans le cercle en attendant le retour des autres personnes du groupe pour commencer à manger.

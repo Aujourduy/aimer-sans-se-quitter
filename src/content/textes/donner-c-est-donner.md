@@ -2,14 +2,14 @@
 verifieParDuy: false
 livreFableDanPhu: false
 livreAnalyseConte: false
-livreMetaphore: true
-livreVersus: true
-livreAimerSansDisparaitre: true
+livreMetaphore: false
+livreVersus: false
+livreAimerSansDisparaitre: false
 title: "Donner c’est donner ?"
 excerpt: "À la fin d’une relation, voir si j’ai vraiment donné, ou seulement investi dans l’espoir d’un retour."
 category: "lien-relation"
 order: 26
-parcours: true
+parcours: false
 ---
 
 La fin d’une relation est une magnifique expérience de vérité. C’est l’occasion de voir nos attentes, nos idéalisations, notre imaginaire sur la relation disparaître en poussière. Nos rêves, nos espoirs s’effondrent.

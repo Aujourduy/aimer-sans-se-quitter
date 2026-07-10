@@ -1,15 +1,15 @@
 ---
 verifieParDuy: false
 livreFableDanPhu: false
-livreAnalyseConte: true
+livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
-livreAimerSansDisparaitre: true
+livreAimerSansDisparaitre: false
 title: "Une bonne ou mauvaise nouvelle"
 excerpt: "Notre esprit juge vite ; mais qui peut savoir si une chose est vraiment bonne ou mauvaise ?"
 category: "regard-vie"
 order: 21
-parcours: true
+parcours: false
 ---
 
 Dans l’ancien temps en Chine, il y avait un seigneur qui possédait une jument de course magnifique. Quand l’empereur venait dans la région, il allait toujours voir cette jument. Un jour, un garçon d’écurie a mal fermé la clôture et la jument s’est enfuie.

@@ -3,13 +3,13 @@ verifieParDuy: false
 livreFableDanPhu: false
 livreAnalyseConte: false
 livreMetaphore: false
-livreVersus: true
-livreAimerSansDisparaitre: true
+livreVersus: false
+livreAimerSansDisparaitre: false
 title: "Ma chérie, j’ai peur"
 excerpt: "Avouer ses peurs, c’est partager sa réalité ; les taire élève un mur de solitude."
 category: "vrai-de-soi"
 order: 34
-parcours: true
+parcours: false
 ---
 
 “Ma chérie, j’ai peur que …” : est une phrase qui est ultra puissante mais personne ne nous a conseillé de le dire. On nous a dit, a fait croire qu’il faut dire “Je t’aime”, “Tu es belle”. De jolies phrases pour rassurer, des phrases pour faire plaisir.

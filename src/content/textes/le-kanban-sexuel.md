@@ -2,15 +2,15 @@
 verifieParDuy: false
 livreFableDanPhu: false
 livreAnalyseConte: false
-livreMetaphore: true
+livreMetaphore: false
 livreVersus: false
-livreAimerSansDisparaitre: true
+livreAimerSansDisparaitre: false
 title: "Le kanban sexuel"
 excerpt: "Plutôt que compenser un désir défaillant, éliminer les non-dits : la vérité comme premier aphrodisiaque."
 category: "corps-desir"
 order: 75
 draft: false
-parcours: true
+parcours: false
 ---
 D’après Wikipédia le kaban désigne la méthode de gestion de production en flux tendu employée à la fin des années 1950 dans les usines Toyota et consistant à limiter la production d'un poste en amont d'une chaîne de travail aux besoins exacts du poste en aval. C’est cette approche qui a permis à la firme d’améliorer considérablement sa productivité par rapport aux concurrents. C’est aussi l’approche du stock zéro.
 

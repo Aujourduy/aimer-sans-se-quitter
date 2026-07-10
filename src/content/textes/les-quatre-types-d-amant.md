@@ -1,16 +1,16 @@
 ---
 verifieParDuy: false
 livreFableDanPhu: false
-livreAnalyseConte: true
+livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
-livreAimerSansDisparaitre: true
+livreAimerSansDisparaitre: false
 title: "Les quatre types d'amant"
 excerpt: "Aigle, moineau, coq, lapin : quatre altitudes d'amant, et comment aider un partenaire à voler plus haut."
 category: "corps-desir"
 order: 90
 draft: false
-parcours: true
+parcours: false
 ---
 En faisant la synthèse des entretiens sur la sexualité sensible que j’ai eu, on peut dire qu’il y a quatre catégories. Ceux qui pratiquent, ceux qui veulent, ce qui peuvent et ceux qui ne peuvent pas. 
 

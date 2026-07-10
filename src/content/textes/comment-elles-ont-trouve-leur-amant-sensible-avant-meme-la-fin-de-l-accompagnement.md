@@ -4,13 +4,13 @@ livreFableDanPhu: false
 livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
-livreAimerSansDisparaitre: true
+livreAimerSansDisparaitre: false
 title: "Comment elles ont trouvé leur amant sensible avant même la fin de l'accompagnement"
 excerpt: "Elles trouvent leur amant sensible en devenant d'abord elles-mêmes des amantes sensibles."
 category: "pratique-posture"
 order: 1
 draft: false
-parcours: true
+parcours: false
 ---
 Même si le but de l’accompagnement est d’aider les participants à vivre une sexualité authentique et sensible, je reste surpris par la rapidité de la manifestation dans la vie de cette transformation intérieure. Plusieurs femmes ont trouvé leur amant sensible avant même la fin de l’accompagnement. 
 

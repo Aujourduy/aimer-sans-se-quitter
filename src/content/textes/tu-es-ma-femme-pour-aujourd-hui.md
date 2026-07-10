@@ -2,15 +2,15 @@
 verifieParDuy: false
 livreFableDanPhu: false
 livreAnalyseConte: false
-livreMetaphore: true
+livreMetaphore: false
 livreVersus: false
-livreAimerSansDisparaitre: true
+livreAimerSansDisparaitre: false
 title: "Tu es ma femme pour aujourd'hui"
 excerpt: "Poème érotique sur la fugacité, présence totale sans possession, vraie idée développée"
 category: "corps-desir"
 order: 4
 draft: false
-parcours: true
+parcours: false
 ---
 Mmmmmm
 

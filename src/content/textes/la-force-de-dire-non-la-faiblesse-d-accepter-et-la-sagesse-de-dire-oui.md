@@ -3,13 +3,13 @@ verifieParDuy: false
 livreFableDanPhu: false
 livreAnalyseConte: false
 livreMetaphore: false
-livreVersus: true
-livreAimerSansDisparaitre: true
+livreVersus: false
+livreAimerSansDisparaitre: false
 title: "La force de dire non, la faiblesse d’accepter et la sagesse de dire oui"
 excerpt: "Je ne peux pas être heureux dans une relation si je dois renoncer à moi-même."
 category: "vrai-de-soi"
 order: 31
-parcours: true
+parcours: false
 ---
 
 Il n’est pas toujours facile de dire non, que ce soit dans la sexualité, dans la relation de couple, ou ailleurs. Souvent, sur le moment je ne m’en suis pas rendu compte. C’est après, que je prends conscience que cela ne me convenait pas. Sur l’instant, je voulais bien faire, faire plaisir, être conciliant, me montrer aimant. J’espérais que cet effort que je donne se transformerait en quelque chose de plus positif pour moi.

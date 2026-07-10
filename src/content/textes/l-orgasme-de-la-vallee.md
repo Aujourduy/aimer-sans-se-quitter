@@ -3,13 +3,13 @@ verifieParDuy: false
 livreFableDanPhu: false
 livreAnalyseConte: false
 livreMetaphore: false
-livreVersus: true
-livreAimerSansDisparaitre: true
+livreVersus: false
+livreAimerSansDisparaitre: false
 title: "L’orgasme de la vallée"
 excerpt: "Deux corps immobiles, et l’amour qui passe par un fil de lumière."
 category: "corps-desir"
 order: 33
-parcours: true
+parcours: false
 ---
 
 L’orgasme de la vallée.

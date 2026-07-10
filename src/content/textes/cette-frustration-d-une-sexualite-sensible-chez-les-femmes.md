@@ -10,7 +10,7 @@ excerpt: "Le déséquilibre physiologique homme/femme rend rare l'amant assez à
 category: "corps-desir"
 order: 6
 draft: true
-parcours: true
+parcours: false
 ---
 Avec le début prochain de mon séminaire, je me suis entretenu avec de nombreuses femmes qui ont toutes partagé leurs difficultés à trouver un amant qui soit suffisamment à l’écoute dans la sexualité.
 

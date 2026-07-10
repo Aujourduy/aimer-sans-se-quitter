@@ -4,14 +4,14 @@ livreFableDanPhu: false
 livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
-livreAimerSansDisparaitre: true
+livreAimerSansDisparaitre: false
 title: "Ce que je veux vraiment"
 excerpt: "La première erreur est de ne pas admettre nos besoins réels."
 category: "vrai-de-soi"
 order: 18
 draft: true
 draftReason: "thème sexuel à recadrer vers le relationnel"
-parcours: true
+parcours: false
 ---
 
 Il y avait ce phénomène bizarre qui m’était arrivé plusieurs fois, trop de fois à vrai dire. Les principes que je vous donne ici vous permettront de les éviter.

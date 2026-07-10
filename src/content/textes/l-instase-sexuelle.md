@@ -3,13 +3,13 @@ verifieParDuy: false
 livreFableDanPhu: false
 livreAnalyseConte: false
 livreMetaphore: false
-livreVersus: true
-livreAimerSansDisparaitre: true
+livreVersus: false
+livreAimerSansDisparaitre: false
 title: "L’instase sexuelle"
 excerpt: "L’instase, c’est quand l’univers s’est transporté à l’intérieur de soi."
 category: "corps-desir"
 order: 32
-parcours: true
+parcours: false
 ---
 
 Dans les articles, les vidéos, les témoignages et les présentations sur la sexualité épanouie, je trouve que les gens parlent beaucoup d’orgasmes fabuleux, du nombre d’orgasmes, du multi-orgasme et autres extases. Il y a une surenchère du toujours plus, plus fort et plus haut. Ce qui est fondé comme devise pour les jeux olympiques et justifie la course effrénée d’une société de consommation n’est pas forcément approprié lorsqu’il s’agit de l’intime. C’est presque la nouvelle mode de consommation que d’avoir une sexualité plus ouverte, plus intense et plus colorée. Dans les vidéos de formateurs et autres experts que je vois, il y a quelque chose qui me gêne. On parle beaucoup d’intensité, de quantité c’est vrai mais peu d’intimité, d’intériorité.

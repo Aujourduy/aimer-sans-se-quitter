@@ -4,13 +4,13 @@ livreFableDanPhu: false
 livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
-livreAimerSansDisparaitre: true
+livreAimerSansDisparaitre: false
 title: "Ce que je n’ai pas fait"
 excerpt: "Assumer ce qu’on n’a pas osé dire ou faire : oser sa vérité, cultiver sa liberté."
 category: "vrai-de-soi"
 order: 17
 draft: false
-parcours: true
+parcours: false
 ---
 Ce que je n’ai pas fait est aussi important que ce que j’ai fait. Notre cerveau perçoit ce qui est, ce qui s’est passé, ce que nous avons dit, ce que nous avons fait. C’est beaucoup plus difficile pour nous de percevoir ce que nous n’avons pas dit ou ce que nous n’avons pas fait.
 

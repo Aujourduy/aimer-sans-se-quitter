@@ -1,16 +1,16 @@
 ---
 verifieParDuy: false
-livreFableDanPhu: true
+livreFableDanPhu: false
 livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
-livreAimerSansDisparaitre: true
+livreAimerSansDisparaitre: false
 title: "Le crocodile et l'antilope"
 excerpt: "Fable intemporelle sur blessures d'enfance et force méconnue de soi"
 category: "vrai-de-soi"
 order: 54
 draft: true
-parcours: true
+parcours: false
 ---
 Un œuf de crocodile se fend. Lentement, un gentil petit crocodile sort de sa coquille. Il fait à peine une trentaine de cm de long. Il est seul. Ses parents ne sont plus là. Les autres œufs ont été détruits. C'est un bébé antilope, né il y a juste quelques heures, qui a fait ça. On ne sait pas exactement pourquoi. L'antilope est trois fois plus grande que le crocodile. Elle marche, court bien à l'aise sur ses quatre pattes. En voyant le bébé crocodile, l'antilope a pris peur et elle le roue de coups. Le bébé crocodile est bien blessé mais réussit toute de même à atteindre la rivière. Il est sauvé. Sur toute la longueur de sa queue, une plaie ouverte en forme de sabot de l'antilope.
 

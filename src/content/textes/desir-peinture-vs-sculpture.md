@@ -2,16 +2,16 @@
 verifieParDuy: false
 livreFableDanPhu: false
 livreAnalyseConte: false
-livreMetaphore: true
-livreVersus: true
-livreAimerSansDisparaitre: true
+livreMetaphore: false
+livreVersus: false
+livreAimerSansDisparaitre: false
 title: "Désir peinture vs sculpture"
 excerpt: "On ne peut pas embellir un cœur : on peut seulement enlever les couches qui le cachent."
 category: "vrai-de-soi"
 order: 23
 draft: true
 draftReason: "thème sexuel à recadrer vers le relationnel"
-parcours: true
+parcours: false
 ---
 
 Il y a cette citation de Michel-Ange que j’adore sur la sculpture : “J’ai vu un ange dans le marbre et j’ai seulement ciselé jusqu’à l’en libérer”. Elle décrit complètement une autre façon de ressentir le désir sexuel pour sa partenaire dont on parle très peu … voire  jamais.

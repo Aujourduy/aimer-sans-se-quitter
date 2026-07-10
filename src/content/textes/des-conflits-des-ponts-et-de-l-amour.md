@@ -2,9 +2,9 @@
 verifieParDuy: false
 livreFableDanPhu: false
 livreAnalyseConte: false
-livreMetaphore: true
+livreMetaphore: false
 livreVersus: false
-livreAimerSansDisparaitre: true
+livreAimerSansDisparaitre: false
 title: "Des conflits, des ponts et de l’amour"
 excerpt: "Sur le pont entre nos deux mondes, ce n’est pas la vérité qui voyage mais l’amour."
 category: "lien-relation"

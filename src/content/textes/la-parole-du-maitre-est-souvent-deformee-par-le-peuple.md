@@ -3,8 +3,8 @@ verifieParDuy: false
 livreFableDanPhu: false
 livreAnalyseConte: false
 livreMetaphore: false
-livreVersus: true
-livreAimerSansDisparaitre: true
+livreVersus: false
+livreAimerSansDisparaitre: false
 title: "La parole du maître est souvent déformée par le peuple"
 excerpt: "Ce que nous croyons être connaissance n’est souvent que croyance remâchée."
 category: "regard-vie"

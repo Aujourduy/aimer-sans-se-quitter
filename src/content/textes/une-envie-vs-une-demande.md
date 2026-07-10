@@ -2,16 +2,16 @@
 verifieParDuy: false
 livreFableDanPhu: false
 livreAnalyseConte: false
-livreMetaphore: true
-livreVersus: true
-livreAimerSansDisparaitre: true
+livreMetaphore: false
+livreVersus: false
+livreAimerSansDisparaitre: false
 title: "Une envie vs une demande"
 excerpt: "Une demande part d’un manque ; une envie part du neutre vers le positif."
 category: "lien-relation"
 order: 40
 draft: true
 draftReason: "thème sexuel à recadrer vers le relationnel"
-parcours: true
+parcours: false
 ---
 
 Dans beaucoup d’articles sur la sexualité, on nous conseille de bien communiquer avec notre partenaire. A mon avis, ces auteurs ne savent pas de quoi ils parlent. Ils ont entendu qu’il fallait le faire alors ils le répètent sans l’avoir essayé. C’est comme si je conseillais à une personne en surpoids de mieux manger. Il faut approfondir le sujet sinon ça ne sert à rien.

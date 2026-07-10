@@ -4,14 +4,14 @@ livreFableDanPhu: false
 livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
-livreAimerSansDisparaitre: true
+livreAimerSansDisparaitre: false
 title: "Comment je me suis sorti de la dépendance affective"
 excerpt: "L’émotion n’est pas déclenchée par aujourd’hui mais par toutes les blessures accumulées depuis des années."
 category: "vrai-de-soi"
 order: 57
 draft: true
 draftReason: "zone sensible à valider"
-parcours: true
+parcours: false
 ---
 
 Il y a encore eu un concours de circonstances qui m’a placé dans une émotion intense de jalousie, de colère, de violence, de sentiment d’abandon en même temps j’avais la conscience que ce n’était que des illusions. C’est vraiment compliqué de voir qu’on est bouleversé émotionnellement d’un côté et de l’autre avoir conscience que c’est pour une chose pas si dramatique. On trouve cela disproportionné.

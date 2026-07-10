@@ -2,15 +2,15 @@
 verifieParDuy: false
 livreFableDanPhu: false
 livreAnalyseConte: false
-livreMetaphore: true
-livreVersus: true
-livreAimerSansDisparaitre: true
+livreMetaphore: false
+livreVersus: false
+livreAimerSansDisparaitre: false
 title: "Plaisir = Stimulation x Sensibilité"
 excerpt: "Le plaisir n'est pas que stimulation : développer sa sensibilité ouvre une autre voie vers l'intensité."
 category: "corps-desir"
 order: 57
 draft: false
-parcours: true
+parcours: false
 ---
 Une petite formule mathématique pour le plaisir … oh, joli jeu de mot ;-)
 

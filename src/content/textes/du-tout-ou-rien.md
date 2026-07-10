@@ -4,13 +4,13 @@ livreFableDanPhu: false
 livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
-livreAimerSansDisparaitre: true
+livreAimerSansDisparaitre: false
 title: "Du tout ou rien"
 excerpt: "Se dévoiler dès la première rencontre : soit ça matche en turbo, soit on s'évite déceptions et reproches."
 category: "vrai-de-soi"
 order: 25
 draft: false
-parcours: true
+parcours: false
 ---
 C’est ce qui se passe quand je ne me satisfais plus du moyen et du tiède, quand j’assume mes besoins dans une relation amoureuse. Je sais ce que je veux et je sais ce que je ne veux pas. Je veux une belle relation ou rien.
 

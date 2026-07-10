@@ -10,6 +10,6 @@ excerpt: "Après une longue privation d'un besoin, on l'exagère et on a alors p
 category: "vrai-de-soi"
 order: 10
 draft: true
-parcours: true
+parcours: false
 ---
 Quand cela fait longtemps que je n’ai pas eu mon besoin satisfait, nourriture, boisson, sexe, affectif, j’ai tendance à penser que ce qu’il me faut c’est beaucoup plus en fait que ce dont j’ai réellement besoin. Je vais exagéré mes besoins ce qui fait que j’aurais plus de mal à me satisfaire.

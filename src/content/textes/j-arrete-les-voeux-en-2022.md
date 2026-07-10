@@ -4,7 +4,7 @@ livreFableDanPhu: false
 livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
-livreAimerSansDisparaitre: true
+livreAimerSansDisparaitre: false
 title: "J'arrête les voeux en 2022"
 excerpt: "À la place des vœux, un rappel : accueillir et partager notre vérité intérieure, la peur d'abord."
 category: "vrai-de-soi"

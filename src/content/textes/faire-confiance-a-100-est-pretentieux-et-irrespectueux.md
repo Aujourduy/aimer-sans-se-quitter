@@ -2,15 +2,15 @@
 verifieParDuy: false
 livreFableDanPhu: false
 livreAnalyseConte: false
-livreMetaphore: true
-livreVersus: true
-livreAimerSansDisparaitre: true
+livreMetaphore: false
+livreVersus: false
+livreAimerSansDisparaitre: false
 title: "Faire confiance à 100% est prétentieux et irrespectueux"
 excerpt: "On ne rencontre l'autre qu'en étant profondément relié à soi ; la confiance totale nie sa liberté."
 category: "lien-relation"
 order: 4
 draft: false
-parcours: true
+parcours: false
 ---
 Dernièrement, j’ai discuté avec une femme qui disait qu’en début de relation elle avait tendance à faire totalement confiance à son partenaire. Ensuite, cette confiance était inéluctablement trahie. Elle se sentait blessée et la confiance à jamais perdue.
 

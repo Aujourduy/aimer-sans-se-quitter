@@ -4,12 +4,12 @@ livreFableDanPhu: false
 livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
-livreAimerSansDisparaitre: true
+livreAimerSansDisparaitre: false
 title: "Sans peur & sans reproche"
 excerpt: "Une sexualité sensible, c’est 80% de l’être et 20% du faire."
 category: "corps-desir"
 order: 82
-parcours: true
+parcours: false
 ---
 
 La plupart des conseils que je vois sur la sexualité, surtout de la part des professions médicales, sont de l’ordre du faire. Comment faire ceci, comment faire cela. Quelles positions explorer. Où trouver et quoi faire avec les zones érogènes. Alors oui, le savoir anatomique est intéressant mais complètement secondaire parce que le faire est complètement dépendant de l’être. Une sexualité sensible c’est 80% de l’être et 20% du faire.

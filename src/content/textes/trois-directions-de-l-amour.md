@@ -3,13 +3,13 @@ verifieParDuy: false
 livreFableDanPhu: false
 livreAnalyseConte: false
 livreMetaphore: false
-livreVersus: true
-livreAimerSansDisparaitre: true
+livreVersus: false
+livreAimerSansDisparaitre: false
 title: "Trois directions de l’amour"
 excerpt: "Être aimé, aimer, s’aimer dans la relation : trois directions, et le but est la troisième."
 category: "lien-relation"
 order: 15
-parcours: true
+parcours: false
 ---
 
 Une analyse qui s’élabore sur les directions de l’amour dans une relation et surtout les dérives quand c’est excessif et non équilibré.

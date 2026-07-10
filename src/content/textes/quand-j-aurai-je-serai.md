@@ -4,12 +4,12 @@ livreFableDanPhu: false
 livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
-livreAimerSansDisparaitre: true
+livreAimerSansDisparaitre: false
 title: "Quand j’aurai, je serai"
 excerpt: "L’Amour guérit, mais la Vérité est la condition nécessaire."
 category: "vrai-de-soi"
 order: 41
-parcours: true
+parcours: false
 ---
 
 « Quand j’aurai trouvé une amoureuse, je serai heureux »

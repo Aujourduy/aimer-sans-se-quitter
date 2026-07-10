@@ -1,10 +1,10 @@
 ---
 verifieParDuy: false
 livreFableDanPhu: false
-livreAnalyseConte: true
+livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
-livreAimerSansDisparaitre: true
+livreAimerSansDisparaitre: false
 title: "Le nez malade"
 excerpt: "La souffrance ne vient pas de la sexualité, mais de la perception de la sexualité."
 category: "corps-desir"

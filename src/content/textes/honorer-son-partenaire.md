@@ -4,13 +4,13 @@ livreFableDanPhu: false
 livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
-livreAimerSansDisparaitre: true
+livreAimerSansDisparaitre: false
 title: "Honorer son partenaire"
 excerpt: "Concept intemporel : honorer vs attendre, posture de gratitude"
 category: "lien-relation"
 order: 5
 draft: false
-parcours: true
+parcours: false
 ---
 Parmi les synonymes possible de "relation sexuelle" en langue française, il y a cette belle expression "Honorer sa femme. Honorer son homme." 
 

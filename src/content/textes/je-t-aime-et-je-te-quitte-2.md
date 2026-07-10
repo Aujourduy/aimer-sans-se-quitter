@@ -2,15 +2,15 @@
 verifieParDuy: false
 livreFableDanPhu: false
 livreAnalyseConte: false
-livreMetaphore: true
-livreVersus: true
-livreAimerSansDisparaitre: true
+livreMetaphore: false
+livreVersus: false
+livreAimerSansDisparaitre: false
 title: "Je t’aime et je te quitte 2"
 excerpt: "L’amour qui reste n’est pas à gérer : c’est lui qui fait de moi un être aimé et aimant."
 category: "lien-relation"
 order: 7
 draft: false
-parcours: true
+parcours: false
 ---
 Alors que fait-on de l’amour "qui reste "?:)
 

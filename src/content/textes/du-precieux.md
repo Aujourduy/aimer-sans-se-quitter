@@ -2,9 +2,9 @@
 verifieParDuy: false
 livreFableDanPhu: false
 livreAnalyseConte: false
-livreMetaphore: true
-livreVersus: true
-livreAimerSansDisparaitre: true
+livreMetaphore: false
+livreVersus: false
+livreAimerSansDisparaitre: false
 title: "Du précieux"
 excerpt: "Caresser en étant connecté au précieux du corps de l'autre rend la partenaire vivante plutôt que seulement excitée."
 category: "corps-desir"

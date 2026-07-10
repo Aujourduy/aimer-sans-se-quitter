@@ -4,12 +4,12 @@ livreFableDanPhu: false
 livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
-livreAimerSansDisparaitre: true
+livreAimerSansDisparaitre: false
 title: "Ce dont j’avais le plus besoin"
 excerpt: "Ce que tu rêves au plus profond de toi est légitime et existe vraiment."
 category: "vrai-de-soi"
 order: 16
-parcours: true
+parcours: false
 ---
 
 Ce qui m’a le plus aidé ? Ce qui va le plus t’aider ? Une des choses qui te fera le plus avancer vers la sexualité sensible, c’est de savoir que ce que tu rêves au plus profond de toi à propos de la sexualité :

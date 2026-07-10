@@ -4,14 +4,14 @@ livreFableDanPhu: false
 livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
-livreAimerSansDisparaitre: true
+livreAimerSansDisparaitre: false
 title: "Action ou vérité-s"
 excerpt: "On passe à l’action ou on se dit une vérité, jusqu’à ce que le désir revienne."
 category: "corps-desir"
 order: 5
 draft: true
 draftReason: "texte intime explicite, non surfacé pour l’instant"
-parcours: true
+parcours: false
 ---
 
 Étonnamment, je ne me rappelle pas d’y avoir joué étant jeune. Par contre, maintenant, j’y joue de temps en temps avec ma partenaire.
