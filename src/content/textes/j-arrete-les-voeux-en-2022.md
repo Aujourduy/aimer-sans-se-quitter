@@ -11,6 +11,9 @@ category: "vrai-de-soi"
 order: 29
 draft: false
 parcours: false
+statutParcours: "RESERVE"
+parcoursBloc: null
+parcoursSegment: null
 ---
 Au lieu des vœux habituels de santé, de réussite, de relations amoureuses qui sont des marques d’intérêt pour l’autre mais au final qui ont peu d’impacts réels dans ma vie quand je les reçois. Alors, j’ai pris du temps pour voir ce qui a concrètement des conséquences positives dans l’année qui s’est écoulée. 
 

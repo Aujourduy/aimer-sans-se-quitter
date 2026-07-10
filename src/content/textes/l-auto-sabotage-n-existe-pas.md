@@ -10,7 +10,10 @@ excerpt: "Thèse contre-intuitive intemporelle : ce qu'on croit sabotage est amo
 category: "vrai-de-soi"
 order: 30
 draft: false
-parcours: false
+parcours: true
+statutParcours: "PRET"
+parcoursBloc: 2
+parcoursSegment: "colonne"
 ---
 Spoiler alert : l’auto-sabotage n’existe pas.  A vrai dire, je ne l’ai jamais rencontré. Je comprends le concept. Je sais de quoi les gens parlent quand ils utilisent cette expression mais je n’en ai jamais vu. C’est comme le Père Noël. Je vois sa représentation, je peux dire à quoi il ressemble mais je ne l’ai jamais rencontré. Chaque fois, c’était un faux.
  

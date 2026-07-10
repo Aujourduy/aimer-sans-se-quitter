@@ -10,7 +10,10 @@ excerpt: "La chaîne était prise à l'envers : c'est l'autonomie affective qui 
 category: "corps-desir"
 order: 78
 draft: false
-parcours: false
+parcours: true
+statutParcours: "PRET"
+parcoursBloc: 2
+parcoursSegment: "colonne"
 ---
 Il y a tant d’articles de magazines, de vidéos et de livres qui expliquent comment directement améliorer la sexualité … de la mauvaise façon.
 

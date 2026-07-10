@@ -11,6 +11,9 @@ category: "vrai-de-soi"
 order: 20
 draft: false
 parcours: false
+statutParcours: "RESERVE"
+parcoursBloc: null
+parcoursSegment: null
 ---
 Un monsieur va à la pêche. Il veut attraper un certain type de poisson. Qu’est-ce qu’il doit faire ? Il choisit le bon coin de pêche, le bon appât adapté aux poissons qu’il cherche. C’est ce que certains célibataires font. Ils réfléchissent, déterminent quel partenaire ils ont envie d’avoir et essaient ensuite de le rencontrer.
 

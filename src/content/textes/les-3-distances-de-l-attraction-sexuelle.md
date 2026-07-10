@@ -11,6 +11,9 @@ category: "corps-desir"
 order: 47
 draft: false
 parcours: false
+statutParcours: "RESERVE"
+parcoursBloc: null
+parcoursSegment: null
 ---
 La perspective que je vous propose est unique parce que je n’ai trouvé aucun travail ou recherche sur ce sujet. C’est normal parce que pour différencier ces 3 distances, il faut avec un grand nombre de rencontres et des expériences d’attraction de type 2 et 3 qui sont très rares pour pouvoir les distinguer. 
 

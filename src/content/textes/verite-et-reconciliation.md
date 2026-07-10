@@ -9,7 +9,10 @@ title: "Vérité et réconciliation"
 excerpt: "La clé, c’est la vérité : se montrer victime ou bourreau pour retrouver sa dignité."
 category: "vrai-de-soi"
 order: 45
-parcours: false
+parcours: true
+statutParcours: "PRET"
+parcoursBloc: 3
+parcoursSegment: "colonne"
 ---
 
 Une période exemplaire de l’Afrique du Sud que beaucoup de gens ignorent. Le Comité Vérité et Réconciliation. C’est ce qui a permis à la population noire opprimée sous 43 années d’apartheid de ne pas sombrer dans une explosion de représailles violentes contre leurs bourreaux.

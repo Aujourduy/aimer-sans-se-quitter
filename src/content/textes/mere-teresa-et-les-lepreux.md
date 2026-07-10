@@ -12,6 +12,9 @@ order: 6
 draft: true
 draftReason: "thème sexuel à recadrer vers le relationnel"
 parcours: false
+statutParcours: "RESERVE"
+parcoursBloc: null
+parcoursSegment: null
 ---
 
 Elle s’occupait des lépreux, les soignait, faisait leur toilette. Un jour quelqu’un lui a demandé comment elle faisait pour ne pas trouver cela répugnant. Elle répondit qu’elle aussi trouvait cela dégoûtant, mais elle acceptait de ressentir cette sensation de dégoût pour pouvoir s’occuper des malades.

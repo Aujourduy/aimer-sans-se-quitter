@@ -12,6 +12,9 @@ order: 25
 draft: true
 draftReason: "thème sexuel à recadrer vers le relationnel"
 parcours: false
+statutParcours: "RESERVE"
+parcoursBloc: null
+parcoursSegment: null
 ---
 
 On parle des conflits quand des intérêts s’opposent ou quand il y a lutte pour un territoire. Avec les autres, la plupart des conflits sont des conflits d’opinion, de point de vue, chacun cherchant à montrer qu’il a raison. Nous croyons qu’il existe un territoire qui s’appelle le Monde que nous voyons, entendons, touchons, comprenons et mieux encore connaissons.

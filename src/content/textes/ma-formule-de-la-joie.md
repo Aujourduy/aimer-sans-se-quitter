@@ -12,6 +12,9 @@ order: 12
 draft: true
 draftReason: "mention biographique intime à alléger"
 parcours: false
+statutParcours: "RESERVE"
+parcoursBloc: null
+parcoursSegment: null
 ---
 
 Les mathématiciens sont des paresseux nés. Ils ont élevé la paresse à un tel niveau que cela devient de l’art. Ils passent leur temps, des fois des années, à inventer des trucs et astuces pour gagner du temps de calcul et de compréhension. Alors voici, ma formule du matin :

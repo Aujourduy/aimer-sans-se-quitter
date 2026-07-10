@@ -11,6 +11,9 @@ category: "lien-relation"
 order: 27
 draft: false
 parcours: false
+statutParcours: "JAMAIS-SITE"
+parcoursBloc: null
+parcoursSegment: null
 ---
 Tout d’abord, je tiens à préciser que je ne pense pas qu’être en couple c’est mieux ou moins bien que ne pas l’être. D’ailleurs, je n’accompagne pas les couples mais des personnes, qui peuvent être en couple.
 

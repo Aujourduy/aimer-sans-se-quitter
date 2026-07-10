@@ -10,7 +10,10 @@ excerpt: "L’amour qui reste n’est pas à gérer : c’est lui qui fait de mo
 category: "lien-relation"
 order: 7
 draft: false
-parcours: false
+parcours: true
+statutParcours: "PRET"
+parcoursBloc: 2
+parcoursSegment: "colonne"
 ---
 Alors que fait-on de l’amour "qui reste "?:)
 

@@ -11,6 +11,9 @@ category: "pratique-posture"
 order: 12
 draft: false
 parcours: false
+statutParcours: "RESERVE"
+parcoursBloc: null
+parcoursSegment: null
 ---
 Et toi, que veux-tu réellement ? Avoir du plaisir intensément avec ta partenaire ou te sentir aimé profondément par ta partenaire ? Et si mon objectif c’est de me sentir aimé profondément et que je ne l’ai pas encore atteint. Je peux me demander si en faisant toujours la même chose, avec le même mode de penser, je pourrais avoir un résultat complètement différent. Oui, alors c’est vrai que des fois je change un peu ceci ou un peu cela. Mais cela reste des petits changements, des évolutions. Ce qui est nécessaire c’est peut-être une révolution.
 

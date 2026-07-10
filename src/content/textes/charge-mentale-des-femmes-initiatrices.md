@@ -11,6 +11,9 @@ category: "lien-relation"
 order: 20
 draft: true
 parcours: false
+statutParcours: "NON-PUBLIABLE"
+parcoursBloc: null
+parcoursSegment: null
 ---
 Lectrice Ah, je comprends l'idée, mais c'est encore la femme qui doit s'adapter et trouver comment faire... Charge mentale supplémentaire. Hum…
 

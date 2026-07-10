@@ -11,6 +11,9 @@ category: "corps-desir"
 order: 17
 draft: false
 parcours: false
+statutParcours: "NON-PUBLIABLE"
+parcoursBloc: null
+parcoursSegment: null
 ---
 La ligne droite est le plus court chemin pour aller d’un point à un autre. La ligne spirale est le chemin le plus complet pour aller d’un point à un autre.
 

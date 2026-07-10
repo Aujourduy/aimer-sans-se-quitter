@@ -12,6 +12,9 @@ order: 43
 draft: true
 draftReason: "thème sexuel à recadrer vers le relationnel"
 parcours: false
+statutParcours: "RESERVE"
+parcoursBloc: null
+parcoursSegment: null
 ---
 
 Dans ma série on revisite les histoires connues pour en tirer des enseignements inédits et utiles voici le conte de la belle au bois dormant. Un court rappel, dans la version originale non édulcorée par Disney, la princesse s’endort pendant 100 ans et un prince en voyage a dû traverser la forêt de ronces pour arriver au château pour réveiller la belle.

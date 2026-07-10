@@ -11,6 +11,9 @@ category: "corps-desir"
 order: 43
 draft: true
 parcours: false
+statutParcours: "NON-PUBLIABLE"
+parcoursBloc: null
+parcoursSegment: null
 ---
 Après plusieurs séances de debrief sur ce que je proposais, sur ce qu’était exactement la sexualité sensible, il m’est apparu évident que la sexualité sensible c’est être libre d’être.
 

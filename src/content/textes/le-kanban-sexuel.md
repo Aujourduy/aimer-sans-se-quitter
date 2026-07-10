@@ -11,6 +11,9 @@ category: "corps-desir"
 order: 75
 draft: false
 parcours: false
+statutParcours: "RESERVE"
+parcoursBloc: null
+parcoursSegment: null
 ---
 D’après Wikipédia le kaban désigne la méthode de gestion de production en flux tendu employée à la fin des années 1950 dans les usines Toyota et consistant à limiter la production d'un poste en amont d'une chaîne de travail aux besoins exacts du poste en aval. C’est cette approche qui a permis à la firme d’améliorer considérablement sa productivité par rapport aux concurrents. C’est aussi l’approche du stock zéro.
 

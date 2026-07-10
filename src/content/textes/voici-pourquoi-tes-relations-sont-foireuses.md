@@ -12,6 +12,9 @@ order: 11
 draft: true
 draftReason: "titre à valider"
 parcours: false
+statutParcours: "JAMAIS-SITE"
+parcoursBloc: null
+parcoursSegment: null
 ---
 
 Dans le milieu développement personnel et spirituel il y a deux principes qui sont souvent mal utilisés ensemble.

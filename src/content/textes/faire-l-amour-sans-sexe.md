@@ -12,6 +12,9 @@ order: 18
 draft: true
 draftReason: "texte intime explicite, non surfacé pour l’instant ; corps source incomplet, à rédiger"
 parcours: false
+statutParcours: "NON-PUBLIABLE"
+parcoursBloc: null
+parcoursSegment: null
 ---
 
 <!-- À RÉDIGER : version source incomplète -->

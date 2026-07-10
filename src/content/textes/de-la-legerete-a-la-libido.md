@@ -11,6 +11,9 @@ category: "corps-desir"
 order: 10
 draft: false
 parcours: false
+statutParcours: "RESERVE"
+parcoursBloc: null
+parcoursSegment: null
 ---
 Il y a quelques jours, un commentaire sur ma page disait que celle-ci devient une page de développement personnel. C’est très vrai. Pour moi, la sexualité sensible c’est de la Légèreté dans la tête, de l’Intimité dans le cœur et de la Présence dans le corps. Et s’il y a des éléments de développement personnel qui nous permettent d’être plus légers, plus ouverts plus dans la gratitude et bien je trouve cela utile, voire même indispensable.
 

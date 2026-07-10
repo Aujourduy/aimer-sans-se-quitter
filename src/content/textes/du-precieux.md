@@ -11,6 +11,9 @@ category: "corps-desir"
 order: 14
 draft: false
 parcours: false
+statutParcours: "RESERVE"
+parcoursBloc: null
+parcoursSegment: null
 ---
 Des conseils sur les caresses, j’ai lu des livres sur ce sujet. Par où commencer, quelle zone toucher, comment faire, etc, mais en fin de compte c’était des conseils assez mécanique.
 

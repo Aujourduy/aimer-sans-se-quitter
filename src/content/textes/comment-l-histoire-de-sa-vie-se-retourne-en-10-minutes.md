@@ -13,7 +13,10 @@ entryRole: "mecanisme"
 order: 46
 draft: false
 draftReason: "accord + anonymat cliente requis"
-parcours: false
+parcours: true
+statutParcours: "NETTOYAGE"
+parcoursBloc: 1
+parcoursSegment: "colonne"
 ---
 
 Hier, j’ai eu une cliente en coaching business. C’est une cheffe d’entreprise que j’avais accompagnée il y a 5 ans. Même si j’ai arrêté le coaching perso et pro ces dernières années pour me concentrer sur mon activité de Révélateur d’Amants Sensibles, j’ai accepté de l’accompagner dans cette période de grande transition pour elle.

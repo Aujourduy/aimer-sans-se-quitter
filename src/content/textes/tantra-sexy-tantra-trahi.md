@@ -11,6 +11,9 @@ category: "corps-desir"
 order: 63
 draft: false
 parcours: false
+statutParcours: "NON-PUBLIABLE"
+parcoursBloc: null
+parcoursSegment: null
 ---
 Précisons les choses, j’ai le plus grand respect pour les différentes approches tantriques. Ma bibliothèque contient un rayon complet de livres d’Osho, Néo-Tantra, et un autre de livres d’Eric Baret, Shivaïsme du Cachemire. Certains des outils que je transmets à mes stagiaires viennent du tantra.
 

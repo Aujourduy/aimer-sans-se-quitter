@@ -11,6 +11,9 @@ category: "corps-desir"
 order: 77
 draft: false
 parcours: false
+statutParcours: "RESERVE"
+parcoursBloc: null
+parcoursSegment: null
 ---
 Ce que je constate, c’est que beaucoup veulent vivre une sexualité sensible mais ne voient pas clairement les ingrédients indispensables. Moi, le premier pendant des années. Je voulais de l’amour, de l’amour, de l’amour. Comme c’est grand mot pouvant avoir une grande portée philosophique et spirituelle dans lesquels je ne vais pas entrer, je vais simplement parler de l’attraction au sens large du terme. C'est-à-dire une attirance physique, émotionnelle, intellectuelle, affective. C’est quelqu’un qui me plaît pour telle ou telle raison : parce qu’elle est belle, riche, intelligente, cultivée, altruiste, militante, compatissante, parce qu’elle a de beaux yeux, une belle voix, une belle voiture ou simplement parce qu’elle sent la pomme verte. Bref elle me plaît.
 

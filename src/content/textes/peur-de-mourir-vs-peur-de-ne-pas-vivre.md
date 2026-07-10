@@ -12,6 +12,9 @@ order: 7
 draft: true
 draftReason: "mention biographique intime à alléger"
 parcours: false
+statutParcours: "RESERVE"
+parcoursBloc: null
+parcoursSegment: null
 ---
 
 Pendant des années, je croyais que c’était la même chose. Je croyais que mourir et ne pas vivre c’était blanc bonnet et bonnet blanc. En fait, non. C’est très différent.

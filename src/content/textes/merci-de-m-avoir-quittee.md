@@ -11,7 +11,10 @@ category: "lien-relation"
 entry: true
 entryRole: "reconnaissance"
 order: 41
-parcours: false
+parcours: true
+statutParcours: "PRET"
+parcoursBloc: 1
+parcoursSegment: "colonne"
 ---
 
 

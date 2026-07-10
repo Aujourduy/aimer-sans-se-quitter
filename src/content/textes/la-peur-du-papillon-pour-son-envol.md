@@ -10,6 +10,9 @@ excerpt: "Le papillon ne voit pas son décollage, il sent le sol se dérober."
 category: "vrai-de-soi"
 order: 51
 parcours: false
+statutParcours: "RESERVE"
+parcoursBloc: null
+parcoursSegment: null
 ---
 
 Dans le milieu du développement personnel et de la spiritualité, j’entends et je lis souvent “la métamorphose du papillon”. La chrysalide qui se transforme pour prendre son envol.

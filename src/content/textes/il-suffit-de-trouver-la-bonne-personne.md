@@ -11,7 +11,10 @@ category: "regard-vie"
 entry: true
 entryRole: "deplacement"
 order: 14
-parcours: false
+parcours: true
+statutParcours: "PRET"
+parcoursBloc: 2
+parcoursSegment: "colonne"
 ---
 
 C’est pour certains le fantasme que les problèmes amoureux, les insatisfactions relationnelles et les frustrations sexuelles vont disparaître dès qu’on aura trouvé la bonne personne, le bon partenaire.

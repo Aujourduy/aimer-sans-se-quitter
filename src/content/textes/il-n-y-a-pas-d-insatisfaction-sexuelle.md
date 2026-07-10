@@ -11,6 +11,9 @@ category: "corps-desir"
 order: 20
 draft: false
 parcours: false
+statutParcours: "RESERVE"
+parcoursBloc: null
+parcoursSegment: null
 ---
 L’insatisfaction sexuelle est une illusion. Une erreur d’interprétation du ressenti.
 

@@ -11,7 +11,10 @@ category: "vrai-de-soi"
 order: 63
 draft: true
 draftReason: "thème sexuel à recadrer vers le relationnel"
-parcours: false
+parcours: true
+statutParcours: "MARQUEUR"
+parcoursBloc: 1
+parcoursSegment: "colonne"
 ---
 
 C’est un conte d’Andersen pas très connu. Quand j’ai entendu l’histoire la première fois, j’ai trouvé sa morale lamentable. C’était l’apologie de la fragilité de cette princesse, faible, sans défense mais surtout douillette.

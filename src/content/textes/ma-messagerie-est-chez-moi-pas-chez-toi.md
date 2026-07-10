@@ -11,6 +11,9 @@ category: "vrai-de-soi"
 order: 68
 draft: false
 parcours: false
+statutParcours: "RESERVE"
+parcoursBloc: null
+parcoursSegment: null
 ---
 Ma vision personnelle, subjective et non dogmatique sur les interactions entre les personnes, du groupe ou d'ailleurs. 
 

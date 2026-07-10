@@ -11,7 +11,10 @@ category: "vrai-de-soi"
 order: 35
 draft: true
 draftReason: "thème sexuel à recadrer vers le relationnel"
-parcours: false
+parcours: true
+statutParcours: "MARQUEUR"
+parcoursBloc: 1
+parcoursSegment: "colonne"
 ---
 
 Dans une relation, on ne peut pas forcément avoir toujours ce qu’on veut. Le piège c’est de réfléchir à ce que le couple veut avant d’avoir trouvé ce que chacun veut.

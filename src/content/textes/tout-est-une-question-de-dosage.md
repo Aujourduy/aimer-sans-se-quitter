@@ -11,6 +11,9 @@ category: "regard-vie"
 order: 22
 draft: false
 parcours: false
+statutParcours: "RESERVE"
+parcoursBloc: null
+parcoursSegment: null
 ---
 Avec n’importe quel produit, on peut obtenir un effet complètement différent suivant la quantité. L’eau si vitale à boire, deviendrait néfaste s’il fallait en boire dix litres par jour. La vaccination repose sur le principe du poison qui guérit à très faible dose, comme l’homéopathie. 
 

@@ -9,7 +9,10 @@ title: "Séduction vs Sélection"
 excerpt: "L’important n’est pas la séduction mais la sélection : la stratégie de l’ovule."
 category: "lien-relation"
 order: 37
-parcours: false
+parcours: true
+statutParcours: "PRET"
+parcoursBloc: 2
+parcoursSegment: "colonne"
 ---
 
 Comme souvent ici, je te partage des perspectives simples, surprenantes et puissantes. Celle-ci est l’une des plus contre-intuitives par rapport aux messages répandus dans les pubs et conseils des réseaux sociaux. Il y a plein de coachs en séduction. Mais l’important n’est pas la séduction mais la sélection.

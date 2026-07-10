@@ -9,7 +9,10 @@ title: "Courir avec des béquilles"
 excerpt: "Ce qui nous a aidé un jour devient notre entrave si on le garde toujours."
 category: "vrai-de-soi"
 order: 48
-parcours: false
+parcours: true
+statutParcours: "PRET"
+parcoursBloc: 3
+parcoursSegment: "colonne"
 ---
 
 Quand une personne se blesse gravement à la jambe, on va lui donner des béquilles pour économiser l’usage de la jambe pour qu’elle puisse se rétablir.

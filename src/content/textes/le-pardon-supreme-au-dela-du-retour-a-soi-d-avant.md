@@ -11,6 +11,9 @@ category: "lien-relation"
 order: 32
 draft: false
 parcours: false
+statutParcours: "JAMAIS-SITE"
+parcoursBloc: null
+parcoursSegment: null
 ---
 Bonjour amis chercheurs.ses de Vérité, d’Amour et de Liberté.
 

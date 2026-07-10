@@ -11,6 +11,9 @@ category: "pratique-posture"
 order: 16
 draft: true
 parcours: false
+statutParcours: "NON-PUBLIABLE"
+parcoursBloc: null
+parcoursSegment: null
 ---
 Problème avec la visio /= présentiel
 

@@ -12,6 +12,9 @@ order: 9
 draft: true
 draftReason: "thème sexuel à recadrer vers le relationnel"
 parcours: false
+statutParcours: "RESERVE"
+parcoursBloc: null
+parcoursSegment: null
 ---
 
 Il y a quelque temps, j’ai retrouvé dans mes cartons des livres sur la sexualité avec un titre commençant par “L’art de …”. On nous “apprend” comment faire l’amour, comment caresser, comment embrasser, comment, comment et encore comment. Avec du recul, et un peu de maturité, je crois que la plupart de ces livres, comme des formations, qui ont pour titre “L’art de …” sont de mauvais enseignements. L’art ne s’apprend pas dans le faire mais dans l’écoute.

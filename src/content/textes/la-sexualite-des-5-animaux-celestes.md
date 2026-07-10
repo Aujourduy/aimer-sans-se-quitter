@@ -11,6 +11,9 @@ category: "corps-desir"
 order: 40
 draft: false
 parcours: false
+statutParcours: "RESERVE"
+parcoursBloc: null
+parcoursSegment: null
 ---
 Dans la cosmologie chinoise, les 5 animaux célestes, correspondant aux 5 éléments, représentent les caractéristiques principales de chaque domaine de l’univers. Qu’il s’agisse de sens, doigts, couleurs, sons, directions, saisons, goûts, odeurs, anatomie, etc tout est ramené à ces 5 éléments.
 

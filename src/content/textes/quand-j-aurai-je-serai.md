@@ -9,7 +9,10 @@ title: "Quand j’aurai, je serai"
 excerpt: "L’Amour guérit, mais la Vérité est la condition nécessaire."
 category: "vrai-de-soi"
 order: 41
-parcours: false
+parcours: true
+statutParcours: "NETTOYAGE"
+parcoursBloc: 3
+parcoursSegment: "colonne"
 ---
 
 « Quand j’aurai trouvé une amoureuse, je serai heureux »

@@ -9,7 +9,10 @@ title: "La vie n’est pas une fenêtre mais un miroir"
 excerpt: "Ce que je vois au-dehors n’est peut-être que le reflet de ce qui m’habite."
 category: "regard-vie"
 order: 5
-parcours: false
+parcours: true
+statutParcours: "PRET"
+parcoursBloc: 2
+parcoursSegment: "colonne"
 ---
 
 On peut voir la vie comme si on regardait à travers une fenêtre. On voit un monde extérieur, avec des règles, des gens, des éléments propres qui sont différents de notre monde intérieur, nos émotions, nos expériences, nos valeurs.

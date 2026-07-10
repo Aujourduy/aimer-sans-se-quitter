@@ -11,6 +11,9 @@ category: "vrai-de-soi"
 order: 70
 draft: false
 parcours: false
+statutParcours: "RESERVE"
+parcoursBloc: null
+parcoursSegment: null
 ---
 Oui, ce message est vraiment pour toi si tu cherches à attirer le bon partenaire. Voici mon conseil : Arrête de chercher à attirer le bon ou la bonne partenaire.
 

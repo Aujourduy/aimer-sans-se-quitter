@@ -12,6 +12,9 @@ order: 74
 draft: true
 draftReason: "thème sexuel à recadrer vers le relationnel"
 parcours: false
+statutParcours: "RESERVE"
+parcoursBloc: null
+parcoursSegment: null
 ---
 
 La question du consentement est souvent posée quand on parle des relations sexuelles et du respect des femmes. Personnellement, je n’ai jamais demandé et ne demanderai jamais à une femme si elle consent à faire l’amour avec moi.

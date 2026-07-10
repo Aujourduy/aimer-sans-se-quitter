@@ -11,6 +11,9 @@ category: "vrai-de-soi"
 order: 71
 draft: true
 parcours: false
+statutParcours: "NON-PUBLIABLE"
+parcoursBloc: null
+parcoursSegment: null
 ---
 Donc on part ou on arrête d'être en colère contre l'autre qui n pas de choix 
 

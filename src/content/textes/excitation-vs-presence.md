@@ -9,7 +9,10 @@ title: "Excitation vs présence"
 excerpt: "On cherche l’excitation, le plaisir, parce qu’on oublie l’essentiel : la présence."
 category: "corps-desir"
 order: 1
-parcours: false
+parcours: true
+statutParcours: "PRET"
+parcoursBloc: 2
+parcoursSegment: "colonne"
 ---
 
 C’est la fin de la session. Cela fait une heure que l’atelier a commencé. Les groupes se font et se défont sur ce grand parquet. Des danseurs se rencontrent, dansent ensemble et se quittent. Le hasard (ou pas) nous a amené à nous connecter dans la danse. Oui, c’est une belle femme. Oui, c’est une bonne danseuse. D’ailleurs les deux cumulés me créent une appréhension. Cette femme m’impressionne. Mais comme je suis plus passionné par la danse que mon mental, je me laisse fondre dans cette danse.

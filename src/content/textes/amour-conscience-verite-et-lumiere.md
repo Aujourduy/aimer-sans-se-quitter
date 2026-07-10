@@ -11,6 +11,9 @@ category: "regard-vie"
 order: 1
 draft: false
 parcours: false
+statutParcours: "RESERVE"
+parcoursBloc: null
+parcoursSegment: null
 ---
 Une chose importante que j’ai comprise des constellations familiales que j’ai animées, c'est que ces quatre mots : Amour, Conscience, Vérité et Lumière pointent dans la même direction. C’est simplement quatre versants de la même montagne. 
 

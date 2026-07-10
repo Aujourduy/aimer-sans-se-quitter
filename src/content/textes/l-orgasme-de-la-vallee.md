@@ -9,7 +9,10 @@ title: "L’orgasme de la vallée"
 excerpt: "Deux corps immobiles, et l’amour qui passe par un fil de lumière."
 category: "corps-desir"
 order: 33
-parcours: false
+parcours: true
+statutParcours: "PRET"
+parcoursBloc: 4
+parcoursSegment: "chemin-profond"
 ---
 
 L’orgasme de la vallée.

@@ -9,7 +9,10 @@ title: "Le tigre et le masque"
 excerpt: "Jeter le sel, c’est porter le masque d’un autre moi ; derrière, il n’y a pas de tigre."
 category: "vrai-de-soi"
 order: 67
-parcours: false
+parcours: true
+statutParcours: "NETTOYAGE"
+parcoursBloc: 1
+parcoursSegment: "colonne"
 ---
 
 Le voisin de Nasreddine le voyait tous les matins jeter des pincées de sel autour de sa maison. Nasreddine avait la réputation d’être souvent farfelu donc cela ne choquait pas le voisin mais quand même très intrigué, il décide un jour de demander la raison à ce rituel étrange. Nasreddine : « C’est une recette très ancienne. Je fais ça pour éloigner les tigres ». Le voisin s’étonne : « Mais Nasreddine, il n’y a pas de tigre dans ce pays ! »

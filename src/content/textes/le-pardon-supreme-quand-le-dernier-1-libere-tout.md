@@ -11,6 +11,9 @@ category: "vrai-de-soi"
 order: 7
 draft: false
 parcours: false
+statutParcours: "JAMAIS-SITE"
+parcoursBloc: null
+parcoursSegment: null
 ---
 Hello les chercheurs de vérité, de liberté et de l'amour. 
 

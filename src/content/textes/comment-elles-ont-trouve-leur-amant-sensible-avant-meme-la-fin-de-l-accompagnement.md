@@ -11,6 +11,9 @@ category: "pratique-posture"
 order: 1
 draft: false
 parcours: false
+statutParcours: "JAMAIS-SITE"
+parcoursBloc: null
+parcoursSegment: null
 ---
 Même si le but de l’accompagnement est d’aider les participants à vivre une sexualité authentique et sensible, je reste surpris par la rapidité de la manifestation dans la vie de cette transformation intérieure. Plusieurs femmes ont trouvé leur amant sensible avant même la fin de l’accompagnement. 
 

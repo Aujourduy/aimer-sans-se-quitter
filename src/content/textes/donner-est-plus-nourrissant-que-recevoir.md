@@ -10,7 +10,10 @@ excerpt: "Renversement court mais développé sur l'amour et la sexualité, inte
 category: "lien-relation"
 order: 3
 draft: true
-parcours: false
+parcours: true
+statutParcours: "NETTOYAGE"
+parcoursBloc: 3
+parcoursSegment: "colonne"
 ---
 Longtemps j'ai cru que j'avais besoin de recevoir de l'amour.
 Je réalise maintenant qu'en donner est encore plus nourrissant.

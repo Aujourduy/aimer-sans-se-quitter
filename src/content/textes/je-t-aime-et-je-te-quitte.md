@@ -9,7 +9,10 @@ title: "Je t’aime et je te quitte"
 excerpt: "Aimer n’est pas une bonne raison de rester ; le bon critère, c’est d’être plus heureux."
 category: "lien-relation"
 order: 28
-parcours: false
+parcours: true
+statutParcours: "PRET"
+parcoursBloc: 1
+parcoursSegment: "colonne"
 ---
 
 C’est une des plus belles leçons que j’ai apprises en animant des constellations familiales. Quand on anime une constellation, on se trouve dans un espace sans jugement, avec beaucoup de clarté et honnêtement je me trouvais vraiment intelligent et sage dans cet espace. Malheureusement, quand les constellations familiales étaient finies, je perdais la plupart du temps cette clarté et cette sagesse. Mais cette fois-là, la vision claire est restée.

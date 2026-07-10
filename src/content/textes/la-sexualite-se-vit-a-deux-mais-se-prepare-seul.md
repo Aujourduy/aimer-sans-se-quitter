@@ -11,6 +11,9 @@ category: "corps-desir"
 order: 42
 draft: false
 parcours: false
+statutParcours: "RESERVE"
+parcoursBloc: null
+parcoursSegment: null
 ---
 Certaines personnes s’étonnent que mon accompagnement à la sexualité sensible n’accueille pas les couples. Que ce soit dans les sports collectifs, le chant choral, la musique dans un orchestre, la danse en couple, un commando militaire, si vous voulez atteindre une performance élevée, vous serez obligé d’avoir un entraînement individualisé. Vous avez besoin de préparer votre corps, faire des étirements, de la musculation, des assouplissements, des vocalises seul. Ensuite, quand votre corps est fonctionnel, vous allez vous entraîner avec vos partenaires pour vous coordonner, pour créer un esprit d’équipe, une alchimie. 
 

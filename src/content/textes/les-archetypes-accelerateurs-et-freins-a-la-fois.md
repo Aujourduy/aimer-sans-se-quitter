@@ -11,6 +11,9 @@ category: "pratique-posture"
 order: 17
 draft: false
 parcours: false
+statutParcours: "RESERVE"
+parcoursBloc: null
+parcoursSegment: null
 ---
 L’être humain est ainsi fait que nous apprenons par mimétisme et par expérimentation. Le mimétisme ce n’est pas seulement en étant physiquement avec d’autres personnes, bien que cela soit la forme la plus efficace. Cela peut être aussi par mimétisme d’une image construite d’un personnage, c’est pourquoi je peux m’identifier à tel ou tel héros et apprendre de ses qualités, de ses comportements ou de ses pensées. En cela, les archétypes sont très aidants pour se familiariser avec une attitude qui nous est étrangère. 
 

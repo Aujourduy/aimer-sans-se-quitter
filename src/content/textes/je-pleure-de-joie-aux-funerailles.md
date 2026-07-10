@@ -10,6 +10,9 @@ excerpt: "Chaque larme devient une fleur déposée sur l’autel de la gratitude
 category: "regard-vie"
 order: 2
 parcours: false
+statutParcours: "RESERVE"
+parcoursBloc: null
+parcoursSegment: null
 ---
 
 Lors des quatre dernières funérailles, j’ai énormément pleuré. J’étais peut-être la personne qui pleurait le plus dans l’assemblée. Des gros sanglots à en faire exploser la poitrine. Des larmes coulant à torrent. Ça impressionne beaucoup. Je ne me retiens pas. Au contraire.

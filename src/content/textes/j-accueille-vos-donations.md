@@ -11,6 +11,9 @@ category: "vrai-de-soi"
 order: 28
 draft: false
 parcours: false
+statutParcours: "JAMAIS-SITE"
+parcoursBloc: null
+parcoursSegment: null
 ---
 Il y a plusieurs mois, une femme qui suivaint mes posts depuis longtemps, m’a suggéré de mettre un lien pour recevoir des donations. Elle me disait que mes posts lui apportaient énormément mais qu’elle pensait aussi qu’elle ne participerait pas mes offrantes payantes parce qu’elle n’en avait pas besoin. Donc, me faire un don était un moyen d’exprimer une gratitude matériellement pour les bienfaits de mes partages. 
 

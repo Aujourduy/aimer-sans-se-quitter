@@ -11,5 +11,8 @@ category: "pratique-posture"
 order: 10
 draft: true
 parcours: false
+statutParcours: "NON-PUBLIABLE"
+parcoursBloc: null
+parcoursSegment: null
 ---
 Pendant longtemps, j’ai cru qu’il fallait

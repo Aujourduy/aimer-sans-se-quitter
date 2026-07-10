@@ -10,7 +10,10 @@ excerpt: "Une voiture d'occasion pleine de pannes révèle une leçon sur le pri
 category: "vrai-de-soi"
 order: 53
 draft: false
-parcours: false
+parcours: true
+statutParcours: "PRET"
+parcoursBloc: 3
+parcoursSegment: "colonne"
 ---
 Il y a quelque temps, je cherchais une voiture et je suis tombé sur une super occasion. Elle était à vingt pour cent de son prix. Je l’ai tout de suite acheté. Vraiment 1000 euros, c’ était une excellente affaire. 
 

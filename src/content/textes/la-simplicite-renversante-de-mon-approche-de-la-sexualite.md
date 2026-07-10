@@ -11,5 +11,8 @@ category: "pratique-posture"
 order: 4
 draft: true
 parcours: false
+statutParcours: "NON-PUBLIABLE"
+parcoursBloc: null
+parcoursSegment: null
 ---
 Quand tu vas

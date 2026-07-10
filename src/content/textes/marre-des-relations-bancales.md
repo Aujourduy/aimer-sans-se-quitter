@@ -11,6 +11,9 @@ category: "corps-desir"
 order: 54
 draft: false
 parcours: false
+statutParcours: "JAMAIS-SITE"
+parcoursBloc: null
+parcoursSegment: null
 ---
 Marre des relations bancales ?
 

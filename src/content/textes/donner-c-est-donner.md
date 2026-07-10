@@ -9,7 +9,10 @@ title: "Donner c’est donner ?"
 excerpt: "À la fin d’une relation, voir si j’ai vraiment donné, ou seulement investi dans l’espoir d’un retour."
 category: "lien-relation"
 order: 26
-parcours: false
+parcours: true
+statutParcours: "PRET"
+parcoursBloc: 3
+parcoursSegment: "colonne"
 ---
 
 La fin d’une relation est une magnifique expérience de vérité. C’est l’occasion de voir nos attentes, nos idéalisations, notre imaginaire sur la relation disparaître en poussière. Nos rêves, nos espoirs s’effondrent.

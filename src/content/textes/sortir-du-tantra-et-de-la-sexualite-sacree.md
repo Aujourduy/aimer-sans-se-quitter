@@ -11,7 +11,10 @@ category: "corps-desir"
 order: 62
 draft: true
 draftReason: "texte intime explicite, non surfacé pour l’instant"
-parcours: false
+parcours: true
+statutParcours: "NETTOYAGE"
+parcoursBloc: 4
+parcoursSegment: "chemin-profond"
 ---
 
 Le Tantra, ou plutôt le Néo-Tantra, et la sexualité tantrique sont à la “Sexualité” ce qu’une église est à Dieu.

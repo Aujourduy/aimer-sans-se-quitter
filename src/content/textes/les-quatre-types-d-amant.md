@@ -11,6 +11,9 @@ category: "corps-desir"
 order: 90
 draft: false
 parcours: false
+statutParcours: "RESERVE"
+parcoursBloc: null
+parcoursSegment: null
 ---
 En faisant la synthèse des entretiens sur la sexualité sensible que j’ai eu, on peut dire qu’il y a quatre catégories. Ceux qui pratiquent, ceux qui veulent, ce qui peuvent et ceux qui ne peuvent pas. 
 

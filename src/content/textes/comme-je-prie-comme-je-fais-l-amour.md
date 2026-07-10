@@ -11,7 +11,10 @@ category: "corps-desir"
 order: 8
 draft: true
 draftReason: "texte intime explicite, non surfacé pour l’instant"
-parcours: false
+parcours: true
+statutParcours: "MARQUEUR"
+parcoursBloc: 4
+parcoursSegment: "chemin-profond"
 ---
 
 Le maître spirituel chrétien, Maître Eckhart, disait qu’il y avait deux manières de prier. Celle qui nous éloigne de Dieu et celle qui nous rapproche.

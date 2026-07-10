@@ -11,6 +11,9 @@ category: "regard-vie"
 order: 4
 draft: false
 parcours: false
+statutParcours: "JAMAIS-SITE"
+parcoursBloc: null
+parcoursSegment: null
 ---
 C’est extrêmement difficile pour moi de trouver les mots justes pour te partager cette expérience mystique bouleversante où j’ai sangloté d’extase pendant plusieurs minutes. Des larmes de beauté. Des larmes de gratitude pour la Vie. Des larmes de surprise pour cette sensation intense d’être. A la fois simple, à la fois magnifique. Des larmes d’une paix profonde depuis la nuit des temps. J’en ai tellement pleuré que j’ai eu des courbatures aux côtes après.
 

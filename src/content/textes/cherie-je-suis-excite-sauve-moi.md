@@ -10,7 +10,10 @@ excerpt: "L'excitation n'est pas un problème à résoudre : respecter les besoi
 category: "corps-desir"
 order: 7
 draft: false
-parcours: false
+parcours: true
+statutParcours: "PRET"
+parcoursBloc: 3
+parcoursSegment: "colonne"
 ---
 Plusieurs femmes m'ont raconté cette situation. C'est un moment de partage plus ou mois sensuel. L'homme est excité. Il a une érection. La femme n'a pas envie de pénétration. L'homme lui montre le pénis tendu en disant qu'elle était responsable de la situation et donc avait le devoir de le résoudre.
 

@@ -11,6 +11,9 @@ category: "lien-relation"
 order: 45
 draft: false
 parcours: false
+statutParcours: "RESERVE"
+parcoursBloc: null
+parcoursSegment: null
 ---
 Bonjour mes amis, voici la plus belle révélation que j’ai eue. Dans le principe, rien de nouveau, ça a été dit en long et en large dans différentes traditions spirituelles, par de grands maîtres. La nouveauté, c’est que je commence à l’intégrer et j’ai trouvé une description qui pourra vraiment aider plusieurs d’entre vous. En tout cas, je l’espère de tout coeur.
 

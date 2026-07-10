@@ -11,6 +11,9 @@ category: "corps-desir"
 order: 41
 draft: false
 parcours: false
+statutParcours: "RESERVE"
+parcoursBloc: null
+parcoursSegment: null
 ---
 Longtemps j’ai cherché à vivre une “sexualité sacrée”. C’était un beau concept. Ça sonnait bien aux oreilles parce qu’il y avait “sexualité” et “sacrée”. 
 

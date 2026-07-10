@@ -11,6 +11,9 @@ category: "vrai-de-soi"
 order: 27
 draft: false
 parcours: false
+statutParcours: "RESERVE"
+parcoursBloc: null
+parcoursSegment: null
 ---
 Lors d’une séance de clarification, une femme disait qu’elle voulait “Nourrir son désir” pour son compagnon. C’est un fonctionnement possible du désir. Il y a aussi un autre aspect essentiel. Le désir est déjà grand en soi et il a surtout besoin qu’on lui enlève les entraves. Quelles entraves ? 
 

@@ -10,6 +10,9 @@ excerpt: "L’ordinateur n’a pas gagné en calculant plus vite, mais en se pos
 category: "lien-relation"
 order: 44
 parcours: false
+statutParcours: "RESERVE"
+parcoursBloc: null
+parcoursSegment: null
 ---
 
 En 2015, un ordinateur a réussi à battre le champion du jeu de go pour la première fois. Et l’enseignement le plus important que j’ai retiré n’était pas que l’ordinateur pouvait calculer plus vite que nous mais que depuis la nuit des temps l’homme a mal interprété le but.

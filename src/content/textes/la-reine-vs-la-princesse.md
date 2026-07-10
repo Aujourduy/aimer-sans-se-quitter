@@ -11,7 +11,10 @@ category: "vrai-de-soi"
 order: 64
 draft: true
 draftReason: "thème sexuel à recadrer vers le relationnel"
-parcours: false
+parcours: true
+statutParcours: "MARQUEUR"
+parcoursBloc: 2
+parcoursSegment: "colonne"
 ---
 
 La Princesse se veut belle pour plaire. Elle cherche à être la plus belle du bal. Elle est en compétition avec les autres femmes. Profondément elle a peur. Peur de ne pas être assez bien, peur de ne pas être choisie, peur de ne pas être aimée. Sa question préférée est "Est-ce que tu m’aimes ?”. Elle peut la poster sur les réseaux sociaux avec un nombre de selfies qui attendent les likes. Dans la relation amoureuse, cette question peut se cacher dans la déclaration : “Je t’aime” avec un silence qui attend la réponse réciproque. Cette peur risque d’amener un comportement d’effort dans la sexualité : “Je n’ai pas vraiment de plaisir à faire ça mais je le fais pour toi” avec un sous-entendu “pour que tu m’aimes, pour que tu ne me quittes pas, pour que tu me donnes ce que je te demande”. Dans la sexualité, cela peut concerner le nombre de rapports, des pratiques sexuelles particulières. C’est accepter des choses qui ne lui font pas plaisir pour faire plaisir à son partenaire. Pour peu qu’en face c’est un prince, il pourrait se sentir valorisé par telle ou telle expérience et c’est le début de l’enfer pour la Princesse avec du ressentiment, des reproches non exprimés, d’une ardoise mentale avec la liste des choses qu’elle a faites pour lui. Inconsciemment, ou plus ou moins consciemment, il peut même s’installer une relation commerciale : la femme donne du sexe, l’homme donne ce qu’elle demande. D’ailleurs “donner” pour ”recevoir” c’est échanger, c’est acheter. Ce n’est pas donner, ce n‘est pas offrir. Cela inscrit forcément la relation sexuelle dans un registre différent.

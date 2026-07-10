@@ -11,6 +11,9 @@ category: "lien-relation"
 order: 11
 draft: true
 parcours: false
+statutParcours: "NON-PUBLIABLE"
+parcoursBloc: null
+parcoursSegment: null
 ---
 Tout est plus facile quand je ne demande rien à ma partenaire.
 

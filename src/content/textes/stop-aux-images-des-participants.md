@@ -11,6 +11,9 @@ category: "pratique-posture"
 order: 13
 draft: false
 parcours: false
+statutParcours: "NON-PUBLIABLE"
+parcoursBloc: null
+parcoursSegment: null
 ---
 Je ne parle pas des photos de groupe en fin de stage avec tout les monde. Je parle des photos pendant les pratiques parfois intime.
 

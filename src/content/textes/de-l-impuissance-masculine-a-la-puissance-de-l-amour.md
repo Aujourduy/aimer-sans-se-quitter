@@ -11,6 +11,9 @@ category: "corps-desir"
 order: 67
 draft: true
 parcours: false
+statutParcours: "NON-PUBLIABLE"
+parcoursBloc: null
+parcoursSegment: null
 ---
 Plusieurs hommes avec des difficultés d’érection avec leur partenaire alors que quand ils se caressent, tout se passe normalement. sont venus à moi.
 

@@ -11,6 +11,9 @@ category: "pratique-posture"
 order: 14
 draft: false
 parcours: false
+statutParcours: "JAMAIS-SITE"
+parcoursBloc: null
+parcoursSegment: null
 ---
 Dans le séminaire à Cannes le week-end dernier, j’ai pu rencontrer Virginie Bales, une femme exceptionnelle de générosité, de courage et d’amour. Par sa conférence, elle m’a fait comprendre qu’il y avait une grande différence entre travailler dans un domaine et travailler pour un domaine. Son message est simple : Arrêtez de faire des régimes pour perdre du poids mais apprenez à vous aimer vous-même et vous perdrez du poids.
 

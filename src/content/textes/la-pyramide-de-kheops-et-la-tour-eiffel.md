@@ -12,6 +12,9 @@ order: 37
 draft: true
 draftReason: "texte intime explicite, non surfacé pour l’instant"
 parcours: false
+statutParcours: "RESERVE"
+parcoursBloc: null
+parcoursSegment: null
 ---
 
 Il y eut un temps où j’étais très curieux sur l’anatomie féminine. Je voulais connaître les différentes zones érogènes “les secrets du plaisir féminin”. Avoir la carte du corps pour savoir où caresser afin de déclencher excitation, désir et plaisir.

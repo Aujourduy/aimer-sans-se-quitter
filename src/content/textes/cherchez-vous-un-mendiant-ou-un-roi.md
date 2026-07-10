@@ -11,7 +11,10 @@ category: "lien-relation"
 order: 21
 draft: true
 draftReason: "thème sexuel à recadrer vers le relationnel"
-parcours: false
+parcours: true
+statutParcours: "MARQUEUR"
+parcoursBloc: 3
+parcoursSegment: "colonne"
 ---
 
 Il y a deux grands archétypes dans la rencontre amoureuse.

@@ -11,5 +11,8 @@ category: "corps-desir"
 order: 61
 draft: true
 parcours: false
+statutParcours: "NON-PUBLIABLE"
+parcoursBloc: null
+parcoursSegment: null
 ---
 

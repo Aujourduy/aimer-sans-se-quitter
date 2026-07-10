@@ -12,6 +12,9 @@ order: 26
 draft: true
 draftReason: "thème sexuel à recadrer vers le relationnel"
 parcours: false
+statutParcours: "RESERVE"
+parcoursBloc: null
+parcoursSegment: null
 ---
 
 Dans la sexualité, la colère est une termite qui mine la relation au fil du temps. Pour expliquer le sujet, je vais commencer par donner un exemple sur un autre sujet que la sexualité pour avoir un thème plus neutre.

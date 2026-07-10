@@ -10,6 +10,9 @@ excerpt: "Vouloir sortir de la boue à tout prix, c’est risquer de se faire av
 category: "vrai-de-soi"
 order: 50
 parcours: false
+statutParcours: "RESERVE"
+parcoursBloc: null
+parcoursSegment: null
 ---
 
 Un jour d’hiver, un oisillon tomba du nid et se retrouva sur le sol gelé.

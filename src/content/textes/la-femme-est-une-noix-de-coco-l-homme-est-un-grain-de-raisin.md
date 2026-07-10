@@ -11,6 +11,9 @@ category: "corps-desir"
 order: 34
 draft: true
 parcours: false
+statutParcours: "RESERVE"
+parcoursBloc: null
+parcoursSegment: null
 ---
 Il s’agit de sexualité féminine et masculine. J’utilise des stéréotypes grossiers et j’exagère beaucoup donc ne prenez pas au pied de la lettre.
 

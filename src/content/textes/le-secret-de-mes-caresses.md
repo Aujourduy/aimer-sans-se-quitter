@@ -11,6 +11,9 @@ category: "corps-desir"
 order: 46
 draft: false
 parcours: false
+statutParcours: "JAMAIS-SITE"
+parcoursBloc: null
+parcoursSegment: null
 ---
 Normalement, je partage dans mes posts seulement des principes généraux et les techniques pratiques ne sont données que dans mon accompagnement. Aujourd’hui est l’exception.
 

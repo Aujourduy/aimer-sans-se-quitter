@@ -11,6 +11,9 @@ category: "vrai-de-soi"
 order: 8
 draft: false
 parcours: false
+statutParcours: "JAMAIS-SITE"
+parcoursBloc: null
+parcoursSegment: null
 ---
 En plus d’être un grand pacifiste, il s’était positionné contre la guerre du Viêt Nam et négociateur envoyé par le gouvernement américain pour négocier avec l’Irak en 1990 pour libérer des otages américains, c’était aussi un immense boxeur.
  

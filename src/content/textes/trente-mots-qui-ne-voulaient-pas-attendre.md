@@ -11,6 +11,9 @@ category: "regard-vie"
 order: 8
 draft: false
 parcours: false
+statutParcours: "RESERVE"
+parcoursBloc: null
+parcoursSegment: null
 ---
 Solo Lafaurie Aout 2025, sur les mots
 

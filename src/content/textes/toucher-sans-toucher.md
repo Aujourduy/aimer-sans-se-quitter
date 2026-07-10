@@ -10,7 +10,10 @@ excerpt: "Le toucher passif et l'écoute du corps : ressentir le contact et la s
 category: "corps-desir"
 order: 64
 draft: false
-parcours: false
+parcours: true
+statutParcours: "NETTOYAGE"
+parcoursBloc: 4
+parcoursSegment: "chemin-profond"
 ---
 Ce dont je parle ici n’est pas un absolu de caresse, ce n’est pas ce qu’on doit faire mais quelque chose qu’on peut faire. C’est pour faire découvrir d’autres types de contact.
 

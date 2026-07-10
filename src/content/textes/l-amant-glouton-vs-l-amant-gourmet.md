@@ -12,6 +12,9 @@ order: 27
 draft: true
 draftReason: "texte intime explicite, non surfacé pour l’instant"
 parcours: false
+statutParcours: "RESERVE"
+parcoursBloc: null
+parcoursSegment: null
 ---
 
 Deux indicateurs qui montrent que votre amant est en stress dans sa sexualité.

@@ -10,7 +10,10 @@ excerpt: "Se dévoiler dès la première rencontre : soit ça matche en turbo, s
 category: "vrai-de-soi"
 order: 25
 draft: false
-parcours: false
+parcours: true
+statutParcours: "PRET"
+parcoursBloc: 4
+parcoursSegment: "tag-only"
 ---
 C’est ce qui se passe quand je ne me satisfais plus du moyen et du tiède, quand j’assume mes besoins dans une relation amoureuse. Je sais ce que je veux et je sais ce que je ne veux pas. Je veux une belle relation ou rien.
 

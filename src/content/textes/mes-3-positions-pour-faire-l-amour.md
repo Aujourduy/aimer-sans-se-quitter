@@ -11,7 +11,10 @@ category: "corps-desir"
 order: 55
 draft: true
 draftReason: "texte intime explicite, non surfacé pour l’instant"
-parcours: false
+parcours: true
+statutParcours: "CHAPEAU"
+parcoursBloc: 3
+parcoursSegment: "colonne"
 ---
 
 Un peu comme les 3 démarches de l’homme dans l’énigme du sphinx.

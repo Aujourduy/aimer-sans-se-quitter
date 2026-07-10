@@ -12,6 +12,9 @@ order: 45
 draft: true
 draftReason: "texte intime explicite, non surfacé pour l’instant"
 parcours: false
+statutParcours: "RESERVE"
+parcoursBloc: null
+parcoursSegment: null
 ---
 
 Ce titre est un hommage à “La vision sans tête” de Douglas Harding, une de mes grandes sources d’inspiration. Un tout petit livre qui a été une gifle sur la joue de mes certitudes. Pourquoi une vision sans tête ? Parce que vous n’avez pas de tête.

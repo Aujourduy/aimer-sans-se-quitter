@@ -11,7 +11,10 @@ category: "corps-desir"
 order: 70
 draft: true
 draftReason: "thème sexuel à recadrer vers le relationnel"
-parcours: false
+parcours: true
+statutParcours: "NETTOYAGE"
+parcoursBloc: 2
+parcoursSegment: "colonne"
 ---
 
 La sexualité est une thématique qui m’est très chère et en fin de compte mes posts parlent très peu de la sexualité directement mais abordent tout ce qu’il y a autour. Pourquoi ? Parce que la sexualité est rarement un problème, mis à part quelques pathologies physiologiques. C’est plutôt que les problèmes autour finissent par déteindre sur la sexualité : toutes nos peurs, nos attentes, nos compulsions, nos blessures affectives.

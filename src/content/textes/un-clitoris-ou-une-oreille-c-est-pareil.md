@@ -12,6 +12,9 @@ order: 65
 draft: true
 draftReason: "texte intime explicite, non surfacé pour l’instant"
 parcours: false
+statutParcours: "RESERVE"
+parcoursBloc: null
+parcoursSegment: null
 ---
 
 Prenez juste quelques secondes pour ressentir l’effet de cette phrase en vous.

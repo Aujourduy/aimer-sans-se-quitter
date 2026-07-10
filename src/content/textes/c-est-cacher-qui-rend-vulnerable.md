@@ -9,7 +9,10 @@ title: "C’est cacher qui rend vulnérable"
 excerpt: "Achille, Siegfried, et ce point faible qu’on protège : c’est en cachant sa vulnérabilité qu’on se rend vulnérable."
 category: "vrai-de-soi"
 order: 56
-parcours: false
+parcours: true
+statutParcours: "PRET"
+parcoursBloc: 2
+parcoursSegment: "colonne"
 ---
 
 Longtemps, j’ai cru que pour me protéger il fallait cacher ce qui était fragile en moi. Même à ma partenaire. En réalité c’est le fait de cacher quelque chose en moi qui me rend vulnérable.

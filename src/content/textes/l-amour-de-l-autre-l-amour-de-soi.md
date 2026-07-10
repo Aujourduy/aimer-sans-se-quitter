@@ -9,7 +9,10 @@ title: "L’amour de l’autre, l’amour de soi"
 excerpt: "Chercher d’abord son propre soleil plutôt que la lune fantasmée d’une joie venue de l’extérieur."
 category: "vrai-de-soi"
 order: 4
-parcours: false
+parcours: true
+statutParcours: "PRET"
+parcoursBloc: 2
+parcoursSegment: "colonne"
 ---
 
 ou

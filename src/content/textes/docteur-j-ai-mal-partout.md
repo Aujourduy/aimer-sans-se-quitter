@@ -10,7 +10,10 @@ excerpt: "Un sketch de Devos sur le doigt cassé pour dire que le détecteur du 
 category: "lien-relation"
 order: 42
 draft: false
-parcours: false
+parcours: true
+statutParcours: "PRET"
+parcoursBloc: 1
+parcoursSegment: "colonne"
 ---
 Un joli sketch de Raymond Devos, artiste des mots, de l’imaginaire et de la logique tordue, que j’ai revu ce matin. 
 

@@ -10,7 +10,10 @@ excerpt: "La sexualité sensible tient en deux mots : oser ma vérité, honorer 
 category: "corps-desir"
 order: 71
 draft: false
-parcours: false
+parcours: true
+statutParcours: "PRET"
+parcoursBloc: 1
+parcoursSegment: "colonne"
 ---
 Des fois, je parle de la sexualité authentique et sensible comme une destination, des choses à faire pour arriver à cette expérience.
 

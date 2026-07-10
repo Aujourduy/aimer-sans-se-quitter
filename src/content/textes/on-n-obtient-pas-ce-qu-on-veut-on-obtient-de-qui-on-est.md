@@ -12,6 +12,9 @@ order: 38
 draft: true
 draftReason: "thème sexuel à recadrer vers le relationnel"
 parcours: false
+statutParcours: "JAMAIS-SITE"
+parcoursBloc: null
+parcoursSegment: null
 ---
 
 De la loi d’attraction, de la visualisation créatrice et autres pratiques de préparations mentales.

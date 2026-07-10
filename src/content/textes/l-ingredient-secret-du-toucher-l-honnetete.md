@@ -11,6 +11,9 @@ category: "corps-desir"
 order: 31
 draft: false
 parcours: false
+statutParcours: "RESERVE"
+parcoursBloc: null
+parcoursSegment: null
 ---
 De nombreux livres, articles, vidéos nous expliquent comment caresser notre partenaire pour lui donner du plaisir, un orgasme gigantesque ou la rendre folle de nous. Des protocoles détaillés avec la liste de ce qu’il faut faire : où caresser ? comment ? quels mouvements ? combien de temps ? etc. Mais je n’ai jamais lu, vu ou entendu quelqu’un vous parler explicitement de l’honnêteté, à l’exception de Barry Long, comme ingrédient indispensable pour des caresses intimes nourrissantes. 
 

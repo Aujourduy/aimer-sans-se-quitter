@@ -12,6 +12,9 @@ order: 12
 draft: true
 draftReason: "zone sensible à valider"
 parcours: false
+statutParcours: "RESERVE"
+parcoursBloc: null
+parcoursSegment: null
 ---
 
 Quand je suis interviewé, on me demande toujours comment j’en suis arrivé à accompagner des personnes vers la sexualité authentique et sensible.

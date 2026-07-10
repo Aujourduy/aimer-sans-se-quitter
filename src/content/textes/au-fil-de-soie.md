@@ -11,6 +11,9 @@ category: "vrai-de-soi"
 order: 47
 draft: false
 parcours: false
+statutParcours: "JAMAIS-SITE"
+parcoursBloc: null
+parcoursSegment: null
 ---
 Dans un passé lointain, un maître bouddhiste a été emprisonné par un seigneur en haut d'une tour. Son disciple ne pouvait pas user de violence pour délivrer leur maître, ils eurent l'idée suivante. Le maître, à travers les barreaux de sa fenêtre, versa un filet d'eau jusqu'en bas. L’élève attrapa des escargots et leurs attacha un fil de soi à chacun puis les posa sur la trace humide du filet d'eau du maître.
 

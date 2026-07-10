@@ -9,7 +9,10 @@ title: "Le plus grand malentendu"
 excerpt: "La femme se croit en manque d’amour, l’homme se croit sommé d’être à la hauteur."
 category: "lien-relation"
 order: 10
-parcours: false
+parcours: true
+statutParcours: "PRET"
+parcoursBloc: 3
+parcoursSegment: "colonne"
 ---
 
 Le plus grand malentendu c’est que la femme croit qu’elle a besoin d’être aimée et que l’homme croit devoir être à la hauteur.

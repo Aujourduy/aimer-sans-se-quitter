@@ -11,6 +11,9 @@ category: "pratique-posture"
 order: 5
 draft: false
 parcours: false
+statutParcours: "JAMAIS-SITE"
+parcoursBloc: null
+parcoursSegment: null
 ---
 Hier c’était la fin de l’accompagnement du groupe de Février. Cela fait un an que je propose cet accompagnement et c’est la première fois que je reçois ce retour. 
 

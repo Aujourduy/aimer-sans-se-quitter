@@ -11,6 +11,9 @@ category: "lien-relation"
 order: 31
 draft: false
 parcours: false
+statutParcours: "RESERVE"
+parcoursBloc: null
+parcoursSegment: null
 ---
 Dans plusieurs approches humaniste on parle des 3 dimensions de l’humain : le mental, l’émotion et le corps. Or on connaît l’importance de la sexualité dans notre vie. Ce n’est pas seulement dans les relations sexuelles. Elle se manifeste dans la mode, dans le maquillage, dans la minceur, dans la gestuelle, dans la voix et beaucoup d'autres formes.
 

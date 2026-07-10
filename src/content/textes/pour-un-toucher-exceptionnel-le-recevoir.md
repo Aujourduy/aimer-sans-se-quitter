@@ -10,7 +10,10 @@ excerpt: "Un toucher qui n'est ni caresse ni massage : accueillir l'autre, lui d
 category: "corps-desir"
 order: 58
 draft: false
-parcours: false
+parcours: true
+statutParcours: "PRET"
+parcoursBloc: 4
+parcoursSegment: "tag-only"
 ---
 Je sentais le désir monter, mes épaules se relâcher, mon ventre s’ouvrir. Son toucher était exceptionnel. Était-ce une caresse, un massage ? Non, ces mots ne sont pas justes. J’ai regardé dans le dictionnaire des synonymes et je n’ai rien trouvé qui exprime vraiment ce qu’elle faisait. Sa main était au contact de mon corps, oui. Sa main faisait des mouvements lents, oui. Mais pourquoi ne pas appeler cela caresse, massage ? Parce ces mots décrivent ce qui est visible de l’extérieur mais ne racontent pas ce que je ressentais de l’intérieur. 
 

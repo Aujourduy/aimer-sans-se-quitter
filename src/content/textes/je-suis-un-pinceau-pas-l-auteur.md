@@ -11,6 +11,9 @@ category: "regard-vie"
 order: 3
 draft: false
 parcours: false
+statutParcours: "RESERVE"
+parcoursBloc: null
+parcoursSegment: null
 ---
 Aujourd'hui c'est la premiere fois que je tombe sur un post où quelqu'un me cite ! Grand sourire, grand étonnement  ... Et là je me rends compte que cette phrase ne vient pas de moi mais à travers moi. C'est une sagesse que j'ai perçue, comme j'aurai pu retranscrire la mélodie d une rivière si j'étais musicien ou les couleurs d'un paysage si j'étais peintre. 
 

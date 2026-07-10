@@ -10,7 +10,10 @@ excerpt: "La nuit noire n'est peut-être qu'une lumière que mes yeux ne savent 
 category: "regard-vie"
 order: 16
 draft: false
-parcours: false
+parcours: true
+statutParcours: "PRET"
+parcoursBloc: 2
+parcoursSegment: "colonne"
 ---
 Ce que j'appelle nuit noire, c'est quand je ne vois rien parce que mes yeux ne voient que certains types de lumières.
 

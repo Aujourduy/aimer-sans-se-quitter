@@ -12,6 +12,9 @@ order: 89
 draft: true
 draftReason: "thème sexuel à recadrer vers le relationnel"
 parcours: false
+statutParcours: "NON-PUBLIABLE"
+parcoursBloc: null
+parcoursSegment: null
 ---
 
 La plupart des stages de développement personnel que j’ai faits avaient pour but d’améliorer ma sexualité. Ce n’était pas vraiment clair à l’époque mais avec le recul, cela l’est devenu.

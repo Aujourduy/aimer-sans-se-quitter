@@ -10,7 +10,10 @@ excerpt: "Communiquer sur la sexualité demande de voir la peur du partenaire et
 category: "lien-relation"
 order: 35
 draft: false
-parcours: false
+parcours: true
+statutParcours: "PRET"
+parcoursBloc: 4
+parcoursSegment: "tag-only"
 ---
 Pendant sept ans, j’ai été formateurs en prise de parole en public dans différents pays du Maghreb, et à plusieurs reprises des personnes expliquaient qu’elles n’en avaient pas besoin parce qu’elles étaient à l’aise. D’ailleurs souvent c’était des professeurs. Les gens confondent aisance à parler en public et efficacité de la présentation. Ce que le grand public ignore, c’est qu’il y a des stratégies pour construire un discours quand on veut motiver son auditoire, des stratégies pour faire adhérer au changement, des stratégies pour expliquer des concepts ardus.
 

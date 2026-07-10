@@ -11,6 +11,9 @@ category: "corps-desir"
 order: 59
 draft: false
 parcours: false
+statutParcours: "RESERVE"
+parcoursBloc: null
+parcoursSegment: null
 ---
 Dernièrement, j’ai coaché plusieurs hommes qui pensaient avoir des problèmes d’érection. Cela m’amène à partager plusieurs expériences que j’ai eu.
 

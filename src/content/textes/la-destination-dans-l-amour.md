@@ -11,6 +11,9 @@ category: "corps-desir"
 order: 2
 draft: false
 parcours: false
+statutParcours: "RESERVE"
+parcoursBloc: null
+parcoursSegment: null
 ---
 DANS LA SEXUALITE AUSSI
 

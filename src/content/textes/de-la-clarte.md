@@ -10,6 +10,9 @@ excerpt: "Au lieu de chercher une solution, mieux vaut d’abord chercher à y v
 category: "vrai-de-soi"
 order: 22
 parcours: false
+statutParcours: "RESERVE"
+parcoursBloc: null
+parcoursSegment: null
 ---
 
 La clarté amène la certitude.

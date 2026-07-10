@@ -11,6 +11,9 @@ category: "vrai-de-soi"
 order: 39
 draft: false
 parcours: false
+statutParcours: "RESERVE"
+parcoursBloc: null
+parcoursSegment: null
 ---
 Des différentes situations que j'ai pu observer aussi bien chez les autres que chez moi, les problèmes étaient liés à un moment ou à un autre au fait que je n’assumais pas ma vérité ou que je ne respectais pas ma liberté.
 

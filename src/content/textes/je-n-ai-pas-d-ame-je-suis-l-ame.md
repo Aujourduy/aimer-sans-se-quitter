@@ -11,6 +11,9 @@ category: "corps-desir"
 order: 24
 draft: false
 parcours: false
+statutParcours: "RESERVE"
+parcoursBloc: null
+parcoursSegment: null
 ---
 La façon dont je pense les choses détermine la façon dont j’agis et la qualité de l’action. C’est ce que j’ai appris dans les arts martiaux avec l’aïkido et le systema. L’avantage de ces pratiques, c’est qu’on expérimente les différentes façons de frapper avec le corps et aussi l’esprit. Par exemple, votre partenaire vous donne un coup lentement à l’épaule avec deux pensées distinctes. Lors de la première frappe, il s’imagine casser mon épaule avec son coup de poing. Lors de la deuxième frappe, il s’imagine que son coup se répercute jusqu’à mes pieds et me déstabilise. Les sensations et les effets ne seront pas du tout les mêmes. A la première frappe, j’aurai plus mal mais je resterai stable et prêt à riposter. A la deuxième frappe, même en ayant moins mal, je vais vaciller et perdre un peu d’équilibre.
 

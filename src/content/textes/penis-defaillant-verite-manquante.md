@@ -11,6 +11,9 @@ category: "corps-desir"
 order: 79
 draft: false
 parcours: false
+statutParcours: "RESERVE"
+parcoursBloc: null
+parcoursSegment: null
 ---
 Depuis plusieurs mois, des hommes dans une situation d'impuissance ou d’éjaculation précoce viennent vers mon programme d’Accompagnement vers la Sexualité Sensible.
 

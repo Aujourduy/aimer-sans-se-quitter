@@ -11,6 +11,9 @@ category: "lien-relation"
 order: 8
 draft: false
 parcours: false
+statutParcours: "RESERVE"
+parcoursBloc: null
+parcoursSegment: null
 ---
 La danse a toujours été bien plus qu'une simple série de mouvements rythmés pour moi. C'est une expression de mes émotions, mes envies, mes peurs et mes désirs comme peuvent en témoigner les personnes que je croise dans les ateliers de danse ces 12 dernières années. 
 

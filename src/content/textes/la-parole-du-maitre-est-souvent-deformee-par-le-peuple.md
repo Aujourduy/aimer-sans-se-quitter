@@ -12,6 +12,9 @@ order: 11
 draft: true
 draftReason: "thème sexuel à recadrer vers le relationnel"
 parcours: false
+statutParcours: "RESERVE"
+parcoursBloc: null
+parcoursSegment: null
 ---
 
 Sur les réseaux sociaux, on peut voir souvent des citations courtes données par tel ou tel sage ou grand scientifique. Des phrases pleines de sens qui peuvent nous toucher et nous faire prendre conscience de certaines vérités. Malheureusement, les personnes qui citent ces belles paroles ne les comprennent pas forcément et véhiculent une mauvaise interprétation du sens initial surtout quand ils tronquent la phrase croyant avoir dit l’essentiel alors que l’essentiel était dans la partie coupée.

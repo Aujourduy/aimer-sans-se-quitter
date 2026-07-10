@@ -11,6 +11,9 @@ category: "corps-desir"
 order: 15
 draft: true
 parcours: false
+statutParcours: "NON-PUBLIABLE"
+parcoursBloc: null
+parcoursSegment: null
 ---
 Des posts, vidéos et articles sur comment donner plus de plaisir à votre partenaire, comment ressentir des orgasmes plus intenses, il y en a énormément. Il y a une quinzaine d’année, 
 

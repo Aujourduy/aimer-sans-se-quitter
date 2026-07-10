@@ -11,5 +11,8 @@ category: "vrai-de-soi"
 order: 5
 draft: true
 parcours: false
+statutParcours: "NON-PUBLIABLE"
+parcoursBloc: null
+parcoursSegment: null
 ---
 

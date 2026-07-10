@@ -12,6 +12,9 @@ order: 36
 draft: true
 draftReason: "texte intime explicite, non surfacé pour l’instant"
 parcours: false
+statutParcours: "RESERVE"
+parcoursBloc: null
+parcoursSegment: null
 ---
 
 La dysphorie post-coïtale, le “sex-blues”, est un puissant sentiment de mélancolie, une irritabilité ou des sanglots et survient entre cinq minutes et deux heures après avoir fait l’amour. Cela arrive plus souvent chez les femmes mais aussi chez les hommes. Les scientifiques émettent des hypothèses physiologiques et psychologiques de manières statistiques : combien de personnes, combien de fois, quels profils psychologiques etc.

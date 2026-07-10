@@ -11,7 +11,10 @@ category: "corps-desir"
 order: 5
 draft: true
 draftReason: "texte intime explicite, non surfacé pour l’instant"
-parcours: false
+parcours: true
+statutParcours: "MARQUEUR"
+parcoursBloc: 1
+parcoursSegment: "colonne"
 ---
 
 Étonnamment, je ne me rappelle pas d’y avoir joué étant jeune. Par contre, maintenant, j’y joue de temps en temps avec ma partenaire.

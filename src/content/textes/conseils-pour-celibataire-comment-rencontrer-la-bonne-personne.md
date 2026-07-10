@@ -10,7 +10,10 @@ excerpt: "Partager ses fondamentaux avant toute relation aide l'autre à trouver
 category: "lien-relation"
 order: 23
 draft: false
-parcours: false
+parcours: true
+statutParcours: "NETTOYAGE"
+parcoursBloc: 4
+parcoursSegment: "tag-only"
 ---
 Si vous êtes célibataire pour le moment et que vous rechercher une personne avec qui vivre une belle histoire, je vais vous partager mon expérience.
 

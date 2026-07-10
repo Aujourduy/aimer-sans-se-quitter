@@ -12,6 +12,9 @@ order: 49
 draft: true
 draftReason: "texte intime explicite, non surfacé pour l’instant"
 parcours: false
+statutParcours: "RESERVE"
+parcoursBloc: null
+parcoursSegment: null
 ---
 
 Mmmmm, je suis très content et je souris à ce bon jeu de mot.

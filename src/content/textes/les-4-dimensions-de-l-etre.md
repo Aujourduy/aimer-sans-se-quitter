@@ -11,6 +11,9 @@ category: "corps-desir"
 order: 48
 draft: false
 parcours: false
+statutParcours: "RESERVE"
+parcoursBloc: null
+parcoursSegment: null
 ---
 Tu l’as vu, j’ai vraiment ralenti le rythme des publications ces dernières semaines. C’est parce que je me suis replié dans mon cocon. Il y a eu beaucoup de remise en question, d’intégration sur la nouvelle forme de ma manière d’être au service de la sexualité sensible.
 

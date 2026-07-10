@@ -11,6 +11,9 @@ category: "corps-desir"
 order: 16
 draft: true
 parcours: false
+statutParcours: "NON-PUBLIABLE"
+parcoursBloc: null
+parcoursSegment: null
 ---
 C’est par ces quatre mots que je définirais la sexualité sensible. Être libre de mon imaginaire, de ce que je crois devoir faire ou ne pas faire. 
 

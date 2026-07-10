@@ -10,7 +10,10 @@ excerpt: "L'ordre des mots dit l'ordre de l'attention : le « Je », le « touch
 category: "corps-desir"
 order: 25
 draft: false
-parcours: false
+parcours: true
+statutParcours: "PRET"
+parcoursBloc: 4
+parcoursSegment: "tag-only"
 ---
 Dans l'expression "je touche l'autre" l'ordre des mots donne l'ordre des points d'attention.
 

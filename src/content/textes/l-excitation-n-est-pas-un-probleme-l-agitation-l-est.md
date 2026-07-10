@@ -10,7 +10,10 @@ excerpt: "Distinguer l'excitation physiologique de l'agitation née de la peur :
 category: "corps-desir"
 order: 29
 draft: false
-parcours: false
+parcours: true
+statutParcours: "PRET"
+parcoursBloc: 3
+parcoursSegment: "colonne"
 ---
 Récemment je discustais avec une femme qui disait que tant qu’elle était dans un échange sensuel avec son partenaire c’était beau, c’était connecté comme elle voulait . Mais dès qu’il y a de l’excitation sexuelle, son partenaire se mettait en mode sexualité classique et basique cherchant pénétration, éjaculation. 
 

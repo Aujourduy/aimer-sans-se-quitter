@@ -10,7 +10,10 @@ excerpt: "Ouvrir son partenaire à une sexualité sensible : faire le deuil du d
 category: "lien-relation"
 order: 17
 draft: false
-parcours: false
+parcours: true
+statutParcours: "PRET"
+parcoursBloc: 4
+parcoursSegment: "tag-only"
 ---
 Dans mes entretiens, je rencontre de nombreuses femmes qui se plaignent du manque d’ouverture de leur partenaire sur une sexualité sensible. Ils sont souvent prisonniers du schéma Excitation-Pénétration-Éjaculation.
 

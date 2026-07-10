@@ -11,6 +11,9 @@ category: "corps-desir"
 order: 57
 draft: false
 parcours: false
+statutParcours: "RESERVE"
+parcoursBloc: null
+parcoursSegment: null
 ---
 Une petite formule mathématique pour le plaisir … oh, joli jeu de mot ;-)
 

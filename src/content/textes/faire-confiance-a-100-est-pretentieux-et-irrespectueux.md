@@ -10,7 +10,10 @@ excerpt: "On ne rencontre l'autre qu'en étant profondément relié à soi ; la 
 category: "lien-relation"
 order: 4
 draft: false
-parcours: false
+parcours: true
+statutParcours: "PRET"
+parcoursBloc: 1
+parcoursSegment: "colonne"
 ---
 Dernièrement, j’ai discuté avec une femme qui disait qu’en début de relation elle avait tendance à faire totalement confiance à son partenaire. Ensuite, cette confiance était inéluctablement trahie. Elle se sentait blessée et la confiance à jamais perdue.
 

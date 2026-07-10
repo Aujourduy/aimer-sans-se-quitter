@@ -12,6 +12,9 @@ order: 62
 draft: true
 draftReason: "thème sexuel à recadrer vers le relationnel"
 parcours: false
+statutParcours: "RESERVE"
+parcoursBloc: null
+parcoursSegment: null
 ---
 
 Quand j’étais gamin, je chantonnais régulièrement dans la rue. J’imaginais des fois que je croiserais par hasard un grand producteur qui serait charmé par ma voix exceptionnelle. Il m’engagerait, je deviendrais célèbre et riche. Plus tard, j’ai compris que c’était la morale de Cendrillon : moi, un être couvert de pauvres vêtements trouvé par un sauveur qui voit la beauté intrinsèque, voire cachée, de mon être exceptionnel.

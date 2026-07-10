@@ -10,7 +10,10 @@ excerpt: "Le vrai enjeu n'est pas le manque de communication mais la pédagogie 
 category: "corps-desir"
 order: 81
 draft: false
-parcours: false
+parcours: true
+statutParcours: "PRET"
+parcoursBloc: 4
+parcoursSegment: "tag-only"
 ---
 D’après mes échanges, une difficulté majeure pour les personnes qui aspirent à une sexualité authentique et sensible est la communication. Beaucoup n’arrivent pas à dire réellement ce qu’elles aiment ou non dans la sexualité. Sans compter le fait qu’on peut aimer une position à un moment et que cela devienne désagréable cinq minutes après.
 

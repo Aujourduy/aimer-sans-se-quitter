@@ -10,7 +10,10 @@ excerpt: "Réflexion originale sur masculin/féminin hors domination, concept pr
 category: "vrai-de-soi"
 order: 33
 draft: false
-parcours: false
+parcours: true
+statutParcours: "PRET"
+parcoursBloc: 4
+parcoursSegment: "tag-only"
 ---
 (extra : Préfixe, du latin extra, en dehors, exprimant l'extériorité )
 

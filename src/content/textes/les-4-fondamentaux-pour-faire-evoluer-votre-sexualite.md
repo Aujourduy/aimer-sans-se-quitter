@@ -11,6 +11,9 @@ category: "corps-desir"
 order: 76
 draft: false
 parcours: false
+statutParcours: "RESERVE"
+parcoursBloc: null
+parcoursSegment: null
 ---
 C’est tellement évident maintenant que je l’ai écrit sur le plan du séminaire \! Pourquoi je parle de ces piliers ? Parce qu'après avoir fait le bilan de mon parcours, je me suis rendu compte qu’il y avait quatre éléments fondamentaux qui ont eu un grand impact sur ma sexualité : 
 

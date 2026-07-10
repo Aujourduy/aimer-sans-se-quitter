@@ -11,5 +11,8 @@ category: "regard-vie"
 order: 18
 draft: true
 parcours: false
+statutParcours: "NON-PUBLIABLE"
+parcoursBloc: null
+parcoursSegment: null
 ---
 C’est de la mecanique. Quand on fait tourner les pneus trop rapidement, on fait du surplace et plus on accelere, plus on patine. plus on ve

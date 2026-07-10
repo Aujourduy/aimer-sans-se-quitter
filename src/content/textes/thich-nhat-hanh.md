@@ -11,6 +11,9 @@ category: "corps-desir"
 order: 3
 draft: false
 parcours: false
+statutParcours: "RESERVE"
+parcoursBloc: null
+parcoursSegment: null
 ---
 Beaucoup de personnes associent sexualité consciente/divine/sacrée/supérieure/précieuse au Tantra. Rien n’est plus faux. Premièrement, parce qu’il y a plusieurs tantra : bouddhiste/hindouïste avec des formes différentes en Inde, Cachemire, Tibet, Coréen, Vienamien. Secundo, parce que le cheminement de la sexualité heureuse c’est le cheminement pour être heureux et cela s’exprimera dans la sexualité. Vous comprenez pourquoi je n’utilise pas le mot tantra. Aujourd”hui, je vous partage des paroles de Thich Nhat Hanh, grand maître zen du bouddhisme vietnamien. C’est à la fois un enseignant et un grand poète. Je pourrais dire que la plupart des images poétiques que j’arrive à mettre dans mes textes m’ont été inspirées par son regard, celui de la vision profonde. 
 

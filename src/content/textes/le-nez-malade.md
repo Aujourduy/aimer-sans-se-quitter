@@ -9,7 +9,10 @@ title: "Le nez malade"
 excerpt: "La souffrance ne vient pas de la sexualité, mais de la perception de la sexualité."
 category: "corps-desir"
 order: 88
-parcours: false
+parcours: true
+statutParcours: "NETTOYAGE"
+parcoursBloc: 3
+parcoursSegment: "colonne"
 ---
 
 Certaines personnes s’étonnent que dans mon accompagnement vers la sexualité sensible ou dans mon stage présentiel sexualité sensible, bien que les participants soient très satisfaits des résultats, je les préviens que je ne fais pas du tout de tantra et qu’il n’y a pas d’exercice avec les énergies sexuelles.

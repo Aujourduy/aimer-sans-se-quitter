@@ -11,6 +11,9 @@ category: "corps-desir"
 order: 52
 draft: false
 parcours: false
+statutParcours: "RESERVE"
+parcoursBloc: null
+parcoursSegment: null
 ---
 Ce qui importe le plus dans la sexualité c’est le ressenti. Bien que la vue ait son importance, il ne faut pas qu’elle prédomine sur le sens du toucher. Le sens essentiel est le toucher. On peut faire l’amour en étant aveugle, sourd, anosmique ou agueusique mais on a besoin de sentir le contact. 
 

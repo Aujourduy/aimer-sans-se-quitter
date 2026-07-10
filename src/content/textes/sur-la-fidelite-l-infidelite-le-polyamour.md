@@ -11,6 +11,9 @@ category: "lien-relation"
 order: 39
 draft: false
 parcours: false
+statutParcours: "RESERVE"
+parcoursBloc: null
+parcoursSegment: null
 ---
 C’est un sujet sensible qui peut faire débat, alors je partage ici ma compréhension, mon expérience et ma vision partielle et subjective. Certaines personnes vont expliquer pourquoi elles sont pour ou contre. Être pour ou contre est en fait une forme de défense. L’infidélité de notre partenaire peut réveiller en nous la peur d’être abandonné, délaissé pour un meilleur amant. Je me rappelle la première fois que ma chérie m’a dit qu’elle avait passé la nuit avec un autre homme, ça a été une énorme tempête émotionnelle. A contrario, le besoin de justifier mon droit d’aller voir ailleurs est aussi une conséquence de la peur. La peur d’être enfermé dans une relation, enchaîné par les attentes de ma partenaire. Pendant des années, j’ai expliqué aux femmes que je rencontrais que l’infidélité, le polyamour était supérieure à la fidélité parce que c’était la preuve qu’on était suffisamment avancé spirituellement pour ne plus s’attaché à l’autre, qu’on avait dépassé la jalousie. Ce qui était complètement faux.
 

@@ -11,6 +11,9 @@ category: "regard-vie"
 order: 19
 draft: true
 parcours: false
+statutParcours: "NON-PUBLIABLE"
+parcoursBloc: null
+parcoursSegment: null
 ---
 Chaque fois qu'il y a une ombre, c'est qu'il y a suffisamment de lumière pour la faire apparaître.
 

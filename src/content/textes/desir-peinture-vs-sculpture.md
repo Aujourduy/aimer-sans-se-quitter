@@ -11,7 +11,10 @@ category: "vrai-de-soi"
 order: 23
 draft: true
 draftReason: "thème sexuel à recadrer vers le relationnel"
-parcours: false
+parcours: true
+statutParcours: "NETTOYAGE"
+parcoursBloc: 3
+parcoursSegment: "colonne"
 ---
 
 Il y a cette citation de Michel-Ange que j’adore sur la sculpture : “J’ai vu un ange dans le marbre et j’ai seulement ciselé jusqu’à l’en libérer”. Elle décrit complètement une autre façon de ressentir le désir sexuel pour sa partenaire dont on parle très peu … voire  jamais.

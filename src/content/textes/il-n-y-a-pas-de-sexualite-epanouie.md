@@ -11,7 +11,10 @@ category: "corps-desir"
 order: 21
 draft: true
 draftReason: "texte intime explicite, non surfacé pour l’instant"
-parcours: false
+parcours: true
+statutParcours: "MARQUEUR"
+parcoursBloc: 3
+parcoursSegment: "colonne"
 ---
 
 Il n’y a pas de sexualité épanouie, il y a des personnes qui sont épanouies dans leur sexualité.

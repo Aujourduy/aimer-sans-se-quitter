@@ -12,6 +12,9 @@ order: 58
 draft: true
 draftReason: "zone sensible à valider"
 parcours: false
+statutParcours: "RESERVE"
+parcoursBloc: null
+parcoursSegment: null
 ---
 
 Quand j’animais des constellations familiales, j’introduisais toujours le week-end en invitant les participants à partager “leur merde”. Il y a souvent des personnes bien intentionnées qui ne veulent pas partager, au sens propre du terme, leurs drames. Ils ne veulent pas apporter de la négativité. Je leur dis que le travail des constellations familiales transforme le fumier en engrais pour voir fleurir des roses.

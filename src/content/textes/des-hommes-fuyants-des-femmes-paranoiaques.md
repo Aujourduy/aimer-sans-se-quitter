@@ -11,7 +11,10 @@ category: "lien-relation"
 order: 46
 draft: true
 draftReason: "titre à valider"
-parcours: false
+parcours: true
+statutParcours: "MARQUEUR"
+parcoursBloc: 3
+parcoursSegment: "colonne"
 ---
 
 Évidemment la plupart des hommes ne sont pas fuyants, et la majorité des femmes ne sont pas paranoïaques. Je décris ici quelques personnes que je connais dont ces comportements arrivent de temps en temps.

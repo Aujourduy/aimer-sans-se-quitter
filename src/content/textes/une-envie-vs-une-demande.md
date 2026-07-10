@@ -11,7 +11,10 @@ category: "lien-relation"
 order: 40
 draft: true
 draftReason: "thème sexuel à recadrer vers le relationnel"
-parcours: false
+parcours: true
+statutParcours: "MARQUEUR"
+parcoursBloc: 2
+parcoursSegment: "colonne"
 ---
 
 Dans beaucoup d’articles sur la sexualité, on nous conseille de bien communiquer avec notre partenaire. A mon avis, ces auteurs ne savent pas de quoi ils parlent. Ils ont entendu qu’il fallait le faire alors ils le répètent sans l’avoir essayé. C’est comme si je conseillais à une personne en surpoids de mieux manger. Il faut approfondir le sujet sinon ça ne sert à rien.

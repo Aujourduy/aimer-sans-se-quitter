@@ -11,6 +11,9 @@ category: "corps-desir"
 order: 93
 draft: true
 parcours: false
+statutParcours: "NON-PUBLIABLE"
+parcoursBloc: null
+parcoursSegment: null
 ---
 Je crois que c'est parce qu'elles ne comprennent pas assez les hommes.
 

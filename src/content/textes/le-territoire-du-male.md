@@ -11,6 +11,9 @@ category: "vrai-de-soi"
 order: 14
 draft: true
 parcours: false
+statutParcours: "RESERVE"
+parcoursBloc: null
+parcoursSegment: null
 ---
 Comparaison n’est pas raison mais peut être illustration. il y a le petit poisson bulle, le mâle qui dessine sur le sable au fond de la mer une magnifique rosace cent fois plus grande que lui. Si vous ne le connaissez pas encore je vous invite à faire une recherche sur internet pour voir à quel point le mâle consacre son énergie et talent à créer un chef d’oeuvre pour séduire la femelle. Chez les mammifères, beaucoup d’espèce fonctionne de manière territoriale où le mâle défend son territoire contre d’autres mâles pour s’accoupler avec les femelles qui viennent sur son domaine. Certains oiseaux construisent un nid très complexes pour attirer une femelle. 
 

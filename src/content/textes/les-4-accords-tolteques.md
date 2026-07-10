@@ -11,6 +11,9 @@ category: "lien-relation"
 order: 34
 draft: false
 parcours: false
+statutParcours: "RESERVE"
+parcoursBloc: null
+parcoursSegment: null
 ---
 1. Que ma parole soit impeccable
 

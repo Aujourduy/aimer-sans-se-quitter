@@ -11,6 +11,9 @@ category: "corps-desir"
 order: 66
 draft: false
 parcours: false
+statutParcours: "RESERVE"
+parcoursBloc: null
+parcoursSegment: null
 ---
 Il y a trois grandes façons de faire l'amour :
 

@@ -10,7 +10,10 @@ excerpt: "Distinction être/faire dans la sexualité, développée et intemporel
 category: "corps-desir"
 order: 39
 draft: false
-parcours: false
+parcours: true
+statutParcours: "PRET"
+parcoursBloc: 2
+parcoursSegment: "colonne"
 ---
 Ce qu’on ne m’a jamais dit dans les stages de sur la sexualité.
 

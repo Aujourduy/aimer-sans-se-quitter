@@ -11,6 +11,9 @@ category: "corps-desir"
 order: 87
 draft: false
 parcours: false
+statutParcours: "JAMAIS-SITE"
+parcoursBloc: null
+parcoursSegment: null
 ---
 Sur les vieux bateaux, en haut du plus grand mât, on y plaçait la vigie. Le matelot placé à cet endroit, qu’on appelle aussi la vigie, peut voir plus loin que ce que voyait le matelot debout sur le bateau. Pourquoi ? Parce que la terre est ronde. 
 

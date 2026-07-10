@@ -11,6 +11,9 @@ category: "lien-relation"
 order: 5
 draft: false
 parcours: false
+statutParcours: "JAMAIS-SITE"
+parcoursBloc: null
+parcoursSegment: null
 ---
 Parmi les synonymes possible de "relation sexuelle" en langue française, il y a cette belle expression "Honorer sa femme. Honorer son homme." 
 

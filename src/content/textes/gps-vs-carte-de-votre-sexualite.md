@@ -11,6 +11,9 @@ category: "corps-desir"
 order: 85
 draft: true
 parcours: false
+statutParcours: "RESERVE"
+parcoursBloc: null
+parcoursSegment: null
 ---
 Au delà des questions de société que pose Uber, il est intéressant de regarder comment cela a pu arriver techniquement. Est-ce que c’est grâce à internet ? Non, parce qu’internet existait 20 ans avant la création d’Uber. Est-ce que c’est le développement des applications mobiles sur smartphone ? Non, parce qu’au début, le créateur d’Uber communiquait juste par téléphone pour gérer les réservations entre les clients et les chauffeurs.
 

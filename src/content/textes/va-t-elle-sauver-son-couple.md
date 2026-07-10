@@ -11,5 +11,8 @@ category: "lien-relation"
 order: 16
 draft: true
 parcours: false
+statutParcours: "JAMAIS-SITE"
+parcoursBloc: null
+parcoursSegment: null
 ---
 C’était lundi de la semaine d’avant. Je reçois un texto. C’était une femme avec qui j’ai eu un entretien téléphonique pour la prochaine session de l’accompagnement à la sexualité sensible.

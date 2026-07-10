@@ -9,7 +9,10 @@ title: "Es-tu certaine de vouloir un prince charmant ?"
 excerpt: "Chaque femme est déjà une Reine ; elle n’a pas besoin d’un prince pour exister."
 category: "vrai-de-soi"
 order: 59
-parcours: false
+parcours: true
+statutParcours: "PRET"
+parcoursBloc: 3
+parcoursSegment: "colonne"
 ---
 
 Les mots ne sont pas les choses mais les mots amènent des idées, des connotations et des images.

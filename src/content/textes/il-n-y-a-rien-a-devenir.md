@@ -11,7 +11,10 @@ category: "regard-vie"
 order: 9
 draft: true
 draftReason: "titre à valider"
-parcours: false
+parcours: true
+statutParcours: "MARQUEUR"
+parcoursBloc: 2
+parcoursSegment: "colonne"
 ---
 
 Des fois, c’est en répondant à un participant que se révèle à moi une évidence latente. Il y a quelque temps, un participant formulait son envie d’être enfin pleinement un Homme. Il avait le sentiment de ne pas être suffisamment Homme. Dans le même groupe, une femme disait la même chose. Qu’elle n’avait pas appris à être Femme.

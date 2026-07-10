@@ -9,7 +9,10 @@ title: "Le piège à guêpe"
 excerpt: "Parfois la solution est là où la douleur est la plus intense."
 category: "vrai-de-soi"
 order: 55
-parcours: false
+parcours: true
+statutParcours: "PRET"
+parcoursBloc: 3
+parcoursSegment: "colonne"
 ---
 
 Ce que tu vois sur le dessin, c’est un piège à guêpe. Comment ça fonctionne ? La guêpe est attirée par l’odeur de l’eau sucrée au fond du piège. Elle passe par le petit trou et arrive à l’eau sucrée pour la boire. Et hop, la voilà prise au piège. Elle va mourir d’épuisement dans ce piège.

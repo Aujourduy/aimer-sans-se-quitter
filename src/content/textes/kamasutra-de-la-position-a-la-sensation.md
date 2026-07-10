@@ -11,6 +11,9 @@ category: "corps-desir"
 order: 26
 draft: false
 parcours: false
+statutParcours: "RESERVE"
+parcoursBloc: null
+parcoursSegment: null
 ---
 Comme beaucoup de concepts traditionnels, la compréhension populaire en occident prend des raccourcis qui dénature complètement ces concepts et leurs richesses. Le Kamasutra est un exemple typique.
 

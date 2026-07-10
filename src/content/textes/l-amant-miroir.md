@@ -11,6 +11,9 @@ category: "corps-desir"
 order: 28
 draft: false
 parcours: false
+statutParcours: "RESERVE"
+parcoursBloc: null
+parcoursSegment: null
 ---
 (et comment tu pourrais le devenir)
 

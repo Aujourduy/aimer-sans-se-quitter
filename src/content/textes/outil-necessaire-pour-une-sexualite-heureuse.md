@@ -11,6 +11,9 @@ category: "corps-desir"
 order: 92
 draft: false
 parcours: false
+statutParcours: "RESERVE"
+parcoursBloc: null
+parcoursSegment: null
 ---
 Mon premier conseil aux personnes qui veulent vivre une sexualité heureuse c’est de trouver des outils de transmutation de crise. Pourquoi ? Parce que la sexualité est une sphère de la vie qui peut cristalliser beaucoup de peurs, de blessures voire de traumas. Faites attention, même les personnes qui ont une sexualité libérée ne sont pas forcément libres pendant l’acte. Il n’y a pas que la dimension physique, il y a aussi les émotions, l’intimité avec soi et avec l’autre. Donc, il est probable qu’en avançant vers plus d’ouverture vous soyez confronté à vos propres fermetures et angoisses. A ce moment là, il vous faut un outil de transmutation des émotions.
 

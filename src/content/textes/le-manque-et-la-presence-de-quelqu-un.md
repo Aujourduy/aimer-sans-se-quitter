@@ -9,7 +9,10 @@ title: "Le manque et la présence de quelqu’un"
 excerpt: "Ce que j’appelle manque, c’est en réalité de la présence intérieure."
 category: "vrai-de-soi"
 order: 6
-parcours: false
+parcours: true
+statutParcours: "PRET"
+parcoursBloc: 3
+parcoursSegment: "colonne"
 ---
 
 Ce qui me manque, c’est ce que je ressens intensément en moi à l’intérieur sans pouvoir le percevoir à l’extérieur. Ce que j’appelle manque, c’est en réalité de la présence intérieure. Je peux le voir, l’entendre, le toucher, le sentir mais de l’intérieur et à l’intérieur.

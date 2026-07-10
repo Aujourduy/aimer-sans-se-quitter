@@ -12,6 +12,9 @@ order: 21
 draft: true
 draftReason: "thème sexuel à recadrer vers le relationnel"
 parcours: false
+statutParcours: "RESERVE"
+parcoursBloc: null
+parcoursSegment: null
 ---
 
 Par hasard. À moins d’avoir une baisse subite de la vue, nous ne nous rendons pas compte que notre vue a baissé. C’est fortuitement, un jour lors d’un contrôle, que j’ai pris conscience que ma vision pouvait être améliorée par des lunettes. Dans la vie générale, ce n’était pas flagrant mais devant les images de test de l’ophtalmologue, c’était sans appel.

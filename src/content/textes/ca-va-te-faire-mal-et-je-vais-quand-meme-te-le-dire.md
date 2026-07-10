@@ -10,7 +10,10 @@ excerpt: "Le dilemme entre confort et vérité : se taire accumule l'inconfort, 
 category: "vrai-de-soi"
 order: 15
 draft: false
-parcours: false
+parcours: true
+statutParcours: "PRET"
+parcoursBloc: 2
+parcoursSegment: "colonne"
 ---
 L’enfer est pavé de bonnes intentions et vouloir protéger ma partenaire en est une. C’est le dilemme entre le confort et la vérité. Le choix de la vérité est difficile. Parce qu’il peut créer colère, frustration, douleur, jalousie, peur. Est-ce que j’ai envie d’amener ça à ma partenaire ? Non. 
 

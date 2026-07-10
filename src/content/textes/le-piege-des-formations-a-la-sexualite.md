@@ -11,6 +11,9 @@ category: "pratique-posture"
 order: 11
 draft: false
 parcours: false
+statutParcours: "JAMAIS-SITE"
+parcoursBloc: null
+parcoursSegment: null
 ---
 Dans une formation à la sexualité, en général, on accompagne les participants à découvrir leur potentiel et à s’épanouir dans un cadre sécurisant, avec d’autres participants motivés, des expériences de connexions profondes et de grandes intimités.
 

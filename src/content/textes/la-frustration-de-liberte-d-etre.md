@@ -12,6 +12,9 @@ order: 32
 draft: true
 draftReason: "thème sexuel à recadrer vers le relationnel"
 parcours: false
+statutParcours: "JAMAIS-SITE"
+parcoursBloc: null
+parcoursSegment: null
 ---
 
 Mes clients sont des personnes qui vont plutôt bien dans leur vie, ont déjà fait un long parcours d’évolution personnelle. Ces personnes désirent vivre des partages sexuels d’une autre qualité. Elles ne cherchent pas forcément à avoir plus de plaisir, des orgasmes ultra puissants, une jouissance énorme ou du multi-orgasme. Elles cherchent à être libres d’être. Elles cherchent UNE LIBERTÉ D’ÊTRE TOTALE dans la sexualité.

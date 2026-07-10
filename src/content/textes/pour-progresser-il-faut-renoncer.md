@@ -12,6 +12,9 @@ order: 13
 draft: true
 draftReason: "thème sexuel à recadrer vers le relationnel"
 parcours: false
+statutParcours: "RESERVE"
+parcoursBloc: null
+parcoursSegment: null
 ---
 
 C’est très clair dans le sport en particulier mais c’est aussi vrai dans des domaines artistiques : il y a deux temporalités. Le court terme et le long terme.

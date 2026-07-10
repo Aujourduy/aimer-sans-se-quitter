@@ -12,6 +12,9 @@ order: 40
 draft: true
 draftReason: "fin à compléter"
 parcours: false
+statutParcours: "JAMAIS-SITE"
+parcoursBloc: null
+parcoursSegment: null
 ---
 
 Ras le bol des titres de livres, de maximes “Osez ceci”, “Cessez cela”. Des titres accrocheurs, dynamisants certes mais où on doit se forcer. Encore et encore. Stop à l’impératif. Stop aux injonctions. Stop aux ordres.

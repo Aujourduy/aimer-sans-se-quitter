@@ -37,6 +37,15 @@ const textes = defineCollection({
     // Marqueur du « parcours de lecture » (chemin menant de la douleur à la
     // conversation exploratoire). Ce n'est pas un livre, mais un parcours.
     parcours: z.boolean().default(false),
+    // Statut éditorial pour la mise en ligne (parcours v5).
+    statutParcours: z
+      .enum(['PRET', 'MARQUEUR', 'NETTOYAGE', 'CHAPEAU', 'RESERVE', 'JAMAIS-SITE', 'NON-PUBLIABLE'])
+      .optional(),
+    parcoursBloc: z.number().nullable().optional(), // 1 à 4, null si hors parcours
+    parcoursSegment: z
+      .enum(['colonne', 'chemin-profond', 'tag-only'])
+      .nullable()
+      .optional(),
   }),
 });
 

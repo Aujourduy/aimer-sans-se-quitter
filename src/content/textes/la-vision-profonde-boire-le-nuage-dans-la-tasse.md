@@ -11,7 +11,10 @@ category: "regard-vie"
 order: 17
 draft: true
 draftReason: "thème sexuel à recadrer vers le relationnel"
-parcours: false
+parcours: true
+statutParcours: "MARQUEUR"
+parcoursBloc: 4
+parcoursSegment: "chemin-profond"
 ---
 
 Un de mes précieux enseignants, Thich Nhat Hanh, maître du bouddhisme zen vietnamien, qui était à l’origine des pratiques de pleine conscience inspirant le MBSR, parlait aussi beaucoup de vision profonde. Beaucoup moins connu que la pleine conscience qui est à l’origine du mindfulness et du MBSR (et non le contraire comme le dit Wikipédia), la vision profonde est pourtant un outil magnifique et d’une efficacité extraordinaire quand il s’agit de percevoir l’amour.

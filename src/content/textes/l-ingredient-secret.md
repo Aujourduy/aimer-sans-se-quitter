@@ -11,6 +11,9 @@ category: "corps-desir"
 order: 30
 draft: false
 parcours: false
+statutParcours: "RESERVE"
+parcoursBloc: null
+parcoursSegment: null
 ---
 Comme le dit le père du héros de mon film préféré : “Il n’y a aucun ingrédient secret … Pour qu’une chose soit unique il suffit d’y croire.” Je crois que c’est vrai aussi pour qu’une chose soit exceptionnelle ou sacrée. Une croix est sacrée pour les chrétiens mais pas pour les hindous. Une vache est sacrée pour un hindou et pas pour un chrétien. Un grand cru peut être exceptionnel pour l'oenologue et sans intérêt pour celui qui ne boit pas de vin. 
 

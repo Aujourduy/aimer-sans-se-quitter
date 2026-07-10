@@ -10,6 +10,9 @@ excerpt: "Deux paradigmes de la relation amoureuse : le manque ou l’abondance
 category: "lien-relation"
 order: 24
 parcours: false
+statutParcours: "RESERVE"
+parcoursBloc: null
+parcoursSegment: null
 ---
 
 Après un an d’accompagnement vers la sexualité sensible, je me rends compte à quel point cela change la vie des gens et l’ampleur de la remise en question des fondamentaux dans la relation amoureuse.

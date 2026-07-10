@@ -11,6 +11,9 @@ category: "corps-desir"
 order: 35
 draft: false
 parcours: false
+statutParcours: "JAMAIS-SITE"
+parcoursBloc: null
+parcoursSegment: null
 ---
 C'est quand ma partenaire arrive à me donner le sentiment que 
 je suis libre d'être moi-même.

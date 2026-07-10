@@ -11,6 +11,9 @@ category: "vrai-de-soi"
 order: 19
 draft: false
 parcours: false
+statutParcours: "RESERVE"
+parcoursBloc: null
+parcoursSegment: null
 ---
 À priori ce n’est pas une femme remarquable quand on la croise dans la rue. Mon regard n’aurait pas été attiré du premier coup ni du second d’ailleurs.
 

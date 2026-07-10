@@ -11,7 +11,10 @@ category: "lien-relation"
 order: 29
 draft: true
 draftReason: "thème sexuel à recadrer vers le relationnel"
-parcours: false
+parcours: true
+statutParcours: "MARQUEUR"
+parcoursBloc: 3
+parcoursSegment: "colonne"
 ---
 
 Hier une femme me partageait sa difficulté à rester passive et à simplement recevoir, recevoir et recevoir. Cela finissait par réveiller un sentiment de culpabilité. La peur de ne pas donner assez en retour. Il y avait l’idée que ça devait être un échange. Nous avons appris que rien n’était gratuit : que les bonnes choses sont des récompenses d’un bon comportement, à l’obéissance d’une morale, d’une règle. Tout a un prix, encore plus quand c’est du bon, du beau et du nourrissant.

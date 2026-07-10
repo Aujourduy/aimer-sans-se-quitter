@@ -11,6 +11,9 @@ category: "pratique-posture"
 order: 2
 draft: false
 parcours: false
+statutParcours: "JAMAIS-SITE"
+parcoursBloc: null
+parcoursSegment: null
 ---
 Des fois, on croit que pour avoir des résultats, il faut faire forcément quelque chose de compliqué. En vrai, il y a beaucoup d'exemples de pratiques extrêmement efficaces, qui donnent d'excellents résultats tout en étant d’une grande simplicité.
 

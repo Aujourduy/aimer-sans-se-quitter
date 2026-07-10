@@ -11,6 +11,9 @@ category: "vrai-de-soi"
 order: 42
 draft: false
 parcours: false
+statutParcours: "RESERVE"
+parcoursBloc: null
+parcoursSegment: null
 ---
 En faisant toujours la même chose, il y a beaucoup de chances d’obtenir toujours le même résultat. Donc, pour avoir des résultats différents, il faut faire quelque chose de différent.
 
