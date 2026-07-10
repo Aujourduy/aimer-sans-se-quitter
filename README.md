@@ -399,7 +399,7 @@ title: "…"
 Des **indicateurs visuels s'affichent uniquement en local** (`npm run dev`),
 jamais en production :
 
-- sur **`/textes`** : un tableau de bord « **Relecture — N/116 validés** »,
+- sur **`/textes`** : un tableau de bord « **Relecture — N/250 validés** »,
   déroulable par thématique (avec le compteur de chaque thème), qui liste chaque
   texte avec `✓` / `◯` et un lien direct. Les **brouillons y sont inclus** (et
   visibles aussi sur les pages de thématique en local), pour pouvoir tout relire ;
@@ -422,7 +422,11 @@ npm run relecture        # → http://localhost:4455 (et URL Tailscale affichée
 
 Il ouvre une page web (locale, **jamais déployée**) avec, à gauche, tous les
 textes groupés par thématique — avec filtres (À valider, Validés, Brouillons,
-Publiés) et recherche par titre — et à droite le texte en lecture. Deux boutons
+Publiés) et recherche par titre **ou par n° de texte** — et à droite le texte en
+lecture. La recherche distingue deux modes : un **nombre seul** (ex. `213`) cible
+le texte **exactement** par son `corpusNum` ; sinon la recherche reste floue
+(mots-clés, OU, fautes tolérées) sur le titre. Le n° `#N` s'affiche devant chaque
+titre dans la liste. Deux boutons
 permettent, **d'un clic**, de basculer `verifieParDuy` et `draft` : le champ est
 écrit directement dans le bon fichier `.md` (édition chirurgicale, seule la ligne
 du champ change — le reste du fichier est préservé à l'identique).
@@ -452,6 +456,11 @@ systemctl --user status  relecture.service
 systemctl --user restart relecture.service
 journalctl --user -u relecture.service -f
 ```
+
+> ⚠️ Le service a `Restart=always` : il **redémarre seul**, donc `pkill` ne
+> l'arrête pas durablement. Après avoir modifié `scripts/relecture.mjs`, il faut
+> `systemctl --user restart relecture.service` pour que le nouveau code soit
+> servi (sinon l'ancien tourne toujours sur le port 4455).
 
 Le service est défini dans `~/.config/systemd/user/relecture.service`
 (variable `RELECTURE_HOST=100.95.124.70` pour le binding Tailscale), avec
@@ -548,6 +557,24 @@ les tables des matières. Régénéré par une analyse du corps de chaque texte
 > Distinction clé : la `category` trie par **thème** (site public) ; les
 > marqueurs de livre trient par **forme** ; le `parcours` trie par **fonction**
 > dans une progression émotionnelle. Les trois sont indépendants.
+
+**Numéro de corpus et statuts éditoriaux du parcours.** À côté des marqueurs
+booléens, chaque texte porte des champs de **repérage et de préparation à la mise
+en ligne**, également internes à l'outil (invisibles sur le site) :
+
+| Champ frontmatter | Sens |
+| --- | --- |
+| `corpusNum` | N° du texte dans le corpus (1–250), fixe. C'est la clé de renvoi : la notation `#213` dans les docs de travail (`docs/Liste_Traitement_Textes_v1.md`, etc.) pointe vers ce numéro, et l'outil de relecture le retrouve par recherche numérique. Différent de `order` (ordre d'affichage interne). |
+| `statutParcours` | Statut de mise en ligne : `PRET` · `MARQUEUR` (titre `*(brouillon)*` à publier via l'outil) · `NETTOYAGE` (passage promo à couper) · `CHAPEAU` (chapeau à écrire) · `RESERVE` (autre usage) · `JAMAIS-SITE` (promo/témoignage, ne jamais publier) · `NON-PUBLIABLE` (fragment). |
+| `parcoursBloc` | Ordre de mise en ligne : `1` (version courte, chemin minimal viable) → `4` (chemin profond + tags). `null` hors parcours. |
+| `parcoursSegment` | `colonne` (colonne vertébrale) · `chemin-profond` (option) · `tag-only` (accessible par tag seulement). `null` hors parcours. |
+
+> La **source de vérité de la sélection** (quels textes, dans quel mouvement,
+> quels passages à couper) est `docs/Parcours_Lecture_v5.md`. Les fiches
+> actionnables texte par texte (statut, coupe exacte, effort) sont dans
+> `docs/Liste_Traitement_Textes_v1.md`. Le mapping `corpusNum` → fichier est
+> déterministe (titre du frontmatter = titre du corpus), à une exception près :
+> le n° 235 (« Témoignage d'A. » / `temoignage-d-annie.md`).
 
 ### Les autres pages (fixes)
 
