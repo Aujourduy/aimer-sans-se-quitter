@@ -20,12 +20,6 @@ Toutes les femmes ne sont pas les mêmes et tous les hommes n’ont plus. Ceci p
 
 Elles s’épuisent à expliquer toujours la même chose, se découragent à changer de sexualité, se désespèrent de se sentir comblées d’une sexualité d’amour.
 
-Cela fait longtemps que je voulais écrire sur le sujet pour donner une piste parce que j’ai eu beaucoup de demandes, voici enfin l’inspiration qui arrive. Oui, je ne suis pas fainéant mais je ne force pas l’écriture de ces posts. J’attends que l’inspiration, l'envie profonde arrivent. 
-
-J'aurais pu me forcer, être beaucoup plus productif et plus efficace mais je n’en ai pas le désir. Je ne veux pas me forcer parce que je veux vous montrer, incarner le fait qu’on n’est pas obligé de se forcer. Ni pour l’écriture des posts ni pour la sexualité. Cela a bien sûr des conséquences, des inconvénients. C’est le prix à payer pour des posts inspirés, authentiques, purs et bruts. C’est le prix à payer pour une sexualité légère et intime. 
-
-Cette digression posée, continuons sur le sujet de communication.
-
 Plusieurs approches humanistes identifient 3 moteurs de l’être humain. Le mental, l’émotionnel et l’instinctif. Cela se décline aussi en tête, cœur et corps. 
 
 Alors qu’en est-il de la discussion sur la sexualité ? Quand une femme parle de sexualité, elle parle souvent de ses besoins émotionnels, de ses aspirations. Elle a besoin d’aimer et de se sentir aimée.
