@@ -17,7 +17,7 @@ parcoursBloc: 3
 parcoursSegment: "colonne"
 ---
 
-Il y avait ce phénomène bizarre qui m’était arrivé plusieurs fois, trop de fois à vrai dire. Les principes que je vous donne ici vous permettront de les éviter.
+Il y avait ce phénomène bizarre qui m’était arrivé plusieurs fois, trop de fois à vrai dire.
 
 J’éprouvais de l’insatisfaction dans ma sexualité. Je me disais à moi-même et à ma partenaire, je ne suis pas satisfait parce qu’il manque X dans notre sexualité. Avec ma partenaire, nous cheminons et nous expérimentons X plusieurs fois.
 

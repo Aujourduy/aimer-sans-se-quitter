@@ -17,7 +17,7 @@ parcoursBloc: 3
 parcoursSegment: "colonne"
 ---
 
-C’était il y a déjà quelque temps. J’étais avec une femme. Il y avait les caresses, l’excitation, la danse de nos corps. Pas métaphoriquement, nous dansions littéralement ensemble dans une chorégraphie sensuelle et sexuelle. Le niveau du désir était bien haut, la respiration, les soupirs et les modifications physiologiques. Pourtant, elle s’est arrêtée et m’a dit : “Duy, je nous sentais plus dans l’écoute la dernière fois.” Et bam, un petit coup pour réveiller le gars qui vous écrit des posts et propose des séminaires sur la sexualité sensible.
+C’était il y a déjà quelque temps. J’étais avec une femme. Il y avait les caresses, l’excitation, la danse de nos corps. Pas métaphoriquement, nous dansions littéralement ensemble dans une chorégraphie sensuelle et sexuelle. Le niveau du désir était bien haut, la respiration, les soupirs et les modifications physiologiques. Pourtant, elle s’est arrêtée et m’a dit : “Duy, je nous sentais plus dans l’écoute la dernière fois.” Et bam, un petit coup pour réveiller le gars qui vous écrit des posts .
 
 Pour accueillir sa venue, j’avais préparé des bougies, des huiles essentielles, de l’encens, de la musique et une décoration. Ce faisant, je suis resté dans l’énergie de l’organisation, l’action, le faire, l’agitation de la préparation. Je n’avais pas pris le temps de me déposer, de revenir au silence.
 

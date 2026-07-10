@@ -30,5 +30,3 @@ Et ce que je n’ai pas dit ou pas fait qui m’a contrarié revient souvent à 
 1/ Oser ma Vérité. En quoi je n’ai pas assumé ma vérité, mes valeurs, ma vision du monde
 
 2/ Cultiver ma Liberté. En quoi, j’ai accepté de réduire ma liberté pour préserver l’autre, pour préserver la relation.
-
-Oser ma Vérité, Cultiver ma Liberté et Déployer ma Sexualité.

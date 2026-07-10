@@ -24,5 +24,3 @@ Pour moi, c’est plus facile de dire à ma partenaire que je l’aime que d’a
 Quand on dit “je t’aime”, on se rapproche d’un pas. Quand on tait, quand on cache un “j’ai peur”, on s’éloigne d’un pas. Sauf qu’on ne dit pas 10 fois par jour “je t’aime”, par contre on peut cacher 10 fois par jour “j’ai peur”.
 
 Quelles étaient mes peurs ? J’avais peur de ne pas réussir. J’avais peur de lui déplaire. J’avais peur qu’elle me quitte. J’avais peur de la blesser. J’avais peur de la fâcher. J’avais peur qu’elle ne me désire plus.
-
-Aux participants de mon accompagnement, je conseille de toujours partager leurs émotions et surtout leurs peurs.

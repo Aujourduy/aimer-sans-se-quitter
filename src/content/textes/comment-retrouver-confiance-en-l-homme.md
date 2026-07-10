@@ -15,8 +15,6 @@ parcoursBloc: 1
 parcoursSegment: "colonne"
 ---
 
-Question que m’a posée une femme pour la préparation de mon prochain webinaire. C’est une question qui est revenue plusieurs fois alors je vais donner un début de réponse.
-
 Premièrement, c’est une question qui est mal posée.
 
 Il ne faut pas faire confiance en l’homme parce que les hommes sont égoïstes, lâches, fuyants, puérils, obsédés, colériques, violents, inconscients. Moi le premier. Sous une forme ou une autre. Suivant les situations.
