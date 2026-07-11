@@ -13,7 +13,7 @@ category: "lien-relation"
 order: 3
 draft: true
 parcours: true
-statutParcours: "NETTOYAGE"
+statutParcours: "PRET"
 parcoursBloc: 3
 parcoursSegment: "colonne"
 ---

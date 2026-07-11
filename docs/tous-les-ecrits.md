@@ -307,7 +307,7 @@ Il y a cinq qualités d’être dans la sexualité : Léger, Intime, Puissant, 
 
 Prenons par exemple la qualité Puissance. La question à se poser c’est quelle est votre puissance maximale ? Comment vous vous sentez quand vous exprimez toute votre puissance ? Par exemple, un endroit où j’exprime toute ma puissance c’est quand je me défoule sur un punching-ball. C’est ma référence maximale, mon 100% de puissance. Maintenant, quel est votre niveau de puissance quand vous faites l’amour ? Moi, j’étais très garçon bien élevé. J’étais très doux dans la sexualité. Mon niveau de Puissance dans la sexualité par rapport au max c’était plutôt 30%. Maintenant, question qui demande une grande honnêteté, quel niveau de Puissance voulez-vous vivre dans la sexualité. Moi c’est 80%. Attention, cela ne veut pas du tout dire que je vais frapper ma partenaire comme sur le punching-ball à 80% de ma puissance. Non, je reste vigilant et conscient. Si la puissance que je veux exprimer est trop forte pour le contact avec ma partenaire je vais serrer très fort les coussins, ou frapper sur le matelas, ou empoigner le bord du lit ou mordre la couverture. Mais je vais vibrer à 80% de ma puissance et je vais l’offrir à ma partenaire. Je vais incarner ce degré de puissance. Cela va se sentir dans ma respiration, mes mouvements et même dans la délicatesse de mes caresses.
 
-Je vous invite à faire cet auto diagnostic de ce que vous désirez pour votre sexualité. C’est très bénéfique parce que chaque progrès que vous ferez vous rapprochera vraiment de votre objectif et d’avoir cet objectif clair évite d’être dans la situation « c’est bien mais maintenant je veux encore plus ». La réalité c’est qu’au fond de vous, vous avez toujours voulu ce plus. C’est simplement que vous n’avez pas osé l’admettre. Mais je vais vous dire quelque chose. Il y a deux jours, j’ai écrit le manifeste de la façon dont je veux accompagner les personnes désireuses d’évoluer dans leur sexualité (c’est le post précédent). Et c’est devenu très clair dans ma tête et dans mon cœur. Nous sommes des Rois et des Reines. Nous avons le droit de désirer tout ce que nous voulons. Nous méritons le meilleur de la sexualité pour nous-mêmes.
+Je vous invite à faire cet auto diagnostic de ce que vous désirez pour votre sexualité. C’est très bénéfique parce que chaque progrès que vous ferez vous rapprochera vraiment de votre objectif et d’avoir cet objectif clair évite d’être dans la situation « c’est bien mais maintenant je veux encore plus ». La réalité c’est qu’au fond de vous, vous avez toujours voulu ce plus. C’est simplement que vous n’avez pas osé l’admettre. Nous sommes des Rois et des Reines. Nous avons le droit de désirer tout ce que nous voulons. Nous méritons le meilleur de la sexualité pour nous-mêmes.
 
 Alors est-ce que vous voulez seulement X ou en réalité ce que vous voulez, et méritez, c’est X,Y,Z,A,B,C et D ?
 
@@ -4566,7 +4566,6 @@ Mais il faut regarder dans la direction opposée.
 ## 191. On n’a pas besoin de s’aimer plus, il suffit de moins se juger
 
 Voilà, rien à rajouter au titre ;-)
-J’attends vos réactions et commentaires.
 
 ---
 

@@ -18,4 +18,3 @@ parcoursSegment: "colonne"
 ---
 
 Voilà, rien à rajouter au titre ;-)
-J’attends vos réactions et commentaires.
