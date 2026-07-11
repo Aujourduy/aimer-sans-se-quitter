@@ -12,7 +12,7 @@ excerpt: "La vraie question n’est pas la confiance en l’homme, mais la confi
 category: "vrai-de-soi"
 order: 2
 parcours: true
-statutParcours: "NETTOYAGE"
+statutParcours: "PRET"
 parcoursBloc: 1
 parcoursSegment: "colonne"
 ---

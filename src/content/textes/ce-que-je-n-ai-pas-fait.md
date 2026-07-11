@@ -13,7 +13,7 @@ category: "vrai-de-soi"
 order: 17
 draft: false
 parcours: true
-statutParcours: "NETTOYAGE"
+statutParcours: "PRET"
 parcoursBloc: 3
 parcoursSegment: "colonne"
 ---

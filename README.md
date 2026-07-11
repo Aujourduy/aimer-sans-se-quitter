@@ -437,11 +437,14 @@ npm run relecture        # → http://localhost:4455 (et URL Tailscale affichée
 
 Il ouvre une page web (locale, **jamais déployée**) avec, à gauche, tous les
 textes groupés par thématique — avec filtres (À valider, Validés, Brouillons,
-Publiés) et recherche par titre **ou par n° de texte** — et à droite le texte en
-lecture. La recherche distingue deux modes : un **nombre seul** (ex. `213`) cible
-le texte **exactement** par son `corpusNum` ; sinon la recherche reste floue
-(mots-clés, OU, fautes tolérées) sur le titre. Le n° `#N` s'affiche devant chaque
-titre dans la liste. Deux boutons
+Publiés), filtres par **marqueur** (Fable, Conte, …, Parcours, Sexualité,
+cumulables en ET), filtres par **statut éditorial** (rangée « Statut : » — `PRET`,
+`MARQUEUR`, `NETTOYAGE`, etc. ; exclusif, pour retrouver p.ex. tous les textes qui
+restent à nettoyer), et recherche par titre **ou par n° de texte** — et à droite
+le texte en lecture. La recherche distingue deux modes : un **nombre seul** (ex.
+`213`) cible le texte **exactement** par son `corpusNum` ; sinon la recherche reste
+floue (mots-clés, OU, fautes tolérées) sur le titre. Le n° `#N` s'affiche devant
+chaque titre dans la liste. Deux boutons
 permettent, **d'un clic**, de basculer `verifieParDuy` et `draft` : le champ est
 écrit directement dans le bon fichier `.md` (édition chirurgicale, seule la ligne
 du champ change — le reste du fichier est préservé à l'identique).

@@ -12,7 +12,7 @@ excerpt: "Rien à rajouter au titre : moins se juger ouvre déjà le chemin."
 category: "vrai-de-soi"
 order: 9
 parcours: true
-statutParcours: "NETTOYAGE"
+statutParcours: "PRET"
 parcoursBloc: 3
 parcoursSegment: "colonne"
 ---

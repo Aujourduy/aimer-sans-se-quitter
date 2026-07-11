@@ -12,7 +12,7 @@ excerpt: "L’Amour guérit, mais la Vérité est la condition nécessaire."
 category: "vrai-de-soi"
 order: 41
 parcours: true
-statutParcours: "NETTOYAGE"
+statutParcours: "PRET"
 parcoursBloc: 3
 parcoursSegment: "colonne"
 ---

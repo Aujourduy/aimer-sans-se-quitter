@@ -14,7 +14,7 @@ order: 18
 draft: true
 draftReason: "thème sexuel à recadrer vers le relationnel"
 parcours: true
-statutParcours: "NETTOYAGE"
+statutParcours: "MARQUEUR"
 parcoursBloc: 3
 parcoursSegment: "colonne"
 ---

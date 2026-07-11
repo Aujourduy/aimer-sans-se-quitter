@@ -12,7 +12,7 @@ excerpt: "Avouer ses peurs, c’est partager sa réalité ; les taire élève 
 category: "vrai-de-soi"
 order: 34
 parcours: true
-statutParcours: "NETTOYAGE"
+statutParcours: "PRET"
 parcoursBloc: 1
 parcoursSegment: "colonne"
 ---

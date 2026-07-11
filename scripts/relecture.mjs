@@ -84,6 +84,11 @@ const LIVRE_FLAGS = [
   { key: 'parcours', label: 'Parcours' },
   { key: 'sexualite', label: 'Sexualité' },
 ];
+// Statuts éditoriaux de mise en ligne (champ `statutParcours`). Filtrables dans
+// l'outil pour retrouver, p.ex., tous les textes qui restent à nettoyer.
+const STATUTS_PARCOURS = [
+  'PRET', 'MARQUEUR', 'NETTOYAGE', 'CHAPEAU', 'RESERVE', 'JAMAIS-SITE', 'NON-PUBLIABLE',
+];
 // Champs booléens autorisés au toggle (relecture + indicateurs de livre).
 const TOGGLEABLE = ['verifieParDuy', 'draft', ...LIVRE_FLAGS.map((f) => f.key)];
 
@@ -102,6 +107,7 @@ function listTextes() {
       slug: slugOf(file),
       title: data.title ?? slugOf(file),
       corpusNum: typeof data.corpusNum === 'number' ? data.corpusNum : null,
+      statutParcours: typeof data.statutParcours === 'string' ? data.statutParcours : null,
       category: data.category ?? '(sans thème)',
       order: data.order ?? 0,
       verifieParDuy: data.verifieParDuy === true,
@@ -428,6 +434,9 @@ function pageHtml() {
   .filters{display:flex;gap:.4rem;flex-wrap:wrap;margin-bottom:.75rem;}
   .filters button{font-size:.72rem;padding:.2rem .5rem;border:1px solid var(--filet);background:#fff;border-radius:1rem;cursor:pointer;color:var(--sepia);}
   .filters button.active{background:var(--bleu);color:#fff;border-color:var(--bleu);}
+  .filters-statut{margin-top:-.4rem;align-items:center;}
+  .filters-statut .filters-label{font-size:.7rem;color:var(--sepia);font-weight:700;text-transform:uppercase;letter-spacing:.03em;}
+  .filters-statut button{font-size:.68rem;}
   .search{width:100%;padding:.4rem .6rem;border:1px solid var(--filet);border-radius:.4rem;margin-bottom:.75rem;font-size:.85rem;}
   /* --- Todolist des sujets --- */
   .sujets{border:1px solid var(--filet);border-radius:.5rem;padding:.6rem;margin-bottom:.9rem;background:#fbf8f2;}
@@ -526,6 +535,10 @@ function pageHtml() {
       <button data-f="pub">Publiés</button>
       ${LIVRE_FLAGS.map((f) => `<button data-f="flag:${f.key}">${f.label}</button>`).join('')}
     </div>
+    <div class="filters filters-statut" id="filters-statut">
+      <span class="filters-label">Statut&nbsp;:</span>
+      ${STATUTS_PARCOURS.map((s) => `<button data-f="stp:${s}">${s}</button>`).join('')}
+    </div>
     <input class="search" id="search" placeholder="Rechercher (mots-clés ou n° de texte, ex. 213)…">
     <section class="sujets">
       <div class="sujets-head">
@@ -559,11 +572,13 @@ function pageHtml() {
 </div>
 <script>
 const LIVRE_FLAGS=${JSON.stringify(LIVRE_FLAGS)};
+const STATUTS_PARCOURS=${JSON.stringify(STATUTS_PARCOURS)};
 const OUTILS=${JSON.stringify(listeOutils())};
 const CAT_ORDER=${JSON.stringify(CATEGORY_ORDER)};
 const CAT_LABELS=${JSON.stringify(CATEGORY_LABELS)};
-// filtre statut (exclusif : all|todo|ok|draft|pub) + marqueurs cumulés (ET).
-let TEXTES=[], statut='all', flags=new Set(), q='', sel=null;
+// filtre statut relecture (exclusif : all|todo|ok|draft|pub) + marqueurs cumulés
+// (ET) + filtre statut éditorial (stp, exclusif : null ou un STATUTS_PARCOURS).
+let TEXTES=[], statut='all', flags=new Set(), stp=null, q='', sel=null;
 let SUJETS=[], masquerFaits=false;
 const $=s=>document.querySelector(s);
 
@@ -619,6 +634,8 @@ function visible(t){
   if(statut==='pub'&&t.draft)return false;
   // Marqueurs (cumulés en ET : le texte doit porter TOUS les marqueurs actifs)
   for(const key of flags) if(!t[key]) return false;
+  // Statut éditorial (exclusif) : ne montrer que les textes de ce statutParcours.
+  if(stp && t.statutParcours!==stp) return false;
   // Requête purement numérique → match EXACT sur le n° de corpus (pas de flou).
   if(q&&/^\\d+$/.test(q)) return t.corpusNum===Number(q);
   if(q&&!matcheRecherche(t.title))return false;
@@ -769,20 +786,25 @@ async function toggle(slug,field){
 }
 // Filtres : statut exclusif (all|todo|ok|draft|pub) + marqueurs cumulés en ET.
 // Cliquer un marqueur le coche/décoche ; « Tous » remet tout à zéro.
-$('#filters').addEventListener('click',e=>{
+function onFilterClick(e){
   const f=e.target.dataset.f; if(!f)return;
-  if(f==='all'){ statut='all'; flags.clear(); }
+  if(f==='all'){ statut='all'; flags.clear(); stp=null; }
   else if(f.startsWith('flag:')){ const k=f.slice(5); if(flags.has(k))flags.delete(k); else flags.add(k); }
+  else if(f.startsWith('stp:')){ const s=f.slice(4); stp = (stp===s) ? null : s; } // re-cliquer → tout
   else { statut = (statut===f) ? 'all' : f; } // re-cliquer un statut actif → retour à « all »
   syncFilterButtons(); render();
-});
+}
+$('#filters').addEventListener('click',onFilterClick);
+$('#filters-statut').addEventListener('click',onFilterClick);
 function syncFilterButtons(){
   const aucun = statut==='all' && flags.size===0;
-  [...$('#filters').children].forEach(b=>{
-    const f=b.dataset.f;
+  const boutons=[...$('#filters').children, ...$('#filters-statut').children];
+  boutons.forEach(b=>{
+    const f=b.dataset.f; if(!f)return;
     let on=false;
     if(f==='all') on=aucun;
     else if(f.startsWith('flag:')) on=flags.has(f.slice(5));
+    else if(f.startsWith('stp:')) on=(stp===f.slice(4));
     else on=(statut===f);
     b.classList.toggle('active',on);
   });

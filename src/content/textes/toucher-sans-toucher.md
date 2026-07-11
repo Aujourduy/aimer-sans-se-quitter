@@ -13,7 +13,7 @@ category: "corps-desir"
 order: 64
 draft: false
 parcours: true
-statutParcours: "NETTOYAGE"
+statutParcours: "PRET"
 parcoursBloc: 4
 parcoursSegment: "chemin-profond"
 ---

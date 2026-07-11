@@ -14,7 +14,7 @@ order: 57
 draft: true
 draftReason: "zone sensible à valider"
 parcours: true
-statutParcours: "NETTOYAGE"
+statutParcours: "MARQUEUR"
 parcoursBloc: 3
 parcoursSegment: "colonne"
 ---

@@ -14,7 +14,7 @@ order: 62
 draft: true
 draftReason: "texte intime explicite, non surfacé pour l’instant"
 parcours: true
-statutParcours: "NETTOYAGE"
+statutParcours: "MARQUEUR"
 parcoursBloc: 4
 parcoursSegment: "chemin-profond"
 ---

@@ -12,7 +12,7 @@ excerpt: "Jeter le sel, c’est porter le masque d’un autre moi ; derrière,
 category: "vrai-de-soi"
 order: 67
 parcours: true
-statutParcours: "NETTOYAGE"
+statutParcours: "PRET"
 parcoursBloc: 1
 parcoursSegment: "colonne"
 ---
