@@ -89,6 +89,27 @@ const LIVRE_FLAGS = [
 const STATUTS_PARCOURS = [
   'PRET', 'MARQUEUR', 'NETTOYAGE', 'CHAPEAU', 'RESERVE', 'JAMAIS-SITE', 'NON-PUBLIABLE',
 ];
+// Définitions affichées dans la section « Aide & tâches ». `tache: true` =
+// statut qui demande une action de l'auteur avant mise en ligne.
+const STATUTS_DEF = {
+  PRET:           { tache: false, sens: 'Corps publiable tel quel, rien à faire.' },
+  MARQUEUR:       { tache: true,  sens: 'Corps prêt ; le titre porte encore *(brouillon)* — basculer publié via le bouton « brouillon → publier ».' },
+  NETTOYAGE:      { tache: true,  sens: 'Un ou plusieurs passages promotionnels restent à couper dans le corps.' },
+  CHAPEAU:        { tache: true,  sens: 'Publiable mais nécessite une ligne de chapeau à écrire par l’auteur.' },
+  RESERVE:        { tache: false, sens: 'Hors parcours, gardé pour un autre usage (À propos, flagship, livres…).' },
+  'JAMAIS-SITE':  { tache: false, sens: 'Ne doit jamais paraître sur le site (promo, témoignage de l’ancienne offre).' },
+  'NON-PUBLIABLE':{ tache: false, sens: 'Fragment, brouillon cassé, inachevé — non publiable en l’état.' },
+};
+// Définitions des marqueurs (booléens) affichées dans « Aide & tâches ».
+const MARQUEURS_DEF = {
+  livreFableDanPhu:          'Fable inventée ou histoire vécue à bascule.',
+  livreAnalyseConte:         'Relecture d’un conte ou mythe connu.',
+  livreMetaphore:            'Image qui fait voir d’un coup, sans récit.',
+  livreVersus:               'Paire contrastée « X vs Y ».',
+  livreAimerSansDisparaitre: 'Nourrit l’essai relationnel « Aimer sans disparaître » (flagship / ASD).',
+  sexualite:                 'Le texte traite explicitement de sexualité (acte, désir, plaisir, intimité).',
+  parcours:                  'Entre dans le parcours de lecture (douleur → conversation exploratoire).',
+};
 // Champs booléens autorisés au toggle (relecture + indicateurs de livre).
 const TOGGLEABLE = ['verifieParDuy', 'draft', ...LIVRE_FLAGS.map((f) => f.key)];
 
@@ -294,6 +315,30 @@ function toggleField(slug, field) {
   return !current;
 }
 
+// Écrit le `statutParcours` (valeur exclusive parmi STATUTS_PARCOURS). Édition
+// chirurgicale du frontmatter, comme toggleField : on ne reformate pas le YAML.
+function setStatut(slug, statut) {
+  if (!STATUTS_PARCOURS.includes(statut)) {
+    throw new Error('Statut non autorisé : ' + statut);
+  }
+  const path = join(TEXTES_DIR, slug + '.md');
+  const raw = readFileSync(path, 'utf8');
+  const fmEnd = raw.indexOf('\n---', 3);
+  const head = fmEnd === -1 ? raw : raw.slice(0, fmEnd);
+  const rest = fmEnd === -1 ? '' : raw.slice(fmEnd);
+
+  const lineRe = /^(\s*statutParcours\s*:\s*).*$/m;
+  let newHead;
+  if (lineRe.test(head)) {
+    newHead = head.replace(lineRe, `$1"${statut}"`);
+  } else {
+    // Champ absent : l'ajouter en tête de frontmatter.
+    newHead = head.replace(/^---\n/, `---\nstatutParcours: "${statut}"\n`);
+  }
+  writeFileSync(path, newHead + rest, 'utf8');
+  return statut;
+}
+
 // Renvoie le CORPS markdown brut (tout ce qui suit le frontmatter), pour l'éditer.
 function readCorps(slug) {
   const raw = readFileSync(join(TEXTES_DIR, slug + '.md'), 'utf8');
@@ -470,6 +515,8 @@ function pageHtml() {
   .livre-label{font-size:.78rem;color:var(--sepia);margin-right:.2rem;}
   .b-livre-btn{font-size:.78rem;padding:.35rem .7rem;border-radius:1rem;cursor:pointer;border:1px solid var(--filet);background:#fff;color:var(--sepia);}
   .b-livre-btn.on-livre{background:var(--bleu);color:#fff;border-color:var(--bleu);}
+  .b-statut-btn{font-size:.72rem;padding:.3rem .6rem;border-radius:1rem;cursor:pointer;border:1px solid var(--filet);background:#fff;color:var(--sepia);}
+  .b-statut-btn.on-statut{background:var(--ocre);color:#fff;border-color:var(--ocre);}
   .main h2.read-title{font-family:Georgia,serif;color:var(--bleu);font-size:1.8rem;margin:.2rem 0 1rem;}
   .actions{display:flex;gap:.6rem;margin-bottom:1.5rem;flex-wrap:wrap;}
   .actions button{font-size:.85rem;padding:.45rem .8rem;border-radius:.4rem;cursor:pointer;border:1px solid var(--filet);background:#fff;color:var(--encre);}
@@ -495,6 +542,19 @@ function pageHtml() {
   .outil-desc{font-size:.74rem;color:var(--sepia);line-height:1.35;margin:.15rem 0 .3rem;}
   .outil-run{font-size:.74rem;padding:.28rem .7rem;border:1px solid var(--bleu);background:var(--bleu);color:#fff;border-radius:1rem;cursor:pointer;}
   .outil-run:hover{background:#16243b;} .outil-run:disabled{opacity:.6;cursor:default;}
+  .aide-bloc{margin:.2rem 0 .8rem;}
+  .aide-bloc h3{font-size:.72rem;text-transform:uppercase;letter-spacing:.03em;color:var(--bleu);margin:.6rem 0 .3rem;}
+  .aide-hint,.aide-vide{font-size:.72rem;color:var(--sepia);font-style:italic;margin:.1rem 0 .3rem;}
+  .aide-taches{list-style:none;padding:0;margin:0;}
+  .aide-taches li{display:flex;align-items:baseline;gap:.5rem;padding:.2rem 0;flex-wrap:wrap;}
+  .aide-tache{font-size:.74rem;padding:.22rem .55rem;border:1px solid var(--ocre);background:#fff;color:var(--ocre);border-radius:1rem;cursor:pointer;font-weight:700;}
+  .aide-tache:hover{background:var(--ocre);color:#fff;}
+  .aide-n{font-variant-numeric:tabular-nums;}
+  .aide-def{font-size:.72rem;color:var(--sepia);line-height:1.3;flex:1 1 12rem;}
+  .aide-defs{list-style:none;padding:0;margin:0;}
+  .aide-defs li{font-size:.73rem;color:var(--sepia);line-height:1.35;padding:.15rem 0;}
+  .aide-cle{font-weight:700;color:var(--bleu);}
+  .aide-n2{font-variant-numeric:tabular-nums;opacity:.7;}
   .back{display:none;}
   /* --- Mobile : une seule colonne, navigation liste <-> lecture --- */
   @media (max-width:760px){
@@ -566,6 +626,13 @@ function pageHtml() {
       <div id="outils-body" hidden></div>
       <div class="gen-msg" id="gen-msg"></div>
     </section>
+    <section class="sujets aide">
+      <div class="sujets-head">
+        <h2>Aide &amp; tâches</h2>
+        <button class="sujets-toggle" id="aide-toggle">déplier</button>
+      </div>
+      <div id="aide-body" hidden></div>
+    </section>
     <div id="list"></div>
   </aside>
   <main class="main" id="main"><p class="empty">Sélectionne un texte à gauche.</p></main>
@@ -573,6 +640,8 @@ function pageHtml() {
 <script>
 const LIVRE_FLAGS=${JSON.stringify(LIVRE_FLAGS)};
 const STATUTS_PARCOURS=${JSON.stringify(STATUTS_PARCOURS)};
+const STATUTS_DEF=${JSON.stringify(STATUTS_DEF)};
+const MARQUEURS_DEF=${JSON.stringify(MARQUEURS_DEF)};
 const OUTILS=${JSON.stringify(listeOutils())};
 const CAT_ORDER=${JSON.stringify(CATEGORY_ORDER)};
 const CAT_LABELS=${JSON.stringify(CATEGORY_LABELS)};
@@ -719,6 +788,10 @@ async function open_(slug){
   for(const f of LIVRE_FLAGS){
     livreBtns+='<button class="b-livre-btn'+(t[f.key]?' on-livre':'')+'" onclick="toggle(\\''+slug+'\\',\\''+f.key+'\\')">'+(t[f.key]?'✓ ':'+ ')+f.label+'</button>';
   }
+  let statutBtns='';
+  for(const s of STATUTS_PARCOURS){
+    statutBtns+='<button class="b-statut-btn'+(t.statutParcours===s?' on-statut':'')+'" onclick="setStatut(\\''+slug+'\\',\\''+s+'\\')">'+s+'</button>';
+  }
   document.querySelector('.app').classList.add('reading');
   window.scrollTo(0,0);
   $('#main').innerHTML='<button class="back" onclick="backToList()">‹ Liste</button>'
@@ -729,6 +802,7 @@ async function open_(slug){
     +'<button class="edit-btn" onclick="editStart(\\''+slug+'\\')">✎ Modifier le texte</button>'
     +'</div>'
     +'<div class="actions livre-actions"><span class="livre-label">Livres :</span>'+livreBtns+'</div>'
+    +'<div class="actions statut-actions"><span class="livre-label">Statut :</span>'+statutBtns+'</div>'
     +'<h2 class="read-title" id="read-title">'+esc(d.title)+'</h2><div class="prose" id="prose">'+d.html+'</div>';
 }
 
@@ -783,6 +857,10 @@ async function toggle(slug,field){
   const r=await (await fetch('/api/toggle',{method:'POST',headers:{'content-type':'application/json'},body:JSON.stringify({slug,field})})).json();
   const t=TEXTES.find(x=>x.slug===slug); t[field]=r.value;
   render(); open_(slug);
+}
+async function setStatut(slug,statut){
+  const r=await (await fetch('/api/statut',{method:'POST',headers:{'content-type':'application/json'},body:JSON.stringify({slug,statut})})).json();
+  if(r.ok){ const t=TEXTES.find(x=>x.slug===slug); t.statutParcours=r.statut; render(); open_(slug); }
 }
 // Filtres : statut exclusif (all|todo|ok|draft|pub) + marqueurs cumulés en ET.
 // Cliquer un marqueur le coche/décoche ; « Tous » remet tout à zéro.
@@ -842,6 +920,52 @@ $('#outils-toggle').addEventListener('click',()=>{
   const body=$('#outils-body'); const open=body.hidden;
   body.hidden=!open; $('#outils-toggle').textContent=open?'replier':'déplier';
   if(open&&!body.dataset.rendered){ renderOutils(); body.dataset.rendered='1'; }
+});
+// --- Section Aide & tâches : définitions des marqueurs/statuts + tableau de bord
+// des tâches restantes (compte par statut, cliquable pour filtrer la liste).
+function labelStatut(cle){ const f=LIVRE_FLAGS.find(x=>x.key===cle); return f?f.label:cle; }
+function renderAide(){
+  const cnt={}; for(const s of STATUTS_PARCOURS) cnt[s]=0;
+  for(const t of TEXTES){ if(t.statutParcours&&cnt[t.statutParcours]!=null) cnt[t.statutParcours]++; }
+  // Tâches = statuts qui demandent une action, avec au moins un texte.
+  const taches=STATUTS_PARCOURS.filter(s=>STATUTS_DEF[s].tache&&cnt[s]>0);
+  let h='<div class="aide-bloc"><h3>Tâches à faire</h3>';
+  if(!taches.length){ h+='<p class="aide-vide">Aucune tâche en attente 🎉</p>'; }
+  else {
+    h+='<p class="aide-hint">Clique un statut pour ne montrer que ces textes.</p><ul class="aide-taches">';
+    for(const s of taches){
+      h+='<li><button class="aide-tache" data-stp="'+s+'"><span class="aide-n">'+cnt[s]+'</span> '+s+'</button>'
+        +'<span class="aide-def">'+esc(STATUTS_DEF[s].sens)+'</span></li>';
+    }
+    h+='</ul>';
+  }
+  h+='</div>';
+  // Définitions complètes des statuts.
+  h+='<div class="aide-bloc"><h3>Tous les statuts</h3><ul class="aide-defs">';
+  for(const s of STATUTS_PARCOURS){
+    h+='<li><span class="aide-cle">'+s+'</span> <span class="aide-n2">('+cnt[s]+')</span> — '+esc(STATUTS_DEF[s].sens)+'</li>';
+  }
+  h+='</ul></div>';
+  // Définitions des marqueurs.
+  h+='<div class="aide-bloc"><h3>Marqueurs</h3><ul class="aide-defs">';
+  for(const f of LIVRE_FLAGS){
+    const n=TEXTES.filter(t=>t[f.key]).length;
+    h+='<li><span class="aide-cle">'+esc(f.label)+'</span> <span class="aide-n2">('+n+')</span> — '+esc(MARQUEURS_DEF[f.key]||'')+'</li>';
+  }
+  h+='</ul></div>';
+  $('#aide-body').innerHTML=h;
+}
+$('#aide-toggle').addEventListener('click',()=>{
+  const body=$('#aide-body'); const open=body.hidden;
+  body.hidden=!open; $('#aide-toggle').textContent=open?'replier':'déplier';
+  if(open) renderAide(); // toujours recalculer (les comptes changent au fil du travail)
+});
+// Clic sur une tâche → filtre la liste par ce statut (comme les boutons Statut).
+$('#aide-body').addEventListener('click',e=>{
+  const b=e.target.closest('.aide-tache'); if(!b)return;
+  const s=b.dataset.stp; stp=(stp===s)?null:s;
+  syncFilterButtons(); render();
+  window.scrollTo(0,0);
 });
 // Handler délégué pour les boutons d'action des outils.
 $('#outils-body').addEventListener('click',async e=>{
@@ -994,6 +1118,20 @@ const server = createServer((req, res) => {
           const { slug, field } = JSON.parse(body);
           const value = toggleField(slug, field);
           json(res, { ok: true, value });
+        } catch (e) {
+          json(res, { ok: false, error: String(e) }, 400);
+        }
+      });
+      return;
+    }
+    if (req.method === 'POST' && url.pathname === '/api/statut') {
+      let body = '';
+      req.on('data', (c) => (body += c));
+      req.on('end', () => {
+        try {
+          const { slug, statut } = JSON.parse(body);
+          const value = setStatut(slug, statut);
+          json(res, { ok: true, statut: value });
         } catch (e) {
           json(res, { ok: false, error: String(e) }, 400);
         }

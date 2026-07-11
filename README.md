@@ -449,6 +449,20 @@ permettent, **d'un clic**, de basculer `verifieParDuy` et `draft` : le champ est
 écrit directement dans le bon fichier `.md` (édition chirurgicale, seule la ligne
 du champ change — le reste du fichier est préservé à l'identique).
 
+**Sur la page d'un texte**, en plus des boutons de marqueur (Fable, Sexualité,
+Parcours…), une rangée **« Statut : »** propose les 7 statuts éditoriaux
+(`PRET`, `MARQUEUR`, `NETTOYAGE`, `CHAPEAU`, `RESERVE`, `JAMAIS-SITE`,
+`NON-PUBLIABLE`) — le statut courant est surligné, un clic écrit `statutParcours`
+dans le `.md` (édition chirurgicale). Contrairement aux marqueurs booléens, le
+statut est **exclusif** : un texte a exactement un statut.
+
+**Section « Aide & tâches »** (repliable dans la barre latérale) : elle affiche
+(1) le **tableau de bord des tâches restantes** — un bouton par statut qui demande
+une action (`NETTOYAGE`, `MARQUEUR`, `CHAPEAU`) avec son compte, cliquable pour
+filtrer la liste ; (2) la **définition de chaque statut** avec son compte ; (3) la
+**définition de chaque marqueur** avec son compte. C'est la référence unique pour
+savoir ce que veut dire chaque marqueur et ce qu'il reste à faire.
+
 > Lancé via `npm run relecture`, l'outil écoute sur `0.0.0.0` et affiche au
 > démarrage l'URL **Tailscale** (`http://100.x.x.x:4455`) pour y accéder à
 > distance (en service permanent, il n'écoute QUE sur Tailscale — voir plus
