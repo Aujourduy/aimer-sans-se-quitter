@@ -5,6 +5,7 @@ livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
+sexualite: true
 title: "Comme je prie, comme je fais l’amour"
 corpusNum: 19
 excerpt: "Demander pour avoir ce que je n’ai pas, ou remercier pour ce qui est déjà là."

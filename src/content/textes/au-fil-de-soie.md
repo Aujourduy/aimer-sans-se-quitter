@@ -5,6 +5,7 @@ livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
+sexualite: true
 title: "Au fil de soie"
 corpusNum: 5
 excerpt: "Un maître emprisonné se libère grâce à des escargots portant des fils de soie qui se démultiplient."

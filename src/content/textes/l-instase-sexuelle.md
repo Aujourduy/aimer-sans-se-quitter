@@ -5,6 +5,7 @@ livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
+sexualite: true
 title: "L’instase sexuelle"
 corpusNum: 94
 excerpt: "L’instase, c’est quand l’univers s’est transporté à l’intérieur de soi."

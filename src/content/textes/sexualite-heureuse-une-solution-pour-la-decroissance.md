@@ -5,6 +5,7 @@ livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
+sexualite: false
 title: "Sexualité heureuse, une solution pour la décroissance"
 corpusNum: 223
 excerpt: "Le chemin d’une sexualité heureuse nous transforme et nous fait consommer moins."

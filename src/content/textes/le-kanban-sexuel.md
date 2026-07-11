@@ -5,6 +5,7 @@ livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
+sexualite: true
 title: "Le kanban sexuel"
 corpusNum: 145
 excerpt: "Plutôt que compenser un désir défaillant, éliminer les non-dits : la vérité comme premier aphrodisiaque."

@@ -5,6 +5,7 @@ livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
+sexualite: true
 title: "Travailler DANS vs POUR la sexualité sensible"
 corpusNum: 240
 excerpt: "Ne plus faire du business avec le message, mais se mettre au service du message lui-même."

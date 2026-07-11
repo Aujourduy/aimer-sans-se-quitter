@@ -5,6 +5,7 @@ livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
+sexualite: true
 title: "La sexualité sacrée ou Le sacré sexualisé"
 corpusNum: 123
 excerpt: "Ce n'est pas la sexualité qui devient sacrée : c'est le sacré, où l'on se place d'abord, qui se déploie dans la sexualité."

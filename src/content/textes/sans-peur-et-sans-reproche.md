@@ -5,6 +5,7 @@ livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
+sexualite: true
 title: "Sans peur & sans reproche"
 corpusNum: 221
 excerpt: "Une sexualité sensible, c’est 80% de l’être et 20% du faire."

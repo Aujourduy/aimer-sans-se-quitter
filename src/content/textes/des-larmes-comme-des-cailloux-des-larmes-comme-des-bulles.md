@@ -5,6 +5,7 @@ livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
+sexualite: true
 title: "Des larmes comme des cailloux, des larmes comme des bulles"
 corpusNum: 40
 excerpt: "Deux sortes de larmes après l’amour, selon qu’on a porté un masque ou ouvert le cœur."

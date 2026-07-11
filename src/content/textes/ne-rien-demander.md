@@ -5,6 +5,7 @@ livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
+sexualite: true
 title: "Ne rien demander"
 corpusNum: 188
 excerpt: "Tout est plus facile quand je ne demande rien à ma partenaire : ni soigner mes blessures, ni me rassurer, ni m'honorer."

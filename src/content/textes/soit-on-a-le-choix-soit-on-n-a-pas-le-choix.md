@@ -5,6 +5,7 @@ livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
+sexualite: false
 title: "Soit on a le choix soit on n'a pas le choix"
 corpusNum: 229
 excerpt: "Cesser d'en vouloir à l'autre qui n'avait pas le choix."

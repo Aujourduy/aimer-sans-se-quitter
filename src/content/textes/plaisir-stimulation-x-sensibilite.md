@@ -5,6 +5,7 @@ livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
+sexualite: true
 title: "Plaisir = Stimulation x Sensibilité"
 corpusNum: 202
 excerpt: "Le plaisir n'est pas que stimulation : développer sa sensibilité ouvre une autre voie vers l'intensité."

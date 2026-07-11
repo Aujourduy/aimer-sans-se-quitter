@@ -5,6 +5,7 @@ livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
+sexualite: false
 title: "On n’a pas besoin de s’aimer plus, il suffit de moins se juger"
 corpusNum: 191
 excerpt: "Rien à rajouter au titre : moins se juger ouvre déjà le chemin."

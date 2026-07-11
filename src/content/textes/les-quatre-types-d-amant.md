@@ -5,6 +5,7 @@ livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
+sexualite: true
 title: "Les quatre types d'amant"
 corpusNum: 174
 excerpt: "Aigle, moineau, coq, lapin : quatre altitudes d'amant, et comment aider un partenaire à voler plus haut."

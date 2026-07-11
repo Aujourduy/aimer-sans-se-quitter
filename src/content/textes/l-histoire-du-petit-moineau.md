@@ -5,6 +5,7 @@ livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
+sexualite: false
 title: "L’histoire du petit moineau"
 corpusNum: 90
 excerpt: "Vouloir sortir de la boue à tout prix, c’est risquer de se faire avaler."

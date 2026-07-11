@@ -5,6 +5,7 @@ livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
+sexualite: true
 title: "Une bonne ou mauvaise nouvelle"
 corpusNum: 245
 excerpt: "Notre esprit juge vite ; mais qui peut savoir si une chose est vraiment bonne ou mauvaise ?"

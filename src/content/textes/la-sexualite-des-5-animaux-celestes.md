@@ -5,6 +5,7 @@ livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
+sexualite: true
 title: "La sexualité des 5 animaux célestes"
 corpusNum: 122
 excerpt: "Dragon, Phénix, Licorne, Tigre et Tortue : cinq qualités d'être à inviter dans la sexualité selon la cosmologie chinoise."

@@ -5,6 +5,7 @@ livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
+sexualite: true
 title: "La millième mouette"
 corpusNum: 108
 excerpt: "On ne progresse que par la pratique, et par l’exploration des aspects qu’on n’avait pas encore tentés."

@@ -5,6 +5,7 @@ livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
+sexualite: true
 title: "Couple classique / couple quantique"
 corpusNum: 28
 excerpt: "Deux paradigmes de la relation amoureuse : le manque ou l’abondance, le confort ou la vérité."

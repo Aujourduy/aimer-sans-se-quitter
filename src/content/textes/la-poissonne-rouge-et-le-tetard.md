@@ -5,6 +5,7 @@ livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
+sexualite: false
 title: "La poissonne rouge et le têtard"
 corpusNum: 114
 excerpt: "On ne peut pas demander à un têtard de grandir dans l’eau où il est né."

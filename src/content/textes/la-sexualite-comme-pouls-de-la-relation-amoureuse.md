@@ -5,6 +5,7 @@ livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
+sexualite: true
 title: "La sexualité comme pouls de la relation amoureuse"
 corpusNum: 121
 excerpt: "La sexualité est rarement le problème ; elle révèle ce qui se joue ailleurs."

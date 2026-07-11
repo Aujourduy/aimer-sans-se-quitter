@@ -5,6 +5,7 @@ livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
+sexualite: false
 title: "Le manque et la présence de quelqu’un"
 corpusNum: 146
 excerpt: "Ce que j’appelle manque, c’est en réalité de la présence intérieure."

@@ -5,6 +5,7 @@ livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
+sexualite: false
 title: "Faire l’amour sans sexe"
 corpusNum: 58
 excerpt: "Faire l’amour sans masque, entièrement exposé, ouvert à l’autre."

@@ -5,6 +5,7 @@ livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
+sexualite: true
 title: "Kamasutra, de la position à la sensation"
 corpusNum: 81
 excerpt: "Le Kamasutra n'est pas une collection de postures acrobatiques mais une recherche subtile des sensations."

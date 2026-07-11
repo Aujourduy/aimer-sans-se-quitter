@@ -5,6 +5,7 @@ livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
+sexualite: true
 title: "Les images érotiques"
 corpusNum: 171
 excerpt: "Le toucher prime sur la vue : contre les canons de beauté véhiculés par les images érotiques, même 'en conscience'."

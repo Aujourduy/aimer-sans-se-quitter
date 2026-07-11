@@ -6,6 +6,7 @@ livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
+sexualite: false
 title: "J’ai cru que j’étais quitté, en fait j’étais aimé"
 corpusNum: 73
 excerpt: "Toutes ces fois où je me suis dit que j’étais quitté, en fait j’étais aimé."

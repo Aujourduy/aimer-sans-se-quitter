@@ -5,6 +5,7 @@ livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
+sexualite: true
 title: "Initiatrice vs Professeure"
 corpusNum: 70
 excerpt: "Guider son partenaire dans le sexe, c'est initier et non enseigner : lui laisser le temps d'y voir clair."

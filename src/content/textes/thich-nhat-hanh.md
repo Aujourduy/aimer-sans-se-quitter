@@ -5,6 +5,7 @@ livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
+sexualite: true
 title: "Thich Nhat Hanh"
 corpusNum: 236
 excerpt: "Des citations du maître zen relues comme autant d'invitations à une sexualité de présence et de pleine conscience."

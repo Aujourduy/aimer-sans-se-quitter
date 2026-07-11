@@ -5,6 +5,7 @@ livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
+sexualite: true
 title: "Les 4 fondamentaux pour faire évoluer votre sexualité"
 corpusNum: 164
 excerpt: "Confiance, écoute, communication, exploration : les quatre piliers d'une sexualité qui évolue en profondeur."

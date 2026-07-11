@@ -5,6 +5,7 @@ livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
+sexualite: false
 title: "Tout est une question de dosage"
 corpusNum: 239
 excerpt: "Je ne suis pas supérieur à l'autre, juste un autre dosage : juger l'autre, c'est le tuer en pensée."

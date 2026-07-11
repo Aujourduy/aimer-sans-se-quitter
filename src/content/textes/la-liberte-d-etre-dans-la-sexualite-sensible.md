@@ -5,6 +5,7 @@ livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
+sexualite: true
 title: "La liberté d'être dans la sexualité sensible"
 corpusNum: 106
 excerpt: "On parle peu de cette chose précieuse à offrir à l'aimé : la liberté d'être."

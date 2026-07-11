@@ -5,6 +5,7 @@ livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
+sexualite: true
 title: "Les 4 accords toltèques"
 corpusNum: 162
 excerpt: "Les quatre accords toltèques relus pour la relation : parole impeccable, sans supposition, sans prendre personnellement, faire de son mieux."

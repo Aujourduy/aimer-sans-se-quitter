@@ -5,6 +5,7 @@ livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
+sexualite: false
 title: "Pourquoi je ne parle pas de Tantra"
 corpusNum: 206
 excerpt: "On me demande si la Sexualité sensible est du Tantra : je prends des précautions pour répondre."

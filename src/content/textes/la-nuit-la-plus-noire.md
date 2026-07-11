@@ -5,6 +5,7 @@ livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
+sexualite: false
 title: "La nuit la plus noire"
 corpusNum: 111
 excerpt: "La nuit noire n'est peut-être qu'une lumière que mes yeux ne savent pas encore voir."

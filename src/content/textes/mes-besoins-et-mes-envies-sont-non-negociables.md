@@ -5,6 +5,7 @@ livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
+sexualite: true
 title: "Mes besoins et mes envies sont non négociables"
 corpusNum: 185
 excerpt: "Trouver d’abord ce que chacun veut, avant de chercher ce que le couple veut."

@@ -5,6 +5,7 @@ livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
+sexualite: true
 title: "Ma formule de la joie"
 corpusNum: 177
 excerpt: "Quelle que soit l’expérience, pour peu qu’on mette assez de clarté, on peut y trouver de la joie."

@@ -5,6 +5,7 @@ livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
+sexualite: false
 title: "Il n’y a rien à devenir"
 corpusNum: 65
 excerpt: "Tu es déjà qui tu veux être ; il n’y a rien à transformer, seulement à mieux exprimer."

@@ -5,6 +5,7 @@ livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
+sexualite: true
 title: "Les 7 voix de l’orgasme"
 corpusNum: 165
 excerpt: "Explorer la voix comme un membre à part entière de l’amour."

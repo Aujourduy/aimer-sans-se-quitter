@@ -5,6 +5,7 @@ livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
+sexualite: true
 title: "Pimenter sa relation"
 corpusNum: 201
 excerpt: "La sauce ne sauve pas un plat médiocre : pimenter n’a de sens que sur de bonnes bases."

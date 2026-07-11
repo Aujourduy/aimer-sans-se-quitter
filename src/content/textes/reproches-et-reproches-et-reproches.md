@@ -5,6 +5,7 @@ livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
+sexualite: false
 title: "Reproches & reproches & reproches"
 corpusNum: 219
 excerpt: "Moins il y a de reproches, et plus il y a de l’action."

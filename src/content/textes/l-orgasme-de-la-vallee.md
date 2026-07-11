@@ -5,6 +5,7 @@ livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
+sexualite: true
 title: "L’orgasme de la vallée"
 corpusNum: 95
 excerpt: "Deux corps immobiles, et l’amour qui passe par un fil de lumière."

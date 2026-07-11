@@ -5,6 +5,7 @@ livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
+sexualite: false
 title: "Le Pardon Suprême — au-delà du retour à soi d'avant"
 corpusNum: 148
 excerpt: "Pardon comme dépassement : joie nouvelle plus grande que l'originale"

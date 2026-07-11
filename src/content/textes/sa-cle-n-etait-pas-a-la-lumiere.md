@@ -5,6 +5,7 @@ livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
+sexualite: false
 title: "Sa clé n'était pas à la lumière"
 corpusNum: 220
 excerpt: "Amorce sur la fin qui justifie les moyens et la différence visio/présentiel."

@@ -5,6 +5,7 @@ livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
+sexualite: false
 title: "Docteur, j'ai mal partout"
 corpusNum: 44
 excerpt: "Un sketch de Devos sur le doigt cassé pour dire que le détecteur du bon et du mauvais s'abîme après de mauvaises relations."

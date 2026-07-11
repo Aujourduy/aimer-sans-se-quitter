@@ -5,6 +5,7 @@ livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
+sexualite: true
 title: "La parole du maître est souvent déformée par le peuple"
 corpusNum: 112
 excerpt: "Ce que nous croyons être connaissance n’est souvent que croyance remâchée."

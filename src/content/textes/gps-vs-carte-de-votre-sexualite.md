@@ -5,6 +5,7 @@ livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
+sexualite: false
 title: "GPS vs Carte de votre sexualité"
 corpusNum: 60
 excerpt: "Comme Uber n’existe que grâce au GPS, on suit une carte au lieu de vivre le présent."

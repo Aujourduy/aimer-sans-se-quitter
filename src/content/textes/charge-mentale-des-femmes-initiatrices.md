@@ -5,6 +5,7 @@ livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
+sexualite: false
 title: "Charge mentale des femmes initiatrices"
 corpusNum: 16
 excerpt: "Il n'y a charge mentale que faute de clarté ; quand le chemin est clair, faire grandir l'autre est une joie."

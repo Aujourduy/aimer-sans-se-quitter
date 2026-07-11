@@ -5,6 +5,7 @@ livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
+sexualite: true
 title: "3 façons de faire l'amour"
 corpusNum: 1
 excerpt: "Trois façons de faire l'amour : chercher la perfection, ne rien chercher, ou chercher à progresser."

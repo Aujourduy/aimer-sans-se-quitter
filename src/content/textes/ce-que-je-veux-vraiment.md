@@ -5,6 +5,7 @@ livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
+sexualite: true
 title: "Ce que je veux vraiment"
 corpusNum: 12
 excerpt: "La première erreur est de ne pas admettre nos besoins réels."

@@ -5,6 +5,7 @@ livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
+sexualite: true
 title: "Si tu te sens incompris : Grande ou petite cuillère ?"
 corpusNum: 227
 excerpt: "Se faire comprendre de sa partenaire demande d'adapter sa 'cuillère' : dose, rythme et quantité, comme on nourrit un bébé."

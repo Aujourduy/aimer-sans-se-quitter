@@ -5,6 +5,7 @@ livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
+sexualite: true
 title: "L’art est d’abord dans l’écoute"
 corpusNum: 86
 excerpt: "L’art ne s’apprend pas dans le faire mais dans l’écoute."

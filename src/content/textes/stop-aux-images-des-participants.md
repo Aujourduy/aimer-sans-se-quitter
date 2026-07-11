@@ -5,6 +5,7 @@ livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
+sexualite: true
 title: "Stop aux images des participants"
 corpusNum: 231
 excerpt: "Contre la pratique de photographier les participants dans des moments intimes de stage, au mépris de la confidentialité."

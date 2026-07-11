@@ -5,6 +5,7 @@ livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
+sexualite: false
 title: "C’est cacher qui rend vulnérable"
 corpusNum: 6
 excerpt: "Achille, Siegfried, et ce point faible qu’on protège : c’est en cachant sa vulnérabilité qu’on se rend vulnérable."

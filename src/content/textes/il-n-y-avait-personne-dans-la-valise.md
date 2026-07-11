@@ -5,6 +5,7 @@ livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
+sexualite: false
 title: "Il n’y avait personne dans la valise"
 corpusNum: 66
 excerpt: "Il n’y a personne dans la valise : seulement des blessures, des peurs, des traumatismes."

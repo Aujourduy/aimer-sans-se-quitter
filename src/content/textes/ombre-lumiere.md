@@ -5,6 +5,7 @@ livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
+sexualite: false
 title: "Ombre & Lumière"
 corpusNum: 190
 excerpt: "S'il y a une ombre, c'est qu'il y a assez de lumière pour la faire apparaître ; regarde dans l'autre direction."

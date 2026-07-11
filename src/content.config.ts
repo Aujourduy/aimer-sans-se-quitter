@@ -35,6 +35,10 @@ const textes = defineCollection({
     livreMetaphore: z.boolean().default(false),
     livreVersus: z.boolean().default(false),
     livreAimerSansDisparaitre: z.boolean().default(false),
+    // Marqueur « sexualité » : le texte traite explicitement de sexualité
+    // (acte, désir sexuel, plaisir, intimité physique — même en sous-thème).
+    // Base du futur parcours « sexualité authentique ».
+    sexualite: z.boolean().default(false),
     // Marqueur du « parcours de lecture » (chemin menant de la douleur à la
     // conversation exploratoire). Ce n'est pas un livre, mais un parcours.
     parcours: z.boolean().default(false),

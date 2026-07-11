@@ -82,6 +82,7 @@ const LIVRE_FLAGS = [
   { key: 'livreVersus', label: 'Versus' },
   { key: 'livreAimerSansDisparaitre', label: 'ASD' },
   { key: 'parcours', label: 'Parcours' },
+  { key: 'sexualite', label: 'Sexualité' },
 ];
 // Champs booléens autorisés au toggle (relecture + indicateurs de livre).
 const TOGGLEABLE = ['verifieParDuy', 'draft', ...LIVRE_FLAGS.map((f) => f.key)];

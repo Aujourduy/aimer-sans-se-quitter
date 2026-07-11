@@ -5,6 +5,7 @@ livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
+sexualite: true
 title: "Ne pas se forcer, ne pas se retenir"
 corpusNum: 187
 excerpt: "Se forcer à être bien ou se retenir d'être mal : dans les deux cas on s'éloigne de soi et on ment."

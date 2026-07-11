@@ -5,6 +5,7 @@ livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
+sexualite: false
 title: "Oser ma Vérité, Cultiver ma Liberté"
 corpusNum: 194
 excerpt: "Les problèmes viennent de ne pas assumer sa vérité ou de ne pas respecter sa liberté : difficile mais simple."

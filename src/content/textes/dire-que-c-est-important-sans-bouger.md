@@ -5,6 +5,7 @@ livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
+sexualite: false
 title: "Dire que c'est important sans bouger"
 corpusNum: 43
 excerpt: "Réflexion développée : si l'objectif est vrai, l'inaction crée colère et victimisation"

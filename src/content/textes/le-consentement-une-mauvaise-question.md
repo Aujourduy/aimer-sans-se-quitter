@@ -5,6 +5,7 @@ livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
+sexualite: true
 title: "Le consentement : une mauvaise question"
 corpusNum: 139
 excerpt: "Utiliser le mot consentement au lieu du mot désir, c’est déplacer le problème et éviter d’expliciter les choses."

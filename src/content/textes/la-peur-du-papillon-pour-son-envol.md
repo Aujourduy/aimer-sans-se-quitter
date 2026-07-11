@@ -5,6 +5,7 @@ livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
+sexualite: true
 title: "La peur du papillon pour son envol"
 corpusNum: 113
 excerpt: "Le papillon ne voit pas son décollage, il sent le sol se dérober."

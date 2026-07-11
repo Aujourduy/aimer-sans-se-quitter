@@ -5,6 +5,7 @@ livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
+sexualite: true
 title: "Sortir du Tantra et de la sexualité sacrée"
 corpusNum: 230
 excerpt: "Le Tantra est à la sexualité ce qu’une église est à Dieu : un moyen, jamais l’objectif."

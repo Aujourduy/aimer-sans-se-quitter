@@ -5,6 +5,7 @@ livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
+sexualite: true
 title: "Marre des relations bancales ?"
 corpusNum: 181
 excerpt: "L'histoire d'Aurélie, femme dévastée par des amants consommateurs, qui retrouve une sexualité respectée et nourrissante."

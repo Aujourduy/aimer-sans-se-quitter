@@ -5,6 +5,7 @@ livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
+sexualite: false
 title: "Simple, Efficace, Difficile"
 corpusNum: 228
 excerpt: "Jeûne, marche sur le feu, Vipassana : des pratiques simples et efficaces mais difficiles à faire sans accompagnement."

@@ -5,6 +5,7 @@ livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
+sexualite: true
 title: "Sexualité : quel endroit ?"
 corpusNum: 224
 excerpt: "D'où je pars vers l'autre importe plus que vers quel endroit je vais : la présence avant la carte du plaisir."

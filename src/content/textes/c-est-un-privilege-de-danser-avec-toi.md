@@ -5,6 +5,7 @@ livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
+sexualite: true
 title: "C’est un privilège de danser avec toi"
 corpusNum: 7
 excerpt: "La danse devient une écoute silencieuse, sans demande, où deux présences se rencontrent et s’abandonnent."

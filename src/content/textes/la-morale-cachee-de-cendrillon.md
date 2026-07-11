@@ -5,6 +5,7 @@ livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
+sexualite: false
 title: "La morale cachée de Cendrillon"
 corpusNum: 109
 excerpt: "Laisse tomber ton rôle de victime et enfile tes plus beaux habits de lumière."

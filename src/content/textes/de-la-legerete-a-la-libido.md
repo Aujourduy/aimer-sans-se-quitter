@@ -5,6 +5,7 @@ livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
+sexualite: true
 title: "De la légèreté à la libido"
 corpusNum: 35
 excerpt: "La propreté du corps avant l'amour : et si on soignait aussi la propreté de nos émotions ?"

@@ -5,6 +5,7 @@ livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
+sexualite: true
 title: "Initier n'est pas éduquer"
 corpusNum: 71
 excerpt: "Distinction originale : éduquer vs échouer, initier vs enseigner en sexualité"

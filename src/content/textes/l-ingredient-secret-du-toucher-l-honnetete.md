@@ -5,6 +5,7 @@ livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
+sexualite: true
 title: "L'ingrédient secret du toucher : l'honnêteté"
 corpusNum: 92
 excerpt: "Ce n'est pas l'honnêteté qui améliore le toucher, c'est le mensonge caché qui le tend et le détériore."

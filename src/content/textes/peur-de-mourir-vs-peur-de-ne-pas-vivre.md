@@ -5,6 +5,7 @@ livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
+sexualite: true
 title: "Peur de mourir vs peur de ne pas vivre"
 corpusNum: 200
 excerpt: "Ne pas lutter contre la peur de la mort, mais remplir la vie de ce qui compte."

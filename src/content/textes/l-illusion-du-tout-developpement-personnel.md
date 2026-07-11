@@ -5,6 +5,7 @@ livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
+sexualite: false
 title: "L'illusion du tout développement personnel"
 corpusNum: 91
 excerpt: "Pendant longtemps j'ai cru qu'il fallait..."

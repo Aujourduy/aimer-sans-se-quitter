@@ -5,6 +5,7 @@ livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
+sexualite: true
 title: "Les 3 distances de l'attraction sexuelle"
 corpusNum: 160
 excerpt: "Trois distances d'attraction — sociale, contact et pénétration — illustrées par une expérience vécue."

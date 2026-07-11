@@ -5,6 +5,7 @@ livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
+sexualite: true
 title: "Pour lutter contre les complexes"
 corpusNum: 203
 excerpt: "Plaire non au plus grand nombre, mais à une femme qui me plaît vraiment."

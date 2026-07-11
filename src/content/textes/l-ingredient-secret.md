@@ -5,6 +5,7 @@ livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
+sexualite: true
 title: "L'ingrédient secret"
 corpusNum: 93
 excerpt: "L'ingrédient secret d'une sexualité sacrée n'est rien de matériel : c'est l'état d'esprit qui voit l'autre et soi comme précieux."

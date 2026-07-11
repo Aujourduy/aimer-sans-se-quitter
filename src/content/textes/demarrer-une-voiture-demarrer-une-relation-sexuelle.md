@@ -5,6 +5,7 @@ livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
+sexualite: false
 title: "Démarrer une voiture, démarrer une relation sexuelle"
 corpusNum: 37
 excerpt: "Comme au permis, une relation sexuelle demande de passer en revue les vérifications avant de démarrer."

@@ -5,6 +5,7 @@ livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
+sexualite: true
 title: "Être libre d'être"
 corpusNum: 53
 excerpt: "Quatre mots pour définir la sexualité sensible : être libre de son imaginaire, de ses fantasmes, de ses désirs."

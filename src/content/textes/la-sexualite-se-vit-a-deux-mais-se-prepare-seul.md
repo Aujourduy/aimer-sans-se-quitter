@@ -5,6 +5,7 @@ livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
+sexualite: true
 title: "La sexualité se vit à deux mais se prépare seul"
 corpusNum: 124
 excerpt: "Comme un chœur ou un orchestre, la sexualité épanouie demande une préparation individuelle avant la rencontre."

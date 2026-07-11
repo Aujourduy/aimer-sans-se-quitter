@@ -5,6 +5,7 @@ livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
+sexualite: false
 title: "Une erreur que j’ai traînée longtemps"
 corpusNum: 247
 excerpt: "Vouloir être aimé pour qui l’on est sans jamais oser se montrer tel quel."

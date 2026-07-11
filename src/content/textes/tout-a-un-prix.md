@@ -5,6 +5,7 @@ livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
+sexualite: true
 title: "Tout a un prix"
 corpusNum: 238
 excerpt: "Le prix le plus cher fut celui du dépassement de soi, vers l’authenticité."

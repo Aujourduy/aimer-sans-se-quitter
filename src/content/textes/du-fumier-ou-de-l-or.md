@@ -5,6 +5,7 @@ livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
+sexualite: false
 title: "Du fumier ou de l’or"
 corpusNum: 47
 excerpt: "Le travail transforme le fumier en engrais pour voir fleurir des roses."

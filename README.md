@@ -558,6 +558,7 @@ les livres et le parcours de lecture. Un texte peut en porter **plusieurs**.
 | `livreVersus` | Versus | Paire contrastée « X vs Y » |
 | `livreMetaphore` | Métaphore | Image qui fait voir d'un coup, sans récit |
 | `parcours` | Parcours | Entre dans le chemin de lecture (douleur → conversation) |
+| `sexualite` | Sexualité | Le texte traite **explicitement** de sexualité (acte, désir sexuel, plaisir, intimité physique — même en sous-thème). Base du futur parcours « sexualité authentique ». |
 
 Ces marqueurs se cochent dans l'outil de relecture (filtres cumulables en ET).
 Ils sont la **source unique de vérité** des livres et du parcours : un livre ou
@@ -571,7 +572,9 @@ les tables des matières. Régénéré par une analyse du corps de chaque texte
 
 > Distinction clé : la `category` trie par **thème** (site public) ; les
 > marqueurs de livre trient par **forme** ; le `parcours` trie par **fonction**
-> dans une progression émotionnelle. Les trois sont indépendants.
+> dans une progression émotionnelle ; `sexualite` trie par **contenu** (la
+> sexualité est-elle explicitement présente ?). Tous sont indépendants et
+> cumulables.
 
 **Numéro de corpus et statuts éditoriaux du parcours.** À côté des marqueurs
 booléens, chaque texte porte des champs de **repérage et de préparation à la mise

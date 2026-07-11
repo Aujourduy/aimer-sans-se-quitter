@@ -5,6 +5,7 @@ livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
+sexualite: false
 title: "La vie avant le je — révélation par la danse"
 corpusNum: 129
 excerpt: "Expérience mystique : découverte de la vie qui se vit avant le moi"

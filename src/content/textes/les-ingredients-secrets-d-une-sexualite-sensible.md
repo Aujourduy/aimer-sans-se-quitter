@@ -5,6 +5,7 @@ livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
+sexualite: true
 title: "Les ingrédients secrets d'une sexualité sensible"
 corpusNum: 172
 excerpt: "Au-delà de l'attirance, deux ingrédients indispensables : la Vérité et la Liberté."

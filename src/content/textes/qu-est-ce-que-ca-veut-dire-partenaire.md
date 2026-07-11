@@ -5,6 +5,7 @@ livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
+sexualite: true
 title: "Qu’est-ce que ça veut dire partenaire ?"
 corpusNum: 212
 excerpt: "Partenaire signifie allié : non pas face à face, mais côte à côte vers la lumière."

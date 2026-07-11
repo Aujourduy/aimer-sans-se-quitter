@@ -5,6 +5,7 @@ livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
+sexualite: true
 title: "Merci de m’avoir quittée"
 corpusNum: 182
 excerpt: "Au final, j’aime plus ma vérité sans toi que mon confort avec toi."

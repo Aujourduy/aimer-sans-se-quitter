@@ -5,6 +5,7 @@ livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
+sexualite: false
 title: "Osez ceci, cessez cela : stop à l’impératif"
 corpusNum: 195
 excerpt: "Stop à l’impératif, aux injonctions, aux ordres ; ne rien forcer, ne rien retenir, juste s’écouter."

@@ -5,6 +5,7 @@ livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
+sexualite: false
 title: "Personne ne mérite d’être quitté"
 corpusNum: 199
 excerpt: "Je peux partir dans l’amour, le cœur ouvert, le ventre plein de gratitude."

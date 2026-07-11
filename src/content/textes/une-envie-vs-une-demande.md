@@ -5,6 +5,7 @@ livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
+sexualite: true
 title: "Une envie vs une demande"
 corpusNum: 246
 excerpt: "Une demande part d’un manque ; une envie part du neutre vers le positif."

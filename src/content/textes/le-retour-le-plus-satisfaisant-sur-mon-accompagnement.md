@@ -5,6 +5,7 @@ livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
+sexualite: true
 title: "Le retour le plus satisfaisant sur mon accompagnement"
 corpusNum: 153
 excerpt: "Une participante réalise qu'elle pourrait vivre heureuse sans sexualité — et sent que de belles explorations arrivent."

@@ -5,6 +5,7 @@ livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
+sexualite: true
 title: "Action ou vérité-s"
 corpusNum: 2
 excerpt: "On passe à l’action ou on se dit une vérité, jusqu’à ce que le désir revienne."

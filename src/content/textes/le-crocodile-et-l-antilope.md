@@ -5,6 +5,7 @@ livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
+sexualite: false
 title: "Le crocodile et l'antilope"
 corpusNum: 141
 excerpt: "Fable intemporelle sur blessures d'enfance et force méconnue de soi"

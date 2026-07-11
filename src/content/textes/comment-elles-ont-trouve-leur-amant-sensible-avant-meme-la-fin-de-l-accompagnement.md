@@ -5,6 +5,7 @@ livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
+sexualite: false
 title: "Comment elles ont trouvé leur amant sensible avant même la fin de l'accompagnement"
 corpusNum: 20
 excerpt: "Elles trouvent leur amant sensible en devenant d'abord elles-mêmes des amantes sensibles."

@@ -5,6 +5,7 @@ livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
+sexualite: true
 title: "Qui ne comprend pas qui ?"
 corpusNum: 217
 excerpt: "Le vrai enjeu n'est pas le manque de communication mais la pédagogie pour faire comprendre son plaisir à l'autre."

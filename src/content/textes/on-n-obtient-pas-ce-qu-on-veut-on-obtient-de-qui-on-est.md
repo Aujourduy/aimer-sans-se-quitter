@@ -5,6 +5,7 @@ livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
+sexualite: true
 title: "On n’obtient pas ce qu’on veut, on obtient de qui on est"
 corpusNum: 192
 excerpt: "On n’obtient pas quelque chose parce qu’on le veut, mais parce que c’est l’expression de qui on est."

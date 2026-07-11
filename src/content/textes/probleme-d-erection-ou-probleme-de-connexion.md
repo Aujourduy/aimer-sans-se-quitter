@@ -5,6 +5,7 @@ livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
+sexualite: true
 title: "Problème d’érection ou problème de connexion"
 corpusNum: 210
 excerpt: "Le pénis comme mesureur d'authenticité : l'érection suit la vérité de la connexion, pas la performance."

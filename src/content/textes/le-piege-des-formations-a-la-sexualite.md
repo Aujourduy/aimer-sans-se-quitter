@@ -5,6 +5,7 @@ livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
+sexualite: true
 title: "Le piège des formations à la sexualité"
 corpusNum: 151
 excerpt: "Savoir faire ne suffit pas : accompagner un partenaire débutant demande des outils pédagogiques."

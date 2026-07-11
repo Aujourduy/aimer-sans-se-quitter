@@ -5,6 +5,7 @@ livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
+sexualite: true
 title: "La mélancolie après l’amour"
 corpusNum: 107
 excerpt: "Deux mélancolies après le sexe : celle des petits cailloux, celle des bulles."

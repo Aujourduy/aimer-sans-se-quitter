@@ -5,6 +5,7 @@ livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
+sexualite: true
 title: "Il n'y a pas d'insatisfaction sexuelle"
 corpusNum: 63
 excerpt: "L'insatisfaction sexuelle n'est qu'un indicateur de son insatisfaction de vie : on souffre d'avoir trop peu donné, pas trop peu reçu."

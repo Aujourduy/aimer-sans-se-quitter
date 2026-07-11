@@ -5,6 +5,7 @@ livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
+sexualite: true
 title: "La vision profonde : boire le nuage dans la tasse"
 corpusNum: 132
 excerpt: "Dans une tasse de thé, l’eau fut nuage, rivière, soleil ; ainsi l’être aimé porte une histoire immense."

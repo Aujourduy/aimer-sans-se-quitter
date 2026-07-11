@@ -5,6 +5,7 @@ livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
+sexualite: false
 title: "Conseils pour célibataire : comment rencontrer la bonne personne"
 corpusNum: 27
 excerpt: "Partager ses fondamentaux avant toute relation aide l'autre à trouver la bonne personne pour lui."

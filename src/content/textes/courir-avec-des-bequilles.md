@@ -5,6 +5,7 @@ livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
+sexualite: false
 title: "Courir avec des béquilles"
 corpusNum: 29
 excerpt: "Ce qui nous a aidé un jour devient notre entrave si on le garde toujours."

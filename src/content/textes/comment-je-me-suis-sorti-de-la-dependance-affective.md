@@ -5,6 +5,7 @@ livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
+sexualite: false
 title: "Comment je me suis sorti de la dépendance affective"
 corpusNum: 23
 excerpt: "L’émotion n’est pas déclenchée par aujourd’hui mais par toutes les blessures accumulées depuis des années."

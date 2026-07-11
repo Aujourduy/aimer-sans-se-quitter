@@ -5,6 +5,7 @@ livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
+sexualite: true
 title: "La fin n’est pas le moyen"
 corpusNum: 101
 excerpt: "On ne gagne pas la tranquillité en réduisant l’activité ; c’est l’apaisement qui espace les besoins."

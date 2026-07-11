@@ -5,6 +5,7 @@ livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
+sexualite: true
 title: "Je n'ai pas d'âme… Je suis l'âme"
 corpusNum: 75
 excerpt: "Selon qu'on se pense âme dans un corps ou corps dans une âme, la connexion sexuelle change du tout au tout."

@@ -5,6 +5,7 @@ livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
+sexualite: true
 title: "Il n’y a pas de sexualité épanouie"
 corpusNum: 64
 excerpt: "Il y a des personnes épanouies dans leur sexualité ; le reste n’est qu’un mot."

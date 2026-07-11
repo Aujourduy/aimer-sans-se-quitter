@@ -5,6 +5,7 @@ livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
+sexualite: true
 title: "Feu de paille vs Feu de braise"
 corpusNum: 59
 excerpt: "Déconstruire l'imaginaire du coup de foudre fougueux vu au cinéma face à la réalité sexuelle."

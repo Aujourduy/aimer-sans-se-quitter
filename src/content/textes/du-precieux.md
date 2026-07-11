@@ -5,6 +5,7 @@ livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
+sexualite: true
 title: "Du précieux"
 corpusNum: 48
 excerpt: "Caresser en étant connecté au précieux du corps de l'autre rend la partenaire vivante plutôt que seulement excitée."

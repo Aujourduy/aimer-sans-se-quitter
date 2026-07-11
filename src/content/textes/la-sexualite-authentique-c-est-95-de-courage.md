@@ -5,6 +5,7 @@ livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
+sexualite: true
 title: "La sexualité authentique, c'est 95 % de courage"
 corpusNum: 120
 excerpt: "Distinction être/faire dans la sexualité, développée et intemporelle"

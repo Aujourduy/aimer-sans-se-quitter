@@ -5,6 +5,7 @@ livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
+sexualite: true
 title: "Le tigre et le masque"
 corpusNum: 159
 excerpt: "Jeter le sel, c’est porter le masque d’un autre moi ; derrière, il n’y a pas de tigre."

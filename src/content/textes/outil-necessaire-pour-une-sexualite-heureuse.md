@@ -5,6 +5,7 @@ livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
+sexualite: true
 title: "Outil nécessaire pour une sexualité heureuse"
 corpusNum: 196
 excerpt: "La sexualité cristallise peurs et traumas : il faut un outil de transmutation qui change les crises en révélations."

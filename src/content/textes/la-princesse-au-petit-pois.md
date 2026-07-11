@@ -5,6 +5,7 @@ livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
+sexualite: true
 title: "La princesse au petit pois"
 corpusNum: 115
 excerpt: "Le petit pois sous mes matelas, c’était le masque que je portais."

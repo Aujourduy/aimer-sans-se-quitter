@@ -5,6 +5,7 @@ livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
+sexualite: false
 title: "Les 3 niveaux du conflit ou plus jamais de conflit"
 corpusNum: 161
 excerpt: "Un pommier, deux pommiers, deux étages : trois images pour dissoudre tout conflit."

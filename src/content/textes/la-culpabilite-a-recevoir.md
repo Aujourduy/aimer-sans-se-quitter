@@ -5,6 +5,7 @@ livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
+sexualite: true
 title: "La culpabilité à recevoir"
 corpusNum: 96
 excerpt: "Recevoir sans dette : il n’y a pas d’échange, seulement des dons."

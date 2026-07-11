@@ -5,6 +5,7 @@ livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
+sexualite: true
 title: "Le Roi vs le Prince"
 corpusNum: 154
 excerpt: "Le prince combat pour prouver sa valeur ; le roi règne pour la paix."

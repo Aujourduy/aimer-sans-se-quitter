@@ -5,6 +5,7 @@ livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
+sexualite: false
 title: "La simplicité renversante de mon approche de la sexualité"
 corpusNum: 128
 excerpt: "Amorce d'un texte sur une approche simple de la sexualité, interrompue après « Quand tu vas »."

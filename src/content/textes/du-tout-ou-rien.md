@@ -5,6 +5,7 @@ livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
+sexualite: false
 title: "Du tout ou rien"
 corpusNum: 50
 excerpt: "Se dévoiler dès la première rencontre : soit ça matche en turbo, soit on s'évite déceptions et reproches."

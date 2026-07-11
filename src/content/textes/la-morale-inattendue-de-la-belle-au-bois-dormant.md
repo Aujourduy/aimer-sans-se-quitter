@@ -5,6 +5,7 @@ livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
+sexualite: true
 title: "La morale inattendue de la Belle au bois dormant"
 corpusNum: 110
 excerpt: "Réveiller l’autre de son endormissement demande le courage et la détermination du prince."

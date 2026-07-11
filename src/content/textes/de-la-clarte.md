@@ -5,6 +5,7 @@ livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
+sexualite: false
 title: "De la clarté"
 corpusNum: 32
 excerpt: "Au lieu de chercher une solution, mieux vaut d’abord chercher à y voir plus clair."

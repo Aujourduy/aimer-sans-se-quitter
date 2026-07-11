@@ -5,6 +5,7 @@ livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
+sexualite: false
 title: "Quand je fais toujours la même chose"
 corpusNum: 214
 excerpt: "Pour des résultats différents, il faut oser l'authenticité totale, même au prix d'un long célibat."

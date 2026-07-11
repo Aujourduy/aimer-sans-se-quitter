@@ -5,6 +5,7 @@ livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
+sexualite: false
 title: "Je t’aime et je te quitte"
 corpusNum: 79
 excerpt: "Aimer n’est pas une bonne raison de rester ; le bon critère, c’est d’être plus heureux."

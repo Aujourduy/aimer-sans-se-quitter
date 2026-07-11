@@ -5,6 +5,7 @@ livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
+sexualite: true
 title: "Mère Teresa et les lépreux"
 corpusNum: 183
 excerpt: "Accepter le dégoût pour rester présent, privilégier le contact plutôt que de fuir le désagrément."

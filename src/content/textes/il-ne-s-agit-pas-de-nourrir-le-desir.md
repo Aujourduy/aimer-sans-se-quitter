@@ -5,6 +5,7 @@ livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
+sexualite: true
 title: "Il ne s’agit pas de nourrir le désir"
 corpusNum: 67
 excerpt: "Le désir est déjà grand : il faut lui ôter les entraves, pas le nourrir. S'aimer soi suffit."

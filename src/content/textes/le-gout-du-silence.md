@@ -5,6 +5,7 @@ livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
+sexualite: true
 title: "Le goût du silence"
 corpusNum: 143
 excerpt: "Le silence après une belle rencontre n’est pas vide : il est dense."

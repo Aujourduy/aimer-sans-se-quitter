@@ -5,6 +5,7 @@ livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
+sexualite: true
 title: "Les 4 dimensions de l’être"
 corpusNum: 163
 excerpt: "La sexualité n'est pas le corps : c'est une dimension à part entière, liée à la vie et à la lignée."

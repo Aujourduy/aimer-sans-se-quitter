@@ -5,6 +5,7 @@ livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
+sexualite: false
 title: "Quand on est affamé, on a les yeux plus gros que le ventre"
 corpusNum: 215
 excerpt: "Après une longue privation d'un besoin, on l'exagère et on a alors plus de mal à le satisfaire."

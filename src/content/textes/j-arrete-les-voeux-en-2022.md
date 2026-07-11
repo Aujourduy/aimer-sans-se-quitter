@@ -5,6 +5,7 @@ livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
+sexualite: false
 title: "J'arrête les voeux en 2022"
 corpusNum: 74
 excerpt: "À la place des vœux, un rappel : accueillir et partager notre vérité intérieure, la peur d'abord."

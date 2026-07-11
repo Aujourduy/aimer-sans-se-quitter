@@ -5,6 +5,7 @@ livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
+sexualite: true
 title: "Du sexe au cœur comme de la bouche au ventre"
 corpusNum: 49
 excerpt: "La bouche et le sexe crient leur besoin ; le cœur et le ventre murmurent leur plénitude."

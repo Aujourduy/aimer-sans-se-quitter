@@ -5,6 +5,7 @@ livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
+sexualite: false
 title: "Es-tu certaine de vouloir un prince charmant ?"
 corpusNum: 51
 excerpt: "Chaque femme est déjà une Reine ; elle n’a pas besoin d’un prince pour exister."

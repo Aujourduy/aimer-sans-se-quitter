@@ -5,6 +5,7 @@ livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
+sexualite: true
 title: "Pour un toucher exceptionnel : le recevoir"
 corpusNum: 205
 excerpt: "Un toucher qui n'est ni caresse ni massage : accueillir l'autre, lui donner une place en soi."

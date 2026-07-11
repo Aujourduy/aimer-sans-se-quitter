@@ -5,6 +5,7 @@ livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
+sexualite: true
 title: "Vérité et réconciliation"
 corpusNum: 249
 excerpt: "La clé, c’est la vérité : se montrer victime ou bourreau pour retrouver sa dignité."

@@ -5,6 +5,7 @@ livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
+sexualite: true
 title: "Donner est plus nourrissant que recevoir"
 corpusNum: 46
 excerpt: "Renversement court mais développé sur l'amour et la sexualité, intemporel"

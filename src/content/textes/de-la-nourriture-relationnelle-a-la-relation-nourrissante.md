@@ -5,6 +5,7 @@ livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
+sexualite: false
 title: "De la nourriture relationnelle à la relation nourrissante"
 corpusNum: 36
 excerpt: "Un aliment nourrissant nous apporte ce dont nous avons besoin pour être mieux."

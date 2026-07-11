@@ -5,6 +5,7 @@ livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
+sexualite: true
 title: "Ils auraient pu, peut-être, sauver leur couple"
 corpusNum: 69
 excerpt: "L'insatisfaction sexuelle n'est pas la cause mais le symptôme d'un couple déjà en danger."

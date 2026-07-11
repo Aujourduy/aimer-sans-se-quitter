@@ -5,6 +5,7 @@ livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
+sexualite: true
 title: "Ma révolution"
 corpusNum: 180
 excerpt: "Le jour où j'ai décidé de ne vivre qu'une sexualité authentique, quitte à y renoncer entièrement."

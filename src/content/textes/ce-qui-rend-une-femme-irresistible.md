@@ -5,6 +5,7 @@ livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
+sexualite: true
 title: "Ce qui rend une femme irrésistible"
 corpusNum: 13
 excerpt: "Le désir intérieur visible sur le visage : présence vs apparence physique"

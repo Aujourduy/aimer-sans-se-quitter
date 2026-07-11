@@ -5,6 +5,7 @@ livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
+sexualite: true
 title: "La destination dans l'amour"
 corpusNum: 98
 excerpt: "Idée développée : présence comme objectif, faire l'amour dans le Vrai"

@@ -5,6 +5,7 @@ livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
+sexualite: false
 title: "Le pardon suprême — quand le dernier 1 % libère tout"
 corpusNum: 149
 excerpt: "Processus de pardon profond, métaphore caillou/grain de sable, intemporel"

@@ -5,6 +5,7 @@ livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
+sexualite: false
 title: "Ce que je n’ai pas fait"
 corpusNum: 11
 excerpt: "Assumer ce qu’on n’a pas osé dire ou faire : oser sa vérité, cultiver sa liberté."

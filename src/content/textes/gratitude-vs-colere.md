@@ -5,6 +5,7 @@ livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
+sexualite: true
 title: "Gratitude vs colère"
 corpusNum: 61
 excerpt: "La colère naît quand je crois qu’on me doit quelque chose ; voilà comment je suis passé de la colère à la gratitude."

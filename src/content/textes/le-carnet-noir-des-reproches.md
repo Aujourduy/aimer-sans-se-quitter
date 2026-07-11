@@ -5,6 +5,7 @@ livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
+sexualite: true
 title: "Le carnet noir des reproches"
 corpusNum: 135
 excerpt: "Ce qui ne s’exprime pas s’imprime dans le carnet noir, et s’exprime quand même plus tard."

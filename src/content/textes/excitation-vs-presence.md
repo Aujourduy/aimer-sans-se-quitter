@@ -5,6 +5,7 @@ livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
+sexualite: true
 title: "Excitation vs présence"
 corpusNum: 54
 excerpt: "On cherche l’excitation, le plaisir, parce qu’on oublie l’essentiel : la présence."

@@ -5,6 +5,7 @@ livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
+sexualite: false
 title: "Célibataires : Où avez-vous mis votre attention ?"
 corpusNum: 14
 excerpt: "Ce qui compte n'est pas le poisson visé mais l'appât que vous êtes : cessez de vous tordre aux attentes."

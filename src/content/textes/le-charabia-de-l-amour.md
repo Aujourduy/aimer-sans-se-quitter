@@ -5,6 +5,7 @@ livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
+sexualite: true
 title: "Le charabia de l’amour"
 corpusNum: 136
 excerpt: "Exprimer ce qu’on ressent sans les mots, par des sons qui en disent long."

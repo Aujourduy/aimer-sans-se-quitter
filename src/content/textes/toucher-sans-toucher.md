@@ -5,6 +5,7 @@ livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
+sexualite: true
 title: "Toucher sans toucher"
 corpusNum: 237
 excerpt: "Le toucher passif et l'écoute du corps : ressentir le contact et la sensualité avant même de se toucher."

@@ -5,6 +5,7 @@ livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
+sexualite: true
 title: "La Reine vs la Princesse"
 corpusNum: 118
 excerpt: "La Princesse se veut belle pour plaire ; la Reine n’a plus besoin d’être aimée pour se sentir bien."

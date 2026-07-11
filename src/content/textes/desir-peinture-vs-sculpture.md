@@ -5,6 +5,7 @@ livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
+sexualite: true
 title: "Désir peinture vs sculpture"
 corpusNum: 42
 excerpt: "On ne peut pas embellir un cœur : on peut seulement enlever les couches qui le cachent."

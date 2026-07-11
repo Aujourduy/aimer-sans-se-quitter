@@ -5,6 +5,7 @@ livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
+sexualite: true
 title: "Le piège à guêpe"
 corpusNum: 150
 excerpt: "Parfois la solution est là où la douleur est la plus intense."

@@ -5,6 +5,7 @@ livreAnalyseConte: false
 livreMetaphore: false
 livreVersus: false
 livreAimerSansDisparaitre: false
+sexualite: false
 title: "Qui se ressemble s'assemble"
 corpusNum: 218
 excerpt: "Des personnes demandent à leur partenaire ce qu'elles ne savent pas s'offrir à elles-mêmes."
