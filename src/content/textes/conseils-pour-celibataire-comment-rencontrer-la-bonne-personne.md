@@ -56,5 +56,3 @@ D’accord, c’est plus facile à dire qu’à faire. Je le sais, parce que les
 Evidemment pour effectuer une telle démarche, il faut un travail au préalable sur mes peurs de rejet, peur d’abandon, mes besoins affectifs. La bonne nouvelle c’est que c’est tout à fait possible.
 
 Cherchez et vous trouverez votre cheminement pour une telle démarche. 
-
-A ce qu’on dit, quand le disciple est prêt, le maître apparaît. Je ne suis pas un maître mais je propose un stage. Alors peut être que quand le participant est prêt, le stage apparaît.

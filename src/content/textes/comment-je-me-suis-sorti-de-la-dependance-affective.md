@@ -24,5 +24,3 @@ Il y a encore eu un concours de circonstances qui m’a placé dans une émotion
 En réalité, c’est disproportionné par rapport à l’événement présent mais ce qui se passe c’est que l’émotion n’est pas déclenchée par ce qui se passe aujourd’hui mais par l’accumulation de toutes les blessures accumulées depuis des années. Toutes les fois où on s’est retrouvé dans une situation analogue, avec le même sentiment. Ce sont toutes les douleurs passées qui reviennent d’un coup.
 
 Cette nuit-là, j’ai eu l’intuition d’un processus combinant une méditation que j’avais vue le jour même et un protocole de thérapie brève que j’avais étudié dix ans auparavant. En pratiquant cette méthode, j’ai écouté deux fois l’album de best of de Whitney Houston. La première fois, j’ai pleuré toutes les larmes de mon corps de chagrin, de désespoir, de solitude.  La deuxième fois, j’ai encore pleuré toutes les larmes de mon corps mais de gratitude envers la vie.
-
-Ce processus sera l’une des étapes de notre voyage de la journée de stage.

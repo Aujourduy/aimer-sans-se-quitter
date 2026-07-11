@@ -311,8 +311,6 @@ Je vous invite à faire cet auto diagnostic de ce que vous désirez pour votre s
 
 Alors est-ce que vous voulez seulement X ou en réalité ce que vous voulez, et méritez, c’est X,Y,Z,A,B,C et D ?
 
-Et sur les qualités LIPSS (léger, intime, puissance, sauvage et subtil) avez-vous déterminé où vous êtes et à quel degré vous avez envie de vibrer lorsque vous faites l’amour ?
-
 ---
 
 ## 13. Ce qui rend une femme irrésistible
@@ -615,13 +613,11 @@ En réalité, c’est disproportionné par rapport à l’événement présent m
 
 Cette nuit-là, j’ai eu l’intuition d’un processus combinant une méditation que j’avais vue le jour même et un protocole de thérapie brève que j’avais étudié dix ans auparavant. En pratiquant cette méthode, j’ai écouté deux fois l’album de best of de Whitney Houston. La première fois, j’ai pleuré toutes les larmes de mon corps de chagrin, de désespoir, de solitude.  La deuxième fois, j’ai encore pleuré toutes les larmes de mon corps mais de gratitude envers la vie.
 
-Ce processus sera l’une des étapes de notre voyage de la journée de stage.
-
 ---
 
 ## 24. Comment l’histoire de sa vie se retourne en 10 minutes
 
-Hier, j’ai eu une cliente en coaching business. C’est une cheffe d’entreprise que j’avais accompagnée il y a 5 ans. Même si j’ai arrêté le coaching perso et pro ces dernières années pour me concentrer sur mon activité de Révélateur d’Amants Sensibles, j’ai accepté de l’accompagner dans cette période de grande transition pour elle.
+Hier, j’ai eu une cliente en coaching business. C’est une cheffe d’entreprise que j’avais accompagnée il y a 5 ans. Même si j’ai arrêté le coaching perso et pro ces dernières années, j’ai accepté de l’accompagner dans cette période de grande transition pour elle.
 
 Elle a une équipe de 4 personnes et beaucoup de mal à assumer son rôle de cheffe d’entreprise.
 
@@ -761,9 +757,7 @@ D’accord, c’est plus facile à dire qu’à faire. Je le sais, parce que les
 
 Evidemment pour effectuer une telle démarche, il faut un travail au préalable sur mes peurs de rejet, peur d’abandon, mes besoins affectifs. La bonne nouvelle c’est que c’est tout à fait possible.
 
-Cherchez et vous trouverez votre cheminement pour une telle démarche. 
-
-A ce qu’on dit, quand le disciple est prêt, le maître apparaît. Je ne suis pas un maître mais je propose un stage. Alors peut être que quand le participant est prêt, le stage apparaît.
+Cherchez et vous trouverez votre cheminement pour une telle démarche.
 
 ---
 
@@ -5281,7 +5275,7 @@ Un moine zen, en pèlerinage, s’arrête dans un tout petit temple pour la nuit
 
 C’est très bien les stages de Tantra pour découvrir de nouvelles dimensions dans la sexualité. Pour certains, moi le premier, c’est une grande étape. Mais qu’une étape. C’est très bien de vouloir une “sexualité sacrée”. Mais un moment, toutes ces images s’arrêtent naturellement. Il ne faut pas rester enfermé dans les concepts et les pratiques. Je suis toujours gêné par les termes “sexualité tantrique”, “amant tantrique”, “sexualité sacrée” et autres expressions très poétiques, donc très attrayantes, parce que la beauté de ces mots risque de focaliser notre attention sur des moyens, les églises, plutôt que sur l’objectif, Dieu.
 
-Pour que ce soit vraiment clair. Je ne suis pas contre le Tantra, la sexualité sacrée, la sexualité tantrique. Je suis pour à deux cents pour cent. Je vous invite, si vous sentez l’appel, à faire des stages et des formations en Tantra. D’ailleurs, dans les formations que je propose, il y a quelques pratiques fondamentales que j’ai apprises dans ma formation en tantra. Sortir de l’idée du tantra, sortir de l’idéalisation du tantra, sortir de la mythologie pour mieux entrer dans ce qui vous touche sans y mettre des étiquettes.
+Pour que ce soit vraiment clair. Je ne suis pas contre le Tantra, la sexualité sacrée, la sexualité tantrique. Je suis pour à deux cents pour cent. Je vous invite, si vous sentez l’appel, à faire des stages et des formations en Tantra. Sortir de l’idée du tantra, sortir de l’idéalisation du tantra, sortir de la mythologie pour mieux entrer dans ce qui vous touche sans y mettre des étiquettes.
 
 Plus on valorise un concept, une expression, un idéal, moins on regarde ce qu’est la réalité et moins on voit l’immensité, la complexité de l’être.
 

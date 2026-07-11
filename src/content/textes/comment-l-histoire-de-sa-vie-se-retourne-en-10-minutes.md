@@ -16,12 +16,12 @@ order: 46
 draft: false
 draftReason: "accord + anonymat cliente requis"
 parcours: true
-statutParcours: "NETTOYAGE"
+statutParcours: "PRET"
 parcoursBloc: 1
 parcoursSegment: "colonne"
 ---
 
-Hier, j’ai eu une cliente en coaching business. C’est une cheffe d’entreprise que j’avais accompagnée il y a 5 ans. Même si j’ai arrêté le coaching perso et pro ces dernières années pour me concentrer sur mon activité de Révélateur d’Amants Sensibles, j’ai accepté de l’accompagner dans cette période de grande transition pour elle.
+Hier, j’ai eu une cliente en coaching business. C’est une cheffe d’entreprise que j’avais accompagnée il y a 5 ans. Même si j’ai arrêté le coaching perso et pro ces dernières années, j’ai accepté de l’accompagner dans cette période de grande transition pour elle.
 
 Elle a une équipe de 4 personnes et beaucoup de mal à assumer son rôle de cheffe d’entreprise.
 
