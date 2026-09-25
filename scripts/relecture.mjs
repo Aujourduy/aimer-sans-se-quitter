@@ -517,6 +517,15 @@ function pageHtml() {
   .b-livre-btn.on-livre{background:var(--bleu);color:#fff;border-color:var(--bleu);}
   .b-statut-btn{font-size:.72rem;padding:.3rem .6rem;border-radius:1rem;cursor:pointer;border:1px solid var(--filet);background:#fff;color:var(--sepia);}
   .b-statut-btn.on-statut{background:var(--ocre);color:#fff;border-color:var(--ocre);}
+  /* Pendant l'édition (titre ou corps) : statut, marqueurs de livre et validé/brouillon
+     ne sont plus modifiables — ils relancent le rendu de la page et feraient perdre la saisie.
+     Les boutons « ✎ » de la 1re rangée restent actifs (ils ne re-rendent pas la page). */
+  .app.editing .statut-actions,
+  .app.editing .livre-actions,
+  .app.editing .actions button.lockable{opacity:.45;pointer-events:none;}
+  .app.editing .statut-actions .b-statut-btn,
+  .app.editing .livre-actions .b-livre-btn,
+  .app.editing .actions button.lockable{cursor:default;background:#efe9df;color:var(--sepia);border-color:var(--filet);}
   .main h2.read-title{font-family:Georgia,serif;color:var(--bleu);font-size:1.8rem;margin:.2rem 0 1rem;}
   .actions{display:flex;gap:.6rem;margin-bottom:1.5rem;flex-wrap:wrap;}
   .actions button{font-size:.85rem;padding:.45rem .8rem;border-radius:.4rem;cursor:pointer;border:1px solid var(--filet);background:#fff;color:var(--encre);}
@@ -793,11 +802,12 @@ async function open_(slug){
     statutBtns+='<button class="b-statut-btn'+(t.statutParcours===s?' on-statut':'')+'" onclick="setStatut(\\''+slug+'\\',\\''+s+'\\')">'+s+'</button>';
   }
   document.querySelector('.app').classList.add('reading');
+  document.querySelector('.app').classList.remove('editing'); // sortie d'édition (save/annuler repassent par open_)
   window.scrollTo(0,0);
   $('#main').innerHTML='<button class="back" onclick="backToList()">‹ Liste</button>'
     +'<div class="actions">'
-    +'<button class="'+(t.verifieParDuy?'on-ok':'')+'" onclick="toggle(\\''+slug+'\\',\\'verifieParDuy\\')">'+(t.verifieParDuy?'✓ Validé':'◯ Marquer validé')+'</button>'
-    +'<button class="'+(t.draft?'on-draft':'')+'" onclick="toggle(\\''+slug+'\\',\\'draft\\')">'+(t.draft?'brouillon → publier':'publié → brouillon')+'</button>'
+    +'<button class="lockable '+(t.verifieParDuy?'on-ok':'')+'" onclick="toggle(\\''+slug+'\\',\\'verifieParDuy\\')">'+(t.verifieParDuy?'✓ Validé':'◯ Marquer validé')+'</button>'
+    +'<button class="lockable '+(t.draft?'on-draft':'')+'" onclick="toggle(\\''+slug+'\\',\\'draft\\')">'+(t.draft?'brouillon → publier':'publié → brouillon')+'</button>'
     +'<button class="edit-btn" onclick="titreStart(\\''+slug+'\\')">✎ Titre</button>'
     +'<button class="edit-btn" onclick="editStart(\\''+slug+'\\')">✎ Modifier le texte</button>'
     +'</div>'
@@ -807,8 +817,17 @@ async function open_(slug){
 }
 
 // --- Édition du TITRE -------------------------------------------------------
+// Grise et désactive, pendant une édition, tous les boutons qui réécrivent le .md
+// et relancent open_() : statut éditorial, marqueurs de livre, validé/brouillon.
+// Les boutons « ✎ » ne sont PAS verrouillés (ils ne re-rendent pas la page).
+function lockActions(){
+  document.querySelector('.app').classList.add('editing');
+  document.querySelectorAll('.statut-actions .b-statut-btn, .livre-actions .b-livre-btn, .actions button.lockable')
+    .forEach(b=>{ b.disabled=true; });
+}
 function titreStart(slug){
   const h=$('#read-title'); if(!h) return;
+  lockActions();
   h.innerHTML='<input id="titre-input" class="titre-input" type="text">'
     +'<span class="edit-actions" style="display:flex;gap:.6rem;align-items:center;margin-top:.6rem">'
     +'<button class="save-btn" onclick="titreSave(\\''+slug+'\\')">Enregistrer</button>'
@@ -833,6 +852,7 @@ async function titreSave(slug){
 // --- Édition du corps -------------------------------------------------------
 function editStart(slug){
   const prose=$('#prose'); if(!prose) return;
+  lockActions();
   prose.innerHTML='<textarea id="editor" class="editor" spellcheck="true"></textarea>'
     +'<div class="edit-actions">'
     +'<button class="save-btn" onclick="editSave(\\''+slug+'\\')">Enregistrer</button>'
@@ -843,6 +863,11 @@ function editStart(slug){
   // hauteur auto-ajustée au contenu
   ta.style.height='auto'; ta.style.height=Math.max(300,ta.scrollHeight+20)+'px';
   ta.focus();
+  // Curseur au DÉBUT du texte (focus() seul le place en fin), et on remonte la vue
+  // sur le haut de l'éditeur — sans quoi le curseur est en haut mais l'écran en bas.
+  ta.setSelectionRange(0,0);
+  ta.scrollTop=0;
+  ta.scrollIntoView({block:'start'});
 }
 async function editSave(slug){
   const ta=$('#editor'); if(!ta) return;
@@ -887,7 +912,7 @@ function syncFilterButtons(){
     b.classList.toggle('active',on);
   });
 }
-function backToList(){ document.querySelector('.app').classList.remove('reading'); window.scrollTo(0,0); }
+function backToList(){ document.querySelector('.app').classList.remove('reading','editing'); window.scrollTo(0,0); }
 $('#search').addEventListener('input',e=>{q=norm(e.target.value).trim();render();renderSujets();});
 // --- Todolist des sujets : ajout, filtre « masquer les faits » ---
 $('#sujet-add').addEventListener('submit',e=>{

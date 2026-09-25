@@ -456,6 +456,13 @@ Parcours…), une rangée **« Statut : »** propose les 7 statuts éditoriaux
 dans le `.md` (édition chirurgicale). Contrairement aux marqueurs booléens, le
 statut est **exclusif** : un texte a exactement un statut.
 
+**Verrouillage pendant l'édition** — dès qu'une édition est ouverte (« ✎ Titre »
+ou « ✎ Modifier le texte »), les trois rangées de boutons qui écrivent dans le
+`.md` sont **grisées et non cliquables** : « Validé / brouillon », « Livres : » et
+« Statut : ». Elles relancent le rendu de la page (`open_()`) et feraient donc
+perdre la saisie en cours. Les boutons « ✎ » eux-mêmes restent actifs. Tout
+redevient normal dès que l'édition est enregistrée, annulée (ou Échap).
+
 **Section « Aide & tâches »** (repliable dans la barre latérale) : elle affiche
 (1) le **tableau de bord des tâches restantes** — un bouton par statut qui demande
 une action (`NETTOYAGE`, `MARQUEUR`, `CHAPEAU`) avec son compte, cliquable pour
