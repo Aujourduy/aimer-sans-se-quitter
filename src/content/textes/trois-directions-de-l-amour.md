@@ -1,5 +1,5 @@
 ---
-verifieParDuy: false
+verifieParDuy: true
 livreFableDanPhu: false
 livreAnalyseConte: false
 livreMetaphore: false

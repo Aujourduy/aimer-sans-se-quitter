@@ -1,5 +1,5 @@
 ---
-verifieParDuy: false
+verifieParDuy: true
 livreFableDanPhu: false
 livreAnalyseConte: false
 livreMetaphore: false
@@ -17,7 +17,8 @@ parcoursBloc: 3
 parcoursSegment: "colonne"
 ---
 
-Ce n’est pas parce que les reproches sont justifiés qu’ils sont justes.
+
+Ce n’est pas parce que des reproches sont justifiés qu’ils sont justes.
 
 Un reproche justifié, c’est quand le partenaire énonce une vérité en disant par exemple “ Tu ne prends pas assez soin de toi. Tu fais trop de critiques. etc”
 
@@ -25,7 +26,7 @@ Ce n’est pas forcément juste que c’est forcément un problème. Qui veut tu
 
 Le cœur a ses raisons que la raison ignore comme disait Pascal.  Il est parfois difficile d’écouter et de suivre son cœur. Il se peut qu’on culpabilise de changer alors que l’autre n’a rien fait. Il est simplement lui. Et pour ne pas assumer, ne pas s’accuser de trahir cet ancien amour, on va accuser l’autre.
 
-La deuxième chose importante que j’ai envie de partager avec toi, c’est le principe du miroir. Le “c’est celui qui dit qui est”. Peut-être effectivement que la formulation du reproche parle surtout de celui qui l’exprime. Ce qu’on reproche à l’autre c’est ce qu’on n’a pas encore assumé, accepté de soi-même. Parce que “Je suis humain, et rien d’humain ne m’est étranger” de Térence.
+La deuxième chose importante que j’ai envie de partager avec toi, c’est le principe du miroir. Le “c’est celui qui dit qui est”. Peut-être effectivement que la formulation du reproche parle surtout de celui qui l’exprime. Ce qu’on reproche à l’autre c’est ce qu’on n’a pas encore assumé, accepté de soi-même. Parce que “Je suis humain, et rien d’humain ne m’est étranger” comme disait Térence.
 
 Quand les reproches arrivent, je t’invite à ces deux questions :
 

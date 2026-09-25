@@ -1,5 +1,5 @@
 ---
-verifieParDuy: false
+verifieParDuy: true
 livreFableDanPhu: false
 livreAnalyseConte: false
 livreMetaphore: false
@@ -17,6 +17,7 @@ statutParcours: "PRET"
 parcoursBloc: 1
 parcoursSegment: "colonne"
 ---
+
 Dernièrement, j’ai discuté avec une femme qui disait qu’en début de relation elle avait tendance à faire totalement confiance à son partenaire. Ensuite, cette confiance était inéluctablement trahie. Elle se sentait blessée et la confiance à jamais perdue.
 
 Je ne fais jamais totalement confiance à ma partenaire pour deux raisons. 
@@ -29,7 +30,7 @@ Cela ne veut pas dire que je ne fais pas confiance. Bien sûr que si … mais pa
 
 Des fois je suis déçu. Des fois ma confiance était mal placée. Dans la mesure du possible, j’assume ma part de responsabilité. Quand une personne me déçoit, je peux me dire que c’est la faute de la personne qui s’est mal comportée. Je peux aussi me dire que je me suis trompé dans mon appréciation, que j’étais dans une illusion que je m’étais faite sur cette personne mais que dans la réalité, c’est une autre personne.
 
-Cette envie de faire confiance totalement à l’autre vient souvent de l’envie de fusionner, de communier avec sa partenaire. Ce désir en soi de connaître l’extase, sexuelle ou non, dans la rencontre absolue de l’autre, l’union entre deux corps, entre deux êtres entre deux âmes.
+Cette envie de faire confiance totalement à l’autre vient souvent de l’envie de fusionner, de communier avec sa partenaire. Ce désir en soi de connaître l’extase, sexuelle ou non, dans la rencontre absolue de l’autre, l’union entre deux corps, entre deux êtres, entre deux âmes.
 
 Mais l’erreur est de croire que la rencontre avec l’autre se fait à l’extérieur. Qu’on doit construire un pont de connexion, de communication, de confiance pour rejoindre sa partenaire. Comme si nous étions deux îles isolées qu’il fallait relier par un pont construit sur un amour mutuel, absolu et inconditionnel.
 
@@ -39,4 +40,4 @@ En réalité, on ne peut rencontrer l’autre qu’en étant en connexion profon
 
 Alors oui, la relation amoureuse est une excellente situation pour mieux se connecter à soi, mieux sentir l’amour,  mais pas parce que c’est un moyen. C’est plus comme un révélateur de tout ce que je n’accepte pas encore de moi.
 
-Alors oui, la relation amoureuse fait grandir l’amour. Pas parce que l’autre m’aime. Mais parce que je peux mieux voir combien je ne m’aime pas … pour mieux m’aimer après.
+Alors oui, la relation amoureuse fait grandir l’amour. Pas parce que l’autre m’aime. Mais parce que je peux mieux voir combien je ne m’aime pas … pour mieux m’aimer après. Et aimer l'autre telle qu'elle est.

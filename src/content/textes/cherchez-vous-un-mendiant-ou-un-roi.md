@@ -1,5 +1,5 @@
 ---
-verifieParDuy: false
+verifieParDuy: true
 livreFableDanPhu: false
 livreAnalyseConte: false
 livreMetaphore: false
@@ -11,13 +11,14 @@ corpusNum: 17
 excerpt: "Deux archétypes dans la rencontre : le mendiant qui réclame, le roi qui déborde."
 category: "lien-relation"
 order: 21
-draft: true
+draft: false
 draftReason: "thème sexuel à recadrer vers le relationnel"
 parcours: true
 statutParcours: "MARQUEUR"
 parcoursBloc: 3
 parcoursSegment: "colonne"
 ---
+
 
 Il y a deux grands archétypes dans la rencontre amoureuse.
 
@@ -33,13 +34,19 @@ Oui, une personne qui est en manque, elle est moins attirante. Quelqu’un qui e
 
 La réponse : Changer les besoins en envies.
 
-La différence entre un besoin et une envie. Un besoin non satisfait crée un malaise, une douleur, une souffrance. Une envie, c’est plus léger, on peut gérer. Je ne parle pas d’envie irrésistible mais d’une envie simple. “J’ai envie de boire”. Si je bois maintenant, c’est bien. Si je ne bois pas tout de suite, ce n’est pas grave. Je peux attendre en gardant le sourire et le cœur léger. Quand on est dans le besoin, on souffre. On risque de se jeter sur le ou la première qui passe. On ne peut pas faire le difficile et prendre le temps de vérifier si cette relation va vraiment nous convenir.
+La différence entre un besoin et une envie ?
 
-Comment transformer nos besoins en envies ? Comment transformer le besoin de rencontrer quelqu’un en envie de rencontrer quelqu’un ? Réponse : en satisfaisant nos besoins nous-mêmes sans attendre l’autre.
+Un besoin non satisfait crée un malaise, une douleur, une souffrance. Une envie, c’est plus léger, on peut gérer. Je ne parle pas d’envie irrésistible mais d’une envie simple. “J’ai envie de boire”. Si je bois maintenant, c’est bien. Si je ne bois pas tout de suite, ce n’est pas grave. Je peux attendre en gardant le sourire et le cœur léger. Quand on est dans le besoin, on souffre. On risque de se jeter sur le ou la première qui passe. On ne peut pas faire le difficile et prendre le temps de vérifier si cette relation va vraiment nous convenir.
+
+Comment transformer nos besoins en envies ? 
+
+Comment transformer le besoin de rencontrer quelqu’un en envie de rencontrer quelqu’un ? 
+
+Réponse : en satisfaisant nos besoins nous-mêmes sans attendre l’autre.
 
 Besoin de jouir : On peut se caresser, se masturber, provoquer soi-même un orgasme. Il y a plein d’autres mammifères qui le font, les lapins, les chiens, les dauphins, les singes. Alors pourquoi pas nous ? Il y a des pornos pour tous les goûts, du plus basique au plus sensuel, de la vidéo brute de 5 minutes au long métrage d’une heure. Il y a aussi des sites de textes érotiques pour tous les goûts avec des scénarios, des situations diverses et variées.
 
-Besoin d’être touché : Il y a des ateliers de massage, de câlins, de tantra. On peut le faire avec un ami pour peu que les choses aient été clarifiées et posées. Une fois, à une soirée de tantra, j’ai vu un homme qui était complètement malheureux, avec un regard libidineux sur les femmes et qui a terminé l’atelier avec un sourire radieux, un visage lumineux et le regard léger simplement parce qu’il a reçu sa dose de contact physique humain.
+Besoin d’être touché : Il y a des ateliers de massage, de câlins, de tantra. On peut le faire avec un ami pour peu que les choses aient été clarifiées et posées. Une fois, lors d'un atelier, j’ai vu un homme arrivé complètement malheureux, avec un regard libidineux sur les femmes et qui a terminé l’atelier avec un sourire radieux, un visage lumineux et le regard léger simplement parce qu’il a reçu sa dose de contacts physique humain.
 
 Besoin de sensualité : Il y a la danse pour ça. C’est presque une institution dédiée au contact sensuel sublimé par une expression artistique. Pas toutes les danses mais beaucoup d’entre elles le permettent. Personnellement, j’ai des périodes de célibat qui peuvent dépasser une année sans que cela ne me pose de problème parce que je danse toutes les semaines.
 

@@ -12,7 +12,7 @@ excerpt: "L’amour qui reste n’est pas à gérer : c’est lui qui fait de mo
 category: "lien-relation"
 order: 7
 draft: false
-parcours: true
+parcours: false
 statutParcours: "PRET"
 parcoursBloc: 2
 parcoursSegment: "colonne"
